@@ -5307,25 +5307,17 @@
   </repo>
   <repo quality="experimental" status="official">
     <name><![CDATA[wschlich]]></name>
-    <description><![CDATA[A collection of stable ebuilds from Wolfram Schlich
-    [wschlich@gentoo.org].]]></description>
-    <homepage>http://overlays.gentoo.org</homepage>
-    <owner>
+    <description><![CDATA[A collection of ebuilds from Wolfram Schlich]]></description>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/wschlich.git</homepage>
+    <owner type="person">
       <email>wschlich@gentoo.org</email>
+      <name><![CDATA[Wolfram Schlich]]></name>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/wschlich/stable</source>
-    <feed>http://overlays.gentoo.org/dev/wschlich/timeline</feed>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name><![CDATA[wschlich-testing]]></name>
-    <description><![CDATA[A collection of testing ebuilds from Wolfram Schlich
-    [wschlich@gentoo.org].]]></description>
-    <homepage>http://overlays.gentoo.org</homepage>
-    <owner>
-      <email>wschlich@gentoo.org</email>
-    </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/wschlich/testing</source>
-    <feed>http://overlays.gentoo.org/dev/wschlich/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/wschlich</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/wschlich.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/wschlich.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/wschlich.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/wschlich.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name><![CDATA[wtk]]></name>

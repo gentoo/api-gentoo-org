@@ -2179,6 +2179,16 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/jmbsvicetto.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/jmbsvicetto.git;a=rss</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[jmesmon]]></name>
+    <description lang="en"><![CDATA[miscellanious fixes, modifications, and newer versions of ebuilds]]></description>
+    <homepage>http://github.com/jmesmon/overlay</homepage>
+    <owner type="person">
+      <email>jmesmon@gmail.com</email>
+      <name><![CDATA[Cody Schafer]]></name>
+    </owner>
+    <source type="git">git://github.com/jmesmon/overlay.git</source>
+  </repo>
   <repo quality="experimental" status="official">
     <name><![CDATA[johu]]></name>
     <description><![CDATA[Johannes Huber developer overlay]]></description>

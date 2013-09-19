@@ -4343,6 +4343,16 @@
     <source type="bzr">http://bazaar.launchpad.net/~serkan-kaba/serkan-overlay/mainline</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[sigrok]]></name>
+    <description lang="en"><![CDATA[Ebuilds for sigrok]]></description>
+    <homepage>http://github.com/jmesmon/sigrok-overlay</homepage>
+    <owner type="person">
+      <email>jmesmon@gmail.com</email>
+      <name><![CDATA[Cody Schafer]]></name>
+    </owner>
+    <source type="git">git://github.com/jmesmon/sigrok-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[silmano]]></name>
     <description lang="en"><![CDATA[Peter's personal overlay]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/silmano.git;a=summary</homepage>

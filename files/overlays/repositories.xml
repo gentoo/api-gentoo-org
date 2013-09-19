@@ -4919,6 +4919,15 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/TomWij.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[trash]]></name>
+    <description lang="en"><![CDATA[Some ugly ebuilds]]></description>
+    <homepage>https://github.com/batekman/trash-overlay</homepage>
+    <owner type="person">
+      <email>batekman@gmail.com</email>
+    </owner>
+    <source type="git">https://github.com/batekman/trash-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[twitch153]]></name>
     <description lang="en"><![CDATA[Experimental ebuilds]]></description>
     <homepage>https://github.com/twitch153/ebuilds</homepage>

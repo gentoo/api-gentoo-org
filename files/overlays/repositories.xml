@@ -4293,6 +4293,17 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/seden.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[seeds]]></name>
+    <description lang="en"><![CDATA[Overlay for Gentoo from vonavi]]></description>
+    <homepage>http://github.com/vonavi/</homepage>
+    <owner type="person">
+      <email>ivvl82@gmail.com</email>
+      <name><![CDATA[Vladimir Ivanov]]></name>
+    </owner>
+    <source type="git">git://github.com/vonavi/seeds.git</source>
+    <feed>ttps://github.com/vonavi/seeds/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[seemant]]></name>
     <description><![CDATA[Seemant's development overlay for django and other
     things.]]></description>

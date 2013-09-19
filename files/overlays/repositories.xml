@@ -1015,6 +1015,19 @@
     <feed>https://github.com/Docd-org/docd-gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[docker]]></name>
+    <description><![CDATA[Overlay for docker by dotCloud]]></description>
+    <homepage>https://github.com/tianon/docker-overlay</homepage>
+    <owner>
+      <email>admwiggin@gmail.com</email>
+      <name><![CDATA[Tianon Gravi]]></name>
+    </owner>
+    <source type="git">git://github.com/tianon/docker-overlay.git</source>
+    <source type="git">https://github.com/tianon/docker-overlay.git</source>
+    <source type="git">git@github.com:tianon/docker-overlay.git</source>
+    <feed>https://github.com/tianon/docker-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[dotnet]]></name>
     <description><![CDATA[Experimental overlay for .NET packages.]]></description>
     <homepage>http://github.com/gentoo-dotnet</homepage>

@@ -1116,6 +1116,17 @@
     <feed>https://bitbucket.org/AdmiralNemo/overlay/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[dwfreed]]></name>
+    <description lang="en"><![CDATA[My random Gentoo packages]]></description>
+    <homepage>https://bitbucket.org/dwfreed/dwfreed.gentoo/</homepage>
+    <owner type="person">
+      <email>dwfreed@mtu.edu</email>
+      <name><![CDATA[Douglas Freed]]></name>
+    </owner>
+    <source type="git">https://bitbucket.org/dwfreed/dwfreed.gentoo</source>
+    <feed>https://bitbucket.org/dwfreed/dwfreed.gentoo/rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[eatnumber1]]></name>
     <description lang="en"><![CDATA[Eatnumber1's personal overlay]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/eatnumber1.git;a=summary</homepage>

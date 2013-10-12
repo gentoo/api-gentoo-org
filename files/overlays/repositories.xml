@@ -3989,6 +3989,17 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/rebutia.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[regina-gentoo]]></name>
+    <description lang="en"><![CDATA[Regina packages for Gentoo]]></description>
+    <homepage>http://github.com/enigma-/regina-gentoo/</homepage>
+    <owner type="person">
+      <email>william@ewpettersson.se</email>
+      <name><![CDATA[William Pettersson]]></name>
+    </owner>
+    <source type="git">git://github.com/enigma-/regina-gentoo.git</source>
+    <feed>https://github.com/enigma-/regina-gentoo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[r3pek]]></name>
     <description lang="en"><![CDATA[r3pek's user overlay]]></description>
     <homepage>http://code.r3pek.org/gentoo-overlay/src</homepage>

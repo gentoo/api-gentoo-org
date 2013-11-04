@@ -1802,6 +1802,18 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/gnome-live.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/gnome-live.git;a=rss</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[gnome-next]]></name>
+    <description><![CDATA[experimental newer gnome ebuilds]]></description>
+    <homepage>https://github.com/Heather/gentoo-gnome</homepage>
+    <owner type="person">
+      <email>cynede@gentoo.org</email>
+      <name><![CDATA[Heather Cynede]]></name>
+    </owner>
+    <source type="git">https://github.com/Heather/gentoo-gnome.git</source>
+    <source type="git">git@github.com:Heather/gentoo-gnome.git</source>
+    <feed>https://github.com/Heather/gentoo-gnome/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name><![CDATA[gnustep]]></name>
     <description><![CDATA[Experimental ebuilds for GNUstep packages in Gentoo. Comments

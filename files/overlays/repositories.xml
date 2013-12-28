@@ -1764,6 +1764,16 @@
     <source type="git">git://gitorious.org/gentosh-ac100/ac100-progs.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[gitlab]]></name>
+    <description lang="en"><![CDATA[Unofficial ebuilds for Gitlab]]></description>
+    <homepage>https://gitlab.awesome-it.de/overlays/gitlab</homepage>
+    <owner type="person">
+        <email>info@awesome-it.de</email>
+        <name><![CDATA[Daniel Morlock]]></nayme>
+    </owner>
+    <source type="git">https://gitlab.awesome-it.de/overlays/gitlab.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[gmt]]></name>
     <description><![CDATA[User overlay]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?=user/gmt.git;a=summary</homepage>

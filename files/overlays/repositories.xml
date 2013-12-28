@@ -1769,7 +1769,7 @@
     <homepage>https://gitlab.awesome-it.de/overlays/gitlab</homepage>
     <owner type="person">
         <email>info@awesome-it.de</email>
-        <name><![CDATA[Daniel Morlock]]></nayme>
+        <name><![CDATA[Daniel Morlock]]></name>
     </owner>
     <source type="git">https://gitlab.awesome-it.de/overlays/gitlab.git</source>
   </repo>

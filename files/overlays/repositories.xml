@@ -2078,14 +2078,16 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name><![CDATA[init6]]></name>
-    <description><![CDATA[Mostly fixes and new unstable packages]]></description>
+    <description><![CDATA[Andrey Ovcharov's private user overlay]]></description>
     <homepage>http://github.com/init6/init_6</homepage>
-    <owner>
+    <owner type="person">
       <email>sudormrfhalt@gmail.com</email>
-      <name><![CDATA[Andrey Ovcharov]]></name>
+      <name><![CDATA[Andrey Ovcharov (init_6)]]></name>
     </owner>
     <source type="git">git://github.com/init6/init_6.git</source>
-    <feed>http://github.com/feeds/init6/commits/init_6/master</feed>
+    <source type="git">https://github.com/init6/init_6.git</source>
+    <source type="git">git@github.com:init6/init_6.git</source>
+    <feed>http://github.com/feeds/init6/commits/init_6/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name><![CDATA[initng]]></name>

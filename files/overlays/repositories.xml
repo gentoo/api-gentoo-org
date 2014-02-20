@@ -4104,6 +4104,16 @@
     <source type="svn">http://svn.os-rostov.ru/repos/overlay</source>
   </repo>
   <repo quality="experimental" status="official">
+    <name>roverlay</name>
+    <description>Gentoo overlay of R packages</description>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/R_overlay.git;a=summary</homepage>
+    <owner type="project">
+      <email>calchan@gentoo.org</email>
+      <name>Denis Dupeyron</name>
+    </owner>
+    <source type="rsync">rsync://roverlay.dev.gentoo.org/roverlay</source>
+  </repo>
+  <repo quality="experimental" status="official">
     <name><![CDATA[rox]]></name>
     <description><![CDATA[Experimental ebuilds for the Rox Desktop.]]></description>
     <homepage>http://overlays.gentoo.org/proj/rox</homepage>

@@ -4243,6 +4243,17 @@
     <feed>http://github.com/feeds/cschwan/commits/sage-on-gentoo/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+      <name><![CDATA[santa01]]></name>
+      <description lang="en"><![CDATA[Own projects and software bugfixes]]></description>
+      <homepage>https://github.com/santa01/overlay</homepage>
+      <owner type="person">
+          <email>santa.ssh@gmail.com</email>
+          <name><![CDATA[Pavlo Lavrenenko]]></name>
+      </owner>
+      <source type="git">git://github.com/santa01/overlay.git</source>
+      <feed>https://github.com/santa01/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[sardemff7]]></name>
     <description lang="en"><![CDATA[Sardem FF7's overlay]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/sardemff7.git;a=summary</homepage>

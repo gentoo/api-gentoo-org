@@ -3910,15 +3910,17 @@
     <source type="git">http://www.startux.de/git/quarks.git</source>
     <feed>http://www.startux.de/gitweb/quarks.git/rss</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
+  <repo quality="experimental" status="official">
     <name><![CDATA[rafaelmartins]]></name>
-    <description><![CDATA[Rafael Martins's Gentoo overlay]]></description>
-    <homepage>http://overlay.rafaelmartins.eng.br/</homepage>
-    <owner>
-      <email>rafael@rafaelmartins.eng.br</email>
-      <name><![CDATA[Rafael Goncalves Martins]]></name>
+    <description lang="en"><![CDATA[Rafael Martins' Gentoo overlay]]></description>
+    <homepage>https://github.com/rafaelmartins/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>rafaelmartins@gentoo.org</email>
+      <name><![CDATA[Rafael G. Martins]]></name>
     </owner>
-    <source type="mercurial">http://hg.rafaelmartins.eng.br/gentoo-overlay/</source>
+    <source type="git">git://github.com/rafaelmartins/gentoo-overlay.git</source>
+    <source type="git">https://github.com/rafaelmartins/gentoo-overlay.git</source>
+    <feed>https://github.com/rafaelmartins/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name><![CDATA[raiagent]]></name>

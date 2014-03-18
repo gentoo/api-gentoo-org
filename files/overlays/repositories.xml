@@ -5037,6 +5037,20 @@
     <source type="git">https://bitbucket.org/braindamaged/udev-overlay.git</source>
   </repo>
   <repo quality="experimental" status="official">
+    <name><![CDATA[ulm]]></name>
+    <description><![CDATA[Developer overlay]]></description>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/ulm.git;a=summary</homepage>
+    <owner type="person">
+      <email>ulm@gentoo.org</email>
+      <name><![CDATA[Ulrich Müller]]></name>
+    </owner>
+    <source type="git">git://git.overlays.gentoo.org/dev/ulm.git</source>
+    <source type="git">http://git.overlays.gentoo.org/gitroot/dev/ulm.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/ulm.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/ulm.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/ulm.git;a=rss</feed>
+  </repo>
+  <repo quality="experimental" status="official">
     <name><![CDATA[ultrabug]]></name>
     <description lang="en"><![CDATA[Developer Overlay]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/ultrabug.git;a=summary</homepage>

@@ -2202,6 +2202,18 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/java.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[javer]]></name>
+    <description lang="en"><![CDATA[HipHop PHP and misc ebuilds]]></description>
+    <homepage>https://github.com/javer/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>dev@javer.kiev.ua</email>
+      <name><![CDATA[Vadim Borodavko]]></name>
+    </owner>
+    <source type="git">https://github.com/javer/gentoo-overlay.git</source>
+    <source type="git">git@github.com:javer/gentoo-overlay.git</source>
+    <feed>https://github.com/javer/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[je_fro]]></name>
     <description><![CDATA[Helpful ebuilds for the macbook pro, and experimental
     gentoo-science packages.]]></description>

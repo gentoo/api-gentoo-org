@@ -1515,6 +1515,18 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/fordfrog.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[fouxlay]]></name>
+    <description><![CDATA[Plex media ebuilds]]></description>
+    <homepage>https://github.com/foux/fouxlay</homepage>
+    <owner type="person">
+      <email>fx.payet@tfdn.org</email>
+      <name><![CDATA[François-Xavier Payet]]></name>
+    </owner>
+    <source type="git">gitt@github.com:foux/fouxlay.git</source>
+    <source type="git">https://github.com/foux/fouxlay.git</source>
+    <feed>https://github.com/foux/fouxlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[frdd]]></name>
     <description lang="en"><![CDATA[overlay of firedead]]></description>
     <homepage>https://bitbucket.org/firedead/frdd-overlay/</homepage>

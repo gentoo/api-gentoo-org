@@ -95,6 +95,19 @@
     <feed>https://github.com/a1batross/alba-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[aliceinwire]]></name>
+    <description lang="en"><![CDATA[Personal User Overlay]]></description>
+    <homepage>https://github.com/aliceinwire/overlay</homepage>
+    <owner type="person">
+      <email>alice.ferrazzi@gmail.com></email>
+      <name><![CDATA[Alice Ferrazzi]]></name>
+    </owner>
+    <source type="git">git://github.com/aliceinwire/overlay.git</source>
+    <source type="git">https://github.com/aliceinwire/overlay.git</source>
+    <source type="git">git@github.com:aliceinwire/overlay.git</source>
+    <feed>https://github.com/aliceinwire/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[alexcepoi]]></name>
     <description lang="en"><![CDATA[Personal User Overlay]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/alexcepoi.git;a=summary</homepage>

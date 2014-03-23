@@ -1239,6 +1239,18 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/embedded-cross.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[emc]]></name>
+    <description lang="en"><![CDATA[Michal Plichta's (emc aka mipl) overlay]]></description>
+    <homepage>https://github.com/emcek/gentoo.mipl</homepage>
+    <owner type="person">
+      <email>mplichta@gmail.com</email>
+      <name><![CDATA[Michal Plichta]]></name>
+    </owner>
+    <source type="git">https://github.com/emcek/gentoo.mipl.git</source>
+    <source type="git">git@github.com:emcek/gentoo.mipl.git</source>
+    <feed>https://github.com/emcek/gentoo.mipl/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[emery]]></name>
     <description lang="en"><![CDATA[Ebuild testing playground of Emery Hemingway]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/emery.git;a=summary</homepage>

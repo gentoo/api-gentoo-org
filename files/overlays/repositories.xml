@@ -2982,16 +2982,6 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/mschiff.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/mschiff.git;a=rss</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name><![CDATA[multilib]]></name>
-    <description><![CDATA[multilib-overlay: emul-linux-x86 must die ;)]]></description>
-    <homepage>http://github.com/sjnewbury/multilib-overlay</homepage>
-    <owner>
-      <email>multilib@gentoo.org</email>
-    </owner>
-    <source type="git">git://github.com/sjnewbury/multilib-overlay.git</source>
-    <feed>http://github.com/feeds/sjnewbury/commits/multilib-overlay/master</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name><![CDATA[multilib-portage]]></name>
     <description><![CDATA[multilib-overlay: emul-linux-x86 must die ;)]]></description>

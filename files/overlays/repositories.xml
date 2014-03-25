@@ -887,6 +887,18 @@
     <source type="svn">svn://overlays.gentoo.org/dev/deathwing00</source>
     <feed>http://overlays.gentoo.org/dev/deathwing00/timeline</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[deferlay]]></name>
+    <description><![CDATA[Ari Malinen's personal overlay]]></description>
+    <homepage>https://github.com/defer-/deferlay</homepage>
+    <owner>
+        <name>Ari Malinen</name>
+        <email>ari.malinen@gmail.com</email>
+    </owner>
+    <source type="git">https://github.com/defer-/deferlay.git</source>
+    <source type="git">gitt@github.com:defer-/deferlay.git</source>
+    <feed>https://github.com/defer-/deferlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name><![CDATA[dertobi123]]></name>
     <description><![CDATA[Some ebuilds not yet ready for mainstream portage from Tobias

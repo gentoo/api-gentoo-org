@@ -1976,6 +1976,18 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/halcy0n.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[hamper-overlay]]></name>
+    <description><![CDATA[User overlay]]></description>
+    <homepage>https://github.com/hamper/hamper-overlay</homepage>
+    <owner>
+      <email>hamper.nhs@gmail.com</email>
+      <name><![CDATA[Alexander Pilipenko]]></name>
+    </owner>
+    <source type="git">git://github.com/hamper/hamper-overlay.git</source>
+    <source type="git">https://github.com/Hamper/hamper-overlay.git</source>
+    <feed>https://github.com/hamper/hamper-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[hanno]]></name>
     <description><![CDATA[Hanno Boeck developer overlay.]]></description>
     <homepage>http://www.hboeck.de</homepage>

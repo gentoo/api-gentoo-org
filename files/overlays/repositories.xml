@@ -1965,7 +1965,7 @@
     though]]></description>
     <homepage>
     http://git.overlays.gentoo.org/gitweb/?p=dev/halcy0n.git;a=summary</homepage>
-    <owner>
+    <owner type="person">
       <email>halcy0n@gentoo.org</email>
       <name><![CDATA[Mark Loeser]]></name>
     </owner>
@@ -1979,7 +1979,7 @@
     <name><![CDATA[hamper-overlay]]></name>
     <description><![CDATA[User overlay]]></description>
     <homepage>https://github.com/hamper/hamper-overlay</homepage>
-    <owner>
+    <owner type="person">
       <email>hamper.nhs@gmail.com</email>
       <name><![CDATA[Alexander Pilipenko]]></name>
     </owner>
@@ -1991,7 +1991,7 @@
     <name><![CDATA[hanno]]></name>
     <description><![CDATA[Hanno Boeck developer overlay.]]></description>
     <homepage>http://www.hboeck.de</homepage>
-    <owner>
+    <owner type="person">
       <email>hanno@gentoo.org</email>
     </owner>
     <source type="svn">https://svn.hboeck.de/overlay/</source>

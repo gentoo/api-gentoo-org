@@ -5142,6 +5142,18 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/underlay.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[undesktop]]></name>
+    <description><![CDATA[Overlay containing Undesktop projects]]></description>
+    <homepage>http://github.com/undesktop/undesktop-overlay</homepage>
+    <owner type="person">
+      <email>ed.ch1zuru+bgo@gmail.com</email>
+      <name><![CDATA[Chizuru Tachibana]]></name>
+    </owner>
+    <source type="git">https://github.com/undesktop/undesktop-overlay.git</source>
+    <source type="git">git://github.com/undesktop/undesktop-overlay.git</source>
+    <feed>http://github.com/undesktop/undesktop-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[unity-gentoo]]></name>
     <description lang="en"><![CDATA[Overlay to install the Unity desktop]]></description>
     <homepage>https://github.com/shiznix/unity-gentoo</homepage>

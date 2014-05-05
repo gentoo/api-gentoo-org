@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <mirrors>
   <mirrorgroup region="North America" country="CA" countryname="Canada">
     <mirror>
@@ -262,11 +261,6 @@
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirror.netcologne.de/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.netcologne.de/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.netcologne.de/gentoo/</uri>
-    </mirror>
-    <mirror>
-      <name>Opteamax GmbH</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.opteamax.de/gentoo/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.opteamax.de/gentoo/</uri>
     </mirror>
     <mirror>
       <name>RWTH Aachen University</name>

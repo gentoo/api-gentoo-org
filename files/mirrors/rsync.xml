@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <mirrors>
   <mirrorgroup region="North America (rsync.namerica.gentoo.org)" country="CA" countryname="Canada">
     <mirror>
@@ -122,10 +121,6 @@
     <mirror>
       <name>hosteurope.de - rsync3.de.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync3.de.gentoo.org</uri>
-    </mirror>
-    <mirror>
-      <name>Opteamax UG - rsync4.de.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync4.de.gentoo.org</uri>
     </mirror>
     <mirror>
       <name>I-Node - rsync5.de.gentoo.org</name>

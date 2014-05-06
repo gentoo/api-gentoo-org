@@ -775,16 +775,6 @@
     <source type="git">git://github.com/alphallc/crossdev</source>
     <feed>https://github.com/alphallc/crossdev/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name><![CDATA[d]]></name>
-    <description><![CDATA[A collection of ebuilds related to the D programming
-    language.]]></description>
-    <homepage>http://code.assembla.com/d-overlay/subversion/nodes</homepage>
-    <owner>
-      <email>alvaro.castro.castilla@gmail.com</email>
-    </owner>
-    <source type="svn">http://subversion.assembla.com/svn/d-overlay</source>
-  </repo>
   <repo quality="experimental" status="official">
     <name><![CDATA[dagger]]></name>
     <description><![CDATA[Dagger developer overlay]]></description>
@@ -997,6 +987,19 @@
     </owner>
     <source type="git">git://github.com/dlanx/dlan-overlay.git</source>
     <feed>https://github.com/feeds/dlanx/commits/dlan-overlay/master</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[dlang]]></name>
+    <description><![CDATA[A collection of ebuilds related to the D programming
+    language.]]></description>
+    <homepage>https://github.com/gentoo/dlang</homepage>
+    <owner>
+      <email>Marco.Leise@gmx.de</email>
+    </owner>
+    <source type="git">https://github.com/gentoo/dlang.git</source>
+    <source type="git">git@github.com:gentoo/dlang.git</source>
+    <source type="git">git://github.com/gentoo/dlang.git</source>
+    <feed>https://github.com/gentoo/dlang/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name><![CDATA[dMaggot]]></name>

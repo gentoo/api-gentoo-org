@@ -886,7 +886,7 @@
         <email>ari.malinen@gmail.com</email>
     </owner>
     <source type="git">https://github.com/defer-/deferlay.git</source>
-    <source type="git">gitt@github.com:defer-/deferlay.git</source>
+    <source type="git">git@github.com:defer-/deferlay.git</source>
     <feed>https://github.com/defer-/deferlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -1537,7 +1537,7 @@
       <email>fx.payet@tfdn.org</email>
       <name><![CDATA[François-Xavier Payet]]></name>
     </owner>
-    <source type="git">gitt@github.com:foux/fouxlay.git</source>
+    <source type="git">git@github.com:foux/fouxlay.git</source>
     <source type="git">https://github.com/foux/fouxlay.git</source>
     <feed>https://github.com/foux/fouxlay/commits/master.atom</feed>
   </repo>

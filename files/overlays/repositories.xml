@@ -2324,6 +2324,20 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/johu.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/johu.git;a=rss</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[joinge]]></name>
+    <description><![CDATA[joinge's user overlay]]></description>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/joinge.git;a=summary</homepage>
+    <owner>
+      <email>joinge.dev@gmail.com</email>
+      <name><![CDATA[Jo Inge Buskenes]]></name>
+    </owner>
+    <source type="git">git://git.overlays.gentoo.org/user/joinge.git</source>
+    <source type="git">http://git.overlays.gentoo.org/gitroot/user/joinge.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/user/joinge.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/joinge.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/joinge.git;a=rss</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name><![CDATA[jokey]]></name>
     <description><![CDATA[Jokey's Overlay - Contains pre-tree stuff like italc,

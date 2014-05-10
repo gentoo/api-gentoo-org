@@ -5462,6 +5462,19 @@
     <feed>http://overlays.gentoo.org/proj/webapps/timeline</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>webos</name>
+    <description>Ported Open WebOS components and libraries</description>
+    <homepage>https://github.com/feniksa/gentoo_webos</homepage>
+    <owner>
+        <email>feniksa@rambler.ru</email>
+        <name>Maksym Sditanov</name>
+    </owner>
+    <source type="git">https://github.com/feniksa/gentoo_webos.git</source>
+    <source type="git">git://github.com:feniksa/gentoo_webos.git<source>
+    <source type="git">git@github.com:feniksa/gentoo_webos.git</source>
+    <feed>https://github.com/feniksa/gentoo_webos/commits/master.atom</feed>
+  </repo>
+ <repo quality="experimental" status="unofficial">
     <name><![CDATA[wine-diablo3]]></name>
     <description lang="en"><![CDATA[A gentoo overlay containing patches needed to make diablo3 install and run properly with wine]]></description>
     <homepage>https://github.com/simcop2387/wine-diablo3</homepage>

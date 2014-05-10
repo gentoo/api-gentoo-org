@@ -990,13 +990,13 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/displacer.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-      <name>distros</name>
-      <description>Calculate Linux Profiles</description>
-      <homepage>http://www.calculate-linux.org</homepage>
-      <owner>
-          <email>support@calculate.ru</email>
-      </owner>
-      <source type="git">git://git.calculate.ru/calculate/distros.git</source>
+    <name>distros</name>
+    <description>Calculate Linux Profiles</description>
+    <homepage>http://www.calculate-linux.org</homepage>
+    <owner>
+        <email>support@calculate.ru</email>
+    </owner>
+    <source type="git">git://git.calculate.ru/calculate/distros.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name><![CDATA[dlan]]></name>

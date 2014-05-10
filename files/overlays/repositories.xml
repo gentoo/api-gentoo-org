@@ -597,6 +597,18 @@
     <source type="git">git://gitorious.org/jasiu/bleeding-edge.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>bliss-overlay</name>
+    <description>FearedBliss's Gentoo Overlay</description>
+    <homepage>https://github.com/fearedbliss</homepage>
+    <owner>
+        <email>jvasquez1011@gmail.com</email>
+    </owner>
+    <source type="git">https://github.com/fearedbliss/bliss-overlay.git</source>
+    <source type="git">git://github.com:fearedbliss/bliss-overlay.git<source>
+    <source type="git">git@github.com:fearedbliss/bliss-overlay.git</source>
+    <feed>https://github.com/fearedbliss/bliss-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[blueicefield]]></name>
     <description lang="en"><![CDATA[Overlay for some packages specific to web servers (PECL, Mongo..)]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/blueicefield.git;a=summary</homepage>

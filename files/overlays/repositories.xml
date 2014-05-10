@@ -604,7 +604,7 @@
         <email>jvasquez1011@gmail.com</email>
     </owner>
     <source type="git">https://github.com/fearedbliss/bliss-overlay.git</source>
-    <source type="git">git://github.com:fearedbliss/bliss-overlay.git<source>
+    <source type="git">git://github.com:fearedbliss/bliss-overlay.git</source>
     <source type="git">git@github.com:fearedbliss/bliss-overlay.git</source>
     <feed>https://github.com/fearedbliss/bliss-overlay/commits/master.atom</feed>
   </repo>
@@ -5470,7 +5470,7 @@
         <name>Maksym Sditanov</name>
     </owner>
     <source type="git">https://github.com/feniksa/webos-overlay.git</source>
-    <source type="git">git://github.com:feniksa/webos-overlay.git<source>
+    <source type="git">git://github.com:feniksa/webos-overlay.git</source>
     <source type="git">git@github.com:feniksa/webos-overlay.git</source>
     <feed>https://github.com/feniksa/webos-overlay/commits/master.atom</feed>
   </repo>

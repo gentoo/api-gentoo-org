@@ -894,8 +894,8 @@
     <description><![CDATA[Ari Malinen's personal overlay]]></description>
     <homepage>https://github.com/defer-/deferlay</homepage>
     <owner>
-        <name>Ari Malinen</name>
         <email>ari.malinen@gmail.com</email>
+        <name>Ari Malinen</name>
     </owner>
     <source type="git">https://github.com/defer-/deferlay.git</source>
     <source type="git">git@github.com:defer-/deferlay.git</source>

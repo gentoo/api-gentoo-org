@@ -2415,6 +2415,17 @@
     <feed>http://git.jyujin.de/?p=portage-overlay.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+      <name><![CDATA[k_f]]></name>
+      <description><![CDATA[K_F's personal overlay]]></description>
+      <homepage>https://bitbucket.org/kristianf/portage-overlay/</homepage>
+      <owner>
+          <email>kf@sumptuouscapital.com</email>
+          <name>Kristian Fiskerstrand</name>
+      </owner>
+      <source type="mercurial">https://bitbucket.org/kristianf/portage-overlay/</source>
+      <feed>https://bitbucket.org/kristianf/portage-overlay/atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[kaa]]></name>
     <description><![CDATA[Kaa's experimental overlay]]></description>
     <homepage>http://www.kaa.org.ua/gentoo</homepage>

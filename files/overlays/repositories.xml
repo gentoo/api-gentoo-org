@@ -5088,6 +5088,19 @@
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/TomWij.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[torbrowser]]></name>
+    <description lang="en"><![CDATA[Tor Browser related ebuilds]]></description>
+    <homepage>https://github.com/MeisterP/torbrowser-overlay</homepage>
+    <owner type="person">
+      <email>poncho@spahan.ch</email>
+      <name><![CDATA[MeisterP]]></name>
+    </owner>
+    <source type="git">git://github.com/MeisterP/torbrowser-overlay.git</source>
+    <source type="git">https://github.com/MeisterP/torbrowser-overlay.git</source>
+    <source type="git">git@github.com:MeisterP/torbrowser-overlay.git</source>
+    <feed>https://github.com/MeisterP/torbrowser-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[trash]]></name>
     <description lang="en"><![CDATA[Some ugly ebuilds]]></description>
     <homepage>https://github.com/batekman/trash-overlay</homepage>

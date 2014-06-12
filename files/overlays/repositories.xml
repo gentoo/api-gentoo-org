@@ -2035,7 +2035,7 @@
     <description lang="en"><![CDATA[ePSXe and experimental games ebuilds]]></description>
     <homepage>https://bitbucket.org/hasufell/hasufell-overlay</homepage>
     <owner type="person">
-      <email>julian.ospald@googlemail.com</email>
+      <email>hasufell@gentoo.org</email>
       <name><![CDATA[Julian Ospald]]></name>
     </owner>
     <source type="git">https://bitbucket.org/hasufell/hasufell-overlay.git</source>

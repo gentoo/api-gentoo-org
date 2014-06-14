@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
+<!--
+TEMPLATE TO COPY'N'PASTE UNOFFICIAL REPOSITORIES
+  <repo quality="experimental" status="unofficial">
+    <name>XXXXXX</name>
+    <description lang="en">XXXXXX</description>
+    <homepage>XXXXXX</homepage>
+    <owner type="person">
+      <email>XXXXXX</email>
+      <name>XXXXXX</name>
+    </owner>
+    <source type="git">XXXXXX</source>
+    <feed>XXXXXXXXX</feed>
+  </repo>
+FIN
+-->
   <repo quality="experimental" status="official">
     <name><![CDATA[a3li]]></name>
     <description lang="en"><![CDATA[a3li's ebuild ward]]></description>

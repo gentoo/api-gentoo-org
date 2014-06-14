@@ -176,7 +176,7 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/aluco.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
-    <name>alunduil-overlay</name>
+    <name>alunduil</name>
     <description lang="en">alunduil's personal overlay</description>
     <homepage>https://github.com/alunduil/alunduil-overlay</homepage>
     <owner type="person">

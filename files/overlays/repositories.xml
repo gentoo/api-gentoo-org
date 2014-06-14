@@ -175,6 +175,19 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/aluco.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/aluco.git;a=rss</feed>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>alunduil-overlay</name>
+    <description lang="en">alunduil's personal overlay</description>
+    <homepage>https://github.com/alunduil/alunduil-overlay</homepage>
+    <owner type="person">
+      <email>alunduil@gentoo.org</email>
+      <name>Alex Brandt</name>
+    </owner>
+    <source type="git">https://github.com/alunduil/alunduil-overlay.git</source>
+    <source type="git">git://github.com/alunduil/alunduil-overlay.git</source>
+    <source type="git">git@github.com:alunduil/alunduil-overlay.git</source>
+    <feed>https://github.com/alunduil/alunduil-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>amielke-overlay</name>
     <description><![CDATA[Overlay with focus on VDR and software that is not in Portage]]></description>

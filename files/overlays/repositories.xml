@@ -2951,6 +2951,19 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/mcenroe.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>megacoffee</name>
+    <description lang="en">Mixed ebuilds from various sources: self-written missing ebuilds, more current ebuilds, ebuilds that just needed a slight update from official portage, ebuilds others posted on Gentoo Bugzilla, ebuilds with added patches, old ebuilds that were removed from official portage etc.</description>
+    <description lang="de">Verschiedene ebuilds aus verschiedenen Quellen: selbsterstellte ebuilds, ebuilds mit geringfügigen Änderungen, gegenüber dem aktuellen Baum, ebuilds aus Gentoos Bugzilla, ebuilds mit erweiterten patches, alte ebuilds die nicht mehr im offiziellen Baum existieren, etc.</description>
+    <homepage>http://gentoo-overlay.megacoffee.net</homepage>
+    <owner type="person">
+      <email>MegaCoffee</email>
+      <name>gentoo-overlay@megacoffee.net</name>
+    </owner>
+    <source type="mercurial">https://rhodecode.megacoffee.net/gentoo-overlay/main</source>
+    <source type="mercurial">http://rhodecode.megacoffee.net/gentoo-overlay/main</source>
+    <feed>https://rhodecode.megacoffee.net/gentoo-overlay/main/feed/atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[menelkir]]></name>
     <description lang="en"><![CDATA[This is my personal overlay for unmaintained packages and some other addittions.]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/menelkir.git;a=summary</homepage>

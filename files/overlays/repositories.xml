@@ -1332,12 +1332,13 @@ FIN
     <name>enlightenment</name>
     <description><![CDATA[Support for the Enlightenment project, most notably
     DR17/e17.]]></description>
-    <homepage>http://overlays.gentoo.org/dev/vapier/wiki/enlightenment</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/enlightenment.git;a=summary</homepage>
     <owner>
       <email>enlightenment@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/vapier/enlightenment</source>
-    <feed>http://overlays.gentoo.org/dev/vapier/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/proj/enlightenment.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/enlightenment.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/enlightenment.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>erikmack</name>

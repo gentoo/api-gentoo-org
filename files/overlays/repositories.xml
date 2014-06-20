@@ -366,12 +366,15 @@ FIN
   <repo quality="experimental" status="official">
     <name>aross</name>
     <description><![CDATA[Personal scratch space.]]></description>
-    <homepage>http://overlays.gentoo.org/dev/aross</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/aross.git;a=summary</homepage>
     <owner>
       <email>aross@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/aross</source>
-    <feed>http://overlays.gentoo.org/dev/aross/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/aross.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/aross.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/aross.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/aross.git;a=rss</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/aross.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>arx-libertatis</name>

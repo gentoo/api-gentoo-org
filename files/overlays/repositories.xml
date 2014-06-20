@@ -444,12 +444,15 @@ FIN
     <name>bangert</name>
     <description><![CDATA[Some ebuilds not yet ready for mainstream portage from Thilo
     Bangert [bangert@gentoo.org].]]></description>
-    <homepage>http://overlays.gentoo.org</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/bangert.git;a=summary</homepage>
     <owner>
       <email>bangert@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/bangert/ebuilds</source>
-    <feed>http://overlays.gentoo.org/dev/bangert/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/bangert.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/bangert.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/bangert.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/bangert.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/bangert.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>barnowl</name>

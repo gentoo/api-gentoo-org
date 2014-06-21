@@ -999,17 +999,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/dilfridge.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>dirtyepic</name>
-    <description><![CDATA[Various work-in-progress stuff including GCC-svn and
-    wxGTK.]]></description>
-    <homepage>http://overlays.gentoo.org/dev/dirtyepic</homepage>
-    <owner>
-      <email>dirtyepic@gentoo.org</email>
-    </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/dirtyepic</source>
-    <feed>http://overlays.gentoo.org/dev/dirtyepic/timeline</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>displacer</name>
     <description lang="en"><![CDATA[Fixes and new unstable packages]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/displacer.git;a=summary</homepage>

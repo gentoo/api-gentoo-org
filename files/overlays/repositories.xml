@@ -5621,12 +5621,15 @@ FIN
     <name>wrobel</name>
     <description><![CDATA[A collection of stable ebuilds from Gunnar Wrobel
     [wrobel@gentoo.org].]]></description>
-    <homepage>http://overlays.gentoo.org</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/wrobel/overlay.git;a=summary</homepage>
     <owner>
       <email>wrobel@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/wrobel/stable</source>
-    <feed>http://overlays.gentoo.org/dev/wrobel/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/wrobel/overlay.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/wrobel/overlay.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/wrobel/overlay.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/wrobel/overlay.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/wrobel/overlay.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>wschlich</name>

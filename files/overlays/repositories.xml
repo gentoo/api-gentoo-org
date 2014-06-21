@@ -4880,12 +4880,15 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>suka</name>
     <description><![CDATA[experimental stuff of all sorts]]></description>
-    <homepage>http://overlays.gentoo.org/dev/suka</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/suka.git;a=summary</homepage>
     <owner>
       <email>suka@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/suka</source>
-    <feed>http://overlays.gentoo.org/dev/suka/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/suka.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/suka.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/suka.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/suka.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/suka.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>sunrise</name>

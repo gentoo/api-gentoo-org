@@ -2669,12 +2669,15 @@ FIN
     <name>liquidx</name>
     <description><![CDATA[Development overlay for ebuilds that I plan to commit to the
     tree that are sourced from bugzilla or liquidx.]]></description>
-    <homepage>http://overlays.gentoo.org</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/liquidx.git;a=summary</homepage>
     <owner>
       <email>liquidx@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/liquidx</source>
-    <feed>http://overlays.gentoo.org/dev/liquidx/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/liquidx.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/liquidx.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/liquidx.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/liquidx.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/liquidx.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>lisp</name>

@@ -2823,12 +2823,15 @@ FIN
     <name>lu_zero</name>
     <description><![CDATA[Experimental Media and PowerPC/CELL related
     ebuilds.]]></description>
-    <homepage>http://overlays.gentoo.org/dev/lu_zero</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/lu_zero.git;a=summary</homepage>
     <owner>
       <email>lu_zero@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/lu_zero</source>
-    <feed>http://overlays.gentoo.org/dev/lu_zero/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/lu_zero.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/lu_zero.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/lu_zero.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/lu_zero.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/lu_zero.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>luke-jr</name>

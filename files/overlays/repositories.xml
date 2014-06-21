@@ -4109,13 +4109,16 @@ FIN
   <repo quality="experimental" status="official">
     <name>rbu</name>
     <description><![CDATA[Random stuff.]]></description>
-    <homepage>http://overlays.gentoo.org/dev/rbu/wiki</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/rbu/overlay.git;a=summary</homepage>
     <owner>
       <email>rbu@gentoo.org</email>
       <name><![CDATA[Robert Buchholz]]></name>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/rbu/overlay</source>
-    <feed>http://overlays.gentoo.org/dev/rbu/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/rbu/overlay.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/rbu/overlay.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/rbu/overlay.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/rbu/overlay.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/rbu/overlay.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>regen2-overlay</name>

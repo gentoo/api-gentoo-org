@@ -4526,12 +4526,15 @@ FIN
     <name>seemant</name>
     <description><![CDATA[Seemant's development overlay for django and other
     things.]]></description>
-    <homepage>http://overlays.gentoo.org/dev/seemant</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/seemant.git;a=summary</homepage>
     <owner>
       <email>seemant@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/seemant</source>
-    <feed>http://overlays.gentoo.org/dev/seemant/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/seemant.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/seemant.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/seemant.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/seemant.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/seemant.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sekh</name>

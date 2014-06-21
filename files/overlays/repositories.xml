@@ -5055,12 +5055,15 @@ FIN
     <name>trapni</name>
     <description><![CDATA[trapni's private developer overlay (mostly covering
     YaCS/server related ebuilds for now)]]></description>
-    <homepage>http://overlays.gentoo.org/dev/trapni/</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/trapni/overlay.git;a=summary</homepage>
     <owner>
       <email>trapni@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/trapni/overlay</source>
-    <feed>http://overlays.gentoo.org/dev/trapni/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/trapni/overlay.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/trapni/overlay.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/trapni/overlay.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/trapni/overlay.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/trapni/overlay.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>trauma</name>

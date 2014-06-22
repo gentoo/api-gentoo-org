@@ -5502,12 +5502,15 @@ FIN
     <name>vps</name>
     <description><![CDATA[Gentoo VPS project overlay (experimental
     ebuilds)]]></description>
-    <homepage>http://overlays.gentoo.org/proj/vps</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/vps/overlay.git;a=summary</homepage>
     <owner type="project">
       <email>vserver-devs@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/vps</source>
-    <feed>http://overlays.gentoo.org/proj/vps/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/proj/vps/overlay.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/vps/overlay.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/vps/overlay.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/vps/overlay.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/vps/overlay.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>wacfg</name>

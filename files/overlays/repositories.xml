@@ -5016,6 +5016,19 @@ FIN
     <feed>http://git.thousandparsec.net/gitweb/gitweb.cgi?p=gentoo-overlay.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>timboudreau</name>
+    <description lang="en">Tim Boudreau's Overlay</description>
+    <homepage>https://github.com/timboudreau/gentoo</homepage>
+    <owner type="person">
+      <email>tim@timboudreau.com</email>
+      <name>Tim Boudreau</name>
+    </owner>
+    <source type="git">git://github.com/timboudreau/gentoo.git</source>
+    <source type="git">git@github.com:timboudreau/gentoo.git</source>
+    <source type="git">https://github.com/timboudreau/gentoo.git</source>
+    <feed>https://github.com/timboudreau/gentoo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>tmacedo</name>
     <description><![CDATA[User Overlay]]></description>
     <homepage>http://github.com/tmacedo/portage</homepage>

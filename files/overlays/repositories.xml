@@ -928,16 +928,19 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/darkside.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/darkside.git;a=rss</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
+  <repo quality="experimental" status="official">
     <name>deathwing00</name>
     <description><![CDATA[Experimental ebuilds from the private overlay of Ioannis
     Aslanidis [deathwing00@gentoo.org].]]></description>
-    <homepage>http://overlays.gentoo.org</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/deathwing00.git;a=summary</homepage>
     <owner>
       <email>deathwing00@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/deathwing00</source>
-    <feed>http://overlays.gentoo.org/dev/deathwing00/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/deathwing00.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/deathwing00.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/deathwing00.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/deathwing00.git;a=rss</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/deathwing00.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>deferlay</name>
@@ -955,12 +958,15 @@ FIN
     <name>dertobi123</name>
     <description><![CDATA[Some ebuilds not yet ready for mainstream portage from Tobias
     Scherbaum [dertobi123@gentoo.org].]]></description>
-    <homepage>http://overlays.gentoo.org</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/dertobi123.git;a=summary</homepage>
     <owner>
       <email>dertobi123@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/dertobi123</source>
-    <feed>http://overlays.gentoo.org/dev/dertobi123/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/dertobi123.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/dertobi123.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/dertobi123.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/dertobi123.git;a=rss</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/dertobi123.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>desktop-effects</name>
@@ -1153,14 +1159,17 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/drevilt.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>drizzt-overlay</name>
-    <description><![CDATA[drizzt's private developer overlay]]></description>
-    <homepage>http://drizzt.bsdnet.eu/</homepage>
+    <name>drizzt</name>
+    <description><![CDATA[drizzt's overlay]]></description>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/drizzt.git;a=summary</homepage>
     <owner>
       <email>drizzt@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/drizzt/</source>
-    <feed>http://overlays.gentoo.org/dev/drizzt/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/drizzt.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/drizzt.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/drizzt.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/drizzt.git;a=rss</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/drizzt.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dswm</name>
@@ -1744,13 +1753,16 @@ FIN
     <name>genstef</name>
     <description><![CDATA[Genstef's Overlay - It usually contains some experimental
     ebuilds on their way to the tree]]></description>
-    <homepage>http://overlays.gentoo.org/dev/genstef</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/genstef.git</homepage>
     <owner>
       <email>genstef@gentoo.org</email>
       <name><![CDATA[Stefan Schweizer]]></name>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/genstef</source>
-    <feed>http://overlays.gentoo.org/dev/genstef/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/genstef.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/genstef.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/genstef.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/genstef.git;a=rss</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/genstef.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-arm</name>
@@ -2317,12 +2329,15 @@ FIN
     <name>je_fro</name>
     <description><![CDATA[Helpful ebuilds for the macbook pro, and experimental
     gentoo-science packages.]]></description>
-    <homepage>http://overlays.gentoo.org/dev/je_fro</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/je_fro.git;a=summary</homepage>
     <owner>
       <email>je_fro@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/je_fro</source>
-    <feed>http://overlays.gentoo.org/dev/je_fro/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/je_fro.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/je_fro.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/je_fro.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/je_fro.git;a=rss</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/je_fro.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>jensp</name>

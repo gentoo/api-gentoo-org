@@ -2,7 +2,8 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
 <!--
-TEMPLATE TO COPY'N'PASTE UNOFFICIAL REPOSITORIES
+SYN
+* TEMPLATE TO COPY'N'PASTE UNOFFICIAL REPOSITORIES
   <repo quality="experimental" status="unofficial">
     <name>XXXXXX</name>
     <description lang="en">XXXXXX</description>
@@ -13,6 +14,21 @@ TEMPLATE TO COPY'N'PASTE UNOFFICIAL REPOSITORIES
     </owner>
     <source type="git">XXXXXX</source>
     <feed>XXXXXXXXX</feed>
+  </repo>
+
+* GITHUB TEMPLATE
+  <repo quality="experimental" status="unofficial">
+    <name>XXXXX</name>
+    <description lang="en">XXXXXX</description>
+    <homepage>https://github.com/XXXX/xxxx</homepage>
+    <owner type="person">
+      <email>xxx@xxx.xx</email>
+      <name>XXXXX</name>
+    </owner>
+    <source type="git">https://github.com/XXXX/xxxx.git</source>
+    <source type="git">git://github.com/XXXX/xxxx.git</source>
+    <source type="git">git@github.com:XXXX/xxxx.git</source>
+    <feed>https://github.com/XXXX/xxxx/commits/master.atom</feed>
   </repo>
 FIN
 -->

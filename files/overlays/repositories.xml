@@ -59,7 +59,7 @@ FIN
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/activehome.git;a=summary</homepage>
     <owner type="person">
       <email>mva@mva.name</email>
-      <name><![CDATA[Vadim A. Misbakh-Soloviov (mva)]]></name>
+      <name>Vadim A. Misbakh-Soloviov (mva)</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/user/activehome.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/user/activehome.git</source>
@@ -114,7 +114,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>alba-overlay</name>
-    <description lang="en"><![CDATA[Various ebuilds, like games, media, etc...]]></description>
+    <description lang="en">Various ebuilds, like games, media, etc...</description>
     <homepage>https://github.com/a1batross/alba-overlay</homepage>
     <owner type="person">
       <email>a1ba.omarov@gmail.com</email>
@@ -179,7 +179,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>aluco</name>
-    <description lang="en"><![CDATA[From drm-next to phoronix-test-suite ebuilds]]></description>
+    <description lang="en">From drm-next to phoronix-test-suite ebuilds</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/aluco.git;a=summary</homepage>
     <owner type="person">
       <email>anthoine.bourgeois@gmail.com</email>
@@ -217,7 +217,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>anarchy</name>
-    <description><![CDATA[Testing/Bug fixes, new ebuilds]]></description>
+    <description>Testing/Bug fixes, new ebuilds</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/anarchy.git;a=summary</homepage>
     <owner>
       <email>anarchy@gentoo.org</email>
@@ -270,7 +270,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>andy</name>
-    <description lang="en"><![CDATA[Miscellaneous ebuilds, unmaintaned but useful]]></description>
+    <description lang="en">Miscellaneous ebuilds, unmaintaned but useful</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/andy.git;a=summary</homepage>
     <owner type="person">
       <email>andy@mailbox.tu-berlin.de</email>
@@ -298,7 +298,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>anyc</name>
-    <description lang="en"><![CDATA[Testing ebuilds for out-of-tree applications]]></description>
+    <description lang="en">Testing ebuilds for out-of-tree applications</description>
     <homepage>https://github.com/anyc/anyc-overlay</homepage>
     <owner type="person">
       <email>dev@kicherer.org</email>
@@ -337,7 +337,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>arces</name>
-    <description lang="en"><![CDATA[Marionette Collective (mcollective) and stomp ebuilds for the Puppet/mCollective project]]></description>
+    <description lang="en">Marionette Collective (mcollective) and stomp ebuilds for the Puppet/mCollective project</description>
     <homepage>http://support.arces.net/public/viewgit/?a=summary&amp;p=arces_overlay</homepage>
     <owner type="person">
       <email>agoins@arces.net</email>
@@ -362,7 +362,7 @@ FIN
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/Armageddon.git;a=summary</homepage>
     <owner type="person">
       <email>ThyArmageddon+Gentoo@Gmail.com</email>
-      <name><![CDATA[Elijah El Lazkani (Armageddon)]]></name>
+      <name>Elijah El Lazkani (Armageddon)</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/user/Armageddon.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/user/Armageddon.git</source>
@@ -372,7 +372,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>armagetron</name>
-    <description><![CDATA[3D light cycles, like the movie TRON]]></description>
+    <description>3D light cycles, like the movie TRON</description>
     <homepage>http://armagetronad.net</homepage>
     <owner>
       <email>luke_armagetron@dashjr.org</email>
@@ -381,7 +381,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>aross</name>
-    <description><![CDATA[Personal scratch space.]]></description>
+    <description>Personal scratch space.</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/aross.git;a=summary</homepage>
     <owner>
       <email>aross@gentoo.org</email>
@@ -484,7 +484,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bar-overlay</name>
-    <description lang="en"><![CDATA[Ebuilds that end up in Funtoo ports-2012]]></description>
+    <description lang="en">Ebuilds that end up in Funtoo ports-2012</description>
     <homepage>https://github.com/tokiclover/bar-overlay</homepage>
     <owner type="person">
       <email>tokiclover@gmail.com</email>
@@ -558,7 +558,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>betagarden</name>
-    <description lang="en"><![CDATA[Joint beta-quality overlay effort to reduce overlay scatter. Any dev is welcome to join.]]></description>
+    <description lang="en">Joint beta-quality overlay effort to reduce overlay scatter. Any dev is welcome to join.</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/betagarden.git;a=summary</homepage>
     <owner type="project">
       <email>betagarden@gentoo.org</email>
@@ -628,7 +628,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bitcoin</name>
-    <description><![CDATA[Bitcoin and CPU/GPU mining related ebuilds]]></description>
+    <description>Bitcoin and CPU/GPU mining related ebuilds</description>
     <homepage>http://gitorious.org/bitcoin/gentoo</homepage>
     <owner>
       <email>flo@freakempire.de</email>
@@ -660,7 +660,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>blueicefield</name>
-    <description lang="en"><![CDATA[Overlay for some packages specific to web servers (PECL, Mongo..)]]></description>
+    <description lang="en">Overlay for some packages specific to web servers (PECL, Mongo..)</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/blueicefield.git;a=summary</homepage>
     <owner type="person">
       <email>nassim.kacha@blueicefield.com</email>
@@ -678,7 +678,7 @@ FIN
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/blueness.git;a=summary</homepage>
     <owner>
       <email>blueness@gentoo.org</email>
-      <name><![CDATA[Anthony G. Basile]]></name>
+      <name>Anthony G. Basile</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/blueness</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/dev/blueness.git</source>
@@ -692,7 +692,7 @@ FIN
     <homepage>https://github.com/Bumblebee-Project/bumblebee-gentoo/</homepage>
     <owner type="person">
       <email>mva@mva.name</email>
-      <name><![CDATA[Vadim A. Misbakh-Soloviov]]></name>
+      <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://github.com/Bumblebee-Project/bumblebee-gentoo</source>
     <feed>https://github.com/Bumblebee-Project/bumblebee-gentoo/commits/master.atom</feed>
@@ -747,7 +747,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>centerim</name>
-    <description><![CDATA[Latest tarballs from the CenterIM Mob-branch and a live ebuild.]]></description>
+    <description>Latest tarballs from the CenterIM Mob-branch and a live ebuild.</description>
     <homepage>http://github.com/transacid/CenterIM-overlay</homepage>
     <owner>
       <email>transacid@centerim.org</email>
@@ -759,7 +759,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>chtekk-apps</name>
-    <description><![CDATA[Overlay for various applications I use myself.]]></description>
+    <description>Overlay for various applications I use myself.</description>
     <homepage>http://projects.longitekk.com:8000/Projects</homepage>
     <owner>
       <email>chtekk@longitekk.com</email>
@@ -819,7 +819,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>crg</name>
-    <description><![CDATA[CRG-Overlay for Gentoo Linux]]></description>
+    <description>CRG-Overlay for Gentoo Linux</description>
     <homepage>http://wiki.cregion.ru/moin.cgi/CRG_Overlay</homepage>
     <owner>
       <email>johnrdoe63@cregion.ru</email>
@@ -832,7 +832,7 @@ FIN
     <homepage>https://github.com/alphallc/crossdev/</homepage>
     <owner type="person">
       <email>mva@mva.name</email>
-      <name><![CDATA[Vadim A. Misbakh-Soloviov]]></name>
+      <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://github.com/alphallc/crossdev</source>
     <feed>https://github.com/alphallc/crossdev/commits/master.atom</feed>
@@ -854,7 +854,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>daks</name>
-    <description lang="en"><![CDATA[Some useful ebuilds. Includes 1C-Predpriyatie and postgres with patches for work with 1C.]]></description>
+    <description lang="en">Some useful ebuilds. Includes 1C-Predpriyatie and postgres with patches for work with 1C.</description>
     <homepage>https://code.google.com/p/daks-overlay/</homepage>
     <owner type="person">
       <email>daks12@gmail.com</email>
@@ -888,7 +888,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dawan</name>
-    <description lang="en"><![CDATA[OCaml and proof-search related ebuilds]]></description>
+    <description lang="en">OCaml and proof-search related ebuilds</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/dawan.git;a=summary</homepage>
     <owner type="person">
       <email>dawan@melix.net</email>
@@ -980,7 +980,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>dev-zero</name>
-    <description><![CDATA[Dev-zeros personal developer overlay]]></description>
+    <description>Dev-zeros personal developer overlay</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/dev-zero.git;a=summary</homepage>
     <owner>
       <email>dev-zero@gentoo.org</email>
@@ -994,7 +994,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dfreise</name>
-    <description lang="en"><![CDATA[ISDN, network and other stuff]]></description>
+    <description lang="en">ISDN, network and other stuff</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/dfreise.git;a=summary</homepage>
     <owner type="person">
       <email>dennis.freise@final-frontier.org</email>
@@ -1012,7 +1012,7 @@ FIN
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/dilfridge.git;a=summary</homepage>
     <owner type="person">
       <email>dilfridge@gentoo.org</email>
-      <name><![CDATA[Andreas K. Huettel (dilfridge)]]></name>
+      <name>Andreas K. Huettel (dilfridge)</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/dilfridge.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/dev/dilfridge.git</source>
@@ -1049,7 +1049,7 @@ FIN
     <homepage>https://github.com/dlanx/dlan-overlay/</homepage>
     <owner>
       <email>dennis.yxun@gmail.org</email>
-      <name><![CDATA[Lan Yixun (dlan)]]></name>
+      <name>Lan Yixun (dlan)</name>
     </owner>
     <source type="git">git://github.com/dlanx/dlan-overlay.git</source>
     <feed>https://github.com/feeds/dlanx/commits/dlan-overlay/master</feed>
@@ -1083,7 +1083,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dmol</name>
-    <description lang="en"><![CDATA[Overlay to store java-related ebuilds, for further reviewing]]></description>
+    <description lang="en">Overlay to store java-related ebuilds, for further reviewing</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/dmol.git;a=summary</homepage>
     <owner type="person">
       <email>the.dmol@gmail.com</email>
@@ -1123,7 +1123,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>dotnet</name>
-    <description><![CDATA[Experimental overlay for .NET packages.]]></description>
+    <description>Experimental overlay for .NET packages.</description>
     <homepage>http://github.com/gentoo/dotnet</homepage>
     <owner>
       <email>cynede@gentoo.org</email>
@@ -1173,7 +1173,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dswm</name>
-    <description lang="en"><![CDATA[Deep Space Window Manager - StumpWM-based windowmanager with better usability]]></description>
+    <description lang="en">Deep Space Window Manager - StumpWM-based windowmanager with better usability</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/dswm.git;a=summary</homepage>
     <owner type="person">
       <email>cosmonaut.ok@gmail.com</email>
@@ -1201,11 +1201,11 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dustin</name>
-    <description lang="en"><![CDATA[Overlay of Dustin C. Hatch]]></description>
+    <description lang="en">Overlay of Dustin C. Hatch</description>
     <homepage>http://bitbucket.org/AdmiralNemo/overlay</homepage>
     <owner type="person">
       <email>admiralnemo@gmail.com</email>
-      <name><![CDATA[Dustin C. Hatch]]></name>
+      <name>Dustin C. Hatch</name>
     </owner>
     <source type="mercurial">https://bitbucket.org/AdmiralNemo/overlay</source>
     <source type="mercurial">ssh://hg@bitbucket.org/AdmiralNemo/overlay</source>
@@ -1271,7 +1271,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>elementary</name>
-    <description lang="en"><![CDATA[The elementary OS experience for Gentoo Linux. ]]></description>
+    <description lang="en">The elementary OS experience for Gentoo Linux. </description>
     <homepage>https://github.com/pimvullers/elementary</homepage>
     <owner type="person">
       <email>gentoo.org@vullersmail.nl</email>
@@ -1283,7 +1283,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ephemeral</name>
-    <description lang="en"><![CDATA[Some roguelikes, perl modules, themes, multimedia and other utilities]]></description>
+    <description lang="en">Some roguelikes, perl modules, themes, multimedia and other utilities</description>
     <homepage>http://github.com/joshuar/ephemeral-gentoo-overlay/tree/master</homepage>
     <owner type="person">
       <email>joshua.rich@gmail.com</email>
@@ -1310,7 +1310,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>embedded-cross</name>
-    <description lang="en"><![CDATA[Gentoo cross-compilation overlay for embedded devices]]></description>
+    <description lang="en">Gentoo cross-compilation overlay for embedded devices</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/embedded-cross.git;a=summary</homepage>
     <owner type="project">
       <email>armin76@gentoo.org</email>
@@ -1391,7 +1391,7 @@ FIN
     <homepage>https://github.com/espenaf/espenaf-overlay</homepage>
     <owner type="person">
       <email>espenaf@junta.no</email>
-      <name><![CDATA[Espen A. Fossen]]></name>
+      <name>Espen A. Fossen</name>
     </owner>
     <source type="git">git://github.com/espenaf/espenaf-overlay.git</source>
     <source type="git">https://github.com/espenaf/espenaf-overlay</source>
@@ -1486,7 +1486,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>finnish</name>
-    <description><![CDATA[Finnish overlay for spell checking etc. etc.]]></description>
+    <description>Finnish overlay for spell checking etc. etc.</description>
     <homepage>http://overlays.gentoo.org/proj/finnish</homepage>
     <owner type="project">
       <email>flammie@gentoo.org</email>
@@ -1496,7 +1496,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>FireBurn</name>
-    <description lang="en"><![CDATA[32bit ebuilds (libdrm, mesa, libx11, mesa-progs, ..)]]></description>
+    <description lang="en">32bit ebuilds (libdrm, mesa, libx11, mesa-progs, ..)</description>
     <homepage>https://github.com/FireBurn/Overlay</homepage>
     <owner type="person">
       <email>mike@fireburn.co.uk</email>
@@ -1627,7 +1627,7 @@ FIN
     <homepage>https://github.com/alphallc/freeswitch/</homepage>
     <owner type="person">
       <email>mva@mva.name</email>
-      <name><![CDATA[Vadim A. Misbakh-Soloviov]]></name>
+      <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://github.com/alphallc/freeswitch</source>
     <feed>https://github.com/alphallc/freeswitch/commits/master.atom</feed>
@@ -1644,7 +1644,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>funroll-loops</name>
-    <description><![CDATA[Ebuilds for webserver, osm and other software.]]></description>
+    <description>Ebuilds for webserver, osm and other software.</description>
     <homepage>https://redmine.funroll-loops.de/projects/portage-overlay/repository</homepage>
     <owner>
       <email>portage-overlay@funroll-loops.de</email>
@@ -1654,7 +1654,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>funtoo-overlay</name>
-    <description lang="en"><![CDATA[Funtoo overlay (all funtoo ebuild/eclass changes in one place)]]></description>
+    <description lang="en">Funtoo overlay (all funtoo ebuild/eclass changes in one place)</description>
     <homepage>https://github.com/funtoo/funtoo-overlay</homepage>
     <owner type="project">
       <email>invalid@example.org</email>
@@ -1671,7 +1671,7 @@ FIN
     <homepage>https://github.com/antoligy/furikake</homepage>
     <owner type="person">
       <email>alex.w@antoligy.com</email>
-      <name><![CDATA[Alex Wilson (antoligy)]]></name>
+      <name>Alex Wilson (antoligy)</name>
     </owner>
     <source type="git">https://github.com/antoligy/furikake.git</source>
     <source type="git">git@github.com:antoligy/furikake.git</source>
@@ -1679,7 +1679,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>fw-overlay</name>
-    <description lang="en"><![CDATA[fw-overlay experimental overlay]]></description>
+    <description lang="en">fw-overlay experimental overlay</description>
     <homepage>https://github.com/FeiWongReed/fw-overlay</homepage>
     <owner type="person">
       <email>ketoth.xupack@gmail.com</email>
@@ -1696,7 +1696,7 @@ FIN
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/gamerlay.git</homepage>
     <owner>
       <email>mva@mva.name</email>
-      <name><![CDATA[Vadim A. Misbakh-Soloviov]]></name>
+      <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/gamerlay.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/proj/gamerlay.git</source>
@@ -1717,7 +1717,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gbin</name>
-    <description lang="en"><![CDATA[Various gentoo ebuilds tweaked mainly around multimedia, python and forensics.]]></description>
+    <description lang="en">Various gentoo ebuilds tweaked mainly around multimedia, python and forensics.</description>
     <homepage>https://github.com/gbin/gbin-overlay</homepage>
     <owner type="person">
       <email>gbin@gootz.net</email>
@@ -1729,7 +1729,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>gcc-porting</name>
-    <description><![CDATA[Compatibility patches for upcoming GCC releases.]]></description>
+    <description>Compatibility patches for upcoming GCC releases.</description>
     <homepage>http://overlays.gentoo.org/proj/gcc-porting/</homepage>
     <owner>
       <email>gcc-porting@gentoo.org</email>
@@ -1776,7 +1776,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>gentoo-bsd</name>
-    <description><![CDATA[Gentoo/BSD Project Overlay]]></description>
+    <description>Gentoo/BSD Project Overlay</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/gentoo-bsd.git</homepage>
     <owner>
       <email>welp@gentoo.org</email>
@@ -1801,7 +1801,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-el</name>
-    <description><![CDATA[Various ebuilds made and used by Greek Gentoo Community (gentoo-el)]]></description>
+    <description>Various ebuilds made and used by Greek Gentoo Community (gentoo-el)</description>
     <homepage>https://github.com/gentoo-el/overlay</homepage>
     <owner>
       <email>contact@gentoo-el.org</email>
@@ -1816,7 +1816,7 @@ FIN
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/gentoo-guis.git;a=summary</homepage>
     <owner type="project">
       <email>gentoo-guis@gentoo.org</email>
-      <name><![CDATA[Gentoo-guis team]]></name>
+      <name>Gentoo-guis team</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/gentoo-guis.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/proj/gentoo-guis.git</source>
@@ -1826,11 +1826,11 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>gentoo-openbsd</name>
-    <description lang="en"><![CDATA[Gentoo/OpenBSD Project Overlay]]></description>
+    <description lang="en">Gentoo/OpenBSD Project Overlay</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/gentoo-openbsd.git;a=summary</homepage>
     <owner type="project">
       <email>blueness@gentoo.org</email>
-      <name><![CDATA[Anthony G. Basile]]></name>
+      <name>Anthony G. Basile</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/gentoo-openbsd.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/proj/gentoo-openbsd.git</source>
@@ -1840,7 +1840,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-quebec</name>
-    <description><![CDATA[New ebuilds created by the Gentoo-Quebec team.]]></description>
+    <description>New ebuilds created by the Gentoo-Quebec team.</description>
     <homepage>http://www.gentoo-quebec.org</homepage>
     <owner>
       <email>laurent@gentoo-quebec.org</email>
@@ -1849,7 +1849,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-taiwan</name>
-    <description><![CDATA[A collection of ebuilds from Gentoo Taiwan.]]></description>
+    <description>A collection of ebuilds from Gentoo Taiwan.</description>
     <homepage>http://gentoo-taiwan.googlecode.com/</homepage>
     <owner>
       <email>scsichen@gmail.com</email>
@@ -1962,7 +1962,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>GoGooOS</name>
-    <description lang="en"><![CDATA[GoGooOS portage overlay (MeeGo fork to Gentoo)]]></description>
+    <description lang="en">GoGooOS portage overlay (MeeGo fork to Gentoo)</description>
     <homepage>https://github.com/dudochkin-victor/gogooos</homepage>
     <owner type="person">
       <email>blacksmith@gogoo.ru</email>
@@ -2004,7 +2004,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>graveyard</name>
-    <description><![CDATA[Overlay for packages tree-cleaned from the official portage repository]]></description>
+    <description>Overlay for packages tree-cleaned from the official portage repository</description>
     <homepage>https://github.com/gentoo/graveyard</homepage>
     <owner type="project">
       <email>graveyard@gentoo.org</email>
@@ -2053,7 +2053,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>hanno</name>
-    <description><![CDATA[Hanno Boeck developer overlay.]]></description>
+    <description>Hanno Boeck developer overlay.</description>
     <homepage>http://www.hboeck.de</homepage>
     <owner type="person">
       <email>hanno@gentoo.org</email>
@@ -2062,7 +2062,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>hardened-development</name>
-    <description><![CDATA[Development Overlay for Hardened Gcc 4.x Toolchain]]></description>
+    <description>Development Overlay for Hardened Gcc 4.x Toolchain</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/hardened-dev.git;a=summary</homepage>
     <owner type="project">
       <email>hardened@gentoo.org</email>
@@ -2072,7 +2072,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>haskell</name>
-    <description><![CDATA[The Official Gentoo Haskell overlay.]]></description>
+    <description>The Official Gentoo Haskell overlay.</description>
     <homepage>https://github.com/gentoo-haskell</homepage>
     <owner>
       <email>haskell@gentoo.org</email>
@@ -2355,11 +2355,11 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>jmbsvicetto</name>
-    <description><![CDATA[Jorge Manuel B. S. Vicetto developer overlay]]></description>
+    <description>Jorge Manuel B. S. Vicetto developer overlay</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/jmbsvicetto.git</homepage>
     <owner>
       <email>jmbsvicetto@gentoo.org</email>
-      <name><![CDATA[Jorge Manuel B. S. Vicetto]]></name>
+      <name>Jorge Manuel B. S. Vicetto</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/jmbsvicetto.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/dev/jmbsvicetto.git</source>
@@ -2369,7 +2369,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>jmesmon</name>
-    <description lang="en"><![CDATA[miscellanious fixes, modifications, and newer versions of ebuilds]]></description>
+    <description lang="en">miscellanious fixes, modifications, and newer versions of ebuilds</description>
     <homepage>http://github.com/jmesmon/overlay</homepage>
     <owner type="person">
       <email>jmesmon@gmail.com</email>
@@ -2419,7 +2419,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>jranvier</name>
-    <description lang="en"><![CDATA[Experimental cryptoanarchism-related ebuilds]]></description>
+    <description lang="en">Experimental cryptoanarchism-related ebuilds</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/jranvier.git;a=summary</homepage>
     <owner type="person">
       <email>justusranvier@tormail.org</email>
@@ -2461,7 +2461,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>jyujin</name>
-    <description><![CDATA[eINIT, kyuuba, dev9, various splash daemons]]></description>
+    <description>eINIT, kyuuba, dev9, various splash daemons</description>
     <homepage>http://jyujin.de/</homepage>
     <owner>
       <email>mdeininger@jyujin.de</email>
@@ -2512,7 +2512,7 @@ FIN
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/kde-sunset.git;a=summary</homepage>
     <owner type="project">
       <email>gentoo-desktop+subscribe@lists.gentoo.org</email>
-      <name><![CDATA[gentoo-desktop mailing list]]></name>
+      <name>gentoo-desktop mailing list</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/kde-sunset.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/proj/kde-sunset.git</source>
@@ -2541,7 +2541,7 @@ FIN
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/keruspe.git;a=summary</homepage>
     <owner type="person">
       <email>Marc-Antoine@Perennou.com</email>
-      <name><![CDATA[Marc-Antoine Perennou]]></name>
+      <name>Marc-Antoine Perennou</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/user/keruspe.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/user/keruspe.git</source>
@@ -2551,7 +2551,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>klondike</name>
-    <description lang="en"><![CDATA[Ebuilds made and modified by klondike, mainly sound and virtualization]]></description>
+    <description lang="en">Ebuilds made and modified by klondike, mainly sound and virtualization</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/klondike.git;a=summary</homepage>
     <owner type="person">
       <email>klondike@xiscosoft.es</email>
@@ -2565,7 +2565,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>kolab</name>
-    <description><![CDATA[Project to allow running Kolab on Gentoo.]]></description>
+    <description>Project to allow running Kolab on Gentoo.</description>
     <homepage>http://www.gentoo.org/proj/en/kolab/index.xml</homepage>
     <owner type="project">
       <email>wrobel@gentoo.org</email>
@@ -2575,7 +2575,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>kork</name>
-    <description lang="en"><![CDATA[Cool, new, useful, and unmaintained packages]]></description>
+    <description lang="en">Cool, new, useful, and unmaintained packages</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/kork.git;a=summary</homepage>
     <owner type="person">
       <email>hsggebhardt@googlemail.com</email>
@@ -2633,7 +2633,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>last-hope</name>
-    <description><![CDATA[A gentoo portage overlay with a set of too exotic, or unusal ebuilds for the sunrise overlay or the main tree.]]></description>
+    <description>A gentoo portage overlay with a set of too exotic, or unusal ebuilds for the sunrise overlay or the main tree.</description>
     <homepage>http://www.j-schmitz.net/overlays/last-hope/</homepage>
     <owner type="person">
       <email>johann@j-schmitz.net</email>
@@ -2727,7 +2727,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>logan</name>
-    <description lang="en"><![CDATA[Gentoo/Alt ebuilds for OSX]]></description>
+    <description lang="en">Gentoo/Alt ebuilds for OSX</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/logan.git;a=summary</homepage>
     <owner type="person">
       <email>gentoo@lakedaemon.net</email>
@@ -2770,7 +2770,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>lootr</name>
-    <description lang="en"><![CDATA[dev-python/netzob and maybe some i3 hacks]]></description>
+    <description lang="en">dev-python/netzob and maybe some i3 hacks</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/lootr.git;a=summary</homepage>
     <owner type="person">
       <email>alex@freesenses.net</email>
@@ -2828,7 +2828,7 @@ FIN
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/lua.git;a=summary</homepage>
     <owner type="project">
       <email>rafaelmartins@gentoo.org</email>
-      <name><![CDATA[Rafael G. Martins]]></name>
+      <name>Rafael G. Martins</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/lua.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/proj/lua.git</source>
@@ -2866,7 +2866,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>luke-jr</name>
-    <description><![CDATA[Misc ebuilds by Luke-Jr]]></description>
+    <description>Misc ebuilds by Luke-Jr</description>
     <homepage>http://luke.dashjr.org</homepage>
     <owner>
       <email>luke_armagetron@dashjr.org</email>
@@ -2947,7 +2947,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>marineam-xen</name>
-    <description><![CDATA[Experimental ebuilds for Xen.]]></description>
+    <description>Experimental ebuilds for Xen.</description>
     <homepage>http://overlays.gentoo.org/dev/marineam</homepage>
     <owner>
       <email>marineam@gentoo.org</email>
@@ -3011,7 +3011,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>menelkir</name>
-    <description lang="en"><![CDATA[This is my personal overlay for unmaintained packages and some other addittions.]]></description>
+    <description lang="en">This is my personal overlay for unmaintained packages and some other addittions.</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/menelkir.git;a=summary</homepage>
     <owner type="person">
       <email>menelkir@itroll.org</email>
@@ -3077,7 +3077,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>moonrise</name>
-    <description lang="en"><![CDATA[Bleeding edge, experimental overlay for Gentoo]]></description>
+    <description lang="en">Bleeding edge, experimental overlay for Gentoo</description>
     <homepage>http://github.com/Barthalion/moonrise</homepage>
     <owner type="person">
       <email>11mariom@gmail.com</email>
@@ -3210,7 +3210,7 @@ FIN
     <homepage>https://github.com/msva/mva-overlay/  </homepage>
     <owner type="person">
       <email>mva@mva.name</email>
-      <name><![CDATA[Vadim A. Misbakh-Soloviov]]></name>
+      <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://github.com/msva/mva-overlay</source>
     <feed>https://github.com/msva/mva-overlay/commits/master.atom</feed>
@@ -3261,7 +3261,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>n900</name>
-    <description lang="en"><![CDATA[Packages to support Nokia Internet Tablets (N900)]]></description>
+    <description lang="en">Packages to support Nokia Internet Tablets (N900)</description>
     <homepage>http://luke.dashjr.org/programs/gentoo-n900</homepage>
     <owner type="person">
       <email>luke_n900_overlay@dashjr.org</email>
@@ -3402,7 +3402,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>njw</name>
-    <description><![CDATA[Gentoo overlay of Nick White (njw)]]></description>
+    <description>Gentoo overlay of Nick White (njw)</description>
     <homepage>http://git.njw.me.uk/cgit/cgit.cgi/njw-gentoo-local/</homepage>
     <owner>
       <email>gentoo-overlay@njw.me.uk</email>
@@ -3412,7 +3412,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>noiselabs</name>
-    <description lang="en"><![CDATA[noiselabs.org Gentoo Overlay]]></description>
+    <description lang="en">noiselabs.org Gentoo Overlay</description>
     <homepage>http://overlay.noiselabs.org/</homepage>
     <owner type="person">
       <email>noisebleed@noiselabs.org</email>
@@ -3422,7 +3422,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>nx</name>
-    <description><![CDATA[Overlay for the NX/FreeNX packages for Gentoo.]]></description>
+    <description>Overlay for the NX/FreeNX packages for Gentoo.</description>
     <homepage>http://overlays.gentoo.org/proj/nx</homepage>
     <owner type="project">
       <email>nx@gentoo.org</email>
@@ -3432,7 +3432,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>nx-stormdata</name>
-    <description lang="en"><![CDATA[Bugfixes and patches for net-misc/nx and net-misc/nxserver-freenx]]></description>
+    <description lang="en">Bugfixes and patches for net-misc/nx and net-misc/nxserver-freenx</description>
     <owner type="person">
       <email>nikolay@dvoeglazov.ru</email>
       <name>Nikolay Dvoeglazov</name>
@@ -3476,11 +3476,11 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>octave</name>
-    <description lang="en"><![CDATA[octave-forge packages]]></description>
+    <description lang="en">octave-forge packages</description>
     <homepage>https://github.com/rafaelmartins/octave-overlay</homepage>
     <owner type="person">
       <email>rafaelmartins@gentoo.org</email>
-      <name><![CDATA[ Rafael G. Martins]]></name>
+      <name> Rafael G. Martins</name>
     </owner>
     <source type="git">git://github.com/rafaelmartins/octave-overlay.git</source>
     <source type="git">https://github.com/rafaelmartins/octave-overlay.git</source>
@@ -3509,7 +3509,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>oomidi</name>
-    <description lang="en"><![CDATA[Overlay for openoctave-midi project]]></description>
+    <description lang="en">Overlay for openoctave-midi project</description>
     <homepage>https://github.com/mekanix/oomidi-overlay</homepage>
     <owner type="person">
       <email>meka@lugons.org</email>
@@ -3551,11 +3551,11 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>OSSDL</name>
-    <description lang="en"><![CDATA[Overlay of W-Mark Kubacki]]></description>
+    <description lang="en">Overlay of W-Mark Kubacki</description>
     <homepage>https://github.com/wmark/ossdl-overlay</homepage>
     <owner type="person">
       <email>wmark+overlay@hurrikane.de</email>
-      <name><![CDATA[W-Mark Kubacki]]></name>
+      <name>W-Mark Kubacki</name>
     </owner>
     <source type="git">git://github.com/wmark/ossdl-overlay.git</source>
     <source type="git">https://github.com/wmark/ossdl-overlay.git</source>
@@ -3594,7 +3594,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>paddymac</name>
-    <description><![CDATA[New and experimental ebuilds. Mostly games, multimedia]]></description>
+    <description>New and experimental ebuilds. Mostly games, multimedia</description>
     <owner>
       <email>doctorwhoguy@gmail.com</email>
       <name>Patrick McMunn</name>
@@ -3630,7 +3630,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>paragon</name>
-    <description lang="en"><![CDATA[Oldies, raries, ownies, get organized]]></description>
+    <description lang="en">Oldies, raries, ownies, get organized</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/paragon.git;a=summary</homepage>
     <owner type="person">
       <email>octavsly@gmail.com</email>
@@ -3658,7 +3658,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pcsx2</name>
-    <description><![CDATA[Experimental overlay for pcsx2 ebuilds.]]></description>
+    <description>Experimental overlay for pcsx2 ebuilds.</description>
     <homepage>http://github.com/eatnumber1/pcsx2-overlay/tree/master</homepage>
     <owner>
       <email>gabrielmaculus@gmail.com</email>
@@ -3690,7 +3690,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pentoo</name>
-    <description><![CDATA[The overlay contains new or updated security tools.]]></description>
+    <description>The overlay contains new or updated security tools.</description>
     <homepage>http://www.pentoo.ch</homepage>
     <owner>
       <email>zerochaos@pentoo.ch</email>
@@ -3842,7 +3842,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>plan9</name>
-    <description><![CDATA[A collection of useful ebuilds related to Plan9.]]></description>
+    <description>A collection of useful ebuilds related to Plan9.</description>
     <homepage>http://overlays.gentoo.org/dev/anant/wiki</homepage>
     <owner>
       <email>anant@gentoo.org</email>
@@ -3852,7 +3852,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>poly-c</name>
-    <description lang="en"><![CDATA[Private overlay of Polynomial-C]]></description>
+    <description lang="en">Private overlay of Polynomial-C</description>
     <homepage>http://www.gentoofan.org/gentoo/</homepage>
     <owner type="person">
       <email>polynomial-c@gentoo.org</email>
@@ -3862,7 +3862,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>portage-backup</name>
-    <description lang="en"><![CDATA[Backup-related ebuilds]]></description>
+    <description lang="en">Backup-related ebuilds</description>
     <homepage>http://github.com/lnagel/portage-backup/tree/master</homepage>
     <owner type="person">
       <email>lenno@nagel.ee</email>
@@ -3916,7 +3916,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>printer-drivers</name>
-    <description lang="en"><![CDATA[User-submitted ebuilds for printer drivers]]></description>
+    <description lang="en">User-submitted ebuilds for printer drivers</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/printer-drivers.git;a=summary</homepage>
     <owner type="project">
       <email>printing@gentoo.org</email>
@@ -3964,7 +3964,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pross</name>
-    <description lang="en"><![CDATA[Up to date ck-sources with gentoo patches.]]></description>
+    <description lang="en">Up to date ck-sources with gentoo patches.</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/pross.git;a=summary</homepage>
     <owner type="person">
       <email>pross@pross.org.uk</email>
@@ -4004,7 +4004,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pure-funtoo</name>
-    <description><![CDATA[Gentoo overlay with Funtoo-only ebuilds extracted from Funtoo tree]]></description>
+    <description>Gentoo overlay with Funtoo-only ebuilds extracted from Funtoo tree</description>
     <homepage>http://git.goodpoint.de/?p=pure-funtoo.git;a=summary</homepage>
     <owner>
       <email>sebastian@pipping.org</email>
@@ -4090,7 +4090,7 @@ FIN
     <homepage>https://github.com/rafaelmartins/gentoo-overlay</homepage>
     <owner type="person">
       <email>rafaelmartins@gentoo.org</email>
-      <name><![CDATA[Rafael G. Martins]]></name>
+      <name>Rafael G. Martins</name>
     </owner>
     <source type="git">git://github.com/rafaelmartins/gentoo-overlay.git</source>
     <source type="git">https://github.com/rafaelmartins/gentoo-overlay.git</source>
@@ -4098,7 +4098,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>raiagent</name>
-    <description lang="en"><![CDATA[Well-documented ebuilds en-route to a bandersnatch near you]]></description>
+    <description lang="en">Well-documented ebuilds en-route to a bandersnatch near you</description>
     <homepage>https://github.com/leycec/raiagent</homepage>
     <owner type="person">
       <email>leycec@gmail.com</email>
@@ -4139,7 +4139,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>rbu</name>
-    <description><![CDATA[Random stuff.]]></description>
+    <description>Random stuff.</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/rbu/overlay.git;a=summary</homepage>
     <owner>
       <email>rbu@gentoo.org</email>
@@ -4241,7 +4241,7 @@ FIN
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/robbat2.git;a=summary</homepage>
     <owner type="person">
       <email>robbat2@gentoo.org</email>
-      <name><![CDATA[Robin H. Johnson]]></name>
+      <name>Robin H. Johnson</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/robbat2.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/dev/robbat2.git</source>
@@ -4251,7 +4251,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ROKO__</name>
-    <description lang="en"><![CDATA[Unofficial ebuilds for gentoo based distributions.]]></description>
+    <description lang="en">Unofficial ebuilds for gentoo based distributions.</description>
     <homepage>https://github.com/sandikata/ROKO__</homepage>
     <owner type="person">
       <email>sandikata@yandex.ru</email>
@@ -4275,7 +4275,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>rostov</name>
-    <description><![CDATA[Repo for development of ebuilds.]]></description>
+    <description>Repo for development of ebuilds.</description>
     <homepage>http://os-rostov.ru/</homepage>
     <owner>
       <email>oleg.kluchkin@gmail.com</email>
@@ -4294,7 +4294,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>rox</name>
-    <description><![CDATA[Experimental ebuilds for the Rox Desktop.]]></description>
+    <description>Experimental ebuilds for the Rox Desktop.</description>
     <homepage>http://overlays.gentoo.org/proj/rox</homepage>
     <owner type="project">
       <email>rox@gentoo.org</email>
@@ -4318,7 +4318,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>ruby</name>
-    <description><![CDATA[Experimental ebuilds from the Ruby edge.]]></description>
+    <description>Experimental ebuilds from the Ruby edge.</description>
     <homepage>http://overlays.gentoo.org/proj/ruby/wiki</homepage>
     <owner type="project">
       <email>ruby@gentoo.org</email>
@@ -4757,7 +4757,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>srcshelton</name>
-    <description lang="en"><![CDATA[Out-of-tree ebuilds]]></description>
+    <description lang="en">Out-of-tree ebuilds</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/srcshelton.git;a=summary</homepage>
     <owner type="person">
       <email>srcshelton@gmail.com</email>
@@ -4856,7 +4856,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>systemd-love</name>
-    <description lang="en"><![CDATA[Put more love between systemd, users and openrc]]></description>
+    <description lang="en">Put more love between systemd, users and openrc</description>
     <homepage>https://github.com/Sabayon/systemd-love</homepage>
     <owner type="person">
       <email>lxnay@gentoo.org</email>
@@ -4903,7 +4903,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sugar</name>
-    <description><![CDATA[Sugar (sugarlabs.org) related packages]]></description>
+    <description>Sugar (sugarlabs.org) related packages</description>
     <homepage>http://sugarlabs.org/go/Community/Distributions/Gentoo</homepage>
     <owner>
       <email>alsroot@member.fsf.org</email>
@@ -4926,7 +4926,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>sunrise</name>
-    <description><![CDATA[Ebuilds for bugs assigned to maintainer-wanted]]></description>
+    <description>Ebuilds for bugs assigned to maintainer-wanted</description>
     <homepage>http://overlays.gentoo.org/proj/sunrise</homepage>
     <owner type="project">
       <email>sunrise@gentoo.org</email>
@@ -4985,7 +4985,7 @@ FIN
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/tbc.git;a=summary</homepage>
     <owner type="person">
       <email>tomboy64@sina.cn</email>
-      <name><![CDATA[M. B.]]></name>
+      <name>M. B.</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/user/tbc.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/user/tbc.git</source>
@@ -5072,7 +5072,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>tocaro</name>
-    <description lang="en"><![CDATA[tocaro personnal o.g.o]]></description>
+    <description lang="en">tocaro personnal o.g.o</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/tocaro.git;a=summary</homepage>
     <owner type="person">
       <email>tocaro@thocar.org</email>
@@ -5146,7 +5146,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>turbogears2</name>
-    <description lang="en"><![CDATA[TurboGears 2.x-related ebuilds]]></description>
+    <description lang="en">TurboGears 2.x-related ebuilds</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/turbogears2.git;a=summary</homepage>
     <owner type="project">
       <email>sping@gentoo.org</email>
@@ -5174,7 +5174,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>TomWij</name>
-    <description lang="en"><![CDATA[New, staging and experimental ebuilds]]></description>
+    <description lang="en">New, staging and experimental ebuilds</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/TomWij.git;a=summary</homepage>
     <owner type="person">
       <email>tomwij@gentoo.org</email>
@@ -5231,7 +5231,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ubuntu</name>
-    <description lang="en"><![CDATA[Bring more software, themes and UI improvement from Ubuntu to Gentoo]]></description>
+    <description lang="en">Bring more software, themes and UI improvement from Ubuntu to Gentoo</description>
     <homepage>http://code.google.com/p/ubuntu-overlay/</homepage>
     <owner type="person">
       <email>coderoar@gmail.com</email>
@@ -5315,7 +5315,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>usr-gentoo</name>
-    <description lang="en"><![CDATA[Auto-generated repository which moves apps to /usr]]></description>
+    <description lang="en">Auto-generated repository which moves apps to /usr</description>
     <homepage>http://wiki.gentoo.org/wiki/Usr-gentoo</homepage>
     <owner type="person">
       <email>mgorny@gentoo.org</email>
@@ -5359,7 +5359,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>vdr-testing</name>
-    <description><![CDATA[Development overlay for VDR, testing branch.]]></description>
+    <description>Development overlay for VDR, testing branch.</description>
     <homepage>http://overlays.gentoo.org/proj/vdr</homepage>
     <owner type="project">
       <email>vdr@gentoo.org</email>
@@ -5369,7 +5369,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>venidera</name>
-    <description lang="en"><![CDATA[Custom overlay for use at Venidera, mostly for open cloud infrastructure (IaaS and PaaS) software from various sources]]></description>
+    <description lang="en">Custom overlay for use at Venidera, mostly for open cloud infrastructure (IaaS and PaaS) software from various sources</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/venidera.git;a=summary</homepage>
     <owner type="person">
       <email>leonardo@venidera.com</email>
@@ -5395,7 +5395,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>v-fox</name>
-    <description lang="en"><![CDATA[Public Gentoo overlay for games, emulators and more of nifty stuff]]></description>
+    <description lang="en">Public Gentoo overlay for games, emulators and more of nifty stuff</description>
     <homepage>http://github.com/v-fox</homepage>
     <owner type="person">
       <email>virtuousfox@gmail.com</email>
@@ -5439,7 +5439,7 @@ FIN
     <homepage>https://github.com/viprea/viprea-overlay</homepage>
     <owner type="person">
       <email>oscailt@oscailtfoundation.org.uk</email>
-      <name><![CDATA[Haydania-Capri Hummel]]></name>
+      <name>Haydania-Capri Hummel</name>
     </owner>
     <source type="git">git://github.com/viprea/viprea-overlay.git</source>
     <source type="git">https://github.com/viprea/viprea-overlay.git</source>
@@ -5475,7 +5475,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>voip</name>
-    <description lang="en"><![CDATA[Voice over IP related ebuilds.]]></description>
+    <description lang="en">Voice over IP related ebuilds.</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/voip.git;a=summary</homepage>
     <owner type="project">
       <email>voip@gentoo.org</email>
@@ -5514,7 +5514,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>wacfg</name>
-    <description><![CDATA[Overlay for WaCfg - webapp-configs replacement.]]></description>
+    <description>Overlay for WaCfg - webapp-configs replacement.</description>
     <homepage>http://wacfg.noova.de</homepage>
     <owner type="person">
       <email>nutz@noova.de</email>
@@ -5717,7 +5717,7 @@ FIN
     <homepage>http://blog.tremily.us/posts/Gentoo_overlay/</homepage>
     <owner>
       <email>wking@drexel.edu</email>
-      <name><![CDATA[W. Trevor King]]></name>
+      <name>W. Trevor King</name>
     </owner>
     <source type="git">git://tremily.us/wtk-overlay.git</source>
     <source type="git">http://http-git.tremily.us/wtk-overlay.git</source>
@@ -5768,7 +5768,7 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>xen</name>
-    <description><![CDATA[Experimental ebuilds for Xen.]]></description>
+    <description>Experimental ebuilds for Xen.</description>
     <homepage>http://overlays.gentoo.org/proj/xen</homepage>
     <owner type="project">
       <email>xen@gentoo.org</email>
@@ -5817,7 +5817,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>xmms-zombie</name>
-    <description><![CDATA[Overlay with XMMS-1 related zombiebuilds]]></description>
+    <description>Overlay with XMMS-1 related zombiebuilds</description>
     <homepage>http://git.goodpoint.de/?p=overlay-xmms-zombie.git;a=summary</homepage>
     <owner>
       <email>sebastian@pipping.org</email>
@@ -5841,7 +5841,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>xtreemfs</name>
-    <description lang="en"><![CDATA[XtreemFS, a cloud filesystem]]></description>
+    <description lang="en">XtreemFS, a cloud filesystem</description>
     <homepage>https://github.com/xtreemfs-gentoo/overlay</homepage>
     <owner type="person">
       <email>p@trickhieber.de</email>
@@ -5870,7 +5870,7 @@ FIN
     <homepage>http://git.zx2c4.com/portage/</homepage>
     <owner type="person">
       <email>zx2c4@gentoo.org</email>
-      <name><![CDATA[Jason A. Donenfeld]]></name>
+      <name>Jason A. Donenfeld</name>
     </owner>
     <source type="git">http://git.zx2c4.com/portage</source>
     <source type="git">ssh://gitcode@zx2c4.com/portage</source>
@@ -5920,7 +5920,7 @@ FIN
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/yoreek.git;a=summary</homepage>
     <owner type="person">
       <email>yoreek@yahoo.com</email>
-      <name><![CDATA[Yuri U.]]></name>
+      <name>Yuri U.</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/user/yoreek.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/user/yoreek.git</source>

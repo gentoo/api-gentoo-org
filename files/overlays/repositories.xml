@@ -5566,7 +5566,20 @@ FIN
     <source type="git">git@github.com:feniksa/webos-overlay.git</source>
     <feed>https://github.com/feniksa/webos-overlay/commits/master.atom</feed>
   </repo>
- <repo quality="experimental" status="unofficial">
+  <repo quality="experimental" status="unofficial">
+    <name>weuxel</name>
+    <description><![CDATA[Weuxels Personal Overlay]]></description>
+    <homepage>https://github.com/Weuxel/portage-weuxel</homepage>
+    <owner>
+      <email>devel@smash-net.org</email>
+      <name>Norman Rieß</name>
+    </owner>
+    <source type="git">https://github.com/Weuxel/portage-weuxel.git</source>
+    <source type="git">git://github.com/Weuxel/portage-weuxel.git</source>
+    <source type="git">git@github.com:Weuxel/portage-weuxel.git</source>
+    <feed>https://github.com/Weuxel/portage-weuxel/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>wine-diablo3</name>
     <description lang="en"><![CDATA[A gentoo overlay containing patches needed to make diablo3 install and run properly with wine]]></description>
     <homepage>https://github.com/simcop2387/wine-diablo3</homepage>

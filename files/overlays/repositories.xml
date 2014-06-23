@@ -2409,13 +2409,16 @@ FIN
     <name>jokey</name>
     <description><![CDATA[Jokey's Overlay - Contains pre-tree stuff like italc,
     pkgcore-test-ebuilds and lcd stuff]]></description>
-    <homepage>http://overlays.gentoo.org/dev/jokey</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/jokey.git;a=summary</homepage>
     <owner>
       <email>jokey@gentoo.org</email>
       <name>Markus Ullmann</name>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/jokey/trunk</source>
-    <feed>http://overlays.gentoo.org/dev/jokey/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/jokey.git</source>
+    <source type="git">http://git.overlays.gentoo.org/gitroot/dev/jokey.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/jokey.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/jokey.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/jokey.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>jranvier</name>

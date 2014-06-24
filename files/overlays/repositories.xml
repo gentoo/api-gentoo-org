@@ -5104,12 +5104,15 @@ FIN
     <name>toolchain</name>
     <description><![CDATA[Toolchain ebuilds that are unsuitable for the tree. Snapshots,
     unstable versions, etc...]]></description>
-    <homepage>http://overlays.gentoo.org/proj/toolchain/wiki</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/toolchain.git;a=summary</homepage>
     <owner type="project">
       <email>toolchain@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/toolchain</source>
-    <feed>http://overlays.gentoo.org/proj/toolchain/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/proj/toolchain.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/toolchain.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/toolchain.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/toolchain.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/toolchain.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>trapni</name>

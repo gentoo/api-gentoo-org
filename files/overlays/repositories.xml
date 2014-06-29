@@ -3859,12 +3859,15 @@ FIN
   <repo quality="experimental" status="official">
     <name>plan9</name>
     <description>A collection of useful ebuilds related to Plan9.</description>
-    <homepage>http://overlays.gentoo.org/dev/anant/wiki</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/anant/plan9.git;a=summary</homepage>
     <owner>
       <email>anant@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/anant/plan9</source>
-    <feed>http://overlays.gentoo.org/dev/anant/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/anant/plan9.git</source>
+    <source type="git">http://git.overlays.gentoo.org/gitroot/dev/anant/plan9.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/anant/plan9.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/anant/plan9.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/anant/plan9.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>poly-c</name>

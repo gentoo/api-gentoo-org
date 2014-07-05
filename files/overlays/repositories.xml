@@ -5478,6 +5478,20 @@ FIN
     <feed>http://github.com/viprea/viprea-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>vmacs</name>
+    <description lang="en">VMACS Personal Gentoo Overlay</description>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/vmacs.git;a=summary</homepage>
+    <owner type="person">
+      <email>vance.m.allen@gmail.com</email>
+      <name>Vance M. Allen</name>
+    </owner>
+    <source type="git">git://git.overlays.gentoo.org/user/vmacs.git</source>
+    <source type="git">http://git.overlays.gentoo.org/gitroot/user/vmacs.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/user/vmacs.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/vmacs.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/vmacs.git;a=rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>vmalov</name>
     <description lang="en"><![CDATA[vmalov's gentoo overlay]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/vmalov.git;a=summary</homepage>

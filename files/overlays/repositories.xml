@@ -4571,6 +4571,19 @@ FIN
     <feed>https://github.com/scrill/scrill-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>seafile</name>
+    <description lang="en">Portage overlay to maintain seafile ebuilds</description>
+    <homepage>https://github.com/steveeJ/seafile-portage-overlay</homepage>
+    <owner type="person">
+      <email>code@stefanjunker.de</email>
+      <name>Stefan Junker</name>
+    </owner>
+    <source type="git">https://github.com/steveeJ/seafile-portage-overlay.git</source>
+    <source type="git">git://github.com/steveeJ/seafile-portage-overlay.git</source>
+    <source type="git">git@github.com:steveeJ/seafile-portage-overlay.git</source>
+    <feed>https://github.com/steveeJ/seafile-portage-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sebasmagri</name>
     <description lang="en"><![CDATA[Overlay of Sebastián Ramírez Magrí]]></description>
     <homepage>https://github.com/sebasmagri/portage</homepage>

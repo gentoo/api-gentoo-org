@@ -1656,6 +1656,19 @@ FIN
     <source type="svn">svn://svn.freevo.org/freevo/portage/</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>frostyx</name>
+    <description lang="en"><![CDATA[FrostyX's personal overlay]]></description>
+    <homepage>http://frostyx.cz/</homepage>
+    <owner type="person">
+      <email>frostyx@email.cz</email>
+      <name>FrostyX</name>
+    </owner>
+    <source type="git">https://github.com/FrostyX/gentoo-overlay.git</source>
+    <source type="git">git://github.com/FrostyX/gentoo-overlay.git</source>
+    <source type="git">git@github.com:FrostyX/gentoo-overlay.git</source>
+    <feed>https://github.com/FrostyX/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>funroll-loops</name>
     <description>Ebuilds for webserver, osm and other software.</description>
     <homepage>https://redmine.funroll-loops.de/projects/portage-overlay/repository</homepage>

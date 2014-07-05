@@ -5278,6 +5278,19 @@ FIN
     <feed>https://github.com/twitch153/ebuilds/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>twister</name>
+    <description lang="en">Unoffical gentoo overlay for twister</description>
+    <homepage>https://github.com/ddorian1/gentoo-twister-overlay</homepage>
+    <owner type="person">
+      <email>mail@jschwab.org</email>
+      <name>Johannes Schwab</name>
+    </owner>
+    <source type="git">https://github.com/ddorian1/gentoo-twister-overlay.git</source>
+    <source type="git">git://github.com/ddorian1/gentoo-twister-overlay.git</source>
+    <source type="git">git@github.com:ddorian1/gentoo-twister-overlay.git</source>
+    <feed>https://github.com/ddorian1/gentoo-twister-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ub0rlay</name>
     <description><![CDATA[This is an ub0r overlay!]]></description>
     <homepage>http://repo.or.cz/w/ub0rlay.git</homepage>

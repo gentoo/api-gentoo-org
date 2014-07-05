@@ -2353,6 +2353,16 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/jensp.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/jensp.git;a=rss</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>jkolo</name>
+    <description lang="en">Jerzy Kolosowski's Gentoo overlay</description>
+    <homepage>https://git.kolosowscy.pl/jurek/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>jerzy@kolosowscy.pl</email>
+      <name>Jerzy Kolosowski</name>
+    </owner>
+    <source type="git">https://git.kolosowscy.pl/jurek/gentoo-overlay.git</source>
+  </repo>
   <repo quality="experimental" status="official">
     <name>jmbsvicetto</name>
     <description>Jorge Manuel B. S. Vicetto developer overlay</description>

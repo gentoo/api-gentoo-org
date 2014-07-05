@@ -1466,6 +1466,19 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/falco.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>farmboy0</name>
+    <description lang="en">Personal overlay of Enrico Horn</description>
+    <homepage>https://github.com/farmboy0/portage-overlay</homepage>
+    <owner type="person">
+      <email>farmboy0@googlemail.com</email>
+      <name>Enrico Horn</name>
+    </owner>
+    <source type="git">https://github.com/farmboy0/portage-overlay.git</source>
+    <source type="git">git://github.com/farmboy0/portage-overlay.git</source>
+    <source type="git">git@github.com:farmboy0/portage-overlay.git</source>
+    <feed>https://github.com/farmboy0/portage-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ferringb</name>
     <description><![CDATA[Brian Harring's private development overlay]]></description>
     <homepage>http://www.pkgcore.org/~ferringb/</homepage>

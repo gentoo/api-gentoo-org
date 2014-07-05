@@ -3169,6 +3169,19 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/mistafunk.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>mkeyoverlay</name>
+    <description lang="en">Overlay of Markus Knetschke</description>
+    <homepage>https://bitbucket.org/mknjc/mkeyoverlay</homepage>
+    <owner type="person">
+      <email>markus.knetschke@gmail.com</email>
+      <name>Markus Knetschke</name>
+    </owner>
+    <source type="mercurial">https://bitbucket.org/mknjc/mkeyoverlay</source>
+    <source type="mercurial">ssh://hg@bitbucket.org/mknjc/mkeyoverlay</source>
+    <feed>https://bitbucket.org/mknjc/mkeyoverlay/atom</feed>
+    <feed>https://bitbucket.org/mknjc/mkeyoverlay/rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>moonrise</name>
     <description lang="en">Bleeding edge, experimental overlay for Gentoo</description>
     <homepage>http://github.com/Barthalion/moonrise</homepage>

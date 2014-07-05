@@ -4259,6 +4259,20 @@ FIN
     <feed>https://github.com/X4/gentoo-rebel/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>rebutia</name>
+    <description lang="en">Rebutia overlay</description>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/rebutia.git;a=summary</homepage>
+    <owner type="person">
+      <email>ps@twin.jikos.cz</email>
+      <name>Pavel Sanda</name>
+    </owner>
+    <source type="git">git://git.overlays.gentoo.org/user/rebutia.git</source>
+    <source type="git">http://git.overlays.gentoo.org/gitroot/user/rebutia.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/user/rebutia.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/rebutia.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/rebutia.git;a=rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>regen2-overlay</name>
     <description lang="en">reGen2 Overlay including all changes made to Portage Tree</description>
     <homepage>https://github.com/regen2/regen2-overlay</homepage>
@@ -4283,20 +4297,6 @@ FIN
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/remi.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/remi.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/remi.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>rebutia</name>
-    <description lang="en">Rebutia overlay</description>
-    <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/rebutia.git;a=summary</homepage>
-    <owner type="person">
-      <email>ps@twin.jikos.cz</email>
-      <name>Pavel Sanda</name>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/user/rebutia.git</source>
-    <source type="git">http://git.overlays.gentoo.org/gitroot/user/rebutia.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/user/rebutia.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/rebutia.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/rebutia.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>regina-gentoo</name>

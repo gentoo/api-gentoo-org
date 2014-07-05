@@ -5698,6 +5698,19 @@ FIN
     <feed>https://github.com/Weuxel/portage-weuxel/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>wichtounet</name>
+    <description lang="en">Personal overlay of Baptiste Wicht</description>
+    <homepage>https://github.com/wichtounet/wichtounet-overlay</homepage>
+    <owner type="person">
+      <email>baptistewicht@gmail.com</email>
+      <name>Baptiste Wicht</name>
+    </owner>
+    <source type="git">https://github.com/wichtounet/wichtounet-overlay.git</source>
+    <source type="git">git://github.com/wichtounet/wichtounet-overlay.git</source>
+    <source type="git">git@github.com:wichtounet/wichtounet-overlay.git</source>
+    <feed>https://github.com/wichtounet/wichtounet-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>wine-diablo3</name>
     <description lang="en">A gentoo overlay containing patches needed to make diablo3 install and run properly with wine</description>
     <homepage>https://github.com/simcop2387/wine-diablo3</homepage>

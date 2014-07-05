@@ -3479,6 +3479,19 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/nirbheek.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/nirbheek.git;a=rss</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>nirvana</name>
+    <description lang="en"><![CDATA[Ebuilds not good enough to make it to Sabayon's for-gentoo.]]></description>
+    <homepage>https://bitbucket.org/danysk/nirvana-overlay</homepage>
+    <owner type="person">
+      <email>danilo.pianini@gmail.com</email>
+      <name>Danilo Pianini</name>
+    </owner>
+    <source type="mercurial">https://bitbucket.org/danysk/nirvana-overlay</source>
+    <source type="mercurial">ssh://hg@bitbucket.org/danysk/nirvana-overlay</source>
+    <feed>https://bitbucket.org/danysk/nirvana-overlay/atom</feed>
+    <feed>https://bitbucket.org/danysk/nirvana-overlay/rss</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>nixphoeni</name>
     <description lang="en"><![CDATA[Joe Sapp's overlay]]></description>

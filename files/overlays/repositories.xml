@@ -3789,6 +3789,19 @@ FIN
     <source type="git">https://github.com/gentoo-perl/perl-experimental-snapshots.git</source>
     <feed>https://github.com/gentoo-perl/perl-experimental-snapshots/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>petkovich</name>
+    <description lang="en">Personal overlay of Jean-Christophe Petkovich</description>
+    <homepage>https://github.com/jcpetkovich/overlay-petkovich</homepage>
+    <owner type="person">
+      <email>jcpetkovich@gmail.com</email>
+      <name>Jean-Christophe Petkovich</name>
+    </owner>
+    <source type="git">https://github.com/jcpetkovich/overlay-petkovich.git</source>
+    <source type="git">git://github.com/jcpetkovich/overlay-petkovich.git</source>
+    <source type="git">git@github.com:jcpetkovich/overlay-petkovich.git</source>
+    <feed>https://github.com/jcpetkovich/overlay-petkovich/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>php</name>
     <description>Development overlay for PHP</description>

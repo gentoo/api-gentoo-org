@@ -6116,6 +6116,19 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/zlogene.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>zoobab</name>
+    <description lang="en">Personal overlay of Benjamin Henrion</description>
+    <homepage>https://github.com/zoobab/overlay4gentoo/</homepage>
+    <owner type="person">
+      <email>zoobab@gmail.com</email>
+      <name>Benjamin Henrion</name>
+    </owner>
+    <source type="git">https://github.com/zoobab/overlay4gentoo.git</source>
+    <source type="git">git://github.com/zoobab/overlay4gentoo.git</source>
+    <source type="git">git@github.com:zoobab/overlay4gentoo.git</source>
+    <feed>https://github.com/zoobab/overlay4gentoo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>zugaina</name>
     <description>collection of ebuilds by ycarus</description>
     <homepage>http://gpo.zugaina.org/Overlays/zugaina/</homepage>

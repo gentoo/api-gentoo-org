@@ -5549,6 +5549,19 @@ FIN
     <source type="git">https://code.google.com/p/vala-overlay/</source>
     <feed>http://code.google.com/feeds/p/vala-overlay/gitchanges/basic</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>vayerx</name>
+    <description lang="en">Personal overlay of Vasiliy Yeremeyev</description>
+    <homepage>https://github.com/vayerx/vayerx-gentoo/</homepage>
+    <owner type="person">
+      <email>vayerx@gmail.com</email>
+      <name>Vasiliy Yeremeyev</name>
+    </owner>
+    <source type="git">https://github.com/vayerx/vayerx-gentoo.git</source>
+    <source type="git">git://github.com/vayerx/vayerx-gentoo.git</source>
+    <source type="git">git@github.com:vayerx/vayerx-gentoo.git</source>
+    <feed>https://github.com/vayerx/vayerx-gentoo/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>vdr-devel</name>
     <description><![CDATA[Overlay for VDR, that contains ebuilds for development version

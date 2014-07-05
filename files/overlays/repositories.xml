@@ -3451,6 +3451,19 @@ FIN
     <feed>https://github.com/Neuvoo/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>nextoo</name>
+    <description lang="en"><![CDATA[Nextoo ("Next Gentoo") overlay]]></description>
+    <homepage>https://github.com/nextoo/portage-overlay</homepage>
+    <owner type="person">
+      <email>aarontc@aarontc.com</email>
+      <name>Aaron Ten Clay</name>
+    </owner>
+    <source type="git">https://github.com/nextoo/portage-overlay.git</source>
+    <source type="git">git://github.com/nextoo/portage-overlay.git</source>
+    <source type="git">git@github.com:nextoo/portage-overlay.git</source>
+    <feed>https://github.com/nextoo/portage-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>nginx-overlay</name>
     <description lang="en">Nginx overlay</description>
     <homepage>http://github.com/gentoo/nginx-overlay</homepage>

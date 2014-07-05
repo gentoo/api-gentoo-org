@@ -44,6 +44,19 @@ FIN
     <feed>https://github.com/a3li/a3li-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>abendbrot</name>
+    <description lang="en">Desktop oriented overlay for various ebuilds and the occasional gamer</description>
+    <homepage>https://github.com/stefan-gr/abendbrot</homepage>
+    <owner type="person">
+      <email>stefan.gert.r@gmail.com</email>
+      <name>Stefan Reuter</name>
+    </owner>
+    <source type="git">https://github.com/stefan-gr/abendbrot.git</source>
+    <source type="git">git://github.com/stefan-gr/abendbrot.git</source>
+    <source type="git">git@github.com:stefan-gr/abendbrot.git</source>
+    <feed>https://github.com/stefan-gr/abendbrot/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>abnorm</name>
     <description lang="en">Personal overlay with live ebuilds</description>
     <homepage>https://github.com/faust/portage</homepage>

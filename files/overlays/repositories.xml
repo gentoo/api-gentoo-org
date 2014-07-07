@@ -715,6 +715,17 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/blueness.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>booboo</name>
+    <description>L29Ah personal overlay</description>
+    <homepage>https://github.com/l29ah/booboo</homepage>
+    <owner type="person">
+      <email>zl29ah@gmail.com</email>
+      <name>Sergey Alirzaev</name>
+    </owner>
+    <source type="git">https://github.com/l29ah/booboo.git</source>
+    <feed>https://github.com/l29ah/booboo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>bumblebee</name>
     <description lang="en">Packages related to the bumblebee project</description>
     <homepage>https://github.com/Bumblebee-Project/bumblebee-gentoo/</homepage>
@@ -2723,17 +2734,6 @@ FIN
     </owner>
     <source type="git">git://github.com/dang/kvm.git</source>
     <feed>http://github.com/feeds/dang/commits/kvm/master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>booboo</name>
-    <description>L29Ah personal overlay</description>
-    <homepage>https://github.com/l29ah/booboo</homepage>
-    <owner type="person">
-      <email>zl29ah@gmail.com</email>
-      <name>Sergey Alirzaev</name>
-    </owner>
-    <source type="git">https://github.com/l29ah/booboo.git</source>
-    <feed>https://github.com/l29ah/booboo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>LaraCraft304</name>

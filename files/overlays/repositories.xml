@@ -5614,22 +5614,26 @@ FIN
     <name>vdr-devel</name>
     <description><![CDATA[Overlay for VDR, that contains ebuilds for development version
     of VDR, and specific plugins for that version.]]></description>
-    <homepage>http://overlays.gentoo.org/proj/vdr</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/vdr/devel.git;a=summary</homepage>
     <owner type="project">
       <email>vdr@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/vdr/vdr-devel</source>
-    <feed>http://overlays.gentoo.org/proj/vdr/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/proj/vdr/devel.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/vdr/devel.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/vdr/devel.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/vdr/devel.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>vdr-testing</name>
     <description>Development overlay for VDR, testing branch.</description>
-    <homepage>http://overlays.gentoo.org/proj/vdr</homepage>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/vdr/testing.git;a=summary</homepage>
     <owner type="project">
       <email>vdr@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/vdr/testing</source>
-    <feed>http://overlays.gentoo.org/proj/vdr/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/proj/vdr/testing.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/vdr/testing.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/vdr/testing.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/vdr/testing.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>venidera</name>

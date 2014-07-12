@@ -4238,10 +4238,10 @@ FIN
       <name>Qt Team</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/qt.git</source>
-    <source type="git">http://git.overlays.gentoo.org/gitroot/proj/qt.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/qt.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/qt.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/qt.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/qt.git;a=rss</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/qt.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/qt.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>quantumsummers</name>

@@ -4227,11 +4227,9 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>qt</name>
-    <description><![CDATA[Experimental Qt4 ebuilds and related packages, provided by
-    Gentoo's Qt team. The overlay contains ebuilds for official pre-releases,
-    and live ebuilds for both the official Nokia Qt Software git repository and
-    KDE's qt-copy subversion repository. It also has various (non-KDE) packages
-    that use Qt4.]]></description>
+    <description><![CDATA[Official testing overlay for Qt and related packages, provided
+    by Gentoo's Qt team. Contains ebuilds for Qt4 and Qt5 prereleases and live ebuilds,
+    plus various (non-KDE) applications and utilities that use Qt.]]></description>
     <homepage>https://github.com/gentoo/qt</homepage>
     <owner>
       <email>qt@gentoo.org</email>

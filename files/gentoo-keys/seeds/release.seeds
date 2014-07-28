@@ -1,3 +1,26 @@
-snapshot|Gentoo Portage Snapshot Signing Key (Automated Signing Key)|None|0xDB6B8C1F96D8BF6D|release|DCD05B71EAB94199527F44ACDB6B8C1F96D8BF6D
-releng|Gentoo Linux Release Engineering (Gentoo Linux Release Signing Key)|None|0x9E6438C817072058|release|D99EAC7379A850BCE47DA5F29E6438C817072058
-weekly|Gentoo Linux Release Engineering (Automated Weekly Release Key)|None|0xBB572E0E2D182910|release|13EBBDBEDE7A12775DFDB1BABB572E0E2D182910
+{
+    "snapshot": {
+        "fingerprint": [
+            "DCD05B71EAB94199527F44ACDB6B8C1F96D8BF6D"
+        ],
+        "keydir": "snapshot", 
+        "name": "Gentoo Portage Snapshot Signing Key (Automated Signing Key)",
+        "nick": "snapshot"
+     },
+     "releng": {
+        "fingerprint": [
+            "D99EAC7379A850BCE47DA5F29E6438C817072058"
+        ],
+        "keydir": "releng", 
+        "name": "Gentoo Linux Release Engineering (Gentoo Linux Release Signing Key)",
+        "nick": "releng"
+     },
+     "weekly": {
+        "fingerprint": [
+            "13EBBDBEDE7A12775DFDB1BABB572E0E2D182910"
+        ],
+        "keydir": "weekly", 
+        "name": "Gentoo Linux Release Engineering (Automated Weekly Release Key)",
+        "nick": "weekly"
+     }
+}

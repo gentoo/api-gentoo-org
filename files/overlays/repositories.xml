@@ -788,14 +788,16 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>cell</name>
-    <description><![CDATA[Support for Cell architecture, including IBM blade and Sony
-    Playstation 3]]></description>
-    <homepage>http://overlays.gentoo.org/proj/cell</homepage>
-    <owner type="project">
-      <email>lu_zero@gentoo.org</email>
+    <description>Support for Cell architecture, including IBM blade and Sony Playstation 3.</description>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/cell.git;a=summary</homepage>
+    <owner>
+      <email>lu_zero@gentoo.org</email>     
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/cell</source>
-    <feed>http://overlays.gentoo.org/proj/cell/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/cell.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/cell.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/cell.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/cell.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/cell.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>centerim</name>
@@ -1315,13 +1317,16 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>efika</name>
-    <description><![CDATA[Temporary overlay for adding support for the EFIKA platform to
-    Gentoo.]]></description>
-    <owner type="project">
+    <description>Temporary overlay for adding support for the EFIKA platform to Gentoo.</description>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/efika.git;a=summary</homepage>
+    <owner>
       <email>wolf31o2@wolf31o2.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/efika</source>
-    <feed>http://overlays.gentoo.org/proj/efika/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/efika.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/efika.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/efika.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/efika.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/efika.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>eigenlay</name>
@@ -1565,12 +1570,15 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>finnish</name>
     <description>Finnish overlay for spell checking etc. etc.</description>
-    <homepage>http://overlays.gentoo.org/proj/finnish</homepage>
-    <owner type="project">
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/finnish.git;a=summary</homepage>
+    <owner>
       <email>flammie@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/finnish/trunk</source>
-    <feed>http://overlays.gentoo.org/proj/finnish/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/finnish.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/finnish.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/finnish.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/finnish.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/finnish.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>FireBurn</name>
@@ -1797,14 +1805,16 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>games</name>
-    <description><![CDATA[A collection of work-in-progress ebuilds and ebuilds which
-    require testing.]]></description>
-    <homepage>http://games.gentoo.org/</homepage>
+    <description>A collection of work-in-progress ebuilds and ebuilds which require testing.</description>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/games.git;a=summary</homepage>
     <owner>
       <email>games@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/games</source>
-    <feed>http://overlays.gentoo.org/proj/games/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/games.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/games.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/games.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/games.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/games.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gbin</name>
@@ -1821,12 +1831,15 @@ FIN
   <repo quality="experimental" status="official">
     <name>gcc-porting</name>
     <description>Compatibility patches for upcoming GCC releases.</description>
-    <homepage>http://overlays.gentoo.org/proj/gcc-porting/</homepage>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/gcc-porting.git;a=summary</homepage>
     <owner>
       <email>gcc-porting@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/gcc-porting</source>
-    <feed>http://overlays.gentoo.org/proj/gcc-porting/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/gcc-porting.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/gcc-porting.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/gcc-porting.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/gcc-porting.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/gcc-porting.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gechi</name>
@@ -2041,14 +2054,16 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>gnustep</name>
-    <description><![CDATA[Experimental ebuilds for GNUstep packages in Gentoo. Comments
-    and bugreports are welcome!]]></description>
-    <homepage>http://overlays.gentoo.org/proj/gnustep</homepage>
-    <owner type="project">
+    <description>Experimental ebuilds for GNUstep packages in Gentoo. Comments and bugreports are welcome!</description>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/gnustep.git;a=summary</homepage>
+    <owner>
       <email>gnustep@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/gnustep/overlay</source>
-    <feed>http://overlays.gentoo.org/proj/gnustep/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/gnustep.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/gnustep.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/gnustep.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/gnustep.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/gnustep.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>godin</name>
@@ -2681,12 +2696,15 @@ FIN
   <repo quality="experimental" status="official">
     <name>kolab</name>
     <description>Project to allow running Kolab on Gentoo.</description>
-    <homepage>http://www.gentoo.org/proj/en/kolab/index.xml</homepage>
-    <owner type="project">
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/kolab.git;a=summary</homepage>
+    <owner>
       <email>wrobel@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/kolab/overlay</source>
-    <feed>http://overlays.gentoo.org/proj/kolab/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/kolab.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/kolab.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/kolab.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/kolab.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/kolab.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>kork</name>
@@ -3077,12 +3095,15 @@ FIN
   <repo quality="experimental" status="official">
     <name>marineam-xen</name>
     <description>Experimental ebuilds for Xen.</description>
-    <homepage>http://overlays.gentoo.org/dev/marineam</homepage>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=dev/marineam;a=rss/xen.git</homepage>
     <owner>
       <email>marineam@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/marineam/xen</source>
-    <feed>http://overlays.gentoo.org/dev/marineam/timeline</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/marineam/xen.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/marineam/xen.git</source>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/marineam/xen.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/marineam;a=rss/xen.git</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/marineam;a=rss/xen.git</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>mate</name>
@@ -3604,12 +3625,15 @@ FIN
   <repo quality="experimental" status="official">
     <name>nx</name>
     <description>Overlay for the NX/FreeNX packages for Gentoo.</description>
-    <homepage>http://overlays.gentoo.org/proj/nx</homepage>
-    <owner type="project">
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/nx.git;a=summary</homepage>
+    <owner>
       <email>nx@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/nx/testing</source>
-    <feed>http://overlays.gentoo.org/proj/nx/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/nx.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/nx.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/nx.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/nx.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/nx.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>nx-stormdata</name>
@@ -3701,13 +3725,16 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>openmoko</name>
-    <description><![CDATA[Openmoko's project overlay.]]></description>
-    <homepage>http://overlays.gentoo.org/proj/embedded/wiki/openmoko</homepage>
+    <description>Openmoko's project overlay.</description>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/embedded/openmoko.git;a=summary</homepage>
     <owner>
-      <email>OdinsHorse@googlemail.com</email>
+      <email>OdinsHorse@googlemail.com</email> 
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/embedded/openmoko</source>
-    <feed>http://overlays.gentoo.org/proj/embedded/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/embedded/openmoko.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/embedded/openmoko.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/embedded/openmoko.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/embedded/openmoko.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/embedded/openmoko.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>openoffice-geki</name>
@@ -4070,36 +4097,42 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>postgresql-experimental</name>
-    <description><![CDATA[Development overlay for PostgreSQL, experimental
-    branch.]]></description>
-    <homepage>http://overlays.gentoo.org/proj/postgresql</homepage>
-    <owner type="project">
+    <description>Development overlay for PostgreSQL, experimental branch.</description>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/postgresql/experimental.git;a=summary</homepage>
+    <owner>
       <email>pgsql-bugs@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/postgresql/experimental</source>
-    <feed>http://overlays.gentoo.org/proj/postgresql/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/postgresql/experimental.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/postgresql/experimental.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/postgresql/experimental.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/postgresql/experimental.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/postgresql/experimental.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>postgresql-testing</name>
-    <description><![CDATA[Development overlay for PostgreSQL, testing
-    branch.]]></description>
-    <homepage>http://overlays.gentoo.org/proj/postgresql</homepage>
-    <owner type="project">
-      <email>pgsql-bugs@gentoo.org</email>
+    <description>Development overlay for PostgreSQL, testing branch.</description>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/postgresql/testing.git;a=summary</homepage>
+    <owner>
+      <email>pgsql-bugs@gentoo.org</email> 
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/postgresql/testing</source>
-    <feed>http://overlays.gentoo.org/proj/postgresql/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/postgresql/testing.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/postgresql/testing.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/postgresql/testing.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/postgresql/testing.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/postgresql/testing.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>powerpc</name>
-    <description><![CDATA[Support for PowerPC-based ebuilds that are not appropriate for
-    the portage tree.]]></description>
-    <homepage>http://overlays.gentoo.org/proj/powerpc</homepage>
-    <owner type="project">
+    <description>Support for PowerPC-based ebuilds that are not appropriate for the portage tree.</description>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/powerpc.git;a=summary</homepage>
+    <owner>
       <email>ranger@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/powerpc</source>
-    <feed>http://overlays.gentoo.org/proj/powerpc/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/powerpc.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/powerpc.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/powerpc.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/powerpc.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/powerpc.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>powerman</name>
@@ -4502,13 +4535,16 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>rox</name>
-    <description>Experimental ebuilds for the Rox Desktop.</description>
-    <homepage>http://overlays.gentoo.org/proj/rox</homepage>
-    <owner type="project">
+    <description>Experimental ebuilds for Rox Desktop.</description>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/rox.git;a=summary</homepage>
+    <owner>
       <email>rox@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/rox/trunk/overlay/</source>
-    <feed>http://overlays.gentoo.org/proj/rox/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/rox.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/rox.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/rox.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/rox.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/rox.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>rubenqba</name>
@@ -4750,13 +4786,16 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>secondlife</name>
-    <description><![CDATA[Matsuu's Second Life Overlay]]></description>
-    <homepage>http://overlays.gentoo.org/dev/matsuu/</homepage>
+    <description>Matsuu's Second Life Overlay.</description>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=dev/matsuu/secondlife.git;a=summary</homepage>
     <owner>
       <email>matsuu@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/matsuu/secondlife/</source>
-    <feed>http://overlays.gentoo.org/dev/matsuu/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/matsuu/secondlife.git</source>
+    <source type="git">git://git.overlays.gentoo.org/dev/matsuu/secondlife.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/matsuu/secondlife.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/matsuu/secondlife.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/matsuu/secondlife.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>seden</name>
@@ -5242,25 +5281,29 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>tcl-8.6</name>
-    <description><![CDATA[Tcl/Tk 8.8, Itcl/Itk 4 (beta) and other fixed
-    packages]]></description>
-    <homepage>https://overlays.gentoo.org/dev/mescalinum</homepage>
+    <description>Tcl/Tk 8.8, Itcl/Itk 4 (beta) and other fixed packages.</description>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=dev/mescalinum/tcl-8.6.git;a=summary</homepage>
     <owner>
       <email>mescalinum@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/mescalinum/tcl-8.6</source>
-    <feed>http://overlays.gentoo.org/dev/mescalinum/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/mescalinum/tcl-8.6.git</source>
+    <source type="git">git://git.overlays.gentoo.org/dev/mescalinum/tcl-8.6.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/mescalinum/tcl-8.6.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/mescalinum/tcl-8.6.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/mescalinum/tcl-8.6.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>tcl-multislot</name>
-    <description><![CDATA[Tcl/Tk multi-slot system, with tcltk eselect module for
-    switching across multiple versions (actually: 8.4 8.5 8.6)]]></description>
-    <homepage>https://overlays.gentoo.org/dev/mescalinum</homepage>
+    <description>Tcl/Tk multi-slot system, with tcltk eselect module for switching across multiple versions (actually: 8.4 8.5 8.6).</description>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=dev/mescalinum/tcl-multislot.git;a=summary</homepage>
     <owner>
       <email>mescalinum@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/dev/mescalinum/tcl-multislot</source>
-    <feed>http://overlays.gentoo.org/dev/mescalinum/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/mescalinum/tcl-multislot.git</source>
+    <source type="git">git://git.overlays.gentoo.org/dev/mescalinum/tcl-multislot.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/mescalinum/tcl-multislot.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/mescalinum/tcl-multislot.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/mescalinum/tcl-multislot.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>tegra</name>
@@ -5882,16 +5925,16 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>webapps-experimental</name>
-    <description><![CDATA[This is the home of Gentoo's wider collection of ebuilds for
-    web-based applications. This is where we collect all the ebuilds submitted
-    to Bugzilla by our users, and make them available in an easy-to-use overlay
-    for wider testing.]]></description>
-    <homepage>http://overlays.gentoo.org</homepage>
-    <owner type="project">
+    <description>This is the home of Gentoo's wider collection of ebuilds for web-based applications. This is where we collect all the ebuilds submitted to Bugzilla by our users, and make them available in an easy-to-use overlay for wider testing.</description>
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/webapps-experimental.git;a=summary</homepage>
+    <owner>
       <email>web-apps@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/webapps/experimental</source>
-    <feed>http://overlays.gentoo.org/proj/webapps/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/webapps-experimental.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/webapps-experimental.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/webapps-experimental.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/webapps-experimental.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/webapps-experimental.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>webos</name>
@@ -6088,12 +6131,15 @@ FIN
   <repo quality="experimental" status="official">
     <name>xen</name>
     <description>Experimental ebuilds for Xen.</description>
-    <homepage>http://overlays.gentoo.org/proj/xen</homepage>
-    <owner type="project">
+    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/xen.git;a=summary</homepage>
+    <owner>
       <email>xen@gentoo.org</email>
     </owner>
-    <source type="svn">svn://overlays.gentoo.org/proj/xen/overlay</source>
-    <feed>http://overlays.gentoo.org/proj/xen/timeline</feed>
+    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/xen.git</source>
+    <source type="git">git://git.overlays.gentoo.org/proj/xen.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/xen.git</source>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/xen.git;a=atom</feed>
+    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/xen.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>xfce-dev</name>

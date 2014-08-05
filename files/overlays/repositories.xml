@@ -1828,19 +1828,6 @@ FIN
     <source type="git">https://github.com/gbin/gbin-overlay.git</source>
     <feed>https://github.com/gbin/gbin-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>gcc-porting</name>
-    <description>Compatibility patches for upcoming GCC releases.</description>
-    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/gcc-porting.git;a=summary</homepage>
-    <owner>
-      <email>gcc-porting@gentoo.org</email>
-    </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/gcc-porting.git</source>
-    <source type="git">git://git.overlays.gentoo.org/proj/gcc-porting.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/gcc-porting.git</source>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/gcc-porting.git;a=atom</feed>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/gcc-porting.git;a=rss</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>gechi</name>
     <description><![CDATA[The Gechi Overlay offers a repository of Gentoo Ebuilds made by
@@ -3722,19 +3709,6 @@ FIN
     </owner>
     <source type="git">git://github.com/mekanix/oomidi-overlay.git</source>
     <feed>https://github.com/mekanix/oomidi-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>openmoko</name>
-    <description>Openmoko's project overlay.</description>
-    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/embedded/openmoko.git;a=summary</homepage>
-    <owner>
-      <email>OdinsHorse@googlemail.com</email> 
-    </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/embedded/openmoko.git</source>
-    <source type="git">git://git.overlays.gentoo.org/proj/embedded/openmoko.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/embedded/openmoko.git</source>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/embedded/openmoko.git;a=atom</feed>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/embedded/openmoko.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>openoffice-geki</name>

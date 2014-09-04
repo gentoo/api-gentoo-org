@@ -47,17 +47,6 @@ SYN
   </repo>
 FIN
 -->
-  <repo quality="experimental" status="official">
-    <name>a3li</name>
-    <description lang="en"><![CDATA[a3li's ebuild ward]]></description>
-    <homepage>https://github.com/a3li/a3li-overlay</homepage>
-    <owner type="person">
-      <email>a3li@gentoo.org</email>
-      <name>Alex Legler</name>
-    </owner>
-    <source type="git">git://github.com/a3li/a3li-overlay.git</source>
-    <feed>https://github.com/a3li/a3li-overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>abendbrot</name>
     <description lang="en">Desktop oriented overlay for various ebuilds and the occasional gamer</description>

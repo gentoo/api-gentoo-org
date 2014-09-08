@@ -2242,6 +2242,19 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/heroxbd.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>hnaparst</name>
+    <description lang="en">Harold Naparst's Gentoo overlay</description>
+    <homepage>https://github.com/hnaparst/overlay</homepage>
+    <owner type="person">
+      <email>harold@alum.mit.edu</email>
+      <name>Harold Naparst</name>
+    </owner>
+    <source type="git">https://github.com/hnaparst/overlay.git</source>
+    <source type="git">git://github.com/hnaparst/overlay.git</source>
+    <source type="git">git@github.com:hnaparst/overlay.git</source>
+    <feed>https://github.com/hnaparst/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>humble</name>
     <description lang="en">Humble Indie Bundle unofficial overlay for Gentoo</description>
     <homepage>https://github.com/pashazz/humble-overlay</homepage>

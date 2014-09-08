@@ -3458,6 +3458,19 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/nelchael.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/nelchael.git;a=rss</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>netcrave</name>
+    <description lang="en">Netcrave Communications Gentoo Overlay</description>
+    <homepage>https://github.com/paigeadele/netcrave</homepage>
+    <owner type="person">
+      <email>paigeadele@gmail.com</email>
+      <name>Paige Thompson</name>
+    </owner>
+    <source type="git">https://github.com/paigeadele/netcrave.git</source>
+    <source type="git">git://github.com/paigeadele/netcrave.git</source>
+    <source type="git">git@github.com:paigeadele/netcrave.git</source>
+    <feed>https://github.com/paigeadele/netcrave/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>neurogeek</name>
     <description>Jesus Rivero developer overlay</description>

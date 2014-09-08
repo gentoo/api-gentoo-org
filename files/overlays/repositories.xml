@@ -1741,6 +1741,19 @@ FIN
     <source type="git">git://git.funroll-loops.de/portage-overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>funtoo-deadbeef</name>
+    <description lang="en">Deadbeef player overlay for funtoo linux</description>
+    <homepage>https://github.com/damex/funtoo-deadbeef</homepage>
+    <owner type="person">
+      <email>damex.pp@gmail.com</email>
+      <name>Roman Kuzmitsky</name>
+    </owner>
+    <source type="git">https://github.com/damex/funtoo-deadbeef.git</source>
+    <source type="git">git://github.com/damex/funtoo-deadbeef.git</source>
+    <source type="git">git@github.com:damex/funtoo-deadbeef.git</source>
+    <feed>https://github.com/damex/funtoo-deadbeef/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>funtoo-overlay</name>
     <description lang="en">Funtoo overlay (all funtoo ebuild/eclass changes in one place)</description>
     <homepage>https://github.com/funtoo/funtoo-overlay</homepage>

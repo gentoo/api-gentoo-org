@@ -2550,6 +2550,19 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/jokey.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>jorgicio</name>
+    <description lang="en">Gentoo repository made by Jorgicio.</description>
+    <homepage>https://github.com/jorgicio/jorgicio-gentoo</homepage>
+    <owner type="person">
+      <email>Jorge Pizarro Callejas</email>
+      <name>jpizarro@inf.utfsm.cl</name>
+    </owner>
+    <source type="git">https://github.com/jorgicio/jorgicio-gentoo.git</source>
+    <source type="git">git://github.com/jorgicio/jorgicio-gentoo.git</source>
+    <source type="git">git@github.com:jorgicio/jorgicio-gentoo.git</source>
+    <feed>https://github.com/jorgicio/jorgicio-gentoo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>jranvier</name>
     <description lang="en">Experimental cryptoanarchism-related ebuilds</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/jranvier.git;a=summary</homepage>

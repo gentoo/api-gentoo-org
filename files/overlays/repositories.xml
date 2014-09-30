@@ -5857,12 +5857,12 @@ FIN
     <name>voyageur</name>
     <description><![CDATA[Voyageur's random ebuilds stuff]]></description>
     <homepage>
-    http://cafarelli.fr/websvn/listing.php?repname=voyageur-overlay</homepage>
+    https://cafarelli.fr/cgi-bin/cgit.cgi/voyageur-overlay/</homepage>
     <owner>
       <email>voyageur@gentoo.org</email>
     </owner>
-    <source type="svn">https://cafarelli.fr/svn/voyageur-overlay</source>
-    <feed>http://cafarelli.fr/websvn/rss.php?repname=voyageur-overlay&amp;path=&amp;isdir=1</feed>
+    <source type="git">https://cafarelli.fr/git/voyageur-overlay/</source>
+    <feed>https://cafarelli.fr/cgi-bin/cgit.cgi/voyageur-overlay/atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>vps</name>

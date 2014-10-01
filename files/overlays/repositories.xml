@@ -2645,6 +2645,7 @@ FIN
       <name>KDE Team</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/kde.git</source>
+    <source type="git">https://github.com/gentoo/kde.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/proj/kde.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/kde.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/kde.git;a=atom</feed>

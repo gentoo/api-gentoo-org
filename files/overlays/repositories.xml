@@ -4382,6 +4382,16 @@ FIN
     <feed>http://github.com/feeds/ramereth/commits/ramereth-overlay/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>rasdark</name>
+    <description>rasdark personal overlay</description>
+    <homepage>https://github.com/rasdark/overlay</homepage>
+    <owner>
+        <email>andrew.senik@gmail.com</email>
+        <name>Andrey Senik</name>
+    </owner>
+    <source type="git">git://github.com/rasdark/overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>raw</name>
     <description>some raw stuff</description>
     <homepage>http://code.google.com/p/raw/</homepage>

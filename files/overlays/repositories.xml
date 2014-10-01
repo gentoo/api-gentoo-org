@@ -775,6 +775,18 @@ FIN
     </owner>
     <source type="git">git://git.calculate.ru/calculate/overlay.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>causelay</name>
+    <description><![CDATA[Ari Malinen's personal overlay]]></description>
+    <homepage>https://github.com/causes-/causelay</homepage>
+    <owner>
+        <email>ari.malinen@gmail.com</email>
+        <name>Ari Malinen</name>
+    </owner>
+    <source type="git">https://github.com/causes-/causelay.git</source>
+    <source type="git">git@github.com:causes-/causelay.git</source>
+    <feed>https://github.com/causes-/causelay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>cell</name>
     <description>Support for Cell architecture, including IBM blade and Sony Playstation 3.</description>
@@ -985,19 +997,7 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/deathwing00.git;a=rss</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/deathwing00.git;a=atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>deferlay</name>
-    <description><![CDATA[Ari Malinen's personal overlay]]></description>
-    <homepage>https://github.com/defer-/deferlay</homepage>
-    <owner>
-        <email>ari.malinen@gmail.com</email>
-        <name>Ari Malinen</name>
-    </owner>
-    <source type="git">https://github.com/defer-/deferlay.git</source>
-    <source type="git">git@github.com:defer-/deferlay.git</source>
-    <feed>https://github.com/defer-/deferlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="official">
+ <repo quality="experimental" status="official">
     <name>dertobi123</name>
     <description><![CDATA[Some ebuilds not yet ready for mainstream portage from Tobias
     Scherbaum [dertobi123@gentoo.org].]]></description>

@@ -4064,6 +4064,16 @@ FIN
     <feed>http://git.pioto.org/gitweb/pioto-overlay.git?a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>piwik</name>
+    <description lang="en">Unofficial ebuilds for Piwik</description>
+    <homepage>https://gitlab.awesome-it.de/overlays/piwik</homepage>
+    <owner type="person">
+        <email>daniel.morlock@awesome-it.de</email>
+        <name>Daniel Morlock</name>
+    </owner>
+    <source type="git">https://gitlab.awesome-it.de/overlays/piwik.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>plab</name>
     <description lang="en">Paul Labedan user overlay</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/plab.git;a=summary</homepage>

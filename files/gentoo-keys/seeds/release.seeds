@@ -1,26 +1,34 @@
 {
+    "gkeys": {
+        "fingerprint": [
+            "D2DE1DBBA0F43EBA341B97D8825533CBF6CD6C97"
+        ], 
+        "keydir": "release", 
+        "name": "Gentoo-Linux Gentoo-keys Project Signing Key", 
+        "nick": "gkeys"
+    }, 
+    "releng": {
+        "fingerprint": [
+            "D99EAC7379A850BCE47DA5F29E6438C817072058"
+        ], 
+        "keydir": "release", 
+        "name": "Gentoo Linux Release Engineering (Manual) Signing Key", 
+        "nick": "releng"
+    }, 
     "snapshot": {
         "fingerprint": [
             "DCD05B71EAB94199527F44ACDB6B8C1F96D8BF6D"
-        ],
-        "keydir": "snapshot", 
-        "name": "Gentoo Portage Snapshot Signing Key (Automated Signing Key)",
+        ], 
+        "keydir": "release", 
+        "name": "Gentoo Tree Snapshot (Automated) Signing Key", 
         "nick": "snapshot"
-     },
-     "releng": {
-        "fingerprint": [
-            "D99EAC7379A850BCE47DA5F29E6438C817072058"
-        ],
-        "keydir": "releng", 
-        "name": "Gentoo Linux Release Engineering (Gentoo Linux Release Signing Key)",
-        "nick": "releng"
-     },
-     "weekly": {
+    }, 
+    "weekly": {
         "fingerprint": [
             "13EBBDBEDE7A12775DFDB1BABB572E0E2D182910"
-        ],
-        "keydir": "weekly", 
-        "name": "Gentoo Linux Release Engineering (Automated Weekly Release Key)",
+        ], 
+        "keydir": "release", 
+        "name": "Gentoo Linux Release Engineering (Automated, Weekly) Signing Key", 
         "nick": "weekly"
-     }
+    }
 }

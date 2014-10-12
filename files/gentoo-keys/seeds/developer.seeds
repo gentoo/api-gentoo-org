@@ -48,14 +48,6 @@
         "name": "Alon Bar-Lev", 
         "nick": "alonbl"
     }, 
-    "alunduil": {
-        "fingerprint": [
-            "91A0B887758F25EDF70607508A7DE4BD92FEA28B"
-        ], 
-        "keydir": "alunduil", 
-        "name": "Alex Brandt", 
-        "nick": "alunduil"
-    }, 
     "amynka": {
         "fingerprint": [
             "1B841D8FD5E1F621EBBDF9D53B89D45034E69781"
@@ -168,14 +160,6 @@
         "keydir": "blueboar", 
         "name": "Vladimir Romanov", 
         "nick": "blueboar"
-    }, 
-    "blueknight": {
-        "fingerprint": [
-            "6EB3B63F283217BAC4B39B18739EF0AD19EC14B3"
-        ], 
-        "keydir": "blueknight", 
-        "name": "Yury German", 
-        "nick": "blueknight"
     }, 
     "blueness": {
         "fingerprint": [
@@ -1114,7 +1098,7 @@
     }, 
     "nimiux": {
         "fingerprint": [
-            "468D000F0D849CF5472C0ADE0DAC024AD628E536"
+            "AB7E4EDEF04B2D7C52F915177FEB832CF253DB15"
         ], 
         "keydir": "nimiux", 
         "name": "Jos\u00e9 Mar\u00eda Alonso", 
@@ -1494,7 +1478,7 @@
     }, 
     "teiresias": {
         "fingerprint": [
-            "66BD74A036D522F51DD70A3C7F2A16726521e06D"
+            "66BD74A036D522F51DD70A3C7F2A16726521E06D"
         ], 
         "keydir": "teiresias", 
         "name": "Christopher Brannon", 
@@ -1614,7 +1598,6 @@
     }, 
     "ulm": {
         "fingerprint": [
-            "954A866767D2318D4F66445539EA32FE8222EEEC", 
             "578C65C85CC4A069C7FEE30FE7BE08CA7DC6EA25"
         ], 
         "keydir": "ulm", 

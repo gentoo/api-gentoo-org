@@ -2797,14 +2797,14 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>last-hope</name>
     <description>A gentoo portage overlay with a set of too exotic, or unusal ebuilds for the sunrise overlay or the main tree.</description>
-    <homepage>http://www.j-schmitz.net/overlays/last-hope/</homepage>
+    <homepage>http://ercpe.de/projects/last-hope-gentoo-portage-overlay</homepage>
     <owner type="person">
       <email>johann@j-schmitz.net</email>
       <name>Johann Schmitz</name>
     </owner>
     <source type="git">git://github.com/ercpe/lh-overlay.git</source>
     <source type="git">https://github.com/ercpe/lh-overlay.git</source>
-    <feed>http://www.j-schmitz.net/overlays/last-hope/feed.xml</feed>
+    <feed>https://github.com/ercpe/lh-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>laurentb</name>

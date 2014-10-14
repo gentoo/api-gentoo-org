@@ -343,7 +343,8 @@
     }, 
     "dolsen": {
         "fingerprint": [
-            "8688FD1CC71C1C04EAEA42372214D90A014F17CB"
+            "8688FD1CC71C1C04EAEA42372214D90A014F17CB", 
+            "262A829DFEAF9092A42C1C3ED80F5F1E1245142E"
         ], 
         "keydir": "dolsen", 
         "name": "Brian Dolbec", 

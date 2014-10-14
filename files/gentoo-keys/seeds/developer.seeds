@@ -686,6 +686,14 @@
         "name": "Jan Kundr\u00e1t", 
         "nick": "jkt"
     }, 
+    "jlec": {
+        "fingerprint": [
+            "914B84822B362B84BF9642DE5F4673C782105C98"
+        ], 
+        "keydir": "jlec", 
+        "name": "Justin Lecher", 
+        "nick": "jlec"
+    }, 
     "jmbsvicetto": {
         "fingerprint": [
             "36F249FCA28074A0677E0EBF69ECE3CBBB0E6E98"
@@ -1467,6 +1475,14 @@
         "keydir": "swift", 
         "name": "Sven Vermeulen", 
         "nick": "swift"
+    }, 
+    "tamiko": {
+        "fingerprint": [
+            "1EE97BF66221FC3069B5CF90B5A4E06FBD3A97A3"
+        ], 
+        "keydir": "tamiko", 
+        "name": "Matthias Maier", 
+        "nick": "tamiko"
     }, 
     "tampakrap": {
         "fingerprint": [

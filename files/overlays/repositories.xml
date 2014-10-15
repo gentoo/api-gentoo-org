@@ -3340,7 +3340,8 @@ FIN
     <source type="git">git://git.overlays.gentoo.org/user/mrueg.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/user/mrueg.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/user/mrueg.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/mrueg.git;a=atom</feed>
+	<source type="git">https://github.com/mrueg/mrueg-overlay.git</source>
+	<feed>http://git.overlays.gentoo.org/gitweb/?p=user/mrueg.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/mrueg.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">

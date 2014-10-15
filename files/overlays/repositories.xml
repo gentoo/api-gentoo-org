@@ -3334,7 +3334,7 @@ FIN
     <description lang="en">User overlay</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/mrueg.git;a=summary</homepage>
     <owner type="person">
-      <email>gentoo@rueg.eu</email>
+      <email>mrueg@gentoo.org</email>
       <name><![CDATA[Manuel RÃ¼ger (mrueg)]]></name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/user/mrueg.git</source>

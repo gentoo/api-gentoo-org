@@ -2797,7 +2797,7 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>last-hope</name>
     <description>A gentoo portage overlay with a set of too exotic, or unusal ebuilds for the sunrise overlay or the main tree.</description>
-    <homepage>http://ercpe.de/projects/last-hope-gentoo-portage-overlay</homepage>
+    <homepage>https://ercpe.de/projects/last-hope-gentoo-portage-overlay</homepage>
     <owner type="person">
       <email>johann@j-schmitz.net</email>
       <name>Johann Schmitz</name>

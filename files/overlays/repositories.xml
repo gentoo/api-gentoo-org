@@ -942,6 +942,19 @@ FIN
     <feed>https://github.com/feeds/damex/commits/damex-overlay/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>dannyboy48888</name>
+    <description lang="en">Overlay of Daniel Witzel</description>
+    <homepage>https://github.com/dannyboy48888/dannyboy48888-overlay</homepage>
+    <owner type="person">
+      <email>dannyboy48888@gmail.com</email>
+      <name>Daniel Witzel</name>
+    </owner>
+    <source type="git">https://github.com/dannyboy48888/dannyboy48888-overlay.git</source>
+    <source type="git">git://github.com/dannyboy48888/dannyboy48888-overlay.git</source>
+    <source type="git">git@github.com:dannyboy48888/dannyboy48888-overlay.git</source>
+    <feed>https://github.com/dannyboy48888/dannyboy48888-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>dauleet</name>
     <description lang="en">Overlay of yermandu</description>
     <homepage>https://github.com/yermandu/dauleet</homepage>

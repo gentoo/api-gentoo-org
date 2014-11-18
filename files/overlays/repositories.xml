@@ -2267,6 +2267,20 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/heroxbd.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>hibiscus</name>
+    <description lang="en">User overlay</description>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/hibiscus.git;a=summary</homepage>
+    <owner type="person">
+      <email>fabian.koester@posteo.de</email>
+      <name>Fabian K&#246;ster</name>
+    </owner>
+    <source type="git">git://git.overlays.gentoo.org/user/hibiscus.git</source>
+    <source type="git">http://git.overlays.gentoo.org/gitroot/user/hibiscus.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/user/hibiscus.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/hibiscus.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/hibiscus.git;a=rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>hnaparst</name>
     <description lang="en">Harold Naparst's Gentoo overlay</description>
     <homepage>https://github.com/hnaparst/overlay</homepage>

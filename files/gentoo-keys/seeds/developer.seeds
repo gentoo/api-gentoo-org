@@ -145,6 +145,14 @@
         "name": "Nathan Phillip Brink", 
         "nick": "binki"
     }, 
+    "bircoph": {
+        "fingerprint": [
+            "63EB04FAA30C76E2952E6ED6565953B95372756C"
+        ], 
+        "keydir": "bircoph", 
+        "name": "Andrew Savchenko", 
+        "nick": "bircoph"
+    }, 
     "blackace": {
         "fingerprint": [
             "D34A474DCDC313A243F0F33B315CEC520A5F7D12"
@@ -834,7 +842,7 @@
     }, 
     "klondike": {
         "fingerprint": [
-            "F266633CEAE80390CEA6254B71FACCD665F80660"
+            "27BAAD13B77D164344FE787F5608AEA28AAFC0EC"
         ], 
         "keydir": "klondike", 
         "name": "Francisco Blas Izquierdo Riera", 
@@ -1186,6 +1194,14 @@
         "keydir": "peper", 
         "name": "Piotr Jaroszy\u0144ski", 
         "nick": "peper"
+    }, 
+    "perfinion": {
+        "fingerprint": [
+            "63191CE94183098689CAB8DB7EF137EC935B0EAF"
+        ], 
+        "keydir": "perfinion", 
+        "name": "Jason Zaman", 
+        "nick": "perfinion"
     }, 
     "pesa": {
         "fingerprint": [

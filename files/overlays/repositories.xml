@@ -1844,6 +1844,17 @@ FIN
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/games.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>games-overlay</name>
+    <description lang="en">gentoo overlay containing games ebuilds only</description>
+    <homepage>https://github.com/hasufell/games-overlay</homepage>
+    <owner type="person">
+		<email>hasufell@posteo.de</email>
+		<name>Julian Ospald</name>
+    </owner>
+    <source type="git">git://github.com/hasufell/games-overlay.git</source>
+    <feed>https://github.com/hasufell/games-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gbin</name>
     <description lang="en">Various gentoo ebuilds tweaked mainly around multimedia, python and forensics.</description>
     <homepage>https://github.com/gbin/gbin-overlay</homepage>

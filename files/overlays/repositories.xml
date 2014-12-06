@@ -629,19 +629,19 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/bicatali.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/bicatali.git;a=rss</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
+  <repo quality="experimental" status="official">
     <name>bircoph</name>
-    <description lang="en"><![CDATA[bircoph's user overlay]]></description>
-    <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/bircoph.git;a=summary</homepage>
+    <description lang="en">Developer overlay</description>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/bircoph.git;a=summary</homepage>
     <owner type="person">
-      <email>bircoph@gmail.com</email>
+      <email>bircoph@gentoo.org</email>
       <name>Andrew Savchenko</name>
     </owner>
-    <source type="git">git://git.overlays.gentoo.org/user/bircoph.git</source>
-    <source type="git">http://git.overlays.gentoo.org/gitroot/user/bircoph.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/user/bircoph.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/bircoph.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/bircoph.git;a=rss</feed>
+    <source type="git">git://git.overlays.gentoo.org/dev/bircoph.git</source>
+    <source type="git">http://git.overlays.gentoo.org/gitroot/dev/bircoph.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/bircoph.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/bircoph.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/bircoph.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bitcoin</name>

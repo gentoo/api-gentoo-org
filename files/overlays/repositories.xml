@@ -122,12 +122,15 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>alatar-lay</name>
     <description lang="en"><![CDATA[Alatar`s personal ebuilds]]></description>
-    <homepage>http://alatar-lay.berlios.de/</homepage>
+    <homepage>https://github.com/alatarum/alatar-lay</homepage>
     <owner type="person">
-      <email>alatarum@yandex.ru</email>
+      <email>alatar_@list.ru</email>
       <name>Alatar</name>
     </owner>
-    <source type="svn">http://svn.berlios.de/svnroot/repos/alatar-lay/trunk/</source>
+    <source type="git">https://github.com/alatarum/alatar-lay.git</source>
+    <source type="git">git://github.com/alatarum/alatar-lay.git</source>
+    <source type="git">git@github.com:alatarum/alatar-lay.git</source>
+    <feed>https://github.com/alatarum/alatar-lay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>alba-overlay</name>

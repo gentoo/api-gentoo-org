@@ -242,10 +242,6 @@
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://ftp-stud.hs-esslingen.de/gentoo/</uri>
     </mirror>
     <mirror>
-      <name>mneisen.org</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mneisen.org/</uri>
-    </mirror>
-    <mirror>
       <name>de-mirror.org</name>
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://de-mirror.org/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://de-mirror.org/gentoo/</uri>

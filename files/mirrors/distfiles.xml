@@ -449,7 +449,6 @@
     </mirror>
     <mirror>
       <name>Star Studio of UESTC</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://mirrors.stuhome.net/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.stuhome.net/gentoo/</uri>
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://mirrors.stuhome.net/gentoo/</uri>
     </mirror>

@@ -20,10 +20,6 @@
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.gossamerhost.com</uri>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://gentoo.gossamerhost.com/gentoo-distfiles/</uri>
     </mirror>
-    <mirror>
-      <name>mirror.the-best-hosting.net</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.the-best-hosting.net</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="North America" country="US" countryname="USA">
     <mirror>

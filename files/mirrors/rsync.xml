@@ -24,10 +24,6 @@
       <name>Arctic Network Mirrors - rsync5.ca.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync5.ca.gentoo.org</uri>
     </mirror>
-    <mirror>
-      <name>mirror.the-best-hosting.net - rsync6.ca.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync6.ca.gentoo.org</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="North America (rsync.namerica.gentoo.org)" country="US" countryname="USA">
     <mirror>

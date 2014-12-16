@@ -70,12 +70,6 @@
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.usu.edu/mirrors/gentoo/</uri>
     </mirror>
     <mirror>
-      <name>Argonne National Laboratory</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.mcs.anl.gov/pub/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirror.mcs.anl.gov/pub/gentoo/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.mcs.anl.gov/gentoo/</uri>
-    </mirror>
-    <mirror>
       <name>Easynews NNTP Hosting</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirrors.easynews.com/linux/gentoo/</uri>
     </mirror>

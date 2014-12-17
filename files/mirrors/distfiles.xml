@@ -317,10 +317,10 @@
   </mirrorgroup>
   <mirrorgroup region="Europe" country="PT" countryname="Portugal">
     <mirror>
-      <name>Instituto Superior Técnico</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.rnl.ist.utl.pt/pub/gentoo/gentoo-distfiles/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ftp.rnl.ist.utl.pt/pub/gentoo/gentoo-distfiles/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://ftp.rnl.ist.utl.pt/pub/gentoo/gentoo-distfiles/</uri>
+      <name>RNL - Técnico Lisboa</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/</uri>
     </mirror>
     <mirror>
       <name>University of Coimbra</name>

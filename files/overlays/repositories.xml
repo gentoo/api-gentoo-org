@@ -4850,8 +4850,9 @@ FIN
     increase the rate of development of scientific packages for Gentoo, but
     ebuilds in this repository are by their very nature more experimental. If
     you wish to use them you should be willing to help test and report
-    bugs.]]></description>
-    <homepage>http://overlays.gentoo.org/proj/science/wiki/en</homepage>
+    bugs. For contribution read http://wiki.gentoo.org/wiki/Project:Science/Contributing]]>
+    </description>
+    <homepage>http://wiki.gentoo.org/wiki/Project:Science</homepage>
     <owner type="project">
       <email>sci@gentoo.org</email>
       <name>sci</name>
@@ -4859,8 +4860,12 @@ FIN
     <source type="git">git://git.overlays.gentoo.org/proj/sci.git</source>
     <source type="git">http://git.overlays.gentoo.org/gitroot/proj/sci.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/sci.git</source>
+    <source type="git">https://github.com/gentoo-science/sci.git</source>
+    <source type="git">git://github.com/gentoo-science/sci.git</source>
+    <source type="git">git@github.com:gentoo-science/sci.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/sci.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/sci.git;a=rss</feed>
+    <feed>https://github.com/gentoo-science/sci/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>scrill</name>

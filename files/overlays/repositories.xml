@@ -2683,13 +2683,13 @@ FIN
   <repo quality="experimental" status="unofficial">
       <name>k_f</name>
       <description><![CDATA[K_F's personal overlay]]></description>
-      <homepage>https://bitbucket.org/kristianf/portage-overlay/</homepage>
+      <homepage>http://git.sumptuouscapital.com/?p=portage-overlay.git;a=summary</homepage>
       <owner>
           <email>kf@sumptuouscapital.com</email>
           <name>Kristian Fiskerstrand</name>
       </owner>
-      <source type="mercurial">https://bitbucket.org/kristianf/portage-overlay/</source>
-      <feed>https://bitbucket.org/kristianf/portage-overlay/atom</feed>
+      <source type="git">git://git.sumptuouscapital.com/portage-overlay.git</source>
+      <feed>http://git.sumptuouscapital.com/?p=portage-overlay.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>kaa</name>

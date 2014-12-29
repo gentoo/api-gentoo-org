@@ -5162,7 +5162,7 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/srcshelton.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>steam</name>
+    <name>steam-overlay</name>
     <description lang="en"><![CDATA[Gentoo overlay for Valve's Steam client and Steam-based games]]></description>
     <homepage>https://github.com/anyc/steam-overlay</homepage>
     <owner type="person">

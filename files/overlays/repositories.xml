@@ -4199,6 +4199,19 @@ FIN
     <source type="git">git://github.com/lnagel/portage-backup.git</source>
     <feed>http://github.com/lnagel/portage-backup/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>posativ</name>
+    <description lang="en">Overlay of Martin Zimmermann</description>
+    <homepage>https://github.com/posativ/overlay</homepage>
+    <owner type="person">
+      <email>info@posativ.org</email>
+      <name>Martin Zimmermann</name>
+    </owner>
+    <source type="git">https://github.com/posativ/overlay.git</source>
+    <source type="git">git://github.com/posativ/overlay.git</source>
+    <source type="git">git@github.com:posativ/overlay.git</source>
+    <feed>https://github.com/posativ/overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>postgresql-experimental</name>
     <description>Development overlay for PostgreSQL, experimental branch.</description>

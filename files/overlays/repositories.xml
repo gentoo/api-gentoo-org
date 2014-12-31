@@ -707,6 +707,19 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/blueness.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>bobwya</name>
+    <description lang="en">Miscellaneous Gentoo ebuilds</description>
+    <homepage>https://github.com/bobwya/miscellaneous_ebuilds</homepage>
+    <owner type="person">
+      <email>bob.mt.wya@gmail.com</email>
+      <name>Bob Wya</name>
+    </owner>
+    <source type="git">https://github.com/bobwya/miscellaneous_ebuilds.git</source>
+    <source type="git">git://github.com/bobwya/miscellaneous_ebuilds.git</source>
+    <source type="git">git@github.com:bobwya/miscellaneous_ebuilds.git</source>
+    <feed>https://github.com/bobwya/miscellaneous_ebuilds/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>booboo</name>
     <description>L29Ah personal overlay</description>
     <homepage>https://github.com/l29ah/booboo</homepage>

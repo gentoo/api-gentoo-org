@@ -4429,6 +4429,19 @@ FIN
     <source type="git">http://www.startux.de/git/quarks.git</source>
     <feed>http://www.startux.de/gitweb/quarks.git/rss</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>qutebrowser</name>
+    <description lang="en">Overlay providing qutebrowser ebuilds</description>
+    <homepage>https://github.com/posativ/qutebrowser-overlay</homepage>
+    <owner type="person">
+      <email>info@posativ.org</email>
+      <name>Martin Zimmermann</name>
+    </owner>
+    <source type="git">https://github.com/posativ/qutebrowser-overlay.git</source>
+    <source type="git">git://github.com/posativ/qutebrowser-overlay.git</source>
+    <source type="git">git@github.com:posativ/qutebrowser-overlay.git</source>
+    <feed>https://github.com/posativ/qutebrowser-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>rafaelmartins</name>
     <description lang="en"><![CDATA[Rafael Martins' Gentoo overlay]]></description>

@@ -4288,6 +4288,17 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/printer-drivers.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/printer-drivers.git;a=rss</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>prism-overlay</name>
+    <description lang="en">Overlay for apps related to secure communication, cryptography and anonymity</description>
+    <homepage>https://github.com/hasufell/prism-overlay</homepage>
+    <owner type="person">
+		<email>hasufell@posteo.de</email>
+		<name>Julian Ospald</name>
+    </owner>
+    <source type="git">git://github.com/hasufell/prism-overlay.git</source>
+    <feed>https://github.com/hasufell/prism-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>prometheanfire</name>
     <description lang="en">Developer overlay</description>

@@ -266,15 +266,15 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>and3k-sunrise</name>
     <description>and3ks unstable ebuilds</description>
-    <homepage>http://bitbucket.org/and3k/and3k-sunrise-overlay</homepage>
+    <homepage>https://github.com/and3k/and3k-sunrise</homepage>
     <owner type="person">
       <email>post@belahausmann.name</email>
       <name>Bela Hausmann</name>
     </owner>
-    <source type="mercurial">http://bitbucket.org/and3k/and3k-sunrise-overlay</source>
-    <source type="mercurial">ssh://hg@bitbucket.org/and3k/and3k-sunrise-overlay</source>
-    <feed>http://bitbucket.org/and3k/and3k-sunrise-overlay/atom</feed>
-    <feed>http://bitbucket.org/and3k/and3k-sunrise-overlay/rss</feed>
+    <source type="git">https://github.com/and3k/and3k-sunrise.git</source>
+    <source type="git">git://github.com/and3k/and3k-sunrise.git</source>
+    <source type="git">git@github.com:and3k/and3k-sunrise.git</source>
+    <feed>https://github.com/and3k/and3k-sunrise/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>anderse</name>

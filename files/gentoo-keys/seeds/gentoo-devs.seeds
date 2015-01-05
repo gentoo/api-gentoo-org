@@ -10,7 +10,10 @@
             "F8983D196A520EF17451C53493EA2A85F3C06469"
         ], 
         "name": "Alex Legler", 
-        "nick": "a3li"
+        "nick": "a3li", 
+        "uid": [
+            "Alex Legler <a3li@gentoo.org>"
+        ]
     }, 
     "aballier": {
         "fingerprint": [
@@ -21,7 +24,10 @@
             "11522DD88AC53C11F94A5882BC5702E0160F534A"
         ], 
         "name": "Alexis Ballier", 
-        "nick": "aballier"
+        "nick": "aballier", 
+        "uid": [
+            "Alexis Ballier <aballier@gentoo.org>"
+        ]
     }, 
     "ackle": {
         "fingerprint": [
@@ -32,7 +38,10 @@
             "E58AAABDDD2D03AF0A7A2F14187772ECE928357A"
         ], 
         "name": "Sean Amoss", 
-        "nick": "ackle"
+        "nick": "ackle", 
+        "uid": [
+            "Sean Amoss <ackle@gentoo.org>"
+        ]
     }, 
     "aidecoe": {
         "fingerprint": [
@@ -43,7 +52,10 @@
             "C700CEDE0C18212E49DA4653F0134531E1DBFAB5"
         ], 
         "name": "Amadeusz \u017bo\u0142nowski", 
-        "nick": "aidecoe"
+        "nick": "aidecoe", 
+        "uid": [
+            "Amadeusz \u017bo\u0142nowski <aidecoe@gentoo.org>"
+        ]
     }, 
     "alexxy": {
         "fingerprint": [
@@ -54,7 +66,10 @@
             "2EC99BA7DE04CEB42058EBF2E7FE13EFF82F92E6"
         ], 
         "name": "Alexey Shvetsov", 
-        "nick": "alexxy"
+        "nick": "alexxy", 
+        "uid": [
+            "Alexey Shvetsov <alexxy@gentoo.org>"
+        ]
     }, 
     "alicef": {
         "fingerprint": [
@@ -65,7 +80,10 @@
             "2E4E0856461C05851336F4965621A6B28638781A"
         ], 
         "name": "Alice Ferrazzi", 
-        "nick": "alicef"
+        "nick": "alicef", 
+        "uid": [
+            "Alice Ferrazzi <alicef@gentoo.org>"
+        ]
     }, 
     "alonbl": {
         "fingerprint": [
@@ -76,7 +94,10 @@
             "E2B41E288BA9695B3DD56B5CDBA36CEDA27B3B1C"
         ], 
         "name": "Alon Bar-Lev", 
-        "nick": "alonbl"
+        "nick": "alonbl", 
+        "uid": [
+            "Alon Bar-Lev <alonbl@gentoo.org>"
+        ]
     }, 
     "amynka": {
         "fingerprint": [
@@ -87,7 +108,10 @@
             "1B841D8FD5E1F621EBBDF9D53B89D45034E69781"
         ], 
         "name": "Amy Winston", 
-        "nick": "amynka"
+        "nick": "amynka", 
+        "uid": [
+            "Amy Winston <amynka@gentoo.org>"
+        ]
     }, 
     "anarchy": {
         "fingerprint": [
@@ -98,7 +122,10 @@
             "D4AC8D630B16F7C908E9B909A0CCC3BAB4D088B4"
         ], 
         "name": "Jory Pratt", 
-        "nick": "anarchy"
+        "nick": "anarchy", 
+        "uid": [
+            "Jory Pratt <anarchy@gentoo.org>"
+        ]
     }, 
     "angelos": {
         "fingerprint": [
@@ -109,7 +136,10 @@
             "F9DAF7C8EC130722B220FC5E996AB56D84F20B43"
         ], 
         "name": "Christoph Mende", 
-        "nick": "angelos"
+        "nick": "angelos", 
+        "uid": [
+            "Christoph Mende <angelos@gentoo.org>"
+        ]
     }, 
     "araujo": {
         "fingerprint": [
@@ -120,7 +150,10 @@
             "7013C4B9199180F3EF4F52EE5319CA56A2C0A9F1"
         ], 
         "name": "Luis Francisco Araujo", 
-        "nick": "araujo"
+        "nick": "araujo", 
+        "uid": [
+            "Luis Francisco Araujo <araujo@gentoo.org>"
+        ]
     }, 
     "armin76": {
         "fingerprint": [
@@ -131,7 +164,10 @@
             "2D5BD6D0CFE7C754236B2FCAB90737D3F6AD3240"
         ], 
         "name": "Ra\u00fal Porcel", 
-        "nick": "armin76"
+        "nick": "armin76", 
+        "uid": [
+            "Ra\u00fal Porcel <armin76@gentoo.org>"
+        ]
     }, 
     "axs": {
         "fingerprint": [
@@ -142,7 +178,10 @@
             "A2C4D5C5A3D795BF11CB1838DAE81A237F0008F0"
         ], 
         "name": "Ian Stakenvicius", 
-        "nick": "axs"
+        "nick": "axs", 
+        "uid": [
+            "Ian Stakenvicius <axs@gentoo.org>"
+        ]
     }, 
     "beandog": {
         "fingerprint": [
@@ -153,7 +192,10 @@
             "F07CDA3EE0299F773FE0DCC9C03F921A96F8EB58"
         ], 
         "name": "Steve Dibb", 
-        "nick": "beandog"
+        "nick": "beandog", 
+        "uid": [
+            "Steve Dibb <beandog@gentoo.org>"
+        ]
     }, 
     "bernalex": {
         "fingerprint": [
@@ -164,7 +206,10 @@
             "6F100BDFB3B6A1EA31E854D146D0A5AD705073B5"
         ], 
         "name": "Alexander Berntsen", 
-        "nick": "bernalex"
+        "nick": "bernalex", 
+        "uid": [
+            "Alexander Berntsen <bernalex@gentoo.org>"
+        ]
     }, 
     "betelgeuse": {
         "fingerprint": [
@@ -177,7 +222,10 @@
             "209ABCFFC1EBEAA102ADB7C1F794B24DB8E4ECF0"
         ], 
         "name": "Petteri R\u00e4ty", 
-        "nick": "betelgeuse"
+        "nick": "betelgeuse", 
+        "uid": [
+            "Petteri R\u00e4ty <betelgeuse@gentoo.org>"
+        ]
     }, 
     "bicatali": {
         "fingerprint": [
@@ -188,7 +236,10 @@
             "DF2A5525060DD25F4B1B907ED727196E13CB1360"
         ], 
         "name": "Sebastien Fabbro", 
-        "nick": "bicatali"
+        "nick": "bicatali", 
+        "uid": [
+            "Sebastien Fabbro <bicatali@gentoo.org>"
+        ]
     }, 
     "billie": {
         "fingerprint": [
@@ -199,7 +250,10 @@
             "B41FAF6162D4003E79CA39DF95CB947B215AD14D"
         ], 
         "name": "Daniel Pielmeier", 
-        "nick": "billie"
+        "nick": "billie", 
+        "uid": [
+            "Daniel Pielmeier <billie@gentoo.org>"
+        ]
     }, 
     "binki": {
         "fingerprint": [
@@ -210,7 +264,10 @@
             "184B7CEB69B57FD42BAF9AF9743A52E86BA81050"
         ], 
         "name": "Nathan Phillip Brink", 
-        "nick": "binki"
+        "nick": "binki", 
+        "uid": [
+            "Nathan Phillip Brink <binki@gentoo.org>"
+        ]
     }, 
     "bircoph": {
         "fingerprint": [
@@ -221,7 +278,10 @@
             "63EB04FAA30C76E2952E6ED6565953B95372756C"
         ], 
         "name": "Andrew Savchenko", 
-        "nick": "bircoph"
+        "nick": "bircoph", 
+        "uid": [
+            "Andrew Savchenko <bircoph@gentoo.org>"
+        ]
     }, 
     "blackace": {
         "fingerprint": [
@@ -232,7 +292,10 @@
             "D34A474DCDC313A243F0F33B315CEC520A5F7D12"
         ], 
         "name": "Nicholas D. Wolfwood", 
-        "nick": "blackace"
+        "nick": "blackace", 
+        "uid": [
+            "Nicholas D. Wolfwood <blackace@gentoo.org>"
+        ]
     }, 
     "blueboar": {
         "fingerprint": [
@@ -243,7 +306,10 @@
             "3BB7A50384E257904DD41512A8A86345284E7EAC"
         ], 
         "name": "Vladimir Romanov", 
-        "nick": "blueboar"
+        "nick": "blueboar", 
+        "uid": [
+            "Vladimir Romanov <blueboar@gentoo.org>"
+        ]
     }, 
     "blueness": {
         "fingerprint": [
@@ -256,7 +322,10 @@
             "1FEDFAD9D82C52A53BABDC799384FA6EF52D4BBA"
         ], 
         "name": "Anthony G. Basile", 
-        "nick": "blueness"
+        "nick": "blueness", 
+        "uid": [
+            "Anthony G. Basile <blueness@gentoo.org>"
+        ]
     }, 
     "calchan": {
         "fingerprint": [
@@ -267,7 +336,10 @@
             "A6F06ECA9C0EE7B98A5876D46C1C6EB3B16C047F"
         ], 
         "name": "Denis Dupeyron", 
-        "nick": "calchan"
+        "nick": "calchan", 
+        "uid": [
+            "Denis Dupeyron <calchan@gentoo.org>"
+        ]
     }, 
     "caster": {
         "fingerprint": [
@@ -278,7 +350,10 @@
             "8E9292ECF2A45D21DB7EFE41B5BAC08F4E61DE84"
         ], 
         "name": "Vlastimil Babka", 
-        "nick": "caster"
+        "nick": "caster", 
+        "uid": [
+            "Vlastimil Babka <caster@gentoo.org>"
+        ]
     }, 
     "chainsaw": {
         "fingerprint": [
@@ -289,7 +364,10 @@
             "DA33CD48FBF41EE226538BA8A79BD6E2B5058F9A"
         ], 
         "name": "Tony Vroon", 
-        "nick": "chainsaw"
+        "nick": "chainsaw", 
+        "uid": [
+            "Tony Vroon <chainsaw@gentoo.org>"
+        ]
     }, 
     "chiguire": {
         "fingerprint": [
@@ -300,7 +378,10 @@
             "02FD505A5DBE4FA0DF4A60F66243FFB521B3F464"
         ], 
         "name": "John Christian Stoddart", 
-        "nick": "chiguire"
+        "nick": "chiguire", 
+        "uid": [
+            "John Christian Stoddart <chiguire@gentoo.org>"
+        ]
     }, 
     "chithanh": {
         "fingerprint": [
@@ -313,7 +394,10 @@
             "34D03B0BC555B47851DE212C8D40A02488A97F80"
         ], 
         "name": "Ch\u00ed-Thanh Christopher Nguy\u1ec5n", 
-        "nick": "chithanh"
+        "nick": "chithanh", 
+        "uid": [
+            "Ch\u00ed-Thanh Christopher Nguy\u1ec5n <chithanh@gentoo.org>"
+        ]
     }, 
     "chutzpah": {
         "fingerprint": [
@@ -324,7 +408,10 @@
             "E3F69979BB4B8928DA78E3D17CBF44EF5C350883"
         ], 
         "name": "Patrick McLean", 
-        "nick": "chutzpah"
+        "nick": "chutzpah", 
+        "uid": [
+            "Patrick McLean <chutzpah@gentoo.org>"
+        ]
     }, 
     "civil": {
         "fingerprint": [
@@ -335,7 +422,10 @@
             "8C52F41D5D3AF2C6DEBE0F9167C7CC1AA832680F"
         ], 
         "name": "Vladimir Smirnov", 
-        "nick": "civil"
+        "nick": "civil", 
+        "uid": [
+            "Vladimir Smirnov <civil@gentoo.org>"
+        ]
     }, 
     "craig": {
         "fingerprint": [
@@ -346,7 +436,10 @@
             "0F0131A6BD648C4CA1876253BA2733A7E28C7BB4"
         ], 
         "name": "Stefan Behte", 
-        "nick": "craig"
+        "nick": "craig", 
+        "uid": [
+            "Stefan Behte <craig@gentoo.org>"
+        ]
     }, 
     "creffett": {
         "fingerprint": [
@@ -359,7 +452,10 @@
             "63EBEF18FFFA15690094C3C0CA1A5755B69E7ECB"
         ], 
         "name": "Chris Reffett", 
-        "nick": "creffett"
+        "nick": "creffett", 
+        "uid": [
+            "Chris Reffett <creffett@gentoo.org>"
+        ]
     }, 
     "cynede": {
         "fingerprint": [
@@ -370,7 +466,10 @@
             "8F9C4B1965EC806C6D53D60F1D73B64F40F51071"
         ], 
         "name": "Heather Cynede", 
-        "nick": "cynede"
+        "nick": "cynede", 
+        "uid": [
+            "Heather Cynede <cynede@gentoo.org>"
+        ]
     }, 
     "dabbott": {
         "fingerprint": [
@@ -381,7 +480,10 @@
             "C820FC52BE581AFA4D74EB6B719FB3E2F01C4ACC"
         ], 
         "name": "David Abbott", 
-        "nick": "dabbott"
+        "nick": "dabbott", 
+        "uid": [
+            "David Abbott <dabbott@gentoo.org>"
+        ]
     }, 
     "darkside": {
         "fingerprint": [
@@ -392,7 +494,10 @@
             "2079B699DF0172809817095E9B5D52B1ACED22A6"
         ], 
         "name": "Jeremy Olexa", 
-        "nick": "darkside"
+        "nick": "darkside", 
+        "uid": [
+            "Jeremy Olexa <darkside@gentoo.org>"
+        ]
     }, 
     "dastergon": {
         "fingerprint": [
@@ -403,7 +508,10 @@
             "17778AE240DC22BAA84CC60BA31BBEB23A051746"
         ], 
         "name": "Pavlos Ratis", 
-        "nick": "dastergon"
+        "nick": "dastergon", 
+        "uid": [
+            "Pavlos Ratis <dastergon@gentoo.org>"
+        ]
     }, 
     "dberkholz": {
         "fingerprint": [
@@ -414,7 +522,10 @@
             "F321330C88F8A5E543DD056B54B0541C4B7B539A"
         ], 
         "name": "Donnie Berkholz", 
-        "nick": "dberkholz"
+        "nick": "dberkholz", 
+        "uid": [
+            "Donnie Berkholz <dberkholz@gentoo.org>"
+        ]
     }, 
     "deathwing00": {
         "fingerprint": [
@@ -425,7 +536,10 @@
             "CF7FAF86A969CA183D6491A9C0C53EED47F370A0"
         ], 
         "name": "Ioannis Aslanidis", 
-        "nick": "deathwing00"
+        "nick": "deathwing00", 
+        "uid": [
+            "Ioannis Aslanidis <deathwing00@gentoo.org>"
+        ]
     }, 
     "desultory": {
         "fingerprint": [
@@ -436,7 +550,10 @@
             "66A84561CF8CA783C78693A284DAA694A8C5D9DB"
         ], 
         "name": "Dean Stephens", 
-        "nick": "desultory"
+        "nick": "desultory", 
+        "uid": [
+            "Dean Stephens <desultory@gentoo.org>"
+        ]
     }, 
     "dilfridge": {
         "fingerprint": [
@@ -449,7 +566,10 @@
             "35B17DF5752577CA0C541CEB94BFDF4484AD142F"
         ], 
         "name": "Andreas H\u00fcttel", 
-        "nick": "dilfridge"
+        "nick": "dilfridge", 
+        "uid": [
+            "Andreas H\u00fcttel <dilfridge@gentoo.org>"
+        ]
     }, 
     "djay": {
         "fingerprint": [
@@ -460,7 +580,10 @@
             "320A75C544AA5A7A5C3DC80A0CBDD1A8E5DE7009"
         ], 
         "name": "G\u00e9rald Fenoy", 
-        "nick": "djay"
+        "nick": "djay", 
+        "uid": [
+            "G\u00e9rald Fenoy <djay@gentoo.org>"
+        ]
     }, 
     "djc": {
         "fingerprint": [
@@ -471,7 +594,10 @@
             "25BBBAC113C1BFD5AA594A4C9F96B92930380381"
         ], 
         "name": "Dirkjan Ochtman", 
-        "nick": "djc"
+        "nick": "djc", 
+        "uid": [
+            "Dirkjan Ochtman <djc@gentoo.org>"
+        ]
     }, 
     "dlan": {
         "fingerprint": [
@@ -482,7 +608,10 @@
             "50B03A1A5CBCD33576EF8CD7920C0DBCAABEFD55"
         ], 
         "name": "Yixun Lan", 
-        "nick": "dlan"
+        "nick": "dlan", 
+        "uid": [
+            "Yixun Lan <dlan@gentoo.org>"
+        ]
     }, 
     "dolsen": {
         "fingerprint": [
@@ -495,7 +624,10 @@
             "262A829DFEAF9092A42C1C3ED80F5F1E1245142E"
         ], 
         "name": "Brian Dolbec", 
-        "nick": "dolsen"
+        "nick": "dolsen", 
+        "uid": [
+            "Brian Dolbec <dolsen@gentoo.org>"
+        ]
     }, 
     "earthwings": {
         "fingerprint": [
@@ -506,7 +638,10 @@
             "3834F41E5FA089389588924D794B19AAC6795F59"
         ], 
         "name": "Dennis Nienh\u00fcser", 
-        "nick": "earthwings"
+        "nick": "earthwings", 
+        "uid": [
+            "Dennis Nienh\u00fcser <earthwings@gentoo.org>"
+        ]
     }, 
     "eras": {
         "fingerprint": [
@@ -517,7 +652,10 @@
             "AB956C45C171BE68F984CC0977F1F175586A3B1F"
         ], 
         "name": "Eray Aslan", 
-        "nick": "eras"
+        "nick": "eras", 
+        "uid": [
+            "Eray Aslan <eras@gentoo.org>"
+        ]
     }, 
     "ercpe": {
         "fingerprint": [
@@ -528,7 +666,10 @@
             "ACB1EA9BEFC2AEBAE5B8C159A084064277C501ED"
         ], 
         "name": "Johann Schmitz", 
-        "nick": "ercpe"
+        "nick": "ercpe", 
+        "uid": [
+            "Johann Schmitz <ercpe@gentoo.org>"
+        ]
     }, 
     "eva": {
         "fingerprint": [
@@ -539,7 +680,10 @@
             "5CA417F27B131BA593C0BE90D5F995C1C6085806"
         ], 
         "name": "Gilles Dartiguelongue", 
-        "nick": "eva"
+        "nick": "eva", 
+        "uid": [
+            "Gilles Dartiguelongue <eva@gentoo.org>"
+        ]
     }, 
     "fauli": {
         "fingerprint": [
@@ -550,7 +694,10 @@
             "68C5D381B69AA7776A91E999350AAD7C2B859DE3"
         ], 
         "name": "Christian Faulhammer", 
-        "nick": "fauli"
+        "nick": "fauli", 
+        "uid": [
+            "Christian Faulhammer <fauli@gentoo.org>"
+        ]
     }, 
     "flameeyes": {
         "fingerprint": [
@@ -561,7 +708,10 @@
             "F204568C03BDFD4960EC2DCC1A82AD57BB592443"
         ], 
         "name": "Diego Elio Petten\u00f2", 
-        "nick": "flameeyes"
+        "nick": "flameeyes", 
+        "uid": [
+            "Diego Elio Petten\u00f2 <flameeyes@gentoo.org>"
+        ]
     }, 
     "flammie": {
         "fingerprint": [
@@ -572,7 +722,10 @@
             "F42E4D4C544B68C62A6FF93151D1E66D07469AA9"
         ], 
         "name": "Flammie Pirinen", 
-        "nick": "flammie"
+        "nick": "flammie", 
+        "uid": [
+            "Flammie Pirinen <flammie@gentoo.org>"
+        ]
     }, 
     "floppym": {
         "fingerprint": [
@@ -583,7 +736,10 @@
             "52CC9D6D11E5BE792A8EA2A30BBEEA1FEA4843A4"
         ], 
         "name": "Mike Gilbert", 
-        "nick": "floppym"
+        "nick": "floppym", 
+        "uid": [
+            "Mike Gilbert <floppym@gentoo.org>"
+        ]
     }, 
     "fordfrog": {
         "fingerprint": [
@@ -594,7 +750,10 @@
             "93D653E69902121FD0528606452CD60A6AAEFB46"
         ], 
         "name": "Miroslav \u0160ulc", 
-        "nick": "fordfrog"
+        "nick": "fordfrog", 
+        "uid": [
+            "Miroslav \u0160ulc <fordfrog@gentoo.org>"
+        ]
     }, 
     "fuzzyray": {
         "fingerprint": [
@@ -605,7 +764,10 @@
             "4B0DD00BDBD50EA34DEDED4D0FED1FC36B402757"
         ], 
         "name": "Paul Varner", 
-        "nick": "fuzzyray"
+        "nick": "fuzzyray", 
+        "uid": [
+            "Paul Varner <fuzzyray@gentoo.org>"
+        ]
     }, 
     "george": {
         "fingerprint": [
@@ -616,7 +778,10 @@
             "380BDFCADD22184CC4D6C0C565A99DEA0AD58A7F"
         ], 
         "name": "George Shapovalov", 
-        "nick": "george"
+        "nick": "george", 
+        "uid": [
+            "George Shapovalov <george@gentoo.org>"
+        ]
     }, 
     "gienah": {
         "fingerprint": [
@@ -627,7 +792,10 @@
             "E0AC62373DF4FEB3089A6718A0111542618E971F"
         ], 
         "name": "Mark Wright", 
-        "nick": "gienah"
+        "nick": "gienah", 
+        "uid": [
+            "Mark Wright <gienah@gentoo.org>"
+        ]
     }, 
     "gmsoft": {
         "fingerprint": [
@@ -638,7 +806,10 @@
             "567D358B821956F1FB6C6B13AE94A1AE7A07E186"
         ], 
         "name": "Guy Martin", 
-        "nick": "gmsoft"
+        "nick": "gmsoft", 
+        "uid": [
+            "Guy Martin <gmsoft@gentoo.org>"
+        ]
     }, 
     "graaff": {
         "fingerprint": [
@@ -649,7 +820,10 @@
             "818B58784EB13C5DD8CF401BBB1FE687EFDBB3EC"
         ], 
         "name": "Hans de Graaff", 
-        "nick": "graaff"
+        "nick": "graaff", 
+        "uid": [
+            "Hans de Graaff <graaff@gentoo.org>"
+        ]
     }, 
     "gregkh": {
         "fingerprint": [
@@ -660,7 +834,10 @@
             "F4B60CC5BF78C2214A313DCB3147D40DDB2DFB29"
         ], 
         "name": "Greg Kroah-Hartman", 
-        "nick": "gregkh"
+        "nick": "gregkh", 
+        "uid": [
+            "Greg Kroah-Hartman <gregkh@gentoo.org>"
+        ]
     }, 
     "grknight": {
         "fingerprint": [
@@ -671,7 +848,10 @@
             "4FC33108755E275363FDB2FF4E15E2F167C78E1D"
         ], 
         "name": "Brian Evans", 
-        "nick": "grknight"
+        "nick": "grknight", 
+        "uid": [
+            "Brian Evans <grknight@gentoo.org>"
+        ]
     }, 
     "grozin": {
         "fingerprint": [
@@ -682,7 +862,10 @@
             "6FCC83E26D94FB054B76101653D4ABFA88DD61C4"
         ], 
         "name": "Andrey Grozin", 
-        "nick": "grozin"
+        "nick": "grozin", 
+        "uid": [
+            "Andrey Grozin <grozin@gentoo.org>"
+        ]
     }, 
     "gurligebis": {
         "fingerprint": [
@@ -693,7 +876,10 @@
             "DDB4FDE829C7775A7FE096583BE130B698BDACB1"
         ], 
         "name": "Bjarke Istrup Pedersen", 
-        "nick": "gurligebis"
+        "nick": "gurligebis", 
+        "uid": [
+            "Bjarke Istrup Pedersen <gurligebis@gentoo.org>"
+        ]
     }, 
     "halcy0n": {
         "fingerprint": [
@@ -706,7 +892,10 @@
             "6C751E145DC5917E191D6AA5F4D344AD2E45568D"
         ], 
         "name": "Mark Loeser", 
-        "nick": "halcy0n"
+        "nick": "halcy0n", 
+        "uid": [
+            "Mark Loeser <halcy0n@gentoo.org>"
+        ]
     }, 
     "hanno": {
         "fingerprint": [
@@ -717,7 +906,10 @@
             "FE73757FA60E4E21B937579FA5880072BBB51E42"
         ], 
         "name": "Hanno Boeck", 
-        "nick": "hanno"
+        "nick": "hanno", 
+        "uid": [
+            "Hanno Boeck <hanno@gentoo.org>"
+        ]
     }, 
     "hasufell": {
         "fingerprint": [
@@ -728,7 +920,10 @@
             "309B448612428609DED02732220CD1C5BDEED020"
         ], 
         "name": "Julian Ospald", 
-        "nick": "hasufell"
+        "nick": "hasufell", 
+        "uid": [
+            "Julian Ospald <hasufell@gentoo.org>"
+        ]
     }, 
     "hattya": {
         "fingerprint": [
@@ -739,7 +934,10 @@
             "C023086458E66E2562CD83842F8EACBAEC917A6D"
         ], 
         "name": "Akinori Hattori", 
-        "nick": "hattya"
+        "nick": "hattya", 
+        "uid": [
+            "Akinori Hattori <hattya@gentoo.org>"
+        ]
     }, 
     "haubi": {
         "fingerprint": [
@@ -750,7 +948,10 @@
             "304CB5926F4E1BBFBAA7C8742DCD1358A630CCB8"
         ], 
         "name": "Michael Haubenwallner", 
-        "nick": "haubi"
+        "nick": "haubi", 
+        "uid": [
+            "Michael Haubenwallner <haubi@gentoo.org>"
+        ]
     }, 
     "hd_brummy": {
         "fingerprint": [
@@ -761,7 +962,10 @@
             "95916D0BAAA8E8CC1B82FE81767D3B1D34C2808A"
         ], 
         "name": "Joerg Bornkessel", 
-        "nick": "hd_brummy"
+        "nick": "hd_brummy", 
+        "uid": [
+            "Joerg Bornkessel <hd_brummy@gentoo.org>"
+        ]
     }, 
     "heroxbd": {
         "fingerprint": [
@@ -772,7 +976,10 @@
             "C3A504840B678260DA12766AD25D611C8E192076"
         ], 
         "name": "Benda XU", 
-        "nick": "heroxbd"
+        "nick": "heroxbd", 
+        "uid": [
+            "Benda XU <heroxbd@gentoo.org>"
+        ]
     }, 
     "hkbst": {
         "fingerprint": [
@@ -783,7 +990,10 @@
             "D7428A617CE865C8CCD6D506A7F5660B1D0E2F6C"
         ], 
         "name": "Marijn Schouten", 
-        "nick": "hkbst"
+        "nick": "hkbst", 
+        "uid": [
+            "Marijn Schouten <hkbst@gentoo.org>"
+        ]
     }, 
     "hparker": {
         "fingerprint": [
@@ -794,7 +1004,10 @@
             "1DCAA18C3BCED9AD5243F3040129B723F671A0DB"
         ], 
         "name": "Homer Parker", 
-        "nick": "hparker"
+        "nick": "hparker", 
+        "uid": [
+            "Homer Parker <hparker@gentoo.org>"
+        ]
     }, 
     "i92guboj": {
         "fingerprint": [
@@ -805,7 +1018,10 @@
             "C09483F4C0662161FDE53E975C9FA990838FF03C"
         ], 
         "name": "Jes\u00fas Guerrero", 
-        "nick": "i92guboj"
+        "nick": "i92guboj", 
+        "uid": [
+            "Jes\u00fas Guerrero <i92guboj@gentoo.org>"
+        ]
     }, 
     "idella4": {
         "fingerprint": [
@@ -816,7 +1032,10 @@
             "7CAC59F48930DADE55D5F2AFB28EC213B8072B0D"
         ], 
         "name": "Ian Delaney", 
-        "nick": "idella4"
+        "nick": "idella4", 
+        "uid": [
+            "Ian Delaney <idella4@gentoo.org>"
+        ]
     }, 
     "idl0r": {
         "fingerprint": [
@@ -827,7 +1046,10 @@
             "EEB1C3417C84B2746C59F2435EAB0C62B427ABC8"
         ], 
         "name": "Christian Ruppert", 
-        "nick": "idl0r"
+        "nick": "idl0r", 
+        "uid": [
+            "Christian Ruppert <idl0r@gentoo.org>"
+        ]
     }, 
     "ikelos": {
         "fingerprint": [
@@ -838,7 +1060,10 @@
             "FFB123FCD0BF70DA530423ADBBBAD6A26C20157A"
         ], 
         "name": "Mike Auty", 
-        "nick": "ikelos"
+        "nick": "ikelos", 
+        "uid": [
+            "Mike Auty <ikelos@gentoo.org>"
+        ]
     }, 
     "iksaif": {
         "fingerprint": [
@@ -849,7 +1074,10 @@
             "B3F6B4B31BF3CF3B7AB5865E56536C453FD7C6B4"
         ], 
         "name": "Corentin Chary", 
-        "nick": "iksaif"
+        "nick": "iksaif", 
+        "uid": [
+            "Corentin Chary <iksaif@gentoo.org>"
+        ]
     }, 
     "isaiah": {
         "fingerprint": [
@@ -860,7 +1088,10 @@
             "6E21871AC92A917523773351290678801378AC60"
         ], 
         "name": "Isaiah Peng", 
-        "nick": "isaiah"
+        "nick": "isaiah", 
+        "uid": [
+            "Isaiah Peng <isaiah@gentoo.org>"
+        ]
     }, 
     "jaaf": {
         "fingerprint": [
@@ -871,7 +1102,10 @@
             "7AEB68BD9A8DEF58A0EB5703D83D9B028E668CA9"
         ], 
         "name": "Jos\u00e9 Fournier", 
-        "nick": "jaaf"
+        "nick": "jaaf", 
+        "uid": [
+            "Jos\u00e9 Fournier <jaaf@gentoo.org>"
+        ]
     }, 
     "jauhien": {
         "fingerprint": [
@@ -882,7 +1116,10 @@
             "319EC51BE32D93522434E11BBBEE937DB2EFA1D4"
         ], 
         "name": "Jauhien Piatlicki", 
-        "nick": "jauhien"
+        "nick": "jauhien", 
+        "uid": [
+            "Jauhien Piatlicki <jauhien@gentoo.org>"
+        ]
     }, 
     "jcallen": {
         "fingerprint": [
@@ -893,7 +1130,10 @@
             "15C2F00D3473330AE4C78A66B1D21769229E5838"
         ], 
         "name": "Jonathan Callen", 
-        "nick": "jcallen"
+        "nick": "jcallen", 
+        "uid": [
+            "Jonathan Callen <jcallen@gentoo.org>"
+        ]
     }, 
     "je_fro": {
         "fingerprint": [
@@ -904,7 +1144,10 @@
             "21CDA48346DC89B4959E40A3891D8AC44A5D8F23"
         ], 
         "name": "Jeffrey Gardner", 
-        "nick": "je_fro"
+        "nick": "je_fro", 
+        "uid": [
+            "Jeffrey Gardner <je_fro@gentoo.org>"
+        ]
     }, 
     "jer": {
         "fingerprint": [
@@ -915,7 +1158,10 @@
             "C635642FB278E38BD6EF1C18556991B2A792A613"
         ], 
         "name": "Jeroen Roovers", 
-        "nick": "jer"
+        "nick": "jer", 
+        "uid": [
+            "Jeroen Roovers <jer@gentoo.org>"
+        ]
     }, 
     "jkt": {
         "fingerprint": [
@@ -926,7 +1172,10 @@
             "61AB87D6F66CE2FCD2D2E1F56A65DFA844722517"
         ], 
         "name": "Jan Kundr\u00e1t", 
-        "nick": "jkt"
+        "nick": "jkt", 
+        "uid": [
+            "Jan Kundr\u00e1t <jkt@gentoo.org>"
+        ]
     }, 
     "jlec": {
         "fingerprint": [
@@ -937,7 +1186,10 @@
             "914B84822B362B84BF9642DE5F4673C782105C98"
         ], 
         "name": "Justin Lecher", 
-        "nick": "jlec"
+        "nick": "jlec", 
+        "uid": [
+            "Justin Lecher <jlec@gentoo.org>"
+        ]
     }, 
     "jmbsvicetto": {
         "fingerprint": [
@@ -948,7 +1200,10 @@
             "36F249FCA28074A0677E0EBF69ECE3CBBB0E6E98"
         ], 
         "name": "Jorge Manuel B. S. Vicetto", 
-        "nick": "jmbsvicetto"
+        "nick": "jmbsvicetto", 
+        "uid": [
+            "Jorge Manuel B. S. Vicetto <jmbsvicetto@gentoo.org>"
+        ]
     }, 
     "jmorgan": {
         "fingerprint": [
@@ -959,7 +1214,10 @@
             "DD42EA48D701D520C2CD55BEBF53C69B761D8E0A"
         ], 
         "name": "Jack Morgan", 
-        "nick": "jmorgan"
+        "nick": "jmorgan", 
+        "uid": [
+            "Jack Morgan <jmorgan@gentoo.org>"
+        ]
     }, 
     "john_r_graham": {
         "fingerprint": [
@@ -970,7 +1228,10 @@
             "C10465C061183FD2D1AAB6DC9CDDDB309F877EBB"
         ], 
         "name": "John Graham", 
-        "nick": "john_r_graham"
+        "nick": "john_r_graham", 
+        "uid": [
+            "John Graham <john_r_graham@gentoo.org>"
+        ]
     }, 
     "johu": {
         "fingerprint": [
@@ -981,7 +1242,10 @@
             "74E314F888CBF0320D29F63365699DA4F3CFD2BD"
         ], 
         "name": "Johannes Huber", 
-        "nick": "johu"
+        "nick": "johu", 
+        "uid": [
+            "Johannes Huber <johu@gentoo.org>"
+        ]
     }, 
     "joker": {
         "fingerprint": [
@@ -992,7 +1256,10 @@
             "8D913F51F079CFBD75DE8E380C568EF5608F6AEB"
         ], 
         "name": "Christian Birchinger", 
-        "nick": "joker"
+        "nick": "joker", 
+        "uid": [
+            "Christian Birchinger <joker@gentoo.org>"
+        ]
     }, 
     "josejx": {
         "fingerprint": [
@@ -1003,7 +1270,10 @@
             "9CDA44C600072C9359795126C06ABB04B2C045FA"
         ], 
         "name": "Joseph Jezak", 
-        "nick": "josejx"
+        "nick": "josejx", 
+        "uid": [
+            "Joseph Jezak <josejx@gentoo.org>"
+        ]
     }, 
     "jsbronder": {
         "fingerprint": [
@@ -1014,7 +1284,10 @@
             "8B912373DE6701B0DA5E848AE0CAEF044D7043C9"
         ], 
         "name": "Justin Bronder", 
-        "nick": "jsbronder"
+        "nick": "jsbronder", 
+        "uid": [
+            "Justin Bronder <jsbronder@gentoo.org>"
+        ]
     }, 
     "k_f": {
         "fingerprint": [
@@ -1025,7 +1298,10 @@
             "94CBAFDD30345109561835AA0B7F8B60E3EDFAE3"
         ], 
         "name": "Kristian Fiskerstrand", 
-        "nick": "k_f"
+        "nick": "k_f", 
+        "uid": [
+            "Kristian Fiskerstrand <k_f@gentoo.org>"
+        ]
     }, 
     "kallamej": {
         "fingerprint": [
@@ -1036,7 +1312,10 @@
             "30E41E71B841B654DB8809B7157D36E565FE446E"
         ], 
         "name": "Anders Hellgren", 
-        "nick": "kallamej"
+        "nick": "kallamej", 
+        "uid": [
+            "Anders Hellgren <kallamej@gentoo.org>"
+        ]
     }, 
     "kensington": {
         "fingerprint": [
@@ -1049,7 +1328,10 @@
             "B11105F58195265602FF3A486C9BEBEB3331F554"
         ], 
         "name": "Michael Palimaka", 
-        "nick": "kensington"
+        "nick": "kensington", 
+        "uid": [
+            "Michael Palimaka <kensington@gentoo.org>"
+        ]
     }, 
     "keri": {
         "fingerprint": [
@@ -1060,7 +1342,10 @@
             "7319FA7DD2DDAED9DF17460B2486B12A756D6F67"
         ], 
         "name": "Keri Harris", 
-        "nick": "keri"
+        "nick": "keri", 
+        "uid": [
+            "Keri Harris <keri@gentoo.org>"
+        ]
     }, 
     "kernelsensei": {
         "fingerprint": [
@@ -1071,7 +1356,10 @@
             "030B919256CE1F4708FACDAB92214333127F04DC"
         ], 
         "name": "Boris Fersing", 
-        "nick": "kernelsensei"
+        "nick": "kernelsensei", 
+        "uid": [
+            "Boris Fersing <kernelsensei@gentoo.org>"
+        ]
     }, 
     "keytoaster": {
         "fingerprint": [
@@ -1082,7 +1370,10 @@
             "870A3920335A7EBC7003B50B1C8D2E6BDC33B0EE"
         ], 
         "name": "Tobias Heinlein", 
-        "nick": "keytoaster"
+        "nick": "keytoaster", 
+        "uid": [
+            "Tobias Heinlein <keytoaster@gentoo.org>"
+        ]
     }, 
     "kingtaco": {
         "fingerprint": [
@@ -1093,7 +1384,10 @@
             "00947F06913E78D6F1BB06BAD0ADD125A797C7A7"
         ], 
         "name": "Mike Doty", 
-        "nick": "kingtaco"
+        "nick": "kingtaco", 
+        "uid": [
+            "Mike Doty <kingtaco@gentoo.org>"
+        ]
     }, 
     "klausman": {
         "fingerprint": [
@@ -1104,7 +1398,10 @@
             "1F485358633E02707FF4805C03EE03A1CE5D54E8"
         ], 
         "name": "Tobias Klausmann", 
-        "nick": "klausman"
+        "nick": "klausman", 
+        "uid": [
+            "Tobias Klausmann <klausman@gentoo.org>"
+        ]
     }, 
     "klondike": {
         "fingerprint": [
@@ -1115,7 +1412,10 @@
             "27BAAD13B77D164344FE787F5608AEA28AAFC0EC"
         ], 
         "name": "Francisco Blas Izquierdo Riera", 
-        "nick": "klondike"
+        "nick": "klondike", 
+        "uid": [
+            "Francisco Blas Izquierdo Riera <klondike@gentoo.org>"
+        ]
     }, 
     "kumba": {
         "fingerprint": [
@@ -1126,7 +1426,10 @@
             "1AE06299490CF98517EEAB29DB23A07ED25D95E3"
         ], 
         "name": "Joshua Kinard", 
-        "nick": "kumba"
+        "nick": "kumba", 
+        "uid": [
+            "Joshua Kinard <kumba@gentoo.org>"
+        ]
     }, 
     "lack": {
         "fingerprint": [
@@ -1137,7 +1440,10 @@
             "189BC4BF734D674DD951EA27A7BD30D385CB62E5"
         ], 
         "name": "Jim Ramsay", 
-        "nick": "lack"
+        "nick": "lack", 
+        "uid": [
+            "Jim Ramsay <lack@gentoo.org>"
+        ]
     }, 
     "leio": {
         "fingerprint": [
@@ -1148,7 +1454,10 @@
             "4E38C5E3E82518A8AC16D8CC91E61BEA89451C97"
         ], 
         "name": "Mart Raudsepp", 
-        "nick": "leio"
+        "nick": "leio", 
+        "uid": [
+            "Mart Raudsepp <leio@gentoo.org>"
+        ]
     }, 
     "lejonet": {
         "fingerprint": [
@@ -1159,7 +1468,10 @@
             "C79B230DED54F2A3C359998DE99A2854D5980C65"
         ], 
         "name": "Daniel Kuehn", 
-        "nick": "lejonet"
+        "nick": "lejonet", 
+        "uid": [
+            "Daniel Kuehn <lejonet@gentoo.org>"
+        ]
     }, 
     "lh": {
         "fingerprint": [
@@ -1170,7 +1482,10 @@
             "13DA81D8528751FE7B153B7408EB1DC79C49755A"
         ], 
         "name": "Leslie Hawthorn", 
-        "nick": "lh"
+        "nick": "lh", 
+        "uid": [
+            "Leslie Hawthorn <lh@gentoo.org>"
+        ]
     }, 
     "lordvan": {
         "fingerprint": [
@@ -1181,7 +1496,10 @@
             "20D8017AA6A909B5510ADFE27576A4AF2BF3F258"
         ], 
         "name": "Thomas Raschbacher", 
-        "nick": "lordvan"
+        "nick": "lordvan", 
+        "uid": [
+            "Thomas Raschbacher <lordvan@gentoo.org>"
+        ]
     }, 
     "lu_zero": {
         "fingerprint": [
@@ -1192,7 +1510,10 @@
             "66774209213C88435B6729E7E84C78C284E90E34"
         ], 
         "name": "Luca Barbato", 
-        "nick": "lu_zero"
+        "nick": "lu_zero", 
+        "uid": [
+            "Luca Barbato <lu_zero@gentoo.org>"
+        ]
     }, 
     "lxnay": {
         "fingerprint": [
@@ -1203,7 +1524,10 @@
             "4E6630D1DBC7789D593EB3AC7DA8FDCCADC916E5"
         ], 
         "name": "Fabio Erculiani", 
-        "nick": "lxnay"
+        "nick": "lxnay", 
+        "uid": [
+            "Fabio Erculiani <lxnay@gentoo.org>"
+        ]
     }, 
     "mabi": {
         "fingerprint": [
@@ -1216,7 +1540,10 @@
             "1090BB2A17CEDF93F72C1A5C617A5456AEA9F974"
         ], 
         "name": "Matti Bickel", 
-        "nick": "mabi"
+        "nick": "mabi", 
+        "uid": [
+            "Matti Bickel <mabi@gentoo.org>"
+        ]
     }, 
     "maekke": {
         "fingerprint": [
@@ -1227,7 +1554,10 @@
             "8F5F2D67D762C8CB4BD3029E90A6912D072AD062"
         ], 
         "name": "Markus Meier", 
-        "nick": "maekke"
+        "nick": "maekke", 
+        "uid": [
+            "Markus Meier <maekke@gentoo.org>"
+        ]
     }, 
     "maksbotan": {
         "fingerprint": [
@@ -1238,7 +1568,10 @@
             "B9333A89FF111CA6EB5C5031098998C5F8DBDADE"
         ], 
         "name": "Maxim Koltsov", 
-        "nick": "maksbotan"
+        "nick": "maksbotan", 
+        "uid": [
+            "Maxim Koltsov <maksbotan@gentoo.org>"
+        ]
     }, 
     "marienz": {
         "fingerprint": [
@@ -1249,7 +1582,10 @@
             "8EC3C8CCD56F24A8747B7E8E50494BEDE2697C44"
         ], 
         "name": "Marien Zwart", 
-        "nick": "marienz"
+        "nick": "marienz", 
+        "uid": [
+            "Marien Zwart <marienz@gentoo.org>"
+        ]
     }, 
     "matsl": {
         "fingerprint": [
@@ -1260,7 +1596,10 @@
             "1542BC677E67B356B853BFDDEED89E948106200A"
         ], 
         "name": "Mats Lidell", 
-        "nick": "matsl"
+        "nick": "matsl", 
+        "uid": [
+            "Mats Lidell <matsl@gentoo.org>"
+        ]
     }, 
     "mattm": {
         "fingerprint": [
@@ -1271,7 +1610,10 @@
             "F3DBC3C4E94F0D289E6984A07077A5F71A86EBE4"
         ], 
         "name": "Matthew Marlowe", 
-        "nick": "mattm"
+        "nick": "mattm", 
+        "uid": [
+            "Matthew Marlowe <mattm@gentoo.org>"
+        ]
     }, 
     "mattst88": {
         "fingerprint": [
@@ -1282,7 +1624,10 @@
             "3BB639E56F861FA2E86505690FDD682D974CA72A"
         ], 
         "name": "Matt Turner", 
-        "nick": "mattst88"
+        "nick": "mattst88", 
+        "uid": [
+            "Matt Turner <mattst88@gentoo.org>"
+        ]
     }, 
     "mduft": {
         "fingerprint": [
@@ -1293,7 +1638,10 @@
             "9605846CFC96125821EA9D486814889791E5AEB2"
         ], 
         "name": "Markus Duft", 
-        "nick": "mduft"
+        "nick": "mduft", 
+        "uid": [
+            "Markus Duft <mduft@gentoo.org>"
+        ]
     }, 
     "mgorny": {
         "fingerprint": [
@@ -1304,7 +1652,10 @@
             "3408B1B906EB579B41D9CB0CDF84256885283521"
         ], 
         "name": "Micha\u0142 G\u00f3rny", 
-        "nick": "mgorny"
+        "nick": "mgorny", 
+        "uid": [
+            "Micha\u0142 G\u00f3rny <mgorny@gentoo.org>"
+        ]
     }, 
     "miknix": {
         "fingerprint": [
@@ -1315,7 +1666,10 @@
             "8AFE79900B583B69A0F734E135A872A03D92BB0B"
         ], 
         "name": "Angelo Arrifano", 
-        "nick": "miknix"
+        "nick": "miknix", 
+        "uid": [
+            "Angelo Arrifano <miknix@gentoo.org>"
+        ]
     }, 
     "miska": {
         "fingerprint": [
@@ -1326,7 +1680,10 @@
             "33651176E9C0C50C800816F77339181EF3B4FD9A"
         ], 
         "name": "Michal Hru\u0161eck\u00fd", 
-        "nick": "miska"
+        "nick": "miska", 
+        "uid": [
+            "Michal Hru\u0161eck\u00fd <miska@gentoo.org>"
+        ]
     }, 
     "mjo": {
         "fingerprint": [
@@ -1337,7 +1694,10 @@
             "6B3C93374BBB3F5578FBAC491C49724D229E93A2"
         ], 
         "name": "Michael Orlitzky", 
-        "nick": "mjo"
+        "nick": "mjo", 
+        "uid": [
+            "Michael Orlitzky <mjo@gentoo.org>"
+        ]
     }, 
     "monsieurp": {
         "fingerprint": [
@@ -1348,7 +1708,10 @@
             "F75BDDDB27E3042AF2ADAAE99191A5F193491BB8"
         ], 
         "name": "Patrice Clement", 
-        "nick": "monsieurp"
+        "nick": "monsieurp", 
+        "uid": [
+            "Patrice Clement <monsieurp@gentoo.org>"
+        ]
     }, 
     "moult": {
         "fingerprint": [
@@ -1359,7 +1722,10 @@
             "8D5A9FEDEF2F77A30A5975B1521E2800A10DC722"
         ], 
         "name": "Dion Moult", 
-        "nick": "moult"
+        "nick": "moult", 
+        "uid": [
+            "Dion Moult <moult@gentoo.org>"
+        ]
     }, 
     "mpagano": {
         "fingerprint": [
@@ -1370,7 +1736,10 @@
             "EEE2601D0763B60F848C9E143C33C650B576E4E3"
         ], 
         "name": "Mike Pagano", 
-        "nick": "mpagano"
+        "nick": "mpagano", 
+        "uid": [
+            "Mike Pagano <mpagano@gentoo.org>"
+        ]
     }, 
     "mr_bones_": {
         "fingerprint": [
@@ -1381,7 +1750,10 @@
             "7ACEE789D820361C228CFBCDF406C08522B40A2C"
         ], 
         "name": "Michael Sterrett", 
-        "nick": "mr_bones_"
+        "nick": "mr_bones_", 
+        "uid": [
+            "Michael Sterrett <mr_bones_@gentoo.org>"
+        ]
     }, 
     "mrueg": {
         "fingerprint": [
@@ -1392,7 +1764,10 @@
             "8005DDDFC4836BA80F77647C58FBA36C8D9D635C"
         ], 
         "name": "Manuel R\u00fcger", 
-        "nick": "mrueg"
+        "nick": "mrueg", 
+        "uid": [
+            "Manuel R\u00fcger <mrueg@gentoo.org>"
+        ]
     }, 
     "mschiff": {
         "fingerprint": [
@@ -1403,7 +1778,10 @@
             "8AAC5F4683B4DB7083173723296C6CCA35A64134"
         ], 
         "name": "Marc Schiffbauer", 
-        "nick": "mschiff"
+        "nick": "mschiff", 
+        "uid": [
+            "Marc Schiffbauer <mschiff@gentoo.org>"
+        ]
     }, 
     "nathanzachary": {
         "fingerprint": [
@@ -1414,7 +1792,10 @@
             "774C781A7AF325F82EF137D6D165B7786F224AF9"
         ], 
         "name": "Nathan Zachary", 
-        "nick": "nathanzachary"
+        "nick": "nathanzachary", 
+        "uid": [
+            "Nathan Zachary <nathanzachary@gentoo.org>"
+        ]
     }, 
     "nativemad": {
         "fingerprint": [
@@ -1425,7 +1806,10 @@
             "52811731D8131B7796A6285E6A42949AC1DE54B2"
         ], 
         "name": "Andreas Schuerch", 
-        "nick": "nativemad"
+        "nick": "nativemad", 
+        "uid": [
+            "Andreas Schuerch <nativemad@gentoo.org>"
+        ]
     }, 
     "neddyseagoon": {
         "fingerprint": [
@@ -1436,7 +1820,10 @@
             "F22A8DD259C4B20845D14FED565FD335AADCE709"
         ], 
         "name": "Roy Bamford", 
-        "nick": "neddyseagoon"
+        "nick": "neddyseagoon", 
+        "uid": [
+            "Roy Bamford <neddyseagoon@gentoo.org>"
+        ]
     }, 
     "nerdboy": {
         "fingerprint": [
@@ -1447,7 +1834,10 @@
             "44EEF84F86F8733C9BB02377605EC01F47D46D61"
         ], 
         "name": "Steve Arnold", 
-        "nick": "nerdboy"
+        "nick": "nerdboy", 
+        "uid": [
+            "Steve Arnold <nerdboy@gentoo.org>"
+        ]
     }, 
     "neurogeek": {
         "fingerprint": [
@@ -1458,7 +1848,10 @@
             "8316638DDB198DD6AA404ECB748B2C601F6F0683"
         ], 
         "name": "Jesus Rivero", 
-        "nick": "neurogeek"
+        "nick": "neurogeek", 
+        "uid": [
+            "Jesus Rivero <neurogeek@gentoo.org>"
+        ]
     }, 
     "nicolasbock": {
         "fingerprint": [
@@ -1469,7 +1862,10 @@
             "E0D8020A7F1FC428ED0980487F5E6D64AC91CA52"
         ], 
         "name": "Nicolas Bock", 
-        "nick": "nicolasbock"
+        "nick": "nicolasbock", 
+        "uid": [
+            "Nicolas Bock <nicolasbock@gentoo.org>"
+        ]
     }, 
     "nightmorph": {
         "fingerprint": [
@@ -1480,7 +1876,10 @@
             "4B43225C1BE048D110CA457FC4F58CCE92A4EA43"
         ], 
         "name": "Joshua Saddler", 
-        "nick": "nightmorph"
+        "nick": "nightmorph", 
+        "uid": [
+            "Joshua Saddler <nightmorph@gentoo.org>"
+        ]
     }, 
     "nimiux": {
         "fingerprint": [
@@ -1491,7 +1890,10 @@
             "AB7E4EDEF04B2D7C52F915177FEB832CF253DB15"
         ], 
         "name": "Jos\u00e9 Mar\u00eda Alonso", 
-        "nick": "nimiux"
+        "nick": "nimiux", 
+        "uid": [
+            "Jos\u00e9 Mar\u00eda Alonso <nimiux@gentoo.org>"
+        ]
     }, 
     "nirbheek": {
         "fingerprint": [
@@ -1504,7 +1906,10 @@
             "11D6AD3CFDA817993C0CC0C2EFE43A1C560FDD64"
         ], 
         "name": "Nirbheek Chauhan", 
-        "nick": "nirbheek"
+        "nick": "nirbheek", 
+        "uid": [
+            "Nirbheek Chauhan <nirbheek@gentoo.org>"
+        ]
     }, 
     "nullishzero": {
         "fingerprint": [
@@ -1515,7 +1920,10 @@
             "1D9F284468C68B3A09E4765BD6F579C239E7AB2E"
         ], 
         "name": "Pavel Kazakov", 
-        "nick": "nullishzero"
+        "nick": "nullishzero", 
+        "uid": [
+            "Pavel Kazakov <nullishzero@gentoo.org>"
+        ]
     }, 
     "olemarkus": {
         "fingerprint": [
@@ -1526,7 +1934,10 @@
             "28FD23F70D6A97D6CFE2AC406BAB4AE5C4A92BF5"
         ], 
         "name": "Ole Markus With", 
-        "nick": "olemarkus"
+        "nick": "olemarkus", 
+        "uid": [
+            "Ole Markus With <olemarkus@gentoo.org>"
+        ]
     }, 
     "ottxor": {
         "fingerprint": [
@@ -1537,7 +1948,10 @@
             "533F1454E5C754607F121F70E781865AC2000586"
         ], 
         "name": "Christoph Junghans", 
-        "nick": "ottxor"
+        "nick": "ottxor", 
+        "uid": [
+            "Christoph Junghans <ottxor@gentoo.org>"
+        ]
     }, 
     "p8952": {
         "fingerprint": [
@@ -1548,7 +1962,10 @@
             "DD0DC738258A8949634357E20D81F838BA139F0F"
         ], 
         "name": "Peter Wilmott", 
-        "nick": "p8952"
+        "nick": "p8952", 
+        "uid": [
+            "Peter Wilmott <p8952@gentoo.org>"
+        ]
     }, 
     "pacho": {
         "fingerprint": [
@@ -1559,7 +1976,10 @@
             "3C116691BECBFA0118213BA609A5A940A188FBD4"
         ], 
         "name": "Pacho Ramos", 
-        "nick": "pacho"
+        "nick": "pacho", 
+        "uid": [
+            "Pacho Ramos <pacho@gentoo.org>"
+        ]
     }, 
     "patrick": {
         "fingerprint": [
@@ -1572,7 +1992,10 @@
             "F941D86BAA0D851BFE411493A8447784E52864CE"
         ], 
         "name": "Patrick Lauer", 
-        "nick": "patrick"
+        "nick": "patrick", 
+        "uid": [
+            "Patrick Lauer <patrick@gentoo.org>"
+        ]
     }, 
     "pchrist": {
         "fingerprint": [
@@ -1583,7 +2006,10 @@
             "0A881030CD44FDB2A001E76E3AC579B91BC03656"
         ], 
         "name": "Panagiotis Christopoulos", 
-        "nick": "pchrist"
+        "nick": "pchrist", 
+        "uid": [
+            "Panagiotis Christopoulos <pchrist@gentoo.org>"
+        ]
     }, 
     "perfinion": {
         "fingerprint": [
@@ -1594,7 +2020,10 @@
             "63191CE94183098689CAB8DB7EF137EC935B0EAF"
         ], 
         "name": "Jason Zaman", 
-        "nick": "perfinion"
+        "nick": "perfinion", 
+        "uid": [
+            "Jason Zaman <perfinion@gentoo.org>"
+        ]
     }, 
     "pesa": {
         "fingerprint": [
@@ -1607,7 +2036,10 @@
             "394F80215ABF6B7915DFAFF01DDFE604617D1F94"
         ], 
         "name": "Davide Pesavento", 
-        "nick": "pesa"
+        "nick": "pesa", 
+        "uid": [
+            "Davide Pesavento <pesa@gentoo.org>"
+        ]
     }, 
     "phajdan.jr": {
         "fingerprint": [
@@ -1618,7 +2050,10 @@
             "C69F2F01C288E4738CD233AD4F1A2555EA71991D"
         ], 
         "name": "Pawe\u0142 Hajdan", 
-        "nick": "phajdan.jr"
+        "nick": "phajdan.jr", 
+        "uid": [
+            "Pawe\u0142 Hajdan <phajdan.jr@gentoo.org>"
+        ]
     }, 
     "pilla": {
         "fingerprint": [
@@ -1629,7 +2064,10 @@
             "2F5EE5B3B9A8B014EC1C800CA984D6DF441C1EB7"
         ], 
         "name": "Mauricio Lima Pilla", 
-        "nick": "pilla"
+        "nick": "pilla", 
+        "uid": [
+            "Mauricio Lima Pilla <pilla@gentoo.org>"
+        ]
     }, 
     "pinkbyte": {
         "fingerprint": [
@@ -1640,7 +2078,10 @@
             "8B19733246E3711AB855EC3B60C0742D1F357D42"
         ], 
         "name": "Sergey Popov", 
-        "nick": "pinkbyte"
+        "nick": "pinkbyte", 
+        "uid": [
+            "Sergey Popov <pinkbyte@gentoo.org>"
+        ]
     }, 
     "pjp": {
         "fingerprint": [
@@ -1651,7 +2092,10 @@
             "40F600C4E86ED5AEF47F62B3270A881606627F19"
         ], 
         "name": "Peter Penkala", 
-        "nick": "pjp"
+        "nick": "pjp", 
+        "uid": [
+            "Peter Penkala <pjp@gentoo.org>"
+        ]
     }, 
     "polynomial-c": {
         "fingerprint": [
@@ -1662,7 +2106,10 @@
             "4DD8C47CCDFA5295E1A63FC8F69674AB981CA6FC"
         ], 
         "name": "Lars Wendler", 
-        "nick": "polynomial-c"
+        "nick": "polynomial-c", 
+        "uid": [
+            "Lars Wendler <polynomial-c@gentoo.org>"
+        ]
     }, 
     "prometheanfire": {
         "fingerprint": [
@@ -1673,7 +2120,10 @@
             "171B53E0E35B11EC5FDF17E32471EB3E40AC5AC3"
         ], 
         "name": "Matt Thode", 
-        "nick": "prometheanfire"
+        "nick": "prometheanfire", 
+        "uid": [
+            "Matt Thode <prometheanfire@gentoo.org>"
+        ]
     }, 
     "psomas": {
         "fingerprint": [
@@ -1684,7 +2134,10 @@
             "9EF0838015735E4A85505B4C89DD6555E3433260"
         ], 
         "name": "Stratos Psomadakis", 
-        "nick": "psomas"
+        "nick": "psomas", 
+        "uid": [
+            "Stratos Psomadakis <psomas@gentoo.org>"
+        ]
     }, 
     "pva": {
         "fingerprint": [
@@ -1695,7 +2148,10 @@
             "506D21F8A6F8E66969836A74CFAB658045926AB3"
         ], 
         "name": "Peter Volkov", 
-        "nick": "pva"
+        "nick": "pva", 
+        "uid": [
+            "Peter Volkov <pva@gentoo.org>"
+        ]
     }, 
     "qnikst": {
         "fingerprint": [
@@ -1706,7 +2162,10 @@
             "15B078F19761860BA04A426376512BBA09DD3D53"
         ], 
         "name": "Alexander Vershilov", 
-        "nick": "qnikst"
+        "nick": "qnikst", 
+        "uid": [
+            "Alexander Vershilov <qnikst@gentoo.org>"
+        ]
     }, 
     "quantumsummers": {
         "fingerprint": [
@@ -1717,7 +2176,10 @@
             "111BC43835FAEDB5B5D3736F45EE5DC008789D46"
         ], 
         "name": "Matthew Summers", 
-        "nick": "quantumsummers"
+        "nick": "quantumsummers", 
+        "uid": [
+            "Matthew Summers <quantumsummers@gentoo.org>"
+        ]
     }, 
     "radhermit": {
         "fingerprint": [
@@ -1728,7 +2190,10 @@
             "74A2E6514C583FA49EEEA1094AB3E85B4F064CA3"
         ], 
         "name": "Tim Harder", 
-        "nick": "radhermit"
+        "nick": "radhermit", 
+        "uid": [
+            "Tim Harder <radhermit@gentoo.org>"
+        ]
     }, 
     "rafaelmartins": {
         "fingerprint": [
@@ -1739,7 +2204,10 @@
             "8D9C25D7025169DE4C457A653EF74952E894ABDE"
         ], 
         "name": "Rafael Martins", 
-        "nick": "rafaelmartins"
+        "nick": "rafaelmartins", 
+        "uid": [
+            "Rafael Martins <rafaelmartins@gentoo.org>"
+        ]
     }, 
     "ramereth": {
         "fingerprint": [
@@ -1750,7 +2218,10 @@
             "042392F3544A12825AB14D07416FA15D27F4B742"
         ], 
         "name": "Lance Albertson", 
-        "nick": "ramereth"
+        "nick": "ramereth", 
+        "uid": [
+            "Lance Albertson <ramereth@gentoo.org>"
+        ]
     }, 
     "ranger": {
         "fingerprint": [
@@ -1761,7 +2232,10 @@
             "764A0378684FA6EDE05F1CD139989218A212AD7A"
         ], 
         "name": "Brent Baude", 
-        "nick": "ranger"
+        "nick": "ranger", 
+        "uid": [
+            "Brent Baude <ranger@gentoo.org>"
+        ]
     }, 
     "reavertm": {
         "fingerprint": [
@@ -1772,7 +2246,10 @@
             "8D3958F3B57C63A2A86D1FC816E1DAFDB1E955DB"
         ], 
         "name": "Maciej Mrozowski", 
-        "nick": "reavertm"
+        "nick": "reavertm", 
+        "uid": [
+            "Maciej Mrozowski <reavertm@gentoo.org>"
+        ]
     }, 
     "redlizard": {
         "fingerprint": [
@@ -1783,7 +2260,10 @@
             "1367E7C7F724AB7EAB1C3FBAC72EF50410FB016B"
         ], 
         "name": "Ruud Koolen", 
-        "nick": "redlizard"
+        "nick": "redlizard", 
+        "uid": [
+            "Ruud Koolen <redlizard@gentoo.org>"
+        ]
     }, 
     "remi": {
         "fingerprint": [
@@ -1794,7 +2274,10 @@
             "91472E8B8C895ADEFEC0B7E47D453F23901AB08A"
         ], 
         "name": "Remi Cardona", 
-        "nick": "remi"
+        "nick": "remi", 
+        "uid": [
+            "Remi Cardona <remi@gentoo.org>"
+        ]
     }, 
     "rhill": {
         "fingerprint": [
@@ -1805,7 +2288,10 @@
             "47C36D6248640E498E9E7F92ED38BD49957A8463"
         ], 
         "name": "Ryan Hill", 
-        "nick": "rhill"
+        "nick": "rhill", 
+        "uid": [
+            "Ryan Hill <rhill@gentoo.org>"
+        ]
     }, 
     "rich0": {
         "fingerprint": [
@@ -1816,7 +2302,10 @@
             "36653E1122C08BCEA16D152908C170DE55EC123A"
         ], 
         "name": "Richard Freeman", 
-        "nick": "rich0"
+        "nick": "rich0", 
+        "uid": [
+            "Richard Freeman <rich0@gentoo.org>"
+        ]
     }, 
     "robbat2": {
         "fingerprint": [
@@ -1827,7 +2316,10 @@
             "11ACBA4F4778E3F6E4EDF38EB27B944E34884E85"
         ], 
         "name": "Robin H. Johnson", 
-        "nick": "robbat2"
+        "nick": "robbat2", 
+        "uid": [
+            "Robin H. Johnson <robbat2@gentoo.org>"
+        ]
     }, 
     "ryao": {
         "fingerprint": [
@@ -1840,7 +2332,10 @@
             "842270AB4A9CABE33D0E57B120EE1199BEE84C64"
         ], 
         "name": "Richard Yao", 
-        "nick": "ryao"
+        "nick": "ryao", 
+        "uid": [
+            "Richard Yao <ryao@gentoo.org>"
+        ]
     }, 
     "sbriesen": {
         "fingerprint": [
@@ -1851,7 +2346,10 @@
             "45C6F1D881E3864BF61357712D121E57533DBE8D"
         ], 
         "name": "Stefan Briesenick", 
-        "nick": "sbriesen"
+        "nick": "sbriesen", 
+        "uid": [
+            "Stefan Briesenick <sbriesen@gentoo.org>"
+        ]
     }, 
     "sdamashek": {
         "fingerprint": [
@@ -1862,7 +2360,10 @@
             "63F2BF772A76D62497D294DB6C3EB8FD3C472B56"
         ], 
         "name": "Samuel Damashek", 
-        "nick": "sdamashek"
+        "nick": "sdamashek", 
+        "uid": [
+            "Samuel Damashek <sdamashek@gentoo.org>"
+        ]
     }, 
     "sera": {
         "fingerprint": [
@@ -1873,7 +2374,10 @@
             "58C25B07B986381E3BD56AEFB8F023A43C5CF75A"
         ], 
         "name": "Ralph Sennhauser", 
-        "nick": "sera"
+        "nick": "sera", 
+        "uid": [
+            "Ralph Sennhauser <sera@gentoo.org>"
+        ]
     }, 
     "slis": {
         "fingerprint": [
@@ -1884,7 +2388,10 @@
             "C497E89D2D77BB35B9386432419CC94155265D89"
         ], 
         "name": "Slawek Lis", 
-        "nick": "slis"
+        "nick": "slis", 
+        "uid": [
+            "Slawek Lis <slis@gentoo.org>"
+        ]
     }, 
     "slyfox": {
         "fingerprint": [
@@ -1895,7 +2402,10 @@
             "9929AD151B96AF651958D35871A1EE76611FF3AA"
         ], 
         "name": "Sergei Trofimovich", 
-        "nick": "slyfox"
+        "nick": "slyfox", 
+        "uid": [
+            "Sergei Trofimovich <slyfox@gentoo.org>"
+        ]
     }, 
     "sochotnicky": {
         "fingerprint": [
@@ -1906,7 +2416,10 @@
             "1CB6D18E574181B72F9ABA3307D51CFC71A1677C"
         ], 
         "name": "Stanislav Ochotnicky", 
-        "nick": "sochotnicky"
+        "nick": "sochotnicky", 
+        "uid": [
+            "Stanislav Ochotnicky <sochotnicky@gentoo.org>"
+        ]
     }, 
     "solar": {
         "fingerprint": [
@@ -1917,7 +2430,10 @@
             "477F4A3C4F532A71DBCBCD03F780827C1E0A730C"
         ], 
         "name": "Ned Ludd", 
-        "nick": "solar"
+        "nick": "solar", 
+        "uid": [
+            "Ned Ludd <solar@gentoo.org>"
+        ]
     }, 
     "sping": {
         "fingerprint": [
@@ -1928,7 +2444,10 @@
             "3D7E959D89FACFEE38371921B00BC66A401A1600"
         ], 
         "name": "Sebastian Pipping", 
-        "nick": "sping"
+        "nick": "sping", 
+        "uid": [
+            "Sebastian Pipping <sping@gentoo.org>"
+        ]
     }, 
     "spiros": {
         "fingerprint": [
@@ -1939,7 +2458,10 @@
             "368A3A018CD7FE98BAF7F5E1828FB21C709F4043"
         ], 
         "name": "Andrea Arteaga", 
-        "nick": "spiros"
+        "nick": "spiros", 
+        "uid": [
+            "Andrea Arteaga <spiros@gentoo.org>"
+        ]
     }, 
     "steev": {
         "fingerprint": [
@@ -1950,7 +2472,10 @@
             "75CE6F930FD433DB1C64C0FE26B588EAF51374AF"
         ], 
         "name": "Stephen Klimaszewski", 
-        "nick": "steev"
+        "nick": "steev", 
+        "uid": [
+            "Stephen Klimaszewski <steev@gentoo.org>"
+        ]
     }, 
     "swegener": {
         "fingerprint": [
@@ -1961,7 +2486,10 @@
             "3ED60FAA275A643B7E8C4AB7D3888C2A36D3A5D8"
         ], 
         "name": "Sven Wegener", 
-        "nick": "swegener"
+        "nick": "swegener", 
+        "uid": [
+            "Sven Wegener <swegener@gentoo.org>"
+        ]
     }, 
     "swift": {
         "fingerprint": [
@@ -1972,7 +2500,10 @@
             "72649F85E8F16F6A4B6811022EDD52403B68AF47"
         ], 
         "name": "Sven Vermeulen", 
-        "nick": "swift"
+        "nick": "swift", 
+        "uid": [
+            "Sven Vermeulen <swift@gentoo.org>"
+        ]
     }, 
     "tamiko": {
         "fingerprint": [
@@ -1983,7 +2514,10 @@
             "1EE97BF66221FC3069B5CF90B5A4E06FBD3A97A3"
         ], 
         "name": "Matthias Maier", 
-        "nick": "tamiko"
+        "nick": "tamiko", 
+        "uid": [
+            "Matthias Maier <tamiko@gentoo.org>"
+        ]
     }, 
     "tampakrap": {
         "fingerprint": [
@@ -1994,7 +2528,10 @@
             "7B669D4E34C3DE6C928A317B9640E4FA29485B97"
         ], 
         "name": "Theo Chatzimichos", 
-        "nick": "tampakrap"
+        "nick": "tampakrap", 
+        "uid": [
+            "Theo Chatzimichos <tampakrap@gentoo.org>"
+        ]
     }, 
     "teiresias": {
         "fingerprint": [
@@ -2005,7 +2542,10 @@
             "66BD74A036D522F51DD70A3C7F2A16726521E06D"
         ], 
         "name": "Christopher Brannon", 
-        "nick": "teiresias"
+        "nick": "teiresias", 
+        "uid": [
+            "Christopher Brannon <teiresias@gentoo.org>"
+        ]
     }, 
     "tetromino": {
         "fingerprint": [
@@ -2016,7 +2556,10 @@
             "DC23E86D8F3A2E1B552FF227A443010F4F1D4860"
         ], 
         "name": "Alexandre Rostovtsev", 
-        "nick": "tetromino"
+        "nick": "tetromino", 
+        "uid": [
+            "Alexandre Rostovtsev <tetromino@gentoo.org>"
+        ]
     }, 
     "tgurr": {
         "fingerprint": [
@@ -2027,7 +2570,10 @@
             "4CCF4EB68EEA169E0BD3ACB369B7142D5270BA51"
         ], 
         "name": "Timo Gurr", 
-        "nick": "tgurr"
+        "nick": "tgurr", 
+        "uid": [
+            "Timo Gurr <tgurr@gentoo.org>"
+        ]
     }, 
     "thev00d00": {
         "fingerprint": [
@@ -2038,7 +2584,10 @@
             "E29ED7C93613033CCEA47CBF2CDC81B7C0822198"
         ], 
         "name": "Ian Whyman", 
-        "nick": "thev00d00"
+        "nick": "thev00d00", 
+        "uid": [
+            "Ian Whyman <thev00d00@gentoo.org>"
+        ]
     }, 
     "think4urs11": {
         "fingerprint": [
@@ -2049,7 +2598,10 @@
             "9D231E38259FF4B9D10FD8DFF1E4120EAB69D53B"
         ], 
         "name": "Thomas Scharl", 
-        "nick": "think4urs11"
+        "nick": "think4urs11", 
+        "uid": [
+            "Thomas Scharl <think4urs11@gentoo.org>"
+        ]
     }, 
     "titanofold": {
         "fingerprint": [
@@ -2060,7 +2612,10 @@
             "2C0077194F85FB07A49C0E315713AA03D1BBFDA0"
         ], 
         "name": "Aaron Swenson", 
-        "nick": "titanofold"
+        "nick": "titanofold", 
+        "uid": [
+            "Aaron Swenson <titanofold@gentoo.org>"
+        ]
     }, 
     "tomjbe": {
         "fingerprint": [
@@ -2071,7 +2626,10 @@
             "D8E815F300A1FF59AD3620C841EE2EA9762053D5"
         ], 
         "name": "Thomas Beierlein", 
-        "nick": "tomjbe"
+        "nick": "tomjbe", 
+        "uid": [
+            "Thomas Beierlein <tomjbe@gentoo.org>"
+        ]
     }, 
     "tomk": {
         "fingerprint": [
@@ -2082,7 +2640,10 @@
             "7C80A6DFB736D3C7B31B0F1B3C7993B437456BAC"
         ], 
         "name": "Tom Knight", 
-        "nick": "tomk"
+        "nick": "tomk", 
+        "uid": [
+            "Tom Knight <tomk@gentoo.org>"
+        ]
     }, 
     "tomka": {
         "fingerprint": [
@@ -2093,7 +2654,10 @@
             "820F92B19207F3CD5E4D41673EBC47CA7A4A7D6B"
         ], 
         "name": "Thomas Kahle", 
-        "nick": "tomka"
+        "nick": "tomka", 
+        "uid": [
+            "Thomas Kahle <tomka@gentoo.org>"
+        ]
     }, 
     "tommy": {
         "fingerprint": [
@@ -2104,7 +2668,10 @@
             "2281885DDB14376A2882BCDFC05330B3211CA2D4"
         ], 
         "name": "Thomas Sachau", 
-        "nick": "tommy"
+        "nick": "tommy", 
+        "uid": [
+            "Thomas Sachau <tommy@gentoo.org>"
+        ]
     }, 
     "tomwij": {
         "fingerprint": [
@@ -2115,7 +2682,10 @@
             "C165AF18AB4C400BC3D2ABF095B21FCD6D34E57D"
         ], 
         "name": "Tom Wijsman", 
-        "nick": "tomwij"
+        "nick": "tomwij", 
+        "uid": [
+            "Tom Wijsman <tomwij@gentoo.org>"
+        ]
     }, 
     "tristan": {
         "fingerprint": [
@@ -2126,7 +2696,10 @@
             "69FD12F7052BA62099229DA0B3312CFDCF34A31F"
         ], 
         "name": "Tristan Heaven", 
-        "nick": "tristan"
+        "nick": "tristan", 
+        "uid": [
+            "Tristan Heaven <tristan@gentoo.org>"
+        ]
     }, 
     "tupone": {
         "fingerprint": [
@@ -2137,7 +2710,10 @@
             "5F513ABFD57EFAC8FA2336EC7731303FD926947A"
         ], 
         "name": "Alfredo Tupone", 
-        "nick": "tupone"
+        "nick": "tupone", 
+        "uid": [
+            "Alfredo Tupone <tupone@gentoo.org>"
+        ]
     }, 
     "twitch153": {
         "fingerprint": [
@@ -2148,7 +2724,10 @@
             "B217EEE3CBADAC1B6B0443E6E7F9794FA8C8FBCF"
         ], 
         "name": "Devan Franchini", 
-        "nick": "twitch153"
+        "nick": "twitch153", 
+        "uid": [
+            "Devan Franchini <twitch153@gentoo.org>"
+        ]
     }, 
     "ulm": {
         "fingerprint": [
@@ -2159,7 +2738,10 @@
             "578C65C85CC4A069C7FEE30FE7BE08CA7DC6EA25"
         ], 
         "name": "Ulrich M\u00fcller", 
-        "nick": "ulm"
+        "nick": "ulm", 
+        "uid": [
+            "Ulrich M\u00fcller <ulm@gentoo.org>"
+        ]
     }, 
     "ultrabug": {
         "fingerprint": [
@@ -2170,7 +2752,10 @@
             "AAC310CABF9DB5D6A25006222A24124BB658FA13"
         ], 
         "name": "Alexys Jacob", 
-        "nick": "ultrabug"
+        "nick": "ultrabug", 
+        "uid": [
+            "Alexys Jacob <ultrabug@gentoo.org>"
+        ]
     }, 
     "vadimk": {
         "fingerprint": [
@@ -2181,7 +2766,10 @@
             "30040AEF2602B089AB2D240788B2AF8AE1DF22D5"
         ], 
         "name": "Vadim Kuznetsov", 
-        "nick": "vadimk"
+        "nick": "vadimk", 
+        "uid": [
+            "Vadim Kuznetsov <vadimk@gentoo.org>"
+        ]
     }, 
     "vapier": {
         "fingerprint": [
@@ -2192,7 +2780,10 @@
             "B902B5271325F892AC251AD441633B9FE837F581"
         ], 
         "name": "Mike Frysinger", 
-        "nick": "vapier"
+        "nick": "vapier", 
+        "uid": [
+            "Mike Frysinger <vapier@gentoo.org>"
+        ]
     }, 
     "vikraman": {
         "fingerprint": [
@@ -2203,7 +2794,10 @@
             "CE52ABDA543E4957B049830747DD5484B0A72FD2"
         ], 
         "name": "Vikraman Choudhury", 
-        "nick": "vikraman"
+        "nick": "vikraman", 
+        "uid": [
+            "Vikraman Choudhury <vikraman@gentoo.org>"
+        ]
     }, 
     "vincent": {
         "fingerprint": [
@@ -2214,7 +2808,10 @@
             "BBC5025DD7F72B888FA24B935AE9E7B2E9BBCBA8"
         ], 
         "name": "Vicente Olivert Riera", 
-        "nick": "vincent"
+        "nick": "vincent", 
+        "uid": [
+            "Vicente Olivert Riera <vincent@gentoo.org>"
+        ]
     }, 
     "vostorga": {
         "fingerprint": [
@@ -2225,7 +2822,10 @@
             "1082C8D06338B86783491794290699ECE25EE336"
         ], 
         "name": "Victor Ostorga", 
-        "nick": "vostorga"
+        "nick": "vostorga", 
+        "uid": [
+            "Victor Ostorga <vostorga@gentoo.org>"
+        ]
     }, 
     "voyageur": {
         "fingerprint": [
@@ -2238,7 +2838,10 @@
             "B6853FE1D8755F6CA5C04AA215810119C74525F2"
         ], 
         "name": "Bernard Cafarelli", 
-        "nick": "voyageur"
+        "nick": "voyageur", 
+        "uid": [
+            "Bernard Cafarelli <voyageur@gentoo.org>"
+        ]
     }, 
     "williamh": {
         "fingerprint": [
@@ -2249,7 +2852,10 @@
             "D57AEC44668E2E5073A440096E5416F430C46538"
         ], 
         "name": "William Hubbs", 
-        "nick": "williamh"
+        "nick": "williamh", 
+        "uid": [
+            "William Hubbs <williamh@gentoo.org>"
+        ]
     }, 
     "wired": {
         "fingerprint": [
@@ -2260,7 +2866,10 @@
             "EE9C993E3A4B17193261101E3645F0AEEB9B4AFA"
         ], 
         "name": "Alex Alexander", 
-        "nick": "wired"
+        "nick": "wired", 
+        "uid": [
+            "Alex Alexander <wired@gentoo.org>"
+        ]
     }, 
     "wschlich": {
         "fingerprint": [
@@ -2271,7 +2880,10 @@
             "460E9001E33F6C60D88315CEB75E6F9EC1A30268"
         ], 
         "name": "Wolfram Schlich", 
-        "nick": "wschlich"
+        "nick": "wschlich", 
+        "uid": [
+            "Wolfram Schlich <wschlich@gentoo.org>"
+        ]
     }, 
     "xarthisius": {
         "fingerprint": [
@@ -2284,7 +2896,10 @@
             "68BBFA62603273BD448EE89B5D21B852895192F9"
         ], 
         "name": "Kacper Kowalik", 
-        "nick": "xarthisius"
+        "nick": "xarthisius", 
+        "uid": [
+            "Kacper Kowalik <xarthisius@gentoo.org>"
+        ]
     }, 
     "xaviermiller": {
         "fingerprint": [
@@ -2295,7 +2910,10 @@
             "F334B2C2C89502C3C5434FA1E0FC764F8D6630A8"
         ], 
         "name": "Xavier Miller", 
-        "nick": "xaviermiller"
+        "nick": "xaviermiller", 
+        "uid": [
+            "Xavier Miller <xaviermiller@gentoo.org>"
+        ]
     }, 
     "xmw": {
         "fingerprint": [
@@ -2306,7 +2924,10 @@
             "9243C33F2B9A423B8E72E981D60234D4C3F4435D"
         ], 
         "name": "Michael Weber", 
-        "nick": "xmw"
+        "nick": "xmw", 
+        "uid": [
+            "Michael Weber <xmw@gentoo.org>"
+        ]
     }, 
     "yac": {
         "fingerprint": [
@@ -2317,7 +2938,10 @@
             "845B80B9AD12DB400CE534F6837EED10F97A36A1"
         ], 
         "name": "Jan Matejka", 
-        "nick": "yac"
+        "nick": "yac", 
+        "uid": [
+            "Jan Matejka <yac@gentoo.org>"
+        ]
     }, 
     "yngwin": {
         "fingerprint": [
@@ -2328,7 +2952,10 @@
             "DD5627D9A74C6F70272E946A7DB21025D9AFB67F"
         ], 
         "name": "Ben de Groot", 
-        "nick": "yngwin"
+        "nick": "yngwin", 
+        "uid": [
+            "Ben de Groot <yngwin@gentoo.org>"
+        ]
     }, 
     "zerochaos": {
         "fingerprint": [
@@ -2339,7 +2966,10 @@
             "537C5937C779CE2772F33029A5DD1427DD11F94A"
         ], 
         "name": "Richard Farina", 
-        "nick": "zerochaos"
+        "nick": "zerochaos", 
+        "uid": [
+            "Richard Farina <zerochaos@gentoo.org>"
+        ]
     }, 
     "zlogene": {
         "fingerprint": [
@@ -2350,7 +2980,10 @@
             "3BE50CBFC7DFC748D903B5D31BDC0E5AC42EB5D6"
         ], 
         "name": "Mikle Kolyada", 
-        "nick": "zlogene"
+        "nick": "zlogene", 
+        "uid": [
+            "Mikle Kolyada <zlogene@gentoo.org>"
+        ]
     }, 
     "zmedico": {
         "fingerprint": [
@@ -2361,7 +2994,10 @@
             "86E5135378C81512BB9E7F32FDE8EF85AE5719A3"
         ], 
         "name": "Zac Medico", 
-        "nick": "zmedico"
+        "nick": "zmedico", 
+        "uid": [
+            "Zac Medico <zmedico@gentoo.org>"
+        ]
     }, 
     "zorry": {
         "fingerprint": [
@@ -2372,7 +3008,10 @@
             "CEAE6CD1A2AA217D45059A007BA250AAFD79807F"
         ], 
         "name": "Magnus Granberg", 
-        "nick": "zorry"
+        "nick": "zorry", 
+        "uid": [
+            "Magnus Granberg <zorry@gentoo.org>"
+        ]
     }, 
     "zx2c4": {
         "fingerprint": [
@@ -2383,7 +3022,10 @@
             "AB9942E6D4A4CFC3412620A749FC7012A5DE03AE"
         ], 
         "name": "Jason Donenfeld", 
-        "nick": "zx2c4"
+        "nick": "zx2c4", 
+        "uid": [
+            "Jason Donenfeld <zx2c4@gentoo.org>"
+        ]
     }, 
     "zzam": {
         "fingerprint": [
@@ -2394,6 +3036,9 @@
             "9178215DD18EA2802C6A6209B76BCFE97BD574E7"
         ], 
         "name": "Matthias Schwarzott", 
-        "nick": "zzam"
+        "nick": "zzam", 
+        "uid": [
+            "Matthias Schwarzott <zzam@gentoo.org>"
+        ]
     }
 }

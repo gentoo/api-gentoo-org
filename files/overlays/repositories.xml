@@ -2184,6 +2184,19 @@ FIN
     <source type="git">git://github.com/gentoo/graveyard.git</source>
     <feed>http://github.com/gentoo-haskell/gentoo-haskell/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>grub2-themes</name>
+    <description lang="en">Overlay dedicated to Grub2 themes (of any distribution)</description>
+    <homepage>https://github.com/gentoo/grub2-themes-overlay</homepage>
+    <owner type="person">
+      <email>sping@gentoo.org</email>
+      <name>Sebastian Pipping</name>
+    </owner>
+    <source type="git">https://github.com/gentoo/grub2-themes-overlay.git</source>
+    <source type="git">git://github.com/gentoo/grub2-themes-overlay.git</source>
+    <source type="git">git@github.com:gentoo/grub2-themes-overlay.git</source>
+    <feed>https://github.com/gentoo/grub2-themes-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>hacking-gentoo</name>
     <description lang="en">Ebuilds of Hacking Network Solutions Ltd</description>

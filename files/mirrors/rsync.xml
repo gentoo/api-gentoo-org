@@ -148,10 +148,6 @@
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync12.de.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>sonic-lux.net - rsync13.de.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync13.de.gentoo.org</uri>
-    </mirror>
-    <mirror>
       <name>RWTH Aachen University</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync15.de.gentoo.org</uri>
     </mirror>

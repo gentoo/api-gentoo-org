@@ -2113,11 +2113,13 @@
     }, 
     "prometheanfire": {
         "fingerprint": [
-            "171B53E0E35B11EC5FDF17E32471EB3E40AC5AC3"
+            "171B53E0E35B11EC5FDF17E32471EB3E40AC5AC3", 
+            "14B91CAAF68C4849F90CA41333ED3FD25AFC78BA"
         ], 
         "keydir": "prometheanfire", 
         "keys": [
-            "171B53E0E35B11EC5FDF17E32471EB3E40AC5AC3"
+            "171B53E0E35B11EC5FDF17E32471EB3E40AC5AC3", 
+            "14B91CAAF68C4849F90CA41333ED3FD25AFC78BA"
         ], 
         "name": "Matt Thode", 
         "nick": "prometheanfire", 
@@ -2295,11 +2297,11 @@
     }, 
     "rich0": {
         "fingerprint": [
-            "36653E1122C08BCEA16D152908C170DE55EC123A"
+            "224B35A9A34E37BE417B3491100565AB52446CB4"
         ], 
         "keydir": "rich0", 
         "keys": [
-            "36653E1122C08BCEA16D152908C170DE55EC123A"
+            "224B35A9A34E37BE417B3491100565AB52446CB4"
         ], 
         "name": "Richard Freeman", 
         "nick": "rich0", 

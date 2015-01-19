@@ -1051,20 +1051,6 @@
             "Christian Ruppert <idl0r@gentoo.org>"
         ]
     }, 
-    "ikelos": {
-        "fingerprint": [
-            "FFB123FCD0BF70DA530423ADBBBAD6A26C20157A"
-        ], 
-        "keydir": "ikelos", 
-        "keys": [
-            "FFB123FCD0BF70DA530423ADBBBAD6A26C20157A"
-        ], 
-        "name": "Mike Auty", 
-        "nick": "ikelos", 
-        "uid": [
-            "Mike Auty <ikelos@gentoo.org>"
-        ]
-    }, 
     "iksaif": {
         "fingerprint": [
             "B3F6B4B31BF3CF3B7AB5865E56536C453FD7C6B4"
@@ -1799,11 +1785,11 @@
     }, 
     "nativemad": {
         "fingerprint": [
-            "52811731D8131B7796A6285E6A42949AC1DE54B2"
+            "AC0C80D0E909ABB08BE3BCF7C36A27AB60373227"
         ], 
         "keydir": "nativemad", 
         "keys": [
-            "52811731D8131B7796A6285E6A42949AC1DE54B2"
+            "AC0C80D0E909ABB08BE3BCF7C36A27AB60373227"
         ], 
         "name": "Andreas Schuerch", 
         "nick": "nativemad", 

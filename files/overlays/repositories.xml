@@ -1499,7 +1499,7 @@ FIN
     <description lang="en">Personal overlay of Erik Moen</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/eroen.git;a=summary</homepage>
     <owner type="person">
-      <email>erikdenstore@gmail.com</email>
+      <email>overlay@eroen.eu</email>
       <name>Erik Moen</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/user/eroen.git</source>

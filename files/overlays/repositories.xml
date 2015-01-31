@@ -3805,6 +3805,15 @@ FIN
     <feed>https://github.com/PaddyMac/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>palemoon</name>
+    <description>Unofficial Gentoo overlay for the Pale Moon (http://www.palemoon.org/) web browser.</description>
+    <homepage>https://gitlab.com/deu/palemoon-overlay</homepage>
+    <owner type="person">
+        <email>de@uio.re</email>
+    </owner>
+    <source type="git">https://gitlab.com/deu/palemoon-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>palmer</name>
     <description lang="en">User overlay</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/palmer.git;a=summary</homepage>

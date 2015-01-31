@@ -110,16 +110,6 @@ FIN
     <feed>http://github.com/feeds/aidecoe/commits/aidecoe-overlay/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>akoya</name>
-    <description>Akoya overlay</description>
-    <homepage>https://trac.poildetroll.net/trac/akoya</homepage>
-    <owner>
-      <email>geekounet@poildetroll.net</email>
-    </owner>
-    <source type="mercurial">https://hg.poildetroll.net/hg/gentoo/overlay</source>
-    <feed>https://hg.poildetroll.net/gentoo/overlay/atom-log</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>alatar-lay</name>
     <description lang="en"><![CDATA[Alatar`s personal ebuilds]]></description>
     <homepage>https://github.com/alatarum/alatar-lay</homepage>
@@ -356,17 +346,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/arc.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>arces</name>
-    <description lang="en">Marionette Collective (mcollective) and stomp ebuilds for the Puppet/mCollective project</description>
-    <homepage>http://support.arces.net/public/viewgit/?a=summary&amp;p=arces_overlay</homepage>
-    <owner type="person">
-      <email>agoins@arces.net</email>
-      <name>Adrian Goins</name>
-    </owner>
-    <source type="git">http://support.arces.net/public/git/arces_overlay.git</source>
-    <feed>http://support.arces.net/public/viewgit/?a=rss-log&amp;p=arces_overlay</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>arcon</name>
     <description><![CDATA[Arcon Overlay!]]></description>
     <homepage>http://code.google.com/p/arcon/</homepage>
@@ -573,18 +552,6 @@ FIN
     <source type="git">git+ssh://git@git.overlays.gentoo.org/user/benf.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/benf.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/benf.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>berkano</name>
-    <description><![CDATA[Berkano overlay provides an overlay for Gentoo Linux with
-    ebuilds of bleeding edge software (such as live subversion builds) and
-    other handy tools that are missing from the official portage tree. Areas of
-    interest include multimedia and system administration.]]></description>
-    <homepage>http://svn.liveforge.org/berkano/trunk</homepage>
-    <owner>
-      <email>yngwin@gmail.com</email>
-    </owner>
-    <source type="svn">http://svn.liveforge.org/berkano/trunk</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>betagarden</name>
@@ -2436,19 +2403,6 @@ FIN
     <feed>http://github.com/feeds/init6/commits/init_6/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>initng</name>
-    <description><![CDATA[Initng is a full replacement of the old and in many ways
-    deprecated sysvinit tool. It is designed with speed in mind because it does
-    as much as possible asynchronously. In other words: It will boot your
-    unix-system much faster, and give you more control and statistics over your
-    system.]]></description>
-    <homepage>http://www.initng.org</homepage>
-    <owner>
-      <email>qupada@initng.org</email>
-    </owner>
-    <source type="svn">https://svn.initng.org/portage/gentoo</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>interactive-fiction</name>
     <description><![CDATA[Packages for players and authors of interactive
     fiction]]></description>
@@ -2457,16 +2411,6 @@ FIN
     </owner>
     <source type="git">git://repo.or.cz/gentoo-interactive-fiction.git</source>
     <feed>http://repo.or.cz/w/gentoo-interactive-fiction.git?a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>iwlwifi</name>
-    <description><![CDATA[This overlay provides ebuilds for the new wireless driver
-    iwlwifi]]></description>
-    <homepage>http://opensvn.csie.org/rmh3093/iwlwifi</homepage>
-    <owner>
-      <email>rmh3093@gmail.com</email>
-    </owner>
-    <source type="svn">http://opensvn.csie.org/rmh3093/iwlwifi</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ixit</name>
@@ -3914,16 +3858,6 @@ FIN
     <feed>https://github.com/wmark/ossdl-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>oss-overlay</name>
-    <description>OSSv4 overlay</description>
-    <homepage>http://gentoo-wiki.com/Howto_OSS4</homepage>
-    <owner>
-      <email>majeru@gentoo.ro</email>
-    </owner>
-    <source type="mercurial">http://hg.atheme.org/users/majeru/portage-overlay/</source>
-    <feed>http://hg.atheme.org/users/majeru/portage-overlay/atom-log</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>otih</name>
     <description><![CDATA[Otih's Provide-Patches Overlay]]></description>
     <homepage>http://repo.or.cz/w/otih-overlay.git</homepage>
@@ -4164,18 +4098,6 @@ FIN
     <source type="git">git://github.com/Pinkbyte/pinkbyte-overlay.git</source>
     <source type="git">https://github.com/Pinkbyte/pinkbyte-overlay.git</source>
     <feed>https://github.com/Pinkbyte/pinkbyte-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>pioto-overlay</name>
-    <description><![CDATA[Most things in here are still works in progress or not stable
-    enough for the main ebuild tree. If something breaks, you're on your
-    own.]]></description>
-    <homepage>http://blog.pioto.org</homepage>
-    <owner>
-      <email>pioto@pioto.org</email>
-    </owner>
-    <source type="git">git://git.pioto.org/pioto-overlay.git</source>
-    <feed>http://git.pioto.org/gitweb/pioto-overlay.git?a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>plab</name>
@@ -4691,15 +4613,6 @@ FIN
     <source type="git">http://git.gitorious.org/roslin/roslin.git</source>
     <feed>http://gitorious.org/roslin/roslin.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>rostov</name>
-    <description>Repo for development of ebuilds.</description>
-    <homepage>http://os-rostov.ru/</homepage>
-    <owner>
-      <email>oleg.kluchkin@gmail.com</email>
-    </owner>
-    <source type="svn">http://svn.os-rostov.ru/repos/overlay</source>
-  </repo>
   <repo quality="experimental" status="official">
     <name>roverlay</name>
     <description>Gentoo overlay of R packages</description>
@@ -5104,16 +5017,6 @@ FIN
     <source type="git">git@github.com:zpuskas/sinustrom-gentoo-overlay.git</source>
     <feed>https://github.com/zpuskas/sinustrom-gentoo-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>sipx</name>
-    <description><![CDATA[This repository contains sipx and related
-    ebuilds.]]></description>
-    <homepage>http://scm.calivia.com/svn/sipx/gentoo</homepage>
-    <owner>
-      <email>msl@calivia.com</email>
-    </owner>
-    <source type="svn">http://scm.calivia.com/svn/sipx/gentoo</source>
-  </repo>
   <repo quality="experimental" status="official">
     <name>slyfox</name>
     <description lang="en"><![CDATA[slyfox's ebuild den]]></description>
@@ -5512,15 +5415,6 @@ FIN
     <source type="git">git://git.overlays.gentoo.org/proj/tegra.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/tegra.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/tegra.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>THE</name>
-    <description>Miscellaneous ebuilds not yet in portage</description>
-    <owner>
-      <email>rmh3093@gmail.com</email>
-    </owner>
-    <source type="git">git://zen-sources.org/zen/THE.git</source>
-    <feed>http://git.zen-sources.org/?p=THE.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>thousand-parsec</name>

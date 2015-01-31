@@ -1624,7 +1624,7 @@ FIN
       <email>floppymaster@gmail.com</email>
       <name>Mike Gilbert</name>
     </owner>
-    <source type="mercurial">http://bitbucket.org/floppym/floppym-overlay</source>
+    <source type="git">https://bitbucket.org/floppym/floppym-overlay</source>
     <feed>http://bitbucket.org/floppym/floppym-overlay/atom</feed>
     <feed>http://bitbucket.org/floppym/floppym-overlay/rss</feed>
   </repo>

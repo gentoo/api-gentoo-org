@@ -6101,6 +6101,15 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/xarthisius.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/xarthisius.git;a=rss</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>xelnor</name>
+    <description>Raphaël Barrois' (Xelnor) Gentoo overlay.</description>
+    <homepage>http://overlay.xelnor.net</homepage>
+    <owner>
+      <email>overlay@xelnor.net</email>
+    </owner>
+    <source type="git">http://overlay.xelnor.net/main.git</source>
+  </repo>
   <repo quality="experimental" status="official">
     <name>xen</name>
     <description>Experimental ebuilds for Xen.</description>

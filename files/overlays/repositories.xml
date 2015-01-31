@@ -2854,21 +2854,6 @@ FIN
     <feed>https://github.com/killer2tester/gentoo-overlay-lif/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
-    <name>lila-theme</name>
-    <description><![CDATA[The Lila theme is a community project, originally created by
-    Daniel G. Taylor and members of the Gentoo Linux community. The theme is
-    based around SVG graphics - which means they can be scaled to any size
-    without loss of quality - and is meant to be usable across different
-    desktops and platforms. For more information about the Lila theme project
-    or to see how you could get involved, there are a few places to look: The
-    Lila theme forums #lila on chat.freenode.org]]></description>
-    <homepage>http://www.lila-center.info</homepage>
-    <owner>
-      <email>fosstux@gmail.com</email>
-    </owner>
-    <source type="svn">http://svn.berlios.de/svnroot/repos/lila-theme/trunk/lila/gentoo/overlay</source>
-  </repo>
-  <repo quality="experimental" status="official">
     <name>liquidx</name>
     <description><![CDATA[Development overlay for ebuilds that I plan to commit to the
     tree that are sourced from bugzilla or liquidx.]]></description>

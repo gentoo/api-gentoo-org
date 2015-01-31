@@ -2607,8 +2607,8 @@ FIN
     <owner>
       <email>mdeininger@jyujin.de</email>
     </owner>
-    <source type="git">git://git.becquerel.org/portage-overlay.git</source>
-    <feed>http://git.jyujin.de/?p=portage-overlay.git;a=atom</feed>
+    <source type="git">git://github.com/becquerel-org/portage-overlay.git</source>
+    <feed>https://github.com/becquerel-org/portage-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
       <name>k_f</name>

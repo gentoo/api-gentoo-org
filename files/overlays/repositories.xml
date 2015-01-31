@@ -1950,7 +1950,7 @@ FIN
     <owner>
       <email>jp-admins@gentoo.gr.jp</email>
     </owner>
-    <source type="git">git://git.gentoo.gr.jp/ebuilds/gentoojp.git</source>
+    <source type="git">git://github.com/gentoojp/gentoojp-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-zh</name>

@@ -4979,6 +4979,16 @@ FIN
     <source type="git">https://github.com/soehest/gentoo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>soft</name>
+    <description>Soft's personal overlay for miscellaneous ebuilds</description>
+    <homepage>https://bitbucket.org/Soft/overlay</homepage>
+    <owner type="person">
+      <email>samuel.lauren@iki.fi</email>
+      <name>Samuel Laurén</name>
+    </owner>
+    <source type="mercurial">https://bitbucket.org/Soft/overlay</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>soor-overlay</name>
     <description><![CDATA[Gentoo ebuild overlay with misc stuff that I find
     interesting.]]></description>

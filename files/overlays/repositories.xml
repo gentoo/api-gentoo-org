@@ -3672,27 +3672,6 @@ FIN
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/nx.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>nx-stormdata</name>
-    <description lang="en">Bugfixes and patches for net-misc/nx and net-misc/nxserver-freenx</description>
-    <owner type="person">
-      <email>nikolay@dvoeglazov.ru</email>
-      <name>Nikolay Dvoeglazov</name>
-    </owner>
-    <source type="git">git://git.stormdata.ru/nx/</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>nxtoo-overlay</name>
-    <description lang="en">XNToo overlay</description>
-    <homepage>http://hg.nxtoo.org/hg/nxtoo/nxtoo-overlay/</homepage>
-    <owner type="person">
-      <email>b747xx@gmail.com</email>
-      <name><![CDATA[Mathieu Bélanger]]></name>
-    </owner>
-    <source type="mercurial">http://hg.nxtoo.org/hg/nxtoo/nxtoo-overlay/</source>
-    <feed>http://hg.nxtoo.org/hg/nxtoo/nxtoo-overlay/atom-log</feed>
-    <feed>http://hg.nxtoo.org/hg/nxtoo/nxtoo-overlay/rss-log</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>nuteater</name>
     <description><![CDATA[Nuteater's overlay]]></description>
     <homepage>http://github.com/nuteater/nuteater-overlay</homepage>
@@ -3747,17 +3726,6 @@ FIN
     </owner>
     <source type="git">git://github.com/tampakrap/okupy-overlay.git</source>
     <feed>https://github.com/tampakrap/okupy-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>oomidi</name>
-    <description lang="en">Overlay for openoctave-midi project</description>
-    <homepage>https://github.com/mekanix/oomidi-overlay</homepage>
-    <owner type="person">
-      <email>meka@lugons.org</email>
-      <name><![CDATA[Goran Mekić]]></name>
-    </owner>
-    <source type="git">git://github.com/mekanix/oomidi-overlay.git</source>
-    <feed>https://github.com/mekanix/oomidi-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>openoffice-geki</name>
@@ -3897,17 +3865,6 @@ FIN
     </owner>
     <source type="svn">https://pd-overlay.svn.sourceforge.net/svnroot/pd-overlay/pd-overlay</source>
     <feed>http://sourceforge.net/export/rss2_keepsake.php?group_id=180376</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>pda</name>
-    <description><![CDATA[This overlay contains some pda-related ebuilds (for now for
-    devices such as iPAQ hx4700, Sharp Zaurus, Asus a620 and some
-    others)]]></description>
-    <homepage>http://pda.gentoo.ru</homepage>
-    <owner>
-      <email>alexxy@gentoo.ru</email>
-    </owner>
-    <source type="git">git://vcs.gentoo.ru/gentoo-pda</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pentoo</name>
@@ -4625,18 +4582,6 @@ FIN
     <source type="git">git+ssh://git@git.overlays.gentoo.org/user/rwald.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/rwald.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/rwald.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>s3d</name>
-    <description><![CDATA[Gentoo ebuilds for s3d and related packages. s3d is a 3d
-    network display server which can be used as 3d desktop
-    enviroment.]]></description>
-    <homepage>http://s3d.berlios.de/</homepage>
-    <owner>
-      <email>sven.eckelmann@gmx.de</email>
-    </owner>
-    <source type="git">git://gitorious.org/s3d-gentoo/s3d-gentoo.git</source>
-    <feed>http://gitorious.org/s3d-gentoo.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sabayon</name>

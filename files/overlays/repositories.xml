@@ -5374,17 +5374,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/trapni/overlay.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>trauma</name>
-    <description><![CDATA[This overlay has a binary, current version of eclipse with
-    many plugins and some small new ebuilds from trauma and
-    bugzilla.g.o.]]></description>
-    <homepage>http://svn.digital-trauma.de/gentoo/</homepage>
-    <owner>
-      <email>gentoo-overlay@digital-trauma.de</email>
-    </owner>
-    <source type="svn">http://svn.digital-trauma.de/gentoo/trunk/</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>triquetra</name>
     <description lang="en">User overlay</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/triquetra.git;a=summary</homepage>
@@ -5855,19 +5844,6 @@ FIN
     </owner>
     <source type="git">git://github.com/nutztherookie/wacfg-overlay.git</source>
     <feed>http://github.com/nutztherookie/wacfg-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>wagnerflo</name>
-    <description>Overlay of Florian Wagner</description>
-    <homepage>https://bitbucket.org/wagnerflo/portage-overlay</homepage>
-    <owner>
-      <email>florian@wagner-flo.net</email>
-      <name>Florian Wagner</name>
-    </owner>
-    <source type="mercurial">https://bitbucket.org/wagnerflo/portage-overlay</source>
-    <source type="mercurial">ssh://hg@bitbucket.org/wagnerflo/portage-overlay</source>
-    <feed>http://bitbucket.org/wagnerflo/portage-overlay/atom</feed>
-    <feed>http://bitbucket.org/wagnerflo/portage-overlay/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>wavilen</name>

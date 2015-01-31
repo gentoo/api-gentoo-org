@@ -3273,6 +3273,16 @@ FIN
     <feed>https://bitbucket.org/mknjc/mkeyoverlay/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>moltonel</name>
+    <description lang="en">Vincent de Phily's private overlay</description>
+    <homepage>https://github.com/vincentdephily/moltonel-ebuilds/</homepage>
+    <owner type="person">
+      <email>moltonel@gmail.com</email>
+      <name>Vincent de Phily</name>
+    </owner>
+    <source type="git">git://github.com/vincentdephily/moltonel-ebuilds.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>moonrise</name>
     <description lang="en">Bleeding edge, experimental overlay for Gentoo</description>
     <homepage>http://github.com/Barthalion/moonrise</homepage>

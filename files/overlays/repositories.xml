@@ -2818,15 +2818,15 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>LaraCraft304</name>
     <description lang="en">Personal overlay of Lara Maia</description>
-    <homepage>https://github.com/PersonalStuff/Overlays</homepage>
+    <homepage>https://github.com/LaraCraft93/Overlays</homepage>
     <owner type="person">
-      <email>laramaia304@gmail.com</email>
+      <email>lara@craft.net.br</email>
       <name>Lara Maia</name>
     </owner>
-    <source type="git">https://github.com/PersonalStuff/Overlays.git</source>
-    <source type="git">git://github.com/PersonalStuff/Overlays.git</source>
-    <source type="git">git@github.com:PersonalStuff/Overlays.git</source>
-    <feed>https://github.com/PersonalStuff/Overlays/commits/master.atom</feed>
+    <source type="git">https://github.com/LaraCraft93/Overlays.git</source>
+    <source type="git">git://github.com/LaraCraft93/Overlays.git</source>
+    <source type="git">git@github.com:LaraCraft93/Overlays.git</source>
+    <feed>https://github.com/LaraCraft93/Overlays/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>last-hope</name>

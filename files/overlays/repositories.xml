@@ -2401,6 +2401,18 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/jamesbroadhead.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/jamesbroadhead.git;a=rss</feed>
   </repo>
+
+  <repo quality="experimental" status="unofficial">
+    <name>jamestr</name>
+    <description lang="en">My random Gentoo packages</description>
+    <homepage>https://github.com/James-TR</homepage>
+    <owner type="person">
+      <email>james@jtaylor.id.au</email>
+      <name>James Taylor</name>
+    </owner>
+    <source type="git">git://github.com/James-TR/gentoo.overlay.git</source>
+  </repo>
+
   <repo quality="experimental" status="unofficial">
     <name>jauhien</name>
     <description lang="en">Experimental ebuilds</description>

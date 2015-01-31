@@ -628,7 +628,7 @@ FIN
     <description>Bitcoin and CPU/GPU mining related ebuilds</description>
     <homepage>http://gitorious.org/bitcoin/gentoo</homepage>
     <owner>
-      <email>flo@freakempire.de</email>
+      <email>flo@geekplace.eu</email>
       <name>Florian Schmaus</name>
     </owner>
     <source type="git">git://gitorious.org/bitcoin/gentoo.git</source>
@@ -1645,7 +1645,7 @@ FIN
     <description lang="en">Ebuilds by Florian Schmaus</description>
     <homepage>https://gitorious.org/flow-s-ebuilds</homepage>
     <owner type="person">
-      <email>flo@freakempire.de</email>
+      <email>flo@geekplace.eu</email>
       <name>Florian Schmaus</name>
     </owner>
     <source type="git">git://gitorious.org/flow-s-ebuilds/flow-s-ebuilds.git</source>

@@ -817,16 +817,6 @@ FIN
     <source type="git">https://github.com/chaoskagami/chaos-overlay.git</source>
     <feed>https://github.com/feeds/chaoskagami/commits/chaos-overlay/master</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>chtekk-apps</name>
-    <description>Overlay for various applications I use myself.</description>
-    <homepage>http://projects.longitekk.com:8000/Projects</homepage>
-    <owner>
-      <email>chtekk@longitekk.com</email>
-    </owner>
-    <source type="svn">svn://projects.longitekk.com/projects/gentoo-ebuilds</source>
-    <feed>http://projects.longitekk.com:8000/Projects/timeline?ticket=on&amp;changeset=on&amp;milestone=on&amp;wiki=on&amp;max=50&amp;daysback=90&amp;format=rss</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>chutzpah</name>
     <description><![CDATA[Random stuff I am working on which isn't ready for the tree for some reason]]></description>
@@ -1569,16 +1559,6 @@ FIN
     <feed>https://github.com/farmboy0/portage-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>ferringb</name>
-    <description><![CDATA[Brian Harring's private development overlay]]></description>
-    <homepage>http://www.pkgcore.org/~ferringb/</homepage>
-    <owner>
-      <email>ferringb@gmail.com</email>
-      <name>Brian Harring</name>
-    </owner>
-    <source type="bzr">http://pkgcore.org/~ferringb/bzr/overlay</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>fidonet</name>
     <description lang="en">Overlay of Benny Pedersen</description>
     <owner type="person">
@@ -1647,17 +1627,6 @@ FIN
     <source type="mercurial">http://bitbucket.org/floppym/floppym-overlay</source>
     <feed>http://bitbucket.org/floppym/floppym-overlay/atom</feed>
     <feed>http://bitbucket.org/floppym/floppym-overlay/rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>flora</name>
-    <description lang="en">Funtoo Linux Community Overlay</description>
-    <homepage>https://github.com/funtoo/flora/</homepage>
-    <owner type="person">
-      <email>golodhrim@funtoo.org</email>
-      <name>Martin Scholz</name>
-    </owner>
-    <source type="git">git://github.com/funtoo/flora.git</source>
-    <source type="git">https://github.com/funtoo/flora.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>flow</name>
@@ -1737,16 +1706,6 @@ FIN
     </owner>
     <source type="git">git://github.com/alphallc/freeswitch</source>
     <feed>https://github.com/alphallc/freeswitch/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>freevo</name>
-    <description><![CDATA[The Freevo overlay provides ebuils for development snapshots
-    of the unreleased Freevo 2.0 and its dependencies.]]></description>
-    <homepage>http://www.freevo.org</homepage>
-    <owner>
-      <email>dischi@freevo.org</email>
-    </owner>
-    <source type="svn">svn://svn.freevo.org/freevo/portage/</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>frostyx</name>
@@ -1972,15 +1931,6 @@ FIN
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/gentoo-openbsd.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/gentoo-openbsd.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/gentoo-openbsd.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gentoo-quebec</name>
-    <description>New ebuilds created by the Gentoo-Quebec team.</description>
-    <homepage>http://www.gentoo-quebec.org</homepage>
-    <owner>
-      <email>laurent@gentoo-quebec.org</email>
-    </owner>
-    <source type="svn">https://gentoo-quebec.org/svn/gentoo-quebec/trunk/overlay/</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-taiwan</name>

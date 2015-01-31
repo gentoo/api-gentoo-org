@@ -6341,4 +6341,5 @@ FIN
     </owner>
     <source type="rsync">rsync://gentoo.zugaina.org/zugaina-portage</source>
   </repo>
+  <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

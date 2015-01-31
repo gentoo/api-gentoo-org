@@ -6005,7 +6005,7 @@ FIN
       <email>wnx@wisegears.com</email>
       <name>WNX</name>
     </owner>
-    <source type="git">git://wnx.wisegears.com/portage/overlay</source>
+    <source type="git">http://wnx.wisegears.com/portage/overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>wolf31o2</name>

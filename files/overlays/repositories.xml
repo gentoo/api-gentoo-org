@@ -6014,7 +6014,7 @@ FIN
     <owner>
       <email>wolf31o2@wolf31o2.org</email>
     </owner>
-    <source type="git">git://git.wolf31o2.org/overlays/wolf31o2.git</source>
+    <source type="git">git://github.com/wolf31o2/overlays-wolf31o2</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>write2David</name>

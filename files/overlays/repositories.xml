@@ -3453,7 +3453,7 @@ FIN
       <email>luke_n900_overlay@dashjr.org</email>
       <name>Luke-Jr</name>
     </owner>
-    <source type="git">git://git.dashjr.org/var/scmroot/git/portage-overlays/n900</source>
+    <source type="git">git://gitorious.org/handheld-gentoo-overlays/n900.git</git>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>nashedelo</name>

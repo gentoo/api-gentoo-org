@@ -5304,7 +5304,7 @@ FIN
     <owner>
       <email>mavrinac@gmail.com</email>
     </owner>
-    <source type="git">git://git.thousandparsec.net/git/gentoo-overlay.git</source>
+    <source type="git">http://git.thousandparsec.net/git/gentoo-overlay.git</source>
     <feed>http://git.thousandparsec.net/gitweb/gitweb.cgi?p=gentoo-overlay.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

@@ -140,7 +140,7 @@ FIN
     <description lang="en">Personal User Overlay</description>
     <homepage>https://github.com/aliceinwire/overlay</homepage>
     <owner type="person">
-      <email>alice.ferrazzi@gmail.com></email>
+      <email>alice.ferrazzi@gmail.com</email>
       <name>Alice Ferrazzi</name>
     </owner>
     <source type="git">git://github.com/aliceinwire/overlay.git</source>

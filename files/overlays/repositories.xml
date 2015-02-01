@@ -386,7 +386,7 @@ FIN
       <email>aross@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/aross.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/aross.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/aross.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/aross.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/aross.git;a=rss</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/aross.git;a=atom</feed>
@@ -474,7 +474,7 @@ FIN
       <email>bangert@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/bangert.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/bangert.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/bangert.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/bangert.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/bangert.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/bangert.git;a=rss</feed>
@@ -787,7 +787,7 @@ FIN
     <owner>
       <email>lu_zero@gentoo.org</email>     
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/cell.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/cell.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/cell.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/cell.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/cell.git;a=atom</feed>
@@ -1000,7 +1000,7 @@ FIN
       <email>deathwing00@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/deathwing00.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/deathwing00.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/deathwing00.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/deathwing00.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/deathwing00.git;a=rss</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/deathwing00.git;a=atom</feed>
@@ -1014,7 +1014,7 @@ FIN
       <email>dertobi123@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/dertobi123.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/dertobi123.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/dertobi123.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/dertobi123.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/dertobi123.git;a=rss</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/dertobi123.git;a=atom</feed>
@@ -1194,7 +1194,7 @@ FIN
       <name>Heather</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/dotnet.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/dotnet.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/dotnet.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/dotnet.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/dotnet.git;a=atom</feed>
   </repo>
@@ -1243,7 +1243,7 @@ FIN
       <email>drizzt@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/drizzt.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/drizzt.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/drizzt.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/drizzt.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/drizzt.git;a=rss</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/drizzt.git;a=atom</feed>
@@ -1332,7 +1332,7 @@ FIN
     <owner>
       <email>wolf31o2@wolf31o2.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/efika.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/efika.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/efika.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/efika.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/efika.git;a=atom</feed>
@@ -1574,7 +1574,7 @@ FIN
     <owner>
       <email>flammie@gentoo.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/finnish.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/finnish.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/finnish.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/finnish.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/finnish.git;a=atom</feed>
@@ -1814,7 +1814,7 @@ FIN
     <owner>
       <email>games@gentoo.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/games.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/games.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/games.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/games.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/games.git;a=atom</feed>
@@ -1865,7 +1865,7 @@ FIN
       <name>Stefan Schweizer</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/genstef.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/genstef.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/genstef.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/genstef.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/genstef.git;a=rss</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/genstef.git;a=atom</feed>
@@ -2052,7 +2052,7 @@ FIN
     <owner>
       <email>gnustep@gentoo.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/gnustep.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/gnustep.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/gnustep.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/gnustep.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/gnustep.git;a=atom</feed>
@@ -2473,7 +2473,7 @@ FIN
       <email>je_fro@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/je_fro.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/je_fro.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/je_fro.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/je_fro.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/je_fro.git;a=rss</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/je_fro.git;a=atom</feed>
@@ -2736,7 +2736,7 @@ FIN
     <owner>
       <email>wrobel@gentoo.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/kolab.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/kolab.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/kolab.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/kolab.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/kolab.git;a=atom</feed>
@@ -2886,7 +2886,7 @@ FIN
       <email>liquidx@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/liquidx.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/liquidx.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/liquidx.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/liquidx.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/liquidx.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/liquidx.git;a=rss</feed>
@@ -3040,7 +3040,7 @@ FIN
       <email>lu_zero@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/lu_zero.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/lu_zero.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/lu_zero.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/lu_zero.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/lu_zero.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/lu_zero.git;a=rss</feed>
@@ -3135,7 +3135,7 @@ FIN
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/marineam/xen.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/marineam/xen.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/marineam/xen.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/marineam/xen.git</source> -->
     <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/marineam;a=rss/xen.git</feed>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/marineam;a=rss/xen.git</feed>
   </repo>
@@ -3699,7 +3699,7 @@ FIN
     <owner>
       <email>nx@gentoo.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/nx.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/nx.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/nx.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/nx.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/nx.git;a=atom</feed>
@@ -4102,7 +4102,7 @@ FIN
     <owner>
       <email>pgsql-bugs@gentoo.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/postgresql/experimental.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/postgresql/experimental.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/postgresql/experimental.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/postgresql/experimental.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/postgresql/experimental.git;a=atom</feed>
@@ -4115,7 +4115,7 @@ FIN
     <owner>
       <email>pgsql-bugs@gentoo.org</email> 
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/postgresql/testing.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/postgresql/testing.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/postgresql/testing.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/postgresql/testing.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/postgresql/testing.git;a=atom</feed>
@@ -4128,7 +4128,7 @@ FIN
     <owner>
       <email>ranger@gentoo.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/powerpc.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/powerpc.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/powerpc.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/powerpc.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/powerpc.git;a=atom</feed>
@@ -4262,7 +4262,7 @@ FIN
       <name>Brian Dolbec</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/kvm-tools.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/kvm-tools.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/kvm-tools.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/kvm-tools.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/kvm-tools.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/kvm-tools.git;a=rss</feed>
@@ -4292,7 +4292,7 @@ FIN
       <name>Qt Team</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/qt.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/qt.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/qt.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/qt.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/qt.git;a=atom</feed>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/qt.git;a=rss</feed>
@@ -4408,7 +4408,7 @@ FIN
       <name>Robert Buchholz</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/rbu/overlay.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/rbu/overlay.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/rbu/overlay.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/rbu/overlay.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/rbu/overlay.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/rbu/overlay.git;a=rss</feed>
@@ -4575,7 +4575,7 @@ FIN
     <owner>
       <email>rox@gentoo.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/rox.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/rox.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/rox.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/rox.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/rox.git;a=atom</feed>
@@ -4819,7 +4819,7 @@ FIN
     <owner>
       <email>matsuu@gentoo.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/matsuu/secondlife.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/matsuu/secondlife.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/dev/matsuu/secondlife.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/matsuu/secondlife.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/matsuu/secondlife.git;a=atom</feed>
@@ -4859,7 +4859,7 @@ FIN
       <email>seemant@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/seemant.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/seemant.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/seemant.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/seemant.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/seemant.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/seemant.git;a=rss</feed>
@@ -5064,7 +5064,7 @@ FIN
       <name>Stuart Hickinbottom</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/user/squeezebox.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/user/squeezebox.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/user/squeezebox.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/user/squeezebox.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/squeezebox.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/squeezebox.git;a=rss</feed>
@@ -5248,7 +5248,7 @@ FIN
       <email>suka@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/suka.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/suka.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/suka.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/suka.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/suka.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/suka.git;a=rss</feed>
@@ -5329,7 +5329,7 @@ FIN
     <owner>
       <email>mescalinum@gentoo.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/mescalinum/tcl-8.6.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/mescalinum/tcl-8.6.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/dev/mescalinum/tcl-8.6.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/mescalinum/tcl-8.6.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/mescalinum/tcl-8.6.git;a=atom</feed>
@@ -5342,7 +5342,7 @@ FIN
     <owner>
       <email>mescalinum@gentoo.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/mescalinum/tcl-multislot.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/mescalinum/tcl-multislot.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/dev/mescalinum/tcl-multislot.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/mescalinum/tcl-multislot.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/mescalinum/tcl-multislot.git;a=atom</feed>
@@ -5417,7 +5417,7 @@ FIN
       <email>toolchain@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/toolchain.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/toolchain.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/toolchain.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/toolchain.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/toolchain.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/toolchain.git;a=rss</feed>
@@ -5431,7 +5431,7 @@ FIN
       <email>trapni@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/trapni/overlay.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/trapni/overlay.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/trapni/overlay.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/trapni/overlay.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/trapni/overlay.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/trapni/overlay.git;a=rss</feed>
@@ -5711,7 +5711,7 @@ FIN
       <email>vdr@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/vdr/devel.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/vdr/devel.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/vdr/devel.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/vdr/devel.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/vdr/devel.git;a=atom</feed>
   </repo>
@@ -5723,7 +5723,7 @@ FIN
       <email>vdr@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/vdr/testing.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/vdr/testing.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/vdr/testing.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/vdr/testing.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/vdr/testing.git;a=atom</feed>
   </repo>
@@ -5893,7 +5893,7 @@ FIN
       <email>vserver-devs@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/proj/vps/overlay.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/vps/overlay.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/vps/overlay.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/vps/overlay.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/vps/overlay.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/vps/overlay.git;a=rss</feed>
@@ -5954,7 +5954,7 @@ FIN
     <owner>
       <email>web-apps@gentoo.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/webapps-experimental.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/webapps-experimental.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/webapps-experimental.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/webapps-experimental.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/webapps-experimental.git;a=atom</feed>
@@ -6078,7 +6078,7 @@ FIN
       <email>wrobel@gentoo.org</email>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/wrobel/overlay.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/wrobel/overlay.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/wrobel/overlay.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/wrobel/overlay.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/wrobel/overlay.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/wrobel/overlay.git;a=rss</feed>
@@ -6092,7 +6092,7 @@ FIN
       <name>Wolfram Schlich</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/wschlich</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/wschlich.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/wschlich.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/wschlich.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/wschlich.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/wschlich.git;a=rss</feed>
@@ -6168,7 +6168,7 @@ FIN
     <owner>
       <email>xen@gentoo.org</email>
     </owner>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/proj/xen.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/xen.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/xen.git</source>
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/xen.git</source>
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/xen.git;a=atom</feed>
@@ -6346,7 +6346,7 @@ FIN
       <name>Mikle Kolyada</name>
     </owner>
     <source type="git">git://git.overlays.gentoo.org/dev/zlogene.git</source>
-    <source type="git">https://git.overlays.gentoo.org/gitroot/dev/zlogene.git</source>
+    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/zlogene.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/zlogene.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/zlogene.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/zlogene.git;a=rss</feed>

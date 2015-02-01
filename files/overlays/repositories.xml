@@ -4243,16 +4243,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/purak.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/purak.git;a=rss</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>pure-funtoo</name>
-    <description>Gentoo overlay with Funtoo-only ebuilds extracted from Funtoo tree</description>
-    <homepage>http://git.goodpoint.de/?p=pure-funtoo.git;a=summary</homepage>
-    <owner>
-      <email>sebastian@pipping.org</email>
-    </owner>
-    <source type="git">git://git.goodpoint.de/pure-funtoo.git</source>
-    <feed>http://git.goodpoint.de/?p=pure-funtoo.git;a=atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>qemu-init</name>
     <description lang="en">qemu init script and tools</description>

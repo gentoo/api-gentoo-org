@@ -492,7 +492,7 @@ FIN
     <feed>https://github.com/wthrowe/barnowl-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>bar-overlay</name>
+    <name>bar</name>
     <description lang="en">Ebuilds that end up in Funtoo ports-2012</description>
     <homepage>https://github.com/tokiclover/bar-overlay</homepage>
     <owner type="person">

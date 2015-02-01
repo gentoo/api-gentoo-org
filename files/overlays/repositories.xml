@@ -6159,7 +6159,7 @@ FIN
     <owner>
       <email>overlay@xelnor.net</email>
     </owner>
-    <source type="git">http://overlay.xelnor.net/main.git</source>
+    <source type="git">git://overlay.xelnor.net/overlay.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>xen</name>

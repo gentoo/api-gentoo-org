@@ -3618,6 +3618,15 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/nico.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>nigoro-fbsd</name>
+    <description>nigoro's Gentoo/FreeBSD experimental overlay</description>
+    <homepage>https://github.com/nigoro/amd64-fbsd/</homepage>
+    <owner type="person">
+      <email>nigoro@gentoo.gr.jp</email>
+    </owner>
+    <source type="git">git://github.com/nigoro/amd64-fbsd.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>nikai</name>
     <description>nikai user overlay</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/nikai.git</homepage>

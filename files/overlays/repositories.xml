@@ -4270,6 +4270,15 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/qiaomuf.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/qiaomuf.git;a=rss</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>qwin-overlay</name>
+    <description>Gentoo overlay with some patched packages.</description>
+    <homepage>http://github.com/Flex1911/</homepage>
+    <owner>
+      <email>dedsa2002@gmail.com</email>
+    </owner>
+    <source type="git">git://github.com/Flex1911/qwin-overlay.git</source>
+  </repo>
   <repo quality="experimental" status="official">
     <name>qt</name>
     <description><![CDATA[Official testing overlay for Qt and related packages, provided

@@ -3567,17 +3567,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/neurogeek.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>neuvoo</name>
-    <description>Neuvoo Overlay</description>
-    <homepage>https://github.com/Neuvoo/legacy-overlay</homepage>
-    <owner>
-      <email>jacobgalbreath@gmail.com</email>
-      <name>Jacob Galbreath</name>
-    </owner>
-    <source type="git">git://github.com/Neuvoo/legacy-overlay.git</source>
-    <feed>https://github.com/Neuvoo/legacy-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>nextoo</name>
     <description lang="en"><![CDATA[Nextoo ("Next Gentoo") overlay]]></description>
     <homepage>https://github.com/nextoo/portage-overlay</homepage>

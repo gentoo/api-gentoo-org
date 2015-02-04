@@ -3780,6 +3780,15 @@ FIN
     <source type="svn">http://gekis-playground.googlecode.com/svn/trunk/</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>open-overlay</name>
+    <description>Gentoo overlay with some packages</description>
+    <homepage>https://github.com/pantera31752/open-overlay/</homepage>
+    <owner>
+      <email>a.xarlanov29@gmail.com</email>
+    </owner>
+    <source type="git">git://github.com/pantera31752/open-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>openrc</name>
     <description><![CDATA[Uberlord's openrc ebuilds]]></description>
     <homepage>

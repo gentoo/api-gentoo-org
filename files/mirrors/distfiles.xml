@@ -185,9 +185,9 @@
   </mirrorgroup>
   <mirrorgroup region="Europe" country="FR" countryname="France">
     <mirror>
-      <name>Ovh Hosting Provider</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.ovh.net/gentoo-distfiles/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirror.ovh.net/gentoo-distfiles/</uri>
+      <name>OVH</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://gentoo.mirrors.ovh.net/gentoo-distfiles/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://gentoo.mirrors.ovh.net/gentoo-distfiles/</uri>
     </mirror>
     <mirror>
       <name>IMJ.fr</name>

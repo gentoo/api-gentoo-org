@@ -2259,6 +2259,18 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/heroxbd.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[hhvm]]></name>
+    <description><![CDATA[hhvm gentoo overlay]]></description>
+    <homepage>https://github.com/reanimus/hhvm-overlay</homepage>
+    <owner type="person">
+      <email>alex@guzman.io</email>
+      <name><![CDATA[Alex Guzman]]></name>
+    </owner>
+    <source type="git">git://github.com/reanimus/hhvm-overlay.git</source>
+    <source type="git">https://github.com/reanimus/hhvm-overlay.git</source>
+    <feed>https://github.com/reanimus/hhvm-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>hibiscus</name>
     <description lang="en">User overlay</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/hibiscus.git;a=summary</homepage>

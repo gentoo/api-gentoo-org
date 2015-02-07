@@ -1528,23 +1528,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/ezod.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/ezod.git;a=rss</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>falco</name>
-    <description><![CDATA[Falco's random stuff about netmon, net-mail or security,
-    unofficial ebuilds like proxsmtp, unofficial patches on Postfix; also
-    pre-stable security upgrades, perhaps merged in the Security Overlay
-    Project some day.]]></description>
-    <homepage>http://dev.gentoo.org/~falco/</homepage>
-    <owner>
-      <email>falco@gentoo.org</email>
-      <name><![CDATA[Raphaël Marichez]]></name>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/dev/falco</source>
-    <source type="git">http://cgit.gentooexperimental.org/dev/falco.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/falco.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/falco.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/falco.git;a=rss</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>farmboy0</name>
     <description lang="en">Personal overlay of Enrico Horn</description>
@@ -2566,21 +2549,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/joinge.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/joinge.git;a=rss</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>jokey</name>
-    <description><![CDATA[Jokey's Overlay - Contains pre-tree stuff like italc,
-    pkgcore-test-ebuilds and lcd stuff]]></description>
-    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/jokey.git;a=summary</homepage>
-    <owner>
-      <email>jokey@gentoo.org</email>
-      <name>Markus Ullmann</name>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/dev/jokey.git</source>
-    <source type="git">http://cgit.gentooexperimental.org/dev/jokey.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/jokey.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/jokey.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/jokey.git;a=rss</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>jorgicio</name>
     <description lang="en">Gentoo repository made by Jorgicio.</description>
@@ -3354,20 +3322,6 @@ FIN
     </owner>
     <source type="git">git://git.musicpd.org/master/mpd-gentoo-overlay.git</source>
     <feed>http://git.musicpd.org/cgit/master/mpd-gentoo-overlay.git/atom/</feed>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>mrpouet</name>
-    <description>Romain Perier developer overlay</description>
-    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/mrpouet.git</homepage>
-    <owner>
-      <email>mrpouet@gentoo.org</email>
-      <name>Romain Perier</name>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/dev/mrpouet.git</source>
-    <source type="git">http://cgit.gentooexperimental.org/dev/mrpouet.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/mrpouet.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/mrpouet.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/mrpouet.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>mrueg</name>
@@ -6061,16 +6015,6 @@ FIN
     <source type="git">git+ssh://git@git.overlays.gentoo.org/user/wish.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/wish.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/wish.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>wnx</name>
-    <description lang="en">WNX Official Overlay</description>
-    <homepage>http://wnx.wisegears.com/</homepage>
-    <owner type="project">
-      <email>wnx@wisegears.com</email>
-      <name>WNX</name>
-    </owner>
-    <source type="git">http://wnx.wisegears.com/portage/overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>wolf31o2</name>

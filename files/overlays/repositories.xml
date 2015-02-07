@@ -4202,7 +4202,7 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/prometheanfire.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>pro-audio</name>
+    <name>proaudio</name>
     <description><![CDATA[Evermind's overlay with ebuilds for a lot of pro-audio
     production software.]]></description>
     <homepage>http://proaudio.tuxfamily.org/wiki</homepage>

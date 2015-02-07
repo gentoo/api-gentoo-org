@@ -3800,12 +3800,16 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>palemoon</name>
-    <description>Unofficial Gentoo overlay for the Pale Moon (http://www.palemoon.org/) web browser.</description>
-    <homepage>https://gitlab.com/deu/palemoon-overlay</homepage>
+    <description lang="en">Unofficial Gentoo overlay for the Pale Moon (http://www.palemoon.org/) web browser.</description>
+    <homepage>https://github.com/deuiore/palemoon-overlay</homepage>
     <owner type="person">
         <email>de@uio.re</email>
+        <name>deu</name>
     </owner>
-    <source type="git">https://gitlab.com/deu/palemoon-overlay.git</source>
+    <source type="git">https://github.com/deuiore/palemoon-overlay.git</source>
+    <source type="git">git://github.com/deuiore/palemoon-overlay.git</source>
+    <source type="git">git@github.com:deuiore/palemoon-overlay.git</source>
+    <feed>https://github.com/deuiore/palemoon-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>palmer</name>

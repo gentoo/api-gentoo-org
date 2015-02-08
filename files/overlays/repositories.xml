@@ -4520,7 +4520,7 @@ FIN
     <feed>http://gitorious.org/roslin/roslin.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
-    <name>roverlay</name>
+    <name>R_Overlay</name>
     <description>Gentoo overlay of R packages</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/R_overlay.git;a=summary</homepage>
     <owner type="project">

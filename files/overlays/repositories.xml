@@ -5284,19 +5284,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/tbc.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>tcl-8.6</name>
-    <description>Tcl/Tk 8.8, Itcl/Itk 4 (beta) and other fixed packages.</description>
-    <homepage>https://git.overlays.gentoo.org/gitweb/?p=dev/mescalinum/tcl-8.6.git;a=summary</homepage>
-    <owner>
-      <email>mescalinum@gentoo.org</email>
-    </owner>
-    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/mescalinum/tcl-8.6.git</source> -->
-    <source type="git">git://git.overlays.gentoo.org/dev/mescalinum/tcl-8.6.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/mescalinum/tcl-8.6.git</source>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/mescalinum/tcl-8.6.git;a=atom</feed>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/mescalinum/tcl-8.6.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>tcl-multislot</name>
     <description>Tcl/Tk multi-slot system, with tcltk eselect module for switching across multiple versions (actually: 8.4 8.5 8.6).</description>
     <homepage>https://git.overlays.gentoo.org/gitweb/?p=dev/mescalinum/tcl-multislot.git;a=summary</homepage>

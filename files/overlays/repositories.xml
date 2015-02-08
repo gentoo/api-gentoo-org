@@ -1212,7 +1212,7 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/drevilt.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>drizzt</name>
+    <name>drizzt-overlay</name>
     <description><![CDATA[drizzt's overlay]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/drizzt.git;a=summary</homepage>
     <owner>

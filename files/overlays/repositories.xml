@@ -4508,17 +4508,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/sardemff7.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>saske</name>
-    <description><![CDATA[CERN's ALICE SASKE ebuilds]]></description>
-    <homepage>http://alice-gentoo.googlecode.com/</homepage>
-    <owner type="person">
-      <email>Martin.Vala@cern.ch</email>
-      <name>Martin Vala</name>
-    </owner>
-    <source type="svn">http://alice-gentoo.googlecode.com/svn/trunk/saske</source>
-    <feed>http://alice-gentoo.googlecode.com/svn/trunk/saske</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>sattvik</name>
     <description lang="en"><![CDATA[sattvik's overlay with personalized bug fixes and tweaks]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/sattvik.git;a=summary</homepage>

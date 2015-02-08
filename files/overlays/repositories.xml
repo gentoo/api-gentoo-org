@@ -3678,7 +3678,7 @@ FIN
     <feed>https://github.com/rafaelmartins/octave-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>ohnobinki</name>
+    <name>ohnobinki_overlay</name>
     <description>Miscelleneous ebuild fixes and personal ebuilds</description>
     <homepage>http://ohnopub.net/~ohnobinki/gentoo</homepage>
     <owner>

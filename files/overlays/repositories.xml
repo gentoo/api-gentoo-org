@@ -5918,7 +5918,7 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/wdzierzan.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
-    <name>webapps-experimental</name>
+    <name>webapp-experimental</name>
     <description>This is the home of Gentoo's wider collection of ebuilds for web-based applications. This is where we collect all the ebuilds submitted to Bugzilla by our users, and make them available in an easy-to-use overlay for wider testing.</description>
     <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/webapps-experimental.git;a=summary</homepage>
     <owner>

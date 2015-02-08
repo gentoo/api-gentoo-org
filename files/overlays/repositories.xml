@@ -452,20 +452,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/AzP.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/AzP.git;a=rss</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>bangert</name>
-    <description><![CDATA[Some ebuilds not yet ready for mainstream portage from Thilo
-    Bangert [bangert@gentoo.org].]]></description>
-    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/bangert.git;a=summary</homepage>
-    <owner>
-      <email>bangert@gentoo.org</email>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/dev/bangert.git</source>
-    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/bangert.git</source> -->
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/bangert.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/bangert.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/bangert.git;a=rss</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>barnowl</name>
     <description lang="en">BarnOwl IM client</description>
@@ -854,15 +840,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/clickbeetle_tools.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/clickbeetle_tools.git;a=rss</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>crg</name>
-    <description>CRG-Overlay for Gentoo Linux</description>
-    <homepage>http://wiki.cregion.ru/moin.cgi/CRG_Overlay</homepage>
-    <owner>
-      <email>johnrdoe63@cregion.ru</email>
-    </owner>
-    <source type="rsync">rsync://rsync.cregion.ru/crg-overlay</source>
-  </repo>
   <repo quality="experimental" status="official">
     <name>dagger</name>
     <description>Dagger developer overlay</description>
@@ -980,20 +957,6 @@ FIN
     <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/deathwing00.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/deathwing00.git;a=rss</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/deathwing00.git;a=atom</feed>
-  </repo>
- <repo quality="experimental" status="official">
-    <name>dertobi123</name>
-    <description><![CDATA[Some ebuilds not yet ready for mainstream portage from Tobias
-    Scherbaum [dertobi123@gentoo.org].]]></description>
-    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/dertobi123.git;a=summary</homepage>
-    <owner>
-      <email>dertobi123@gentoo.org</email>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/dev/dertobi123.git</source>
-    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/dertobi123.git</source> -->
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/dertobi123.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/dertobi123.git;a=rss</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/dertobi123.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>desktop-effects</name>
@@ -1173,16 +1136,6 @@ FIN
     <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/dotnet.git</source> -->
     <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/dotnet.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/dotnet.git;a=atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>dottout</name>
-    <description>Dottout overlay</description>
-    <homepage>http://repo.or.cz/w/dottout.git</homepage>
-    <owner>
-      <email>andrea@dottout.com</email>
-    </owner>
-    <source type="git">git://repo.or.cz/dottout.git</source>
-    <feed>http://repo.or.cz/w/dottout.git?a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>drdim</name>
@@ -1667,16 +1620,6 @@ FIN
     <source type="git">git@github.com:foux/fouxlay.git</source>
     <source type="git">https://github.com/foux/fouxlay.git</source>
     <feed>https://github.com/foux/fouxlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>frdd</name>
-    <description lang="en">overlay of firedead</description>
-    <homepage>https://bitbucket.org/firedead/frdd-overlay/</homepage>
-    <owner type="person">
-      <email>firedead117@gmail.com</email>
-    </owner>
-    <source type="mercurial">https://bitbucket.org/firedead/frdd-overlay</source>
-    <feed>https://bitbucket.org/firedead/frdd-overlay/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>freeswitch</name>
@@ -2592,16 +2535,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/jxh.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>jyujin</name>
-    <description>eINIT, kyuuba, dev9, various splash daemons</description>
-    <homepage>http://jyujin.de/</homepage>
-    <owner>
-      <email>mdeininger@jyujin.de</email>
-    </owner>
-    <source type="git">git://github.com/becquerel-org/portage-overlay.git</source>
-    <feed>https://github.com/becquerel-org/portage-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
       <name>k_f</name>
       <description><![CDATA[K_F's personal overlay]]></description>
       <homepage>http://git.sumptuouscapital.com/?p=portage-overlay.git;a=summary</homepage>
@@ -2887,21 +2820,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/logan.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/logan.git;a=rss</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>loki_val</name>
-    <description><![CDATA[Peter Alfredsen's private developer overlay]]></description>
-    <homepage>
-    http://git.overlays.gentoo.org/gitweb/?p=dev/loki_val.git;a=summary</homepage>
-    <owner>
-      <email>loki_val@gentoo.org</email>
-      <name>Peter Alfredsen</name>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/dev/loki_val</source>
-    <source type="git">http://cgit.gentooexperimental.org/dev/loki_val.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/loki_val.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/loki_val.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/loki_val.git;a=rss</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>loongson</name>
     <description>Gentoo loongson overlay</description>
@@ -3067,17 +2985,6 @@ FIN
     <source type="git">git://github.com/maggu2810/maggu2810-overlay.git</source>
     <source type="git">http://github.com/maggu2810/maggu2810-overlay.git</source>
     <feed>http://github.com/feeds/maggu2810/commits/maggu2810-overlay/master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>mamona</name>
-    <description><![CDATA[Mamona is an embedded Linux distribution, based on Open
-    Embedded, for ARM EABI.]]></description>
-    <homepage>http://dev.openbossa.org/trac/mamona/wiki/MamonaGentooOverlay</homepage>
-    <owner>
-      <email>ricardo.salveti@openbossa.org</email>
-    </owner>
-    <source type="git">http://rsalveti.net/git/projects/mamona-overlay/</source>
-    <feed>http://rsalveti.net/git/?p=mamona-overlay;a=atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>marineam-xen</name>
@@ -3463,20 +3370,6 @@ FIN
     <source type="mercurial">ssh://hg@bitbucket.org/neko259/nektoo</source>
     <feed>https://bitbucket.org/neko259/nektoo/atom</feed>
     <feed>https://bitbucket.org/neko259/nektoo/rss</feed>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>nelchael</name>
-    <description lang="en">Developer overlay</description>
-    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/nelchael.git;a=summary</homepage>
-    <owner type="person">
-      <email>nelchael@gentoo.org</email>
-      <name>Krzysztof Pawlik</name>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/dev/nelchael.git</source>
-    <source type="git">http://cgit.gentooexperimental.org/dev/nelchael.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/nelchael.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/nelchael.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/nelchael.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>netcrave</name>
@@ -4360,20 +4253,6 @@ FIN
     <source type="svn">http://raw.googlecode.com/svn/trunk</source>
     <feed>http://code.google.com/feeds/p/raw/svnchanges/basic</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>rbu</name>
-    <description>Random stuff.</description>
-    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/rbu/overlay.git;a=summary</homepage>
-    <owner>
-      <email>rbu@gentoo.org</email>
-      <name>Robert Buchholz</name>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/dev/rbu/overlay.git</source>
-    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/dev/rbu/overlay.git</source> -->
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/rbu/overlay.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/rbu/overlay.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/rbu/overlay.git;a=rss</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>rebel</name>
     <description lang="en"><![CDATA[The Chamber of a Rebel – Servers, Tools and Widgets.]]></description>
@@ -4400,18 +4279,6 @@ FIN
     <source type="git">git+ssh://git@git.overlays.gentoo.org/user/rebutia.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/rebutia.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/rebutia.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>regen2-overlay</name>
-    <description lang="en">reGen2 Overlay including all changes made to Portage Tree</description>
-    <homepage>https://github.com/regen2/regen2-overlay</homepage>
-    <owner type="person">
-      <email>belliash@asiotec.org</email>
-      <name>Rafal Kupiec</name>
-    </owner>
-    <source type="git">git://github.com/regen2/regen2-overlay.git</source>
-    <source type="git">https://github.com/regen2/regen2-overlay.git</source>
-    <feed>https://github.com/regen2/regen2-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>remi</name>
@@ -5165,18 +5032,6 @@ FIN
     </owner>
     <source type="git">git://github.com/Sabayon/systemd-love.git</source>
     <feed>https://github.com/feeds/Sabayon/commits/systemd-love/master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>subforge</name>
-    <description lang="en">Subforge projects overlay</description>
-    <homepage>http://hg.subforge.org/subforge/</homepage>
-    <owner type="person">
-      <email>chkappel@subforge.org</email>
-      <name>Christoph Kappel</name>
-    </owner>
-    <source type="mercurial">http://hg.subforge.org/subforge</source>
-    <feed>http://hg.subforge.org/subforge/atom-log</feed>
-    <feed>http://hg.subforge.org/subforge/rss-log</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sublime-text</name>
@@ -6272,17 +6127,6 @@ FIN
     <source type="git">git+ssh://git@git.overlays.gentoo.org/user/yoreek.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/yoreek.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/yoreek.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>yporti</name>
-    <description><![CDATA[Bruno Yporti's Gentoo overlay for ~amd64 and ~x86]]></description>
-    <homepage>https://github.com/yporti/overlay</homepage>
-    <owner>
-      <email>bruno@yporti.com</email>
-      <name>Bruno Tsubouchi Yporti</name>
-    </owner>
-    <source type="git">git://github.com/yporti/overlay.git</source>
-    <source type="git">https://github.com/yporti/overlay.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>zlogene</name>

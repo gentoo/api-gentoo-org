@@ -4167,7 +4167,7 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/pross.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>psix</name>
+    <name>psix-overlay</name>
     <description lang="en"><![CDATA[zabuldon's personal overlay]]></description>
     <homepage>https://github.com/zabuldon/psix-overlay</homepage>
     <owner type="person">

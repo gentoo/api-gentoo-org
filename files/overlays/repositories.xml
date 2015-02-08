@@ -2726,18 +2726,6 @@ FIN
     <source type="git">http://github.com/laurentb/gentoo-overlay.git</source>
     <feed>http://github.com/feeds/laurentb/commits/gentoo-overlay/master</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>lcd-filtering</name>
-    <description lang="en">Overlay providing patches to improve display on LCD monitors</description>
-    <homepage>http://gitorious.org/lcd-filtering</homepage>
-    <owner type="person">
-      <email>billl@users.sourceforge.net</email>
-      <name>Olivier Rolland</name>
-    </owner>
-    <source type="git">git://gitorious.org/lcd-filtering/lcd-filtering.git</source>
-    <source type="git">http://git.gitorious.org/lcd-filtering/lcd-filtering.git</source>
-    <feed>http://gitorious.org/lcd-filtering.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>leio</name>
     <description>Mart Raudsepp developer overlay</description>
@@ -3536,17 +3524,6 @@ FIN
     <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/nx.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>nuteater</name>
-    <description><![CDATA[Nuteater's overlay]]></description>
-    <homepage>http://github.com/nuteater/nuteater-overlay</homepage>
-    <owner>
-      <email>perttu.luukko@iki.fi</email>
-      <name>Perttu Luukko</name>
-    </owner>
-    <source type="git">git://github.com/nuteater/nuteater-overlay.git</source>
-    <feed>http://github.com/feeds/nuteater/commits/nuteater-overlay/master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>o11c</name>
     <description lang="en">Personal overlay of Ben Longbons</description>
     <homepage>https://github.com/o11c/ebuilds</homepage>
@@ -3608,17 +3585,6 @@ FIN
       <email>a.xarlanov29@gmail.com</email>
     </owner>
     <source type="git">git://github.com/pantera31752/open-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>openrc</name>
-    <description><![CDATA[Uberlord's openrc ebuilds]]></description>
-    <homepage>
-    http://git.overlays.gentoo.org/gitweb/?p=dev/uberlord;a=summary</homepage>
-    <owner>
-      <email>roy@marples.name</email>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/dev/uberlord</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/uberlord.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>OSSDL</name>
@@ -4565,20 +4531,6 @@ FIN
     <source type="git">git+ssh://git@git.overlays.gentoo.org/user/sattvik.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/sattvik.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/sattvik.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>scarabeus</name>
-    <description>Tomas Chvatal developer overlay</description>
-    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/scarabeus.git</homepage>
-    <owner>
-      <email>scarabeus@gentoo.org</email>
-      <name>Tomas Chvatal</name>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/dev/scarabeus.git</source>
-    <source type="git">http://cgit.gentooexperimental.org/dev/scarabeus.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/scarabeus.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/scarabeus.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/scarabeus.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>science</name>

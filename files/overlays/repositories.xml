@@ -136,19 +136,6 @@ FIN
     <feed>https://github.com/a1batross/alba-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>aliceinwire</name>
-    <description lang="en">Personal User Overlay</description>
-    <homepage>https://github.com/aliceinwire/overlay</homepage>
-    <owner type="person">
-      <email>alice.ferrazzi@gmail.com</email>
-      <name>Alice Ferrazzi</name>
-    </owner>
-    <source type="git">git://github.com/aliceinwire/overlay.git</source>
-    <source type="git">https://github.com/aliceinwire/overlay.git</source>
-    <source type="git">git@github.com:aliceinwire/overlay.git</source>
-    <feed>https://github.com/aliceinwire/overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>alexcepoi</name>
     <description lang="en">Personal User Overlay</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/alexcepoi.git;a=summary</homepage>
@@ -4218,6 +4205,19 @@ FIN
     <source type="git">git+ssh://git@git.overlays.gentoo.org/user/purak.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/purak.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/purak.git;a=rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>pypy_alice</name>
+    <description lang="en">Personal User Overlay</description>
+    <homepage>https://github.com/aliceinwire/overlay</homepage>
+    <owner type="person">
+      <email>alice.ferrazzi@gmail.com</email>
+      <name>Alice Ferrazzi</name>
+    </owner>
+    <source type="git">git://github.com/aliceinwire/overlay.git</source>
+    <source type="git">https://github.com/aliceinwire/overlay.git</source>
+    <source type="git">git@github.com:aliceinwire/overlay.git</source>
+    <feed>https://github.com/aliceinwire/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>qemu-init</name>

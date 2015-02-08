@@ -2735,7 +2735,7 @@ FIN
     <source type="git">https://github.com/kormoc/Ebuilds.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>krontage</name>
+    <name>Krontage</name>
     <description lang="en">Personal overlay of Kron</description>
     <homepage>https://github.com/undying/krontage</homepage>
     <owner type="person">

@@ -1622,7 +1622,7 @@ FIN
     <source type="git">https://git.gitorious.org/flow-s-ebuilds/flow-s-ebuilds.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>fm-overlay</name>
+    <name>fm</name>
     <description lang="en">Fated Mariner Gentoo Overlay</description>
     <homepage>https://github.com/BlueDragonX/fm-overlay</homepage>
     <owner type="person">

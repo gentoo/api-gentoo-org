@@ -4972,7 +4972,7 @@ FIN
     <source type="mercurial">https://bitbucket.org/Soft/overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>soor-overlay</name>
+    <name>soor</name>
     <description><![CDATA[Gentoo ebuild overlay with misc stuff that I find
     interesting.]]></description>
     <owner>

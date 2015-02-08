@@ -3147,7 +3147,7 @@ FIN
     <feed>https://rhodecode.megacoffee.net/gentoo-overlay/main/feed/atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>menelkir</name>
+    <name>Menelkir</name>
     <description lang="en">This is my personal overlay for unmaintained packages and some other addittions.</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/menelkir.git;a=summary</homepage>
     <owner type="person">

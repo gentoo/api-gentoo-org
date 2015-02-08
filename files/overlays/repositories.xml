@@ -3093,7 +3093,7 @@ FIN
     <feed>https://git.overlays.gentoo.org/gitweb/?p=dev/marineam;a=rss/xen.git</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>mate</name>
+    <name>mate-overlay</name>
     <description><![CDATA[Sabayon MATE (GNOME fork) ebuilds that could be
     upstreamed at some point in future (when GNOME2 will be dropped
     from the main tree).

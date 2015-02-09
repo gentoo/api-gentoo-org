@@ -840,6 +840,17 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/clickbeetle_tools.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/clickbeetle_tools.git;a=rss</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>crossdev</name>
+    <description lang="en">Fixed ebuilds for uclibc and other embedded systems</description>
+    <homepage>https://github.com/alphallc/crossdev/</homepage>
+    <owner type="person">
+      <email>mva@mva.name</email>
+      <name>Vadim A. Misbakh-Soloviov</name>
+    </owner>
+    <source type="git">git://github.com/alphallc/crossdev</source>
+    <feed>https://github.com/alphallc/crossdev/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>dagger</name>
     <description>Dagger developer overlay</description>
@@ -1356,17 +1367,6 @@ FIN
     <source type="git">git+ssh://git@git.overlays.gentoo.org/user/emery.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/emery.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/emery.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>emg-overlay</name>
-    <description lang="en">Fixed ebuilds for uclibc and other embedded systems</description>
-    <homepage>https://github.com/alphallc/crossdev/</homepage>
-    <owner type="person">
-      <email>mva@mva.name</email>
-      <name>Vadim A. Misbakh-Soloviov</name>
-    </owner>
-    <source type="git">git://github.com/alphallc/crossdev</source>
-    <feed>https://github.com/alphallc/crossdev/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>enlightenment</name>

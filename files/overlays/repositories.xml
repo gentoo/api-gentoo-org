@@ -5905,19 +5905,6 @@ FIN
     <source type="git">git://overlay.xelnor.net/overlay.git</source>
   </repo>
   <repo quality="experimental" status="official">
-    <name>xen</name>
-    <description>Experimental ebuilds for Xen.</description>
-    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/xen.git;a=summary</homepage>
-    <owner>
-      <email>xen@gentoo.org</email>
-    </owner>
-    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/xen.git</source> -->
-    <source type="git">git://git.overlays.gentoo.org/proj/xen.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/xen.git</source>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/xen.git;a=atom</feed>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/xen.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="official">
     <name>xfce-dev</name>
     <description><![CDATA[Experimental ebuilds for the Xfce4 Desktop
     Environment]]></description>

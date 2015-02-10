@@ -2914,17 +2914,6 @@ FIN
     <source type="svn">svn://svn.dashjr.org/luke-portage-overlay/trunk</source>
   </repo>
   <repo quality="experimental" status="official">
-    <name>lxde</name>
-    <description><![CDATA[Repo for development of ebuilds for the LXDE desktop
-    environment.]]></description>
-    <homepage>http://www.gentoo.org/proj/en/desktop/lxde/</homepage>
-    <owner>
-      <email>yngwin@gentoo.org</email>
-    </owner>
-    <source type="mercurial">http://bitbucket.org/yngwin/lxde-overlay</source>
-    <feed>http://bitbucket.org/yngwin/lxde-overlay/atom/</feed>
-  </repo>
-  <repo quality="experimental" status="official">
     <name>m68k</name>
     <description>m68k team overlay</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/m68k.git</homepage>

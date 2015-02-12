@@ -4977,16 +4977,6 @@ FIN
     <feed>https://github.com/DamnWidget/sublime-text/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>sugar</name>
-    <description>Sugar (sugarlabs.org) related packages</description>
-    <homepage>http://sugarlabs.org/go/Community/Distributions/Gentoo</homepage>
-    <owner>
-      <email>alsroot@member.fsf.org</email>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/proj/sugar.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/sugar.git;a=atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>suka</name>
     <description>experimental stuff of all sorts</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/suka.git;a=summary</homepage>

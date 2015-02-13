@@ -719,6 +719,19 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/c1pher.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>c2p-overlay</name>
+    <description>Personal overlay of Karol Grudziński</description>
+    <homepage>https://github.com/karolgrudzinski/c2p-overlay</homepage>
+    <owner>
+      <email>krlgrudzinski+gentoo@gmail.com</email>
+      <name>Karol Grudziński</name>
+    </owner>
+    <source type="git">https://github.com/karolgrudzinski/c2p-overlay.git</source>
+    <source type="git">git://github.com/karolgrudzinski/c2p-overlay.git</source>
+    <source type="git">git+ssh://git@github.com:karolgrudzinski/c2p-overlay.git</source>
+    <feed>https://github.com/karolgrudzinski/c2p-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>caio</name>
     <description lang="en"><![CDATA[Claudio's experimental ebuilds]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/caio.git;a=summary</homepage>

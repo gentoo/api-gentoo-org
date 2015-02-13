@@ -1756,18 +1756,6 @@ FIN
     <source type="git">https://github.com/gbin/gbin-overlay.git</source>
     <feed>https://github.com/gbin/gbin-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gechi</name>
-    <description><![CDATA[The Gechi Overlay offers a repository of Gentoo Ebuilds made by
-        Gechi users. The scope is to cover all projects
-        sponsored/developed by the Gechi and making them easily available.]]></description>
-    <homepage>http://sourceforge.net/projects/gechi-overlay/</homepage>
-    <owner type="project">
-      <email>gechi+subscribe@gechi.it</email>
-      <name>Gechi mailing list</name>
-    </owner>
-    <source type="svn">https://gechi-overlay.svn.sourceforge.net/svnroot/gechi-overlay/overlay/</source>
-  </repo>
   <repo quality="experimental" status="official">
     <name>genstef</name>
     <description><![CDATA[Genstef's Overlay - It usually contains some experimental

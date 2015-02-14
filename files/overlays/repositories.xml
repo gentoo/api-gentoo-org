@@ -5733,6 +5733,19 @@ FIN
     <feed>https://github.com/wichtounet/wichtounet-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>wine-a-holics</name>
+    <description>An overlay filled with lots of goodies for those who are hooked on WINE.</description>
+    <homepage>https://github.com/NP-Hardass/wine-a-holics</homepage>
+    <owner type="person">
+      <email>np.hardass@gmail.com</email>
+    </owner>
+    <owner type="person">
+      <email>gentoo-wine#eroen.eu</email>
+    </owner>
+    <source type="git">git://github.com/NP-Hardass/wine-a-holics.git</source>
+    <source type="git">https://github.com/NP-Hardass/wine-a-holics.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>wine-diablo3</name>
     <description lang="en">A gentoo overlay containing patches needed to make diablo3 install and run properly with wine</description>
     <homepage>https://github.com/simcop2387/wine-diablo3</homepage>
@@ -5743,6 +5756,19 @@ FIN
     <source type="git">git://github.com/simcop2387/wine-diablo3.git</source>
     <source type="git">https://github.com/simcop2387/wine-diablo3.git</source>
     <feed>https://github.com/simcop2387/wine-diablo3/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>wine-overlay</name>
+    <description>Unofficial Wine Overlay</description>
+    <homepage>https://github.com/NP-Hardass/wine-overlay</homepage>
+    <owner type="person">
+      <email>np.hardass@gmail.com</email>
+    </owner>
+    <owner type="person">
+      <email>gentoo-wine@eroen.eu</email>
+    </owner>
+    <source type="git">git://github.com/NP-Hardass/wine-overlay.git</source>
+    <source type="git">https://github.com/NP-Hardass/wine-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>wirelay</name>

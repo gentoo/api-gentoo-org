@@ -3005,20 +3005,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/matsuu.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>mcenroe</name>
-    <description lang="en"><![CDATA[McEnroe's overlay]]></description>
-    <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/mcenroe.git;a=summary</homepage>
-    <owner type="person">
-      <email>e.bachmakov@gmail.com</email>
-      <name>Eduard Bachmakov</name>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/user/mcenroe.git</source>
-    <source type="git">http://cgit.gentooexperimental.org/user/mcenroe.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/user/mcenroe.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/mcenroe.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/mcenroe.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>megacoffee</name>
     <description lang="en">Mixed ebuilds from various sources: self-written missing ebuilds, more current ebuilds, ebuilds that just needed a slight update from official portage, ebuilds others posted on Gentoo Bugzilla, ebuilds with added patches, old ebuilds that were removed from official portage etc.</description>
     <description lang="de">Verschiedene ebuilds aus verschiedenen Quellen: selbsterstellte ebuilds, ebuilds mit geringfügigen Änderungen, gegenüber dem aktuellen Baum, ebuilds aus Gentoos Bugzilla, ebuilds mit erweiterten patches, alte ebuilds die nicht mehr im offiziellen Baum existieren, etc.</description>

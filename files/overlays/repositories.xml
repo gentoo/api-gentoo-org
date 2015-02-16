@@ -1692,19 +1692,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/gamerlay.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/gamerlay.git;a=rss</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>games</name>
-    <description>A collection of work-in-progress ebuilds and ebuilds which require testing.</description>
-    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/games.git;a=summary</homepage>
-    <owner>
-      <email>games@gentoo.org</email>
-    </owner>
-    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/games.git</source> -->
-    <source type="git">git://git.overlays.gentoo.org/proj/games.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/games.git</source>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/games.git;a=atom</feed>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/games.git;a=rss</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>games-overlay</name>
     <description lang="en">gentoo overlay containing games ebuilds only</description>

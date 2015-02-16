@@ -2494,21 +2494,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/kde-sunset.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>kerberos</name>
-    <description><![CDATA[Overlay which provides the bleeding edge on the kerberos
-    integration in gentoo.]]></description>
-    <homepage>http://dev.gentoo.org/~mueli</homepage>
-    <owner>
-      <email>mueli@gentoo.org</email>
-      <name>Kerberos Maintainers</name>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/proj/kerberos.git</source>
-    <source type="git">http://cgit.gentooexperimental.org/proj/kerberos.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/kerberos.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/kerberos.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/kerberos.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>keruspe</name>
     <description lang="en"><![CDATA[Keruspe's overlay]]></description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/keruspe.git;a=summary</homepage>

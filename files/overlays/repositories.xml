@@ -753,19 +753,6 @@ FIN
     <source type="git">git@github.com:causes-/causelay.git</source>
     <feed>https://github.com/causes-/causelay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>cell</name>
-    <description>Support for Cell architecture, including IBM blade and Sony Playstation 3.</description>
-    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/cell.git;a=summary</homepage>
-    <owner>
-      <email>lu_zero@gentoo.org</email>     
-    </owner>
-    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/cell.git</source> -->
-    <source type="git">git://git.overlays.gentoo.org/proj/cell.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/cell.git</source>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/cell.git;a=atom</feed>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/cell.git;a=rss</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>centerim</name>
     <description>Latest tarballs from the CenterIM Mob-branch and a live ebuild.</description>
@@ -3316,20 +3303,6 @@ FIN
     <source type="git">git+ssh://git@git.overlays.gentoo.org/user/nikai.git</source>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/nikai.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/nikai.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>nirbheek</name>
-    <description>Nirbheek Chauhan developer overlay</description>
-    <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/nirbheek.git</homepage>
-    <owner>
-      <email>nirbheek@gentoo.org</email>
-      <name>Nirbheek Chauhan</name>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/dev/nirbheek.git</source>
-    <source type="git">http://cgit.gentooexperimental.org/dev/nirbheek.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/dev/nirbheek.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/nirbheek.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/nirbheek.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>nirvana</name>

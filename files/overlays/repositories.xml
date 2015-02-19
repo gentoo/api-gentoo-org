@@ -4814,20 +4814,6 @@ FIN
     <source type="git">git://github.com/rtsisyk/tarantool-gentoo-overlay.git</source>
     <feed>https://github.com/rtsisyk/tarantool-gentoo-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>tbc</name>
-    <description lang="en">User overlay</description>
-    <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/tbc.git;a=summary</homepage>
-    <owner type="person">
-      <email>tomboy64@sina.cn</email>
-      <name>M. B.</name>
-    </owner>
-    <source type="git">git://git.overlays.gentoo.org/user/tbc.git</source>
-    <source type="git">http://cgit.gentooexperimental.org/user/tbc.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/user/tbc.git</source>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/tbc.git;a=atom</feed>
-    <feed>http://git.overlays.gentoo.org/gitweb/?p=user/tbc.git;a=rss</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>tegra</name>
     <description>Gentoo overlay for NVIDIA Tegra2</description>

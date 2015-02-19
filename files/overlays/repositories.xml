@@ -2629,6 +2629,18 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/leio.git;a=atom</feed>
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/leio.git;a=rss</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>levenkov</name>
+    <description>levenkov personal overlay</description>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/levenkov.git</homepage>
+    <owner>
+      <email>artem@levenkov.org</email>
+      <name>Artem Levenkov</name>
+    </owner>
+    <source type="git">git://git.overlays.gentoo.org/user/levenkov.git</source>
+    <source type="git">http://cgit.gentooexperimental.org/user/levenkov.git</source>
+    <source type="git">git+ssh://git@git.overlays.gentoo.org/user/levenkov.git</source>
+  </repo>
   <repo quality="experimental" status="official">
     <name>libressl</name>
     <description lang="en">LibreSSL ebuilds testing repository</description>

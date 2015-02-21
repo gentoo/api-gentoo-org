@@ -1463,19 +1463,6 @@ FIN
     <source type="rsync">rsync://fidonet.overlay.junc.org/fidonet/</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>finnish</name>
-    <description>Finnish overlay for spell checking etc. etc.</description>
-    <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/finnish.git;a=summary</homepage>
-    <owner>
-      <email>flammie@gentoo.org</email>
-    </owner>
-    <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/finnish.git</source> -->
-    <source type="git">git://git.overlays.gentoo.org/proj/finnish.git</source>
-    <source type="git">git+ssh://git@git.overlays.gentoo.org/proj/finnish.git</source>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/finnish.git;a=atom</feed>
-    <feed>https://git.overlays.gentoo.org/gitweb/?p=proj/finnish.git;a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>FireBurn</name>
     <description lang="en">32bit ebuilds (libdrm, mesa, libx11, mesa-progs, ..)</description>
     <homepage>https://github.com/FireBurn/Overlay</homepage>

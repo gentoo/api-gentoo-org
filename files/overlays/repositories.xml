@@ -5637,16 +5637,6 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/xhub.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>xmms-zombie</name>
-    <description>Overlay with XMMS-1 related zombiebuilds</description>
-    <homepage>http://git.goodpoint.de/?p=overlay-xmms-zombie.git;a=summary</homepage>
-    <owner>
-      <email>sebastian@pipping.org</email>
-    </owner>
-    <source type="git">git://git.goodpoint.de/overlay-xmms-zombie.git</source>
-    <feed>http://git.goodpoint.de/?p=overlay-xmms-zombie.git;a=atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>xmw</name>
     <description>Michael Weber developer overlay</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=dev/xmw.git</homepage>

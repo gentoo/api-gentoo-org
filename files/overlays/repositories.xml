@@ -4572,16 +4572,18 @@ FIN
     <source type="git">git://spheniscida.de/spiderlay.git</source>
     <feed>http://git.spheniscida.de/index.cgi/spiderlay.git/atom/?h=master</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
+  <repo quality="experimental" status="official">
     <name>sping</name>
-    <description>Gentoo overlay of Sebastian Pipping</description>
-    <homepage>http://git.goodpoint.de/?p=overlay-sping.git;a=summary</homepage>
-    <owner>
+    <description lang="en">Overlay of Gentoo developer Sebastian Pipping; for issues, please open tickets at GitHub</description>
+    <homepage>https://github.com/hartwork/gentoo-overlay-sping</homepage>
+    <owner type="person">
       <email>sping@gentoo.org</email>
       <name>Sebastian Pipping</name>
     </owner>
-    <source type="git">git://git.goodpoint.de/overlay-sping.git</source>
-    <feed>http://git.goodpoint.de/?p=overlay-sping.git;a=atom</feed>
+    <source type="git">https://github.com/hartwork/gentoo-overlay-sping.git</source>
+    <source type="git">git://github.com/hartwork/gentoo-overlay-sping.git</source>
+    <source type="git">git@github.com:hartwork/gentoo-overlay-sping.git</source>
+    <feed>https://github.com/hartwork/gentoo-overlay-sping/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>squeezebox</name>

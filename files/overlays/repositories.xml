@@ -1499,6 +1499,18 @@ FIN
     <feed>https://github.com/fkmclane/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>flammie</name>
+    <description lang="en">An overlay for gentoo for things Flammie's worked on: Apertium, HFST, computational linguistics, spell-checking, obscure languages...</description>
+    <homepage>https://github.com/flammie/flammie-overlay</homepage>
+    <owner type="person">
+      <email>ffflammie@gmail.com</email>
+      <name>Flammie Pirinen</name>
+    </owner>
+    <source type="git">https://github.com/flammie/flammie-overlay.git</source>
+    <source type="git">git://github.com/flammie/flammie-overlay.git</source>
+    <feed>https://github.com/flammie/flammie-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>flameeyes-overlay</name>
     <description><![CDATA[Flameeyes' private developer overlay]]></description>
     <homepage>http://blog.flameeyes.eu/</homepage>

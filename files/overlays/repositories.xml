@@ -591,7 +591,7 @@ FIN
       <email>flo@geekplace.eu</email>
       <name>Florian Schmaus</name>
     </owner>
-    <source type="git">git://gitorious.org/bitcoin/gentoo.git</source>
+    <source type="git">https://git.gitorious.org/bitcoin/gentoo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bleeding-edge</name>
@@ -601,7 +601,7 @@ FIN
       <email>jasiupsota@gmail.com</email>
       <name>Jan Psota</name>
     </owner>
-    <source type="git">git://gitorious.org/jasiu/bleeding-edge.git</source>
+    <source type="git">https://git.gitorious.org/jasiu/bleeding-edge.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>blender-gentoo-logo</name>
@@ -1271,7 +1271,6 @@ FIN
       <email>gio@eigenlab.org</email>
       <name>Gioacchino Mazzurco</name>
     </owner>
-    <source type="git">git://gitorious.org/eigennet/eigenlay.git</source>
     <source type="git">https://git.gitorious.org/eigennet/eigenlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1555,7 +1554,6 @@ FIN
       <email>flo@geekplace.eu</email>
       <name>Florian Schmaus</name>
     </owner>
-    <source type="git">git://gitorious.org/flow-s-ebuilds/flow-s-ebuilds.git</source>
     <source type="git">https://git.gitorious.org/flow-s-ebuilds/flow-s-ebuilds.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1734,7 +1732,7 @@ FIN
     <owner>
       <email>powderluv@powderluv.org</email>
     </owner>
-    <source type="git">git://gitorious.org/gentoo-arm-overlay/gentoo-arm-overlay.git</source>
+    <source type="git">https://git.gitorious.org/gentoo-arm-overlay/gentoo-arm-overlay.git</source>
     <feed>http://gitorious.org/gentoo-arm-overlay.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -1828,7 +1826,7 @@ FIN
     <owner type="person">
       <email>gentosh.ac100@gmail.com</email>
     </owner>
-    <source type="git">git://gitorious.org/gentosh-ac100/ac100-overlay.git</source>
+    <source type="git">https://git.gitorious.org/gentosh-ac100/ac100-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentroid</name>
@@ -3020,7 +3018,6 @@ FIN
       <name>mooyooma</name>
     </owner>
     <source type="git">https://gitorious.org/mooyooma-overlay/mooyooma-overlay.git</source>
-    <source type="git">git@gitorious.org:mooyooma-overlay/mooyooma-overlay.git</source>
     <feed>https://gitorious.org/mooyooma-overlay/mooyooma-overlay/commits/master/feed.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -3110,7 +3107,7 @@ FIN
     <owner>
       <email>media-video@gentoo.org</email>
     </owner>
-    <source type="git">git://gitorious.org/gentoo-multimedia/gentoo-multimedia.git</source>
+    <source type="git">https://git.gitorious.org/gentoo-multimedia/gentoo-multimedia.git</source>
     <feed>http://gitorious.org/gentoo-multimedia.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3182,7 +3179,7 @@ FIN
     <owner>
       <email>luke_n8x0_overlay@dashjr.org</email>
     </owner>
-    <source type="git">git://gitorious.org/handheld-gentoo-overlays/n8x0.git</source>
+    <source type="git">https://git.gitorious.org/handheld-gentoo-overlays/n8x0.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>n900</name>
@@ -4178,8 +4175,7 @@ FIN
       <email>lazy_bum@o2.pl</email>
       <name>Piotr Szymaniak</name>
     </owner>
-    <source type="git">git://gitorious.org/roslin/roslin.git</source>
-    <source type="git">http://git.gitorious.org/roslin/roslin.git</source>
+    <source type="git">https://git.gitorious.org/roslin/roslin.git</source>
     <feed>http://gitorious.org/roslin/roslin.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -4824,7 +4820,7 @@ FIN
     <owner>
       <email>tante@the-gay-bar.com</email>
     </owner>
-    <source type="git">git://gitorious.org/tante_overlay/mainline.git</source>
+    <source type="git">https://git.gitorious.org/tante_overlay/mainline.git</source>
     <feed>http://gitorious.org/tante_overlay.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -5012,7 +5008,6 @@ FIN
       <email>batekman@gmail.com</email>
     </owner>
     <source type="git">https://gitorious.org/batekman/trash-overlay.git</source>
-    <source type="git">git@gitorious.org:batekman/trash-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>twitch153</name>

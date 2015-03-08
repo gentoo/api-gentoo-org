@@ -1829,7 +1829,6 @@ FIN
       <email>gentosh.ac100@gmail.com</email>
     </owner>
     <source type="git">git://gitorious.org/gentosh-ac100/ac100-overlay.git</source>
-    <source type="git">git://gitorious.org/gentosh-ac100/ac100-progs.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentroid</name>

@@ -397,6 +397,20 @@
             "Vlastimil Babka <caster@gentoo.org>"
         ]
     }, 
+    "cedk": {
+        "fingerprint": [
+            "7C5A4360F6DF81ABA91FD54D6FF50AFE03489130"
+        ], 
+        "keydir": "cedk", 
+        "keys": [
+            "7C5A4360F6DF81ABA91FD54D6FF50AFE03489130"
+        ], 
+        "name": "Cédric Krier", 
+        "nick": "cedk", 
+        "uid": [
+            "Cédric Krier <cedk@gentoo.org>"
+        ]
+    }, 
     "chainsaw": {
         "fingerprint": [
             "DA33CD48FBF41EE226538BA8A79BD6E2B5058F9A"
@@ -2411,6 +2425,22 @@
             "Stefan Briesenick <sbriesen@gentoo.org>"
         ]
     }, 
+    "scarabeus": {
+        "fingerprint": [
+            "94A45CCD85D3DE24FE99F9241C1E9CDE03414587", 
+            "766E1B04800644CBF2F9D5B1E4A2468C8EEE3BE8"
+        ], 
+        "keydir": "scarabeus", 
+        "keys": [
+            "94A45CCD85D3DE24FE99F9241C1E9CDE03414587", 
+            "766E1B04800644CBF2F9D5B1E4A2468C8EEE3BE8"
+        ], 
+        "name": "Tomas Chvatal", 
+        "nick": "scarabeus", 
+        "uid": [
+            "Tomas Chvatal <scarabeus@gentoo.org>"
+        ]
+    }, 
     "sdamashek": {
         "fingerprint": [
             "63F2BF772A76D62497D294DB6C3EB8FD3C472B56"
@@ -2745,6 +2775,20 @@
         "nick": "tomwij", 
         "uid": [
             "Tom Wijsman <tomwij@gentoo.org>"
+        ]
+    }, 
+    "tranquility": {
+        "fingerprint": [
+            "2A5CD9DA6AF47C919F3E1E49E9E568677E8B4D42"
+        ], 
+        "keydir": "tranquility", 
+        "keys": [
+            "2A5CD9DA6AF47C919F3E1E49E9E568677E8B4D42"
+        ], 
+        "name": "Ole Reifschneider", 
+        "nick": "tranquility", 
+        "uid": [
+            "Ole Reifschneider <tranquility@gentoo.org>"
         ]
     }, 
     "tristan": {

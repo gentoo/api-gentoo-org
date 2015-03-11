@@ -4603,6 +4603,33 @@ FIN
     <source type="git">git://spheniscida.de/spiderlay.git</source>
     <feed>http://git.spheniscida.de/index.cgi/spiderlay.git/atom/?h=master</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>spike</name>
+    <description lang="en">This repository contains the ebuild used to build spike, a pentesting distro based on Sabayon.</description>
+    <homepage>https://github.com/Spike-Pentesting/spike-overlay</homepage>
+    <owner type="person">
+      <email>mudler@dark-lab.net</email>
+    </owner>
+    <owner type="person">
+      <email>skullbocks@dark-lab.net</email>
+    </owner>
+    <source type="git">https://github.com/Spike-Pentesting/spike-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>spike-community-overlay</name>
+    <description lang="en">Spike community overlay</description>
+    <homepage>http://spike-pentesting.org/</homepage>
+    <owner type="person">
+      <email>mudler@dark-lab.net</email>
+    </owner>
+    <owner type="person">
+      <email>skullbocks@dark-lab.net</email>
+    </owner>
+    <owner type="person">
+      <email>mike@michaellawrenceit.com</email>
+    </owner>
+    <source type="git">https://github.com/Sabayon-Labs/spike-community-overlay.git</source>
+  </repo>
   <repo quality="experimental" status="official">
     <name>sping</name>
     <description lang="en">Overlay of Gentoo developer Sebastian Pipping; for issues, please open tickets at GitHub</description>

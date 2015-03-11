@@ -43,6 +43,22 @@
             "Sean Amoss <ackle@gentoo.org>"
         ]
     }, 
+    "ago": {
+        "fingerprint": [
+            "1E58AD6230C55E7019118DABE4C382367CD2DC5D", 
+            "9D326AF1BA78207D3E55DBDBBA7BD3507194459F"
+        ], 
+        "keydir": "ago", 
+        "keys": [
+            "1E58AD6230C55E7019118DABE4C382367CD2DC5D", 
+            "9D326AF1BA78207D3E55DBDBBA7BD3507194459F"
+        ], 
+        "name": "Agostino Sarubbo", 
+        "nick": "ago", 
+        "uid": [
+            "Agostino Sarubbo <ago@gentoo.org>"
+        ]
+    }, 
     "aidecoe": {
         "fingerprint": [
             "C700CEDE0C18212E49DA4653F0134531E1DBFAB5"
@@ -97,6 +113,20 @@
         "nick": "alonbl", 
         "uid": [
             "Alon Bar-Lev <alonbl@gentoo.org>"
+        ]
+    }, 
+    "alunduil": {
+        "fingerprint": [
+            "C83139FA4A306FD8C529FE0FE71B7695E1D6AA7D"
+        ], 
+        "keydir": "alunduil", 
+        "keys": [
+            "C83139FA4A306FD8C529FE0FE71B7695E1D6AA7D"
+        ], 
+        "name": "Alex Brandt", 
+        "nick": "alunduil", 
+        "uid": [
+            "Alex Brandt <alunduil@gentoo.org>"
         ]
     }, 
     "amadio": {
@@ -825,6 +855,20 @@
             "Miroslav Šulc <fordfrog@gentoo.org>"
         ]
     }, 
+    "fox": {
+        "fingerprint": [
+            "C17933B1423C80E474E88065D615C8B3B645061E"
+        ], 
+        "keydir": "fox", 
+        "keys": [
+            "C17933B1423C80E474E88065D615C8B3B645061E"
+        ], 
+        "name": "Federico Scrinzi", 
+        "nick": "fox", 
+        "uid": [
+            "Federico Scrinzi <fox@gentoo.org>"
+        ]
+    }, 
     "fuzzyray": {
         "fingerprint": [
             "4B0DD00BDBD50EA34DEDED4D0FED1FC36B402757"
@@ -1079,6 +1123,20 @@
         "nick": "hparker", 
         "uid": [
             "Homer Parker <hparker@gentoo.org>"
+        ]
+    }, 
+    "hwoarang": {
+        "fingerprint": [
+            "660A074284EC26F19EDBF00AFA835A15B4AFF2C2"
+        ], 
+        "keydir": "hwoarang", 
+        "keys": [
+            "660A074284EC26F19EDBF00AFA835A15B4AFF2C2"
+        ], 
+        "name": "Markos Chandras", 
+        "nick": "hwoarang", 
+        "uid": [
+            "Markos Chandras <hwoarang@gentoo.org>"
         ]
     }, 
     "i92guboj": {

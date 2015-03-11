@@ -1725,6 +1725,16 @@ FIN
     <source type="git">https://github.com/gbin/gbin-overlay.git</source>
     <feed>https://github.com/gbin/gbin-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="core" status="official">
+    <name>gentoo</name>
+    <description>Official Gentoo ebuild repository</description>
+    <homepage>http://gentoo.org/</homepage>
+    <owner>
+      <email>infra-bugs@gentoo.org</email>
+    </owner>
+    <source type="rsync">rsync://rsync.gentoo.org/gentoo-portage</source>
+    <source type="git">https://github.com/gentoo/gentoo-portage-rsync-mirror</source>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-arm</name>
     <description>Gentoo ARM Overlay</description>

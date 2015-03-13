@@ -807,12 +807,12 @@ FIN
   <repo quality="experimental" status="official">
     <name>cj-overlay</name>
     <description><![CDATA[Christoph's Overlay]]></description>
-    <homepage>http://cj-overlay.googlecode.com</homepage>
+    <homepage>https://github.com/junghans/cj-overlay</homepage>
     <owner>
       <email>ottxor@gentoo.org</email>
     </owner>
-    <source type="mercurial">https://cj-overlay.googlecode.com/hg/</source>
-    <feed>http://code.google.com/feeds/p/cj-overlay/hgchanges/basic</feed>
+    <source type="git">git://github.com/junghans/cj-overlay</source>
+    <feed>https://github.com/junghans/cj-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>chromiumos</name>

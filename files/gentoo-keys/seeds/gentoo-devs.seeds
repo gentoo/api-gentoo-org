@@ -357,11 +357,11 @@
     }, 
     "blueknight": {
         "fingerprint": [
-            "89021D262C896FC4A819982C06C1179935001B8C"
+            "885889D6C0C475C4D0DDFA00EEAFED89024C043D"
         ], 
         "keydir": "blueknight", 
         "keys": [
-            "89021D262C896FC4A819982C06C1179935001B8C"
+            "885889D6C0C475C4D0DDFA00EEAFED89024C043D"
         ], 
         "name": "Yury German", 
         "nick": "blueknight", 
@@ -2039,6 +2039,20 @@
         "nick": "nirbheek", 
         "uid": [
             "Nirbheek Chauhan <nirbheek@gentoo.org>"
+        ]
+    }, 
+    "nixphoeni": {
+        "fingerprint": [
+            "3C6CB2A17CA5A47F3EE832C6B83F7F4184E08386"
+        ], 
+        "keydir": "nixphoeni", 
+        "keys": [
+            "3C6CB2A17CA5A47F3EE832C6B83F7F4184E08386"
+        ], 
+        "name": "Joe Sapp", 
+        "nick": "nixphoeni", 
+        "uid": [
+            "Joe Sapp <nixphoeni@gentoo.org>"
         ]
     }, 
     "nullishzero": {

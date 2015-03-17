@@ -1730,7 +1730,7 @@ FIN
     <description>Official Gentoo ebuild repository</description>
     <homepage>http://gentoo.org/</homepage>
     <owner>
-      <email>infra-bugs@gentoo.org</email>
+      <email>infra@gentoo.org</email>
     </owner>
     <source type="rsync">rsync://rsync.gentoo.org/gentoo-portage</source>
     <source type="git">https://github.com/gentoo/gentoo-portage-rsync-mirror</source>

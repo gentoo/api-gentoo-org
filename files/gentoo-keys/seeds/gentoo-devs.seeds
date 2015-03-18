@@ -967,6 +967,20 @@
             "Brian Evans <grknight@gentoo.org>"
         ]
     }, 
+    "grobian": {
+        "fingerprint": [
+            "831C8A4776485F9FD3ED9A1E5F75F607C5C74E89"
+        ], 
+        "keydir": "grobian", 
+        "keys": [
+            "831C8A4776485F9FD3ED9A1E5F75F607C5C74E89"
+        ], 
+        "name": "Fabian Groffen", 
+        "nick": "grobian", 
+        "uid": [
+            "Fabian Groffen <grobian@gentoo.org>"
+        ]
+    }, 
     "grozin": {
         "fingerprint": [
             "6FCC83E26D94FB054B76101653D4ABFA88DD61C4"
@@ -1911,6 +1925,20 @@
         "nick": "mschiff", 
         "uid": [
             "Marc Schiffbauer <mschiff@gentoo.org>"
+        ]
+    }, 
+    "naota": {
+        "fingerprint": [
+            "8EEFDAE1E9C6725CE3D59402360ED454F8551514"
+        ], 
+        "keydir": "naota", 
+        "keys": [
+            "8EEFDAE1E9C6725CE3D59402360ED454F8551514"
+        ], 
+        "name": "Naohiro Aota", 
+        "nick": "naota", 
+        "uid": [
+            "Naohiro Aota <naota@gentoo.org>"
         ]
     }, 
     "nathanzachary": {
@@ -3005,13 +3033,11 @@
     }, 
     "voyageur": {
         "fingerprint": [
-            "9DCFC224D5AAF4E11935BA7C0E1AB04194379C6D", 
-            "B6853FE1D8755F6CA5C04AA215810119C74525F2"
+            "5A90C20CB4B1DC65A1A4855A62C5698EA73563CD"
         ], 
         "keydir": "voyageur", 
         "keys": [
-            "9DCFC224D5AAF4E11935BA7C0E1AB04194379C6D", 
-            "B6853FE1D8755F6CA5C04AA215810119C74525F2"
+            "5A90C20CB4B1DC65A1A4855A62C5698EA73563CD"
         ], 
         "name": "Bernard Cafarelli", 
         "nick": "voyageur", 
@@ -3191,11 +3217,11 @@
     }, 
     "zx2c4": {
         "fingerprint": [
-            "AB9942E6D4A4CFC3412620A749FC7012A5DE03AE"
+            "A28BEDE08F1744E16037514806C4536755758000"
         ], 
         "keydir": "zx2c4", 
         "keys": [
-            "AB9942E6D4A4CFC3412620A749FC7012A5DE03AE"
+            "A28BEDE08F1744E16037514806C4536755758000"
         ], 
         "name": "Jason Donenfeld", 
         "nick": "zx2c4", 

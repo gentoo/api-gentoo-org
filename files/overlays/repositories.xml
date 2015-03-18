@@ -4134,12 +4134,12 @@ FIN
     <name>rion</name>
     <description><![CDATA[Russian overlay with a some patched and specific
     software]]></description>
-    <homepage>http://code.google.com/p/rion-overlay/</homepage>
+    <homepage>https://github.com/rion-overlay</homepage>
     <owner>
       <email>rion4ik@gmail.com</email>
     </owner>
-    <source type="mercurial">http://rion-overlay.googlecode.com/hg/</source>
-    <feed>http://code.google.com/feeds/p/rion-overlay/hgchanges/basic</feed>
+    <source type="git">git://github.com/rion-overlay/rion-overlay.git</source>
+    <feed>https://github.com/rion-overlay/rion-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>robbat2</name>

@@ -45,13 +45,13 @@
     }, 
     "ago": {
         "fingerprint": [
-            "1E58AD6230C55E7019118DABE4C382367CD2DC5D", 
-            "9D326AF1BA78207D3E55DBDBBA7BD3507194459F"
+            "9D326AF1BA78207D3E55DBDBBA7BD3507194459F", 
+            "1E58AD6230C55E7019118DABE4C382367CD2DC5D"
         ], 
         "keydir": "ago", 
         "keys": [
-            "1E58AD6230C55E7019118DABE4C382367CD2DC5D", 
-            "9D326AF1BA78207D3E55DBDBBA7BD3507194459F"
+            "9D326AF1BA78207D3E55DBDBBA7BD3507194459F", 
+            "1E58AD6230C55E7019118DABE4C382367CD2DC5D"
         ], 
         "name": "Agostino Sarubbo", 
         "nick": "ago", 

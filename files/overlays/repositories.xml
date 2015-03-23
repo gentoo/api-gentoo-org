@@ -5783,13 +5783,13 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>yarik-overlay</name>
     <description lang="en">Some new packages plus uncommitted patches and ebuilds for the main tree</description>
-    <homepage>http://code.google.com/p/yarik-overlay/</homepage>
+    <homepage>https://github.com/yarikmsu/yarik-overlay</homepage>
     <owner type="person">
       <email>ygorbunov@gmail.com</email>
       <name>Yaroslav Gorbunov</name>
     </owner>
-    <source type="svn">http://yarik-overlay.googlecode.com/svn/trunk/overlay</source>
-    <feed>https://code.google.com/feeds/p/yarik-overlay/svnchanges/basic</feed>
+    <source type="git">https://github.com/yarikmsu/yarik-overlay.git</source>
+    <feed>https://github.com/yarikmsu/yarik-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>yngwin</name>

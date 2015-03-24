@@ -655,6 +655,20 @@
             "Dean Stephens <desultory@gentoo.org>"
         ]
     }, 
+    "dev-zero": {
+        "fingerprint": [
+            "B2374922D491A1B23836FA2E1A5D023975B0583D"
+        ], 
+        "keydir": "dev-zero", 
+        "keys": [
+            "B2374922D491A1B23836FA2E1A5D023975B0583D"
+        ], 
+        "name": "Tiziano Müller", 
+        "nick": "dev-zero", 
+        "uid": [
+            "Tiziano Müller <dev-zero@gentoo.org>"
+        ]
+    }, 
     "dilfridge": {
         "fingerprint": [
             "295EF1B6EB5DC9A6B21D3D4E0B08240A96F66571", 

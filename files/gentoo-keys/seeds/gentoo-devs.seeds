@@ -3059,6 +3059,20 @@
             "Bernard Cafarelli <voyageur@gentoo.org>"
         ]
     }, 
+    "vzctl": {
+        "fingerprint": [
+            "E0E1690203795196DC433CAE3FB205B064D24462"
+        ], 
+        "keydir": "vzctl", 
+        "keys": [
+            "E0E1690203795196DC433CAE3FB205B064D24462"
+        ], 
+        "name": "Alexey Lapitsky", 
+        "nick": "vzctl", 
+        "uid": [
+            "Alexey Lapitsky <vzctl@gentoo.org>"
+        ]
+    }, 
     "williamh": {
         "fingerprint": [
             "D57AEC44668E2E5073A440096E5416F430C46538"

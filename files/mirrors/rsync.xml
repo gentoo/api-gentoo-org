@@ -180,10 +180,6 @@
       <name>Ovh Hosting Provider - rsync2.fr.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync2.fr.gentoo.org</uri>
     </mirror>
-    <mirror>
-      <name>Ovh Hosting Provider - rsync3.fr.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync3.fr.gentoo.org</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="GR" countryname="Greece">
     <mirror>

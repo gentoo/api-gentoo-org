@@ -4049,12 +4049,13 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>raw</name>
     <description>some raw stuff</description>
-    <homepage>http://code.google.com/p/raw/</homepage>
+    <homepage>https://github.com/mahatma-kaganovich/raw</homepage>
     <owner>
       <email>mahatma@eu.by</email>
+      <name>Denis Kaganovich (aka Dzianis Kahanovich)</name>
     </owner>
-    <source type="svn">http://raw.googlecode.com/svn/trunk</source>
-    <feed>http://code.google.com/feeds/p/raw/svnchanges/basic</feed>
+    <source type="git">https://github.com/mahatma-kaganovich/raw.git</source>
+    <feed>https://github.com/mahatma-kaganovich/raw/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>rebel</name>

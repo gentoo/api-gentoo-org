@@ -3031,14 +3031,13 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>mooyooma</name>
-      <description lang="en"><![CDATA[mooyooma's personal overlay]]></description>
-    <homepage>https://gitorious.org/mooyooma-overlay/mooyooma-overlay/</homepage>
+    <description lang="en"><![CDATA[mooyooma's personal overlay]]></description>
+    <homepage>https://gitlab.com/mooyooma-overlay/mooyooma-overlay</homepage>
     <owner type="person">
       <email>mooyooma@openmailbox.org</email>
       <name>mooyooma</name>
     </owner>
-    <source type="git">https://gitorious.org/mooyooma-overlay/mooyooma-overlay.git</source>
-    <feed>https://gitorious.org/mooyooma-overlay/mooyooma-overlay/commits/master/feed.atom</feed>
+    <source type="git">https://gitlab.com/mooyooma-overlay/mooyooma-overlay.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>moult</name>

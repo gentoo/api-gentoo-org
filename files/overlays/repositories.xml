@@ -3113,12 +3113,14 @@ FIN
     <description><![CDATA[Repository for development of (mostly bleeding-edge)
     multimedia packages for Gentoo Linux. This is the official overlay
     for Gentoo's media herds.]]></description>
-    <homepage>http://gitorious.org/gentoo-multimedia</homepage>
+    <homepage>https://github.com/gentoo/multimedia</homepage>
     <owner>
       <email>media-video@gentoo.org</email>
     </owner>
-    <source type="git">https://git.gitorious.org/gentoo-multimedia/gentoo-multimedia.git</source>
-    <feed>http://gitorious.org/gentoo-multimedia.atom</feed>
+    <source type="git">https://github.com/gentoo/multimedia.git</source>
+    <source type="git">git://github.com/gentoo/multimedia.git</source>
+    <source type="git">git@github.com:gentoo/multimedia.git</source>
+    <feed>https://github.com/gentoo/multimedia/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>mv</name>
@@ -3772,7 +3774,7 @@ FIN
     <description>Development overlay for PostgreSQL, testing branch.</description>
     <homepage>https://git.overlays.gentoo.org/gitweb/?p=proj/postgresql/testing.git;a=summary</homepage>
     <owner>
-      <email>pgsql-bugs@gentoo.org</email> 
+      <email>pgsql-bugs@gentoo.org</email>
     </owner>
     <!-- <source type="git">https://git.overlays.gentoo.org/gitroot/proj/postgresql/testing.git</source> -->
     <source type="git">git://git.overlays.gentoo.org/proj/postgresql/testing.git</source>

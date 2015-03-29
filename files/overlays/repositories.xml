@@ -333,6 +333,16 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=user/arc.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>archenroot</name>
+    <description lang="en">ArchenROOT Gentoo Overlay</description>
+    <homepage>https://github.com/archenroot/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>archenroot@gmail.com</email>
+      <name>Ladislav Jech</name>
+    </owner>
+    <source type="git">https://github.com/archenroot/gentoo-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>arcon</name>
     <description><![CDATA[Arcon Overlay!]]></description>
     <homepage>http://code.google.com/p/arcon/</homepage>

@@ -3809,12 +3809,12 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>powerman</name>
     <description>Overlay of Alex Efros</description>
-    <homepage>http://powerman.name/gentoo/overlay.html</homepage>
+    <homepage>https://github.com/powerman/powerman-overlay</homepage>
     <owner type="person">
       <email>powerman-asdf@yandex.ru</email>
       <name>Alex Efros</name>
     </owner>
-    <source type="mercurial">https://powerman-overlay.googlecode.com/hg/</source>
+    <source type="git">https://github.com/powerman/powerman-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>printer-drivers</name>

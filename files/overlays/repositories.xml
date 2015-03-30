@@ -477,13 +477,15 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>barzog-overlay</name>
     <description lang="en"><![CDATA[Oleg Gawriloff's overlay]]></description>
-    <homepage>http://code.google.com/p/barzog-gentoo-overlay/</homepage>
+    <homepage>https://github.com/barzog/barzog-gentoo-overlay</homepage>
     <owner type="person">
       <email>barzog@telecom.by</email>
       <name>Oleg Gawriloff</name>
     </owner>
-    <source type="svn">http://barzog-gentoo-overlay.googlecode.com/svn/trunk/</source>
-    <feed>http://code.google.com/feeds/p/barzog-gentoo-overlay/svnchanges/basic</feed>
+    <source type="git">git://github.com/barzog/barzog-gentoo-overlay.git</source>
+    <source type="git">https://github.com/barzog/barzog-gentoo-overlay.git</source>
+    <source type="git">git@github.com:barzog/barzog-gentoo-overlay.git<source>
+    <feed>https://github.com/barzog/barzog-gentoo-overlay/commits/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bazaar</name>

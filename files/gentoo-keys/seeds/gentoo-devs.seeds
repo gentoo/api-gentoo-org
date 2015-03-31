@@ -413,6 +413,20 @@
             "Denis Dupeyron <calchan@gentoo.org>"
         ]
     }, 
+    "cardoe": {
+        "fingerprint": [
+            "53B7029C9876F65E6EAB803C6C4E620431C9980D"
+        ], 
+        "keydir": "cardoe", 
+        "keys": [
+            "53B7029C9876F65E6EAB803C6C4E620431C9980D"
+        ], 
+        "name": "Doug Goldstein", 
+        "nick": "cardoe", 
+        "uid": [
+            "Doug Goldstein <cardoe@gentoo.org>"
+        ]
+    }, 
     "caster": {
         "fingerprint": [
             "8E9292ECF2A45D21DB7EFE41B5BAC08F4E61DE84"
@@ -569,6 +583,22 @@
         "nick": "cynede", 
         "uid": [
             "Heather Cynede <cynede@gentoo.org>"
+        ]
+    }, 
+    "d2_racing": {
+        "fingerprint": [
+            "7C412D552561EE865EDCABEE83EE454BCBF52D70", 
+            "2EC6A2FD2E83726EB2480D55D1AABA1DF35C79B9"
+        ], 
+        "keydir": "d2_racing", 
+        "keys": [
+            "7C412D552561EE865EDCABEE83EE454BCBF52D70", 
+            "2EC6A2FD2E83726EB2480D55D1AABA1DF35C79B9"
+        ], 
+        "name": "Sylvain Alain", 
+        "nick": "d2_racing", 
+        "uid": [
+            "Sylvain Alain <d2_racing@gentoo.org>"
         ]
     }, 
     "dabbott": {
@@ -1293,6 +1323,22 @@
             "Jonathan Callen <jcallen@gentoo.org>"
         ]
     }, 
+    "jdhore": {
+        "fingerprint": [
+            "83D6EEABFB7E7D05065ABB2DF51DECED23E9E900", 
+            "02328F2595777522FEDE16A3659CD6DE88788B93"
+        ], 
+        "keydir": "jdhore", 
+        "keys": [
+            "83D6EEABFB7E7D05065ABB2DF51DECED23E9E900", 
+            "02328F2595777522FEDE16A3659CD6DE88788B93"
+        ], 
+        "name": "Jeff Horelick", 
+        "nick": "jdhore", 
+        "uid": [
+            "Jeff Horelick <jdhore@gentoo.org>"
+        ]
+    }, 
     "je_fro": {
         "fingerprint": [
             "21CDA48346DC89B4959E40A3891D8AC44A5D8F23"
@@ -1757,6 +1803,20 @@
         "nick": "matsl", 
         "uid": [
             "Mats Lidell <matsl@gentoo.org>"
+        ]
+    }, 
+    "matsuu": {
+        "fingerprint": [
+            "71AED5714B3605D4C18CE5D22686C3E605280D69"
+        ], 
+        "keydir": "matsuu", 
+        "keys": [
+            "71AED5714B3605D4C18CE5D22686C3E605280D69"
+        ], 
+        "name": "Matsuu Takuto", 
+        "nick": "matsuu", 
+        "uid": [
+            "Matsuu Takuto <matsuu@gentoo.org>"
         ]
     }, 
     "mattm": {
@@ -2667,6 +2727,20 @@
             "Andrea Arteaga <spiros@gentoo.org>"
         ]
     }, 
+    "ssuominen": {
+        "fingerprint": [
+            "9C8F2E24E547DE5B8262CB294754877F4868F14D"
+        ], 
+        "keydir": "ssuominen", 
+        "keys": [
+            "9C8F2E24E547DE5B8262CB294754877F4868F14D"
+        ], 
+        "name": "Samuli Suominen", 
+        "nick": "ssuominen", 
+        "uid": [
+            "Samuli Suominen <ssuominen@gentoo.org>"
+        ]
+    }, 
     "steev": {
         "fingerprint": [
             "75CE6F930FD433DB1C64C0FE26B588EAF51374AF"
@@ -2763,6 +2837,20 @@
         "nick": "tetromino", 
         "uid": [
             "Alexandre Rostovtsev <tetromino@gentoo.org>"
+        ]
+    }, 
+    "tgall": {
+        "fingerprint": [
+            "BBF875AA6510DC6CA117AA293FC40D61EDA949AA"
+        ], 
+        "keydir": "tgall", 
+        "keys": [
+            "BBF875AA6510DC6CA117AA293FC40D61EDA949AA"
+        ], 
+        "name": "Tom Gall", 
+        "nick": "tgall", 
+        "uid": [
+            "Tom Gall <tgall@gentoo.org>"
         ]
     }, 
     "tgurr": {
@@ -2907,11 +2995,11 @@
     }, 
     "tristan": {
         "fingerprint": [
-            "69FD12F7052BA62099229DA0B3312CFDCF34A31F"
+            "CBD5F7FB84B4FB238DEA6F3DDDD8D989668310D9"
         ], 
         "keydir": "tristan", 
         "keys": [
-            "69FD12F7052BA62099229DA0B3312CFDCF34A31F"
+            "CBD5F7FB84B4FB238DEA6F3DDDD8D989668310D9"
         ], 
         "name": "Tristan Heaven", 
         "nick": "tristan", 

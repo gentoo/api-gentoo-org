@@ -2002,6 +2002,16 @@ FIN
     <feed>https://github.com/gentoo/grub2-themes-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>haarp</name>
+    <description lang="en"><![CDATA[misc ebuilds that aren't in the main tree]]></description>
+    <homepage>http://gitweb.gentoo.org/user/haarp.git/</homepage>
+    <owner type="person">
+      <email>main.haarp@gmail.com</email>
+      <name>haarp</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/user/haarp.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>hacking-gentoo</name>
     <description lang="en">Ebuilds of Hacking Network Solutions Ltd</description>
     <homepage>http://www.mad-hacking.net/software/linux/gentoo/gentoo-overlay/index.xml</homepage>

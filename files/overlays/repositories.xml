@@ -2734,6 +2734,16 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/lisp.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>lmiphay</name>
+    <description lang="en"><![CDATA[Personal overlay of Paul Healy]]></description>
+    <homepage>http://gitweb.gentoo.org/user/lmiphay.git/</homepage>
+    <owner type="person">
+      <email>lmiphay@gmail.com</email>
+      <name>Paul Healy</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/user/lmiphay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>logan</name>
     <description lang="en">Gentoo/Alt ebuilds for OSX</description>
     <homepage>http://git.overlays.gentoo.org/gitweb/?p=user/logan.git;a=summary</homepage>

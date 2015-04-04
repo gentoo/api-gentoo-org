@@ -876,13 +876,13 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>damex-overlay</name>
-    <description lang="en">Mostly fixes and new unstable packages</description>
+    <description lang="en">damex's personal overlay</description>
     <homepage>https://github.com/damex/damex-overlay</homepage>
     <owner type="person">
       <email>damex.pp@gmail.com</email>
-      <name>Kuzmitsky Roman</name>
+      <name>Roman Kuzmitsky</name>
     </owner>
-    <source type="git">git://github.com/damex/damex-overlay.git</source>
+    <source type="git">https://github.com/damex/damex-overlay.git</source>
     <feed>https://github.com/feeds/damex/commits/damex-overlay/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1651,16 +1651,36 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>funtoo-deadbeef</name>
-    <description lang="en">Deadbeef player overlay for funtoo linux</description>
+    <description lang="en">DeaDBeeF player overlay for Funtoo Linux</description>
     <homepage>https://github.com/damex/funtoo-deadbeef</homepage>
     <owner type="person">
       <email>damex.pp@gmail.com</email>
       <name>Roman Kuzmitsky</name>
     </owner>
     <source type="git">https://github.com/damex/funtoo-deadbeef.git</source>
-    <source type="git">git://github.com/damex/funtoo-deadbeef.git</source>
-    <source type="git">git@github.com:damex/funtoo-deadbeef.git</source>
     <feed>https://github.com/damex/funtoo-deadbeef/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>funtoo-gambas</name>
+    <description lang="en">Gambas IDE overlay for Funtoo Linux</description>
+    <homepage>https://github.com/damex/funtoo-gambas</homepage>
+    <owner type="person">
+      <email>damex.pp@gmail.com</email>
+      <name>Roman Kuzmitsky</name>
+    </owner>
+    <source type="git">https://github.com/damex/funtoo-gambas.git</source>
+    <feed>https://github.com/damex/funtoo-gambas/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>funtoo-tengine</name>
+    <description lang="en">Tengine overlay for Funtoo Linux</description>
+    <homepage>https://github.com/damex/funtoo-tengine</homepage>
+    <owner type="person">
+      <email>damex.pp@gmail.com</email>
+      <name>Roman Kuzmitsky</name>
+    </owner>
+    <source type="git">https://github.com/damex/funtoo-tengine.git</source>
+    <feed>https://github.com/damex/funtoo-tengine/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>funtoo-overlay</name>

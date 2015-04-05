@@ -4982,6 +4982,16 @@ FIN
     <feed>https://github.com/timboudreau/gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>timroes</name>
+    <description lang="en">timroes' personal overlay</description>
+    <homepage>https://www.timroes.de</homepage>
+    <owner type="person">
+      <email>mail@timroes.de</email>
+      <name>Tim Roes</name>
+    </owner>
+    <source type="git">https://github.com/timroes/timroes-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>tmacedo</name>
     <description>User Overlay</description>
     <homepage>http://github.com/tmacedo/portage</homepage>

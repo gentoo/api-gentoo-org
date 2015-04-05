@@ -4561,6 +4561,17 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=dev/sera.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>sft</name>
+    <description>SFT Technologies gentoo overlay</description>
+    <homepage>https://github.com/SFTtech/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>jj@sft.mx</email>
+      <name>Jonas Jelten</name>
+    </owner>
+    <source type="git">https://github.com/SFTtech/gentoo-overlay.git</source>
+    <feed>https://github.com/SFTtech/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sigrok</name>
     <description lang="en">Ebuilds for sigrok</description>
     <homepage>http://github.com/jmesmon/sigrok-overlay</homepage>

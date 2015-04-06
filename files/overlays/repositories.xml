@@ -1561,12 +1561,12 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>flow</name>
     <description lang="en">Ebuilds by Florian Schmaus</description>
-    <homepage>https://gitorious.org/flow-s-ebuilds</homepage>
+    <homepage>https://gitlab.com/Flow/flow-s-ebuilds</homepage>
     <owner type="person">
       <email>flo@geekplace.eu</email>
       <name>Florian Schmaus</name>
     </owner>
-    <source type="git">https://git.gitorious.org/flow-s-ebuilds/flow-s-ebuilds.git</source>
+    <source type="git">https://gitlab.com/Flow/flow-s-ebuilds.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>fm</name>

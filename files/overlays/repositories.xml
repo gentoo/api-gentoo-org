@@ -598,12 +598,12 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>bitcoin</name>
     <description>Bitcoin and CPU/GPU mining related ebuilds</description>
-    <homepage>http://gitorious.org/bitcoin/gentoo</homepage>
+    <homepage>https://gitlab.com/bitcoin/gentoo.git</homepage>
     <owner>
       <email>flo@geekplace.eu</email>
       <name>Florian Schmaus</name>
     </owner>
-    <source type="git">https://git.gitorious.org/bitcoin/gentoo.git</source>
+    <source type="git">https://gitlab.com/bitcoin/gentoo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bleeding-edge</name>

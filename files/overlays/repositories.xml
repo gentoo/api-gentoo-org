@@ -4958,6 +4958,16 @@ FIN
     <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/tegra.git;a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>tf201</name>
+    <description lang="en">TF201 (Asus Transformer Prime) overlay for Gentoo</description>
+    <homepage>https://github.com/Tux1c/tf201-overlay</homepage>
+    <owner type="person">
+      <email>tux1c@gmail.com</email>
+      <name>Yan A.</name>
+    </owner>
+    <source type="git">https://github.com/Tux1c/tf201-overlay</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>thousand-parsec</name>
     <description><![CDATA[Overlay for the Thousand Parsec framework for turn-based space
     empire building games.]]></description>

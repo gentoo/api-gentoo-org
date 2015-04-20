@@ -78,7 +78,7 @@ FIN
       <email>mva@mva.name</email>
       <name>Vadim A. Misbakh-Soloviov (mva)</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/activehome.git</source>
+    <source type="git">git://anongit.gentoo.org/user/activehome.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/activehome.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/activehome.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/activehome.git;a=atom</feed>
@@ -92,7 +92,7 @@ FIN
       <email>ago@gentoo.org</email>
       <name>Agostino Sarubbo</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/ago.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/ago.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/ago.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/ago.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/ago.git;a=atom</feed>
@@ -143,7 +143,7 @@ FIN
       <email>alex.cepoi@gmail.com</email>
       <name>Alexandru Cepoi</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/alexcepoi.git</source>
+    <source type="git">git://anongit.gentoo.org/user/alexcepoi.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/alexcepoi.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/alexcepoi.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/alexcepoi.git;a=atom</feed>
@@ -157,7 +157,7 @@ FIN
       <email>alexxy@gentoo.org</email>
       <name>Alexey Shvetsov</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/alexxy.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/alexxy.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/alexxy.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/alexxy.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/alexxy.git;a=atom</feed>
@@ -182,7 +182,7 @@ FIN
       <email>anthoine.bourgeois@gmail.com</email>
       <name>Anthoine Bourgeois</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/aluco.git</source>
+    <source type="git">git://anongit.gentoo.org/user/aluco.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/aluco.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/aluco.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/aluco.git;a=atom</feed>
@@ -220,7 +220,7 @@ FIN
       <email>anarchy@gentoo.org</email>
       <name>Jory Pratt</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/anarchy</source>
+    <source type="git">git://anongit.gentoo.org/dev/anarchy</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/anarchy.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/anarchy.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/anarchy.git;a=atom</feed>
@@ -234,7 +234,7 @@ FIN
       <email>dominik.kriegner@aol.at</email>
       <name>Dominik Kriegner</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/anaximander.git</source>
+    <source type="git">git://anongit.gentoo.org/user/anaximander.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/anaximander.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/anaximander.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/anaximander.git;a=atom</feed>
@@ -273,7 +273,7 @@ FIN
       <email>andy@mailbox.tu-berlin.de</email>
       <name>Andrew Karpow</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/andy.git</source>
+    <source type="git">git://anongit.gentoo.org/user/andy.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/andy.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/andy.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/andy.git;a=atom</feed>
@@ -287,7 +287,7 @@ FIN
       <email>angelos@gentoo.org</email>
       <name>Christoph Mende</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/angelos.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/angelos.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/angelos.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/angelos.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/angelos.git;a=atom</feed>
@@ -326,7 +326,7 @@ FIN
       <email>arcriley@gmail.com</email>
       <name>Arc Riley</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/arc.git</source>
+    <source type="git">git://anongit.gentoo.org/user/arc.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/arc.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/arc.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/arc.git;a=atom</feed>
@@ -360,7 +360,7 @@ FIN
       <email>ThyArmageddon+Gentoo@Gmail.com</email>
       <name>Elijah El Lazkani (Armageddon)</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/Armageddon.git</source>
+    <source type="git">git://anongit.gentoo.org/user/Armageddon.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/Armageddon.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/Armageddon.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/Armageddon.git;a=atom</feed>
@@ -394,7 +394,7 @@ FIN
       <email>AstroFloyd@gmail.com</email>
       <name>AstroFloyd</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/AstroFloyd.git</source>
+    <source type="git">git://anongit.gentoo.org/user/AstroFloyd.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/AstroFloyd.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/AstroFloyd.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/AstroFloyd.git;a=atom</feed>
@@ -429,7 +429,7 @@ FIN
       <email>axs@gentoo.org</email>
       <name>Ian Stakenvicius</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/axs.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/axs.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/axs.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/axs.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/axs.git;a=atom</feed>
@@ -443,7 +443,7 @@ FIN
       <email>peter.azp@gmail.com</email>
       <name>Peter Asplund</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/AzP.git</source>
+    <source type="git">git://anongit.gentoo.org/user/AzP.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/AzP.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/AzP.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/AzP.git;a=atom</feed>
@@ -519,7 +519,7 @@ FIN
       <email>benjaminfranzke@gmail.com</email>
       <name>Benjamin Franzke</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/benf.git</source>
+    <source type="git">git://anongit.gentoo.org/user/benf.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/benf.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/benf.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/benf.git;a=atom</feed>
@@ -533,7 +533,7 @@ FIN
       <email>betagarden@gentoo.org</email>
       <name>Team Betagarden</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/betagarden.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/betagarden.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/betagarden.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/betagarden.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/betagarden.git;a=atom</feed>
@@ -547,7 +547,7 @@ FIN
       <email>betelgeuse@gentoo.org</email>
       <name><![CDATA[Petteri Räty]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/betelgeuse.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/betelgeuse.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/betelgeuse.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/betelgeuse.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/betelgeuse.git;a=atom</feed>
@@ -561,7 +561,7 @@ FIN
       <email>ristioja@gmail.com</email>
       <name>Jaak Ristioja</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/bibletime.git</source>
+    <source type="git">git://anongit.gentoo.org/user/bibletime.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/bibletime.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/bibletime.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/bibletime.git;a=atom</feed>
@@ -575,7 +575,7 @@ FIN
       <email>bicatali@gentoo.org</email>
       <name>Sebastien Fabbro</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/bicatali</source>
+    <source type="git">git://anongit.gentoo.org/dev/bicatali</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/bicatali.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/bicatali.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/bicatali.git;a=atom</feed>
@@ -589,7 +589,7 @@ FIN
       <email>bircoph@gentoo.org</email>
       <name>Andrew Savchenko</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/bircoph.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/bircoph.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/bircoph.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/bircoph.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/bircoph.git;a=atom</feed>
@@ -648,7 +648,7 @@ FIN
       <email>nassim.kacha@blueicefield.com</email>
       <name>Nassim KACHA</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/blueicefield.git</source>
+    <source type="git">git://anongit.gentoo.org/user/blueicefield.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/blueicefield.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/blueicefield.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/blueicefield.git;a=atom</feed>
@@ -662,7 +662,7 @@ FIN
       <email>blueness@gentoo.org</email>
       <name>Anthony G. Basile</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/blueness</source>
+    <source type="git">git://anongit.gentoo.org/dev/blueness</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/blueness.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/blueness.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/blueness.git;a=atom</feed>
@@ -724,7 +724,7 @@ FIN
       <email>c1pher@gentoo.org</email>
       <name>Dane Smith</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/c1pher.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/c1pher.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/c1pher.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/c1pher.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/c1pher.git;a=atom</feed>
@@ -751,7 +751,7 @@ FIN
       <email>elcaio@gmail.com</email>
       <name>Claudio Furrer</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/caio.git</source>
+    <source type="git">git://anongit.gentoo.org/user/caio.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/caio.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/caio.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/caio.git;a=atom</feed>
@@ -810,7 +810,7 @@ FIN
       <email>chutzpah@gentoo.org</email>
       <name>Patrick McLean</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/chutzpah</source>
+    <source type="git">git://anongit.gentoo.org/dev/chutzpah</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/chutzpah.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/chutzpah.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/chutzpah.git;a=atom</feed>
@@ -846,7 +846,7 @@ FIN
       <email>shrinidhi@clickbeetle.in</email>
       <name>Shrinidh Rao</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/clickbeetle_tools.git</source>
+    <source type="git">git://anongit.gentoo.org/user/clickbeetle_tools.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/clickbeetle_tools.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/clickbeetle_tools.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/clickbeetle_tools.git;a=atom</feed>
@@ -918,7 +918,7 @@ FIN
       <email>dawan@melix.net</email>
       <name>Quentin Heath</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/dawan.git</source>
+    <source type="git">git://anongit.gentoo.org/user/dawan.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/dawan.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/dawan.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/dawan.git;a=atom</feed>
@@ -932,7 +932,7 @@ FIN
       <email>dberkholz@gentoo.org</email>
       <name>Donnie Berkholz</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/dberkholz</source>
+    <source type="git">git://anongit.gentoo.org/dev/dberkholz</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/dberkholz.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/dberkholz.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/dberkholz.git;a=atom</feed>
@@ -946,7 +946,7 @@ FIN
       <email>darkside@gentoo.org</email>
       <name>Jeremy Olexa</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/darkside.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/darkside.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/darkside.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/darkside.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/darkside.git;a=atom</feed>
@@ -960,7 +960,7 @@ FIN
     <owner>
       <email>deathwing00@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/deathwing00.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/deathwing00.git</source>
     <!-- <source type="git">https://git.gentoo.org/gitroot/dev/deathwing00.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/dev/deathwing00.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/deathwing00.git;a=rss</feed>
@@ -973,7 +973,7 @@ FIN
     <owner>
       <email>desktop-effects@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/desktop-effects.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/desktop-effects.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/desktop-effects.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -997,7 +997,7 @@ FIN
       <email>dev-zero@gentoo.org</email>
       <name>Tiziano Mueller</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/dev-zero</source>
+    <source type="git">git://anongit.gentoo.org/dev/dev-zero</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/dev-zero.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/dev-zero.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/dev-zero.git;a=atom</feed>
@@ -1011,7 +1011,7 @@ FIN
       <email>dennis.freise@final-frontier.org</email>
       <name>Dennis Freise</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/dfreise.git</source>
+    <source type="git">git://anongit.gentoo.org/user/dfreise.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/dfreise.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/dfreise.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/dfreise.git;a=atom</feed>
@@ -1025,7 +1025,7 @@ FIN
       <email>dilfridge@gentoo.org</email>
       <name>Andreas K. Huettel (dilfridge)</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/dilfridge.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/dilfridge.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/dilfridge.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/dilfridge.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/dilfridge.git;a=atom</feed>
@@ -1039,7 +1039,7 @@ FIN
       <email>disinbox@gmail.com</email>
       <name>Igor Ulyanov</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/displacer.git</source>
+    <source type="git">git://anongit.gentoo.org/user/displacer.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/displacer.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/displacer.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/displacer.git;a=atom</feed>
@@ -1086,7 +1086,7 @@ FIN
       <email>david.narvaez@computer.org</email>
       <name><![CDATA[David E. Narváez]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/dMaggot.git</source>
+    <source type="git">git://anongit.gentoo.org/user/dMaggot.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/dMaggot.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/dMaggot.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/dMaggot.git;a=atom</feed>
@@ -1100,7 +1100,7 @@ FIN
       <email>the.dmol@gmail.com</email>
       <name>Ivan Baidakou</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/dmol.git</source>
+    <source type="git">git://anongit.gentoo.org/user/dmol.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/dmol.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/dmol.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/dmol.git;a=atom</feed>
@@ -1140,7 +1140,7 @@ FIN
       <email>cynede@gentoo.org</email>
       <name>Heather</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/dotnet.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/dotnet.git</source>
     <!-- <source type="git">https://git.gentoo.org/gitroot/proj/dotnet.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/proj/dotnet.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/dotnet.git;a=atom</feed>
@@ -1166,7 +1166,7 @@ FIN
       <email>DanielNagy@gmx.de</email>
       <name>Daniel Nagy</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/drevilt.git</source>
+    <source type="git">git://anongit.gentoo.org/user/drevilt.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/drevilt.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/drevilt.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/drevilt.git;a=atom</feed>
@@ -1179,7 +1179,7 @@ FIN
     <owner>
       <email>drizzt@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/drizzt.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/drizzt.git</source>
     <!-- <source type="git">https://git.gentoo.org/gitroot/dev/drizzt.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/dev/drizzt.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/drizzt.git;a=rss</feed>
@@ -1193,7 +1193,7 @@ FIN
       <email>cosmonaut.ok@gmail.com</email>
       <name><![CDATA[Alexander aka 'CosmonauT' Vynnyk]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/dswm.git</source>
+    <source type="git">git://anongit.gentoo.org/user/dswm.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/dswm.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/dswm.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/dswm.git;a=atom</feed>
@@ -1207,7 +1207,7 @@ FIN
       <email>DuPol@gmx.de</email>
       <name>Dustin Polke</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/DuPol.git</source>
+    <source type="git">git://anongit.gentoo.org/user/DuPol.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/DuPol.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/DuPol.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/DuPol.git;a=atom</feed>
@@ -1245,7 +1245,7 @@ FIN
       <email>russ@eatnumber1.com</email>
       <name>Russell Harmon</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/eatnumber1.git</source>
+    <source type="git">git://anongit.gentoo.org/user/eatnumber1.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/eatnumber1.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/eatnumber1.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/eatnumber1.git;a=atom</feed>
@@ -1270,7 +1270,7 @@ FIN
       <email>wolf31o2@wolf31o2.org</email>
     </owner>
     <!-- <source type="git">https://git.gentoo.org/gitroot/proj/efika.git</source> -->
-    <source type="git">git://git.gentoo.org/proj/efika.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/efika.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/efika.git</source>
     <feed>https://git.gentoo.org/gitweb/?p=proj/efika.git;a=atom</feed>
     <feed>https://git.gentoo.org/gitweb/?p=proj/efika.git;a=rss</feed>
@@ -1318,7 +1318,7 @@ FIN
       <email>emacs@gentoo.org</email>
       <name>Gentoo Emacs team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/emacs.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/emacs.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/emacs.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/emacs.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/emacs.git;a=atom</feed>
@@ -1332,7 +1332,7 @@ FIN
       <email>armin76@gentoo.org</email>
       <name><![CDATA[Raúl Porcel]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/embedded-cross.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/embedded-cross.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/embedded-cross.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/embedded-cross.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/embedded-cross.git;a=atom</feed>
@@ -1358,7 +1358,7 @@ FIN
       <email>emery@vfemail.net</email>
       <name>Emery Hemingway</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/emery.git</source>
+    <source type="git">git://anongit.gentoo.org/user/emery.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/emery.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/emery.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/emery.git;a=atom</feed>
@@ -1372,7 +1372,7 @@ FIN
     <owner>
       <email>enlightenment@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/enlightenment.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/enlightenment.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/enlightenment.git;a=atom</feed>
     <feed>http://git.gentoo.org/gitweb/?p=proj/enlightenment.git;a=rss</feed>
   </repo>
@@ -1395,7 +1395,7 @@ FIN
       <email>overlay@eroen.eu</email>
       <name>Erik Moen</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/eroen.git</source>
+    <source type="git">git://anongit.gentoo.org/user/eroen.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/eroen.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/eroen.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/eroen.git;a=atom</feed>
@@ -1422,7 +1422,7 @@ FIN
       <email>eva@gentoo.org</email>
       <name>Gilles Dartiguelongue</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/eva.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/eva.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/eva.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/eva.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/eva.git;a=atom</feed>
@@ -1458,7 +1458,7 @@ FIN
       <email>mavrinac@gmail.com</email>
       <name>Aaron Mavrinac</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/ezod.git</source>
+    <source type="git">git://anongit.gentoo.org/user/ezod.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/ezod.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/ezod.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/ezod.git;a=atom</feed>
@@ -1529,7 +1529,7 @@ FIN
       <email>flameeyes@gmail.com</email>
       <name><![CDATA[Diego Pettenò]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/flameeyes.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/flameeyes.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/flameeyes.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/flameeyes.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/flameeyes.git;a=atom</feed>
@@ -1597,7 +1597,7 @@ FIN
       <email>fordfrog@gentoo.org</email>
       <name><![CDATA[Miroslav Šulc]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/fordfrog.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/fordfrog.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/fordfrog.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/fordfrog.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/fordfrog.git;a=atom</feed>
@@ -1728,7 +1728,7 @@ FIN
       <email>mva@mva.name</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/gamerlay.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/gamerlay.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/gamerlay.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gamerlay.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/gamerlay.git;a=atom</feed>
@@ -1785,7 +1785,7 @@ FIN
       <email>welp@gentoo.org</email>
       <name>Peter Weller</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/gentoo-bsd.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/gentoo-bsd.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/gentoo-bsd.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-bsd.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/gentoo-bsd.git;a=atom</feed>
@@ -1810,7 +1810,7 @@ FIN
       <email>gentoo-guis@gentoo.org</email>
       <name>Gentoo-guis team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/gentoo-guis.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/gentoo-guis.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/gentoo-guis.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-guis.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/gentoo-guis.git;a=atom</feed>
@@ -1824,7 +1824,7 @@ FIN
       <email>blueness@gentoo.org</email>
       <name>Anthony G. Basile</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/gentoo-openbsd.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/gentoo-openbsd.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/gentoo-openbsd.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-openbsd.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/gentoo-openbsd.git;a=atom</feed>
@@ -1899,7 +1899,7 @@ FIN
       <email>gmt@be-evil.net</email>
       <name>Greg Turner</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/gmt.git</source>
+    <source type="git">git://anongit.gentoo.org/user/gmt.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/gmt.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -1910,7 +1910,7 @@ FIN
       <email>gnome@gentoo.org</email>
       <name>GNOME team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/gnome.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/gnome.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/gnome.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gnome.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/gnome.git;a=atom</feed>
@@ -1924,7 +1924,7 @@ FIN
       <email>gnome@gentoo.org</email>
       <name>GNOME team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/gnome-live.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/gnome-live.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/gnome-live.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gnome-live.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/gnome-live.git;a=atom</feed>
@@ -1938,7 +1938,7 @@ FIN
       <email>gnustep@gentoo.org</email>
     </owner>
     <!-- <source type="git">https://git.gentoo.org/gitroot/proj/gnustep.git</source> -->
-    <source type="git">git://git.gentoo.org/proj/gnustep.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/gnustep.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gnustep.git</source>
     <feed>https://git.gentoo.org/gitweb/?p=proj/gnustep.git;a=atom</feed>
     <feed>https://git.gentoo.org/gitweb/?p=proj/gnustep.git;a=rss</feed>
@@ -1976,7 +1976,7 @@ FIN
       <email>gpe@gentoo.org</email>
       <name>Ned Ludd</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/gpe.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/gpe.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/gpe.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gpe.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/gpe.git;a=atom</feed>
@@ -1991,7 +1991,7 @@ FIN
       <email>graaff@gentoo.org</email>
       <name>Hans de Graaff</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/graaff.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/graaff.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/graaff.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/graaff.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/graaff.git;a=atom</feed>
@@ -2051,7 +2051,7 @@ FIN
       <email>halcy0n@gentoo.org</email>
       <name>Mark Loeser</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/halcy0n.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/halcy0n.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/halcy0n.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/halcy0n.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/halcy0n.git;a=atom</feed>
@@ -2085,7 +2085,7 @@ FIN
     <owner type="project">
       <email>hardened@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/hardened-dev.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/hardened-dev.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/hardened-dev.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -2133,7 +2133,7 @@ FIN
       <email>heroxbd@gentoo.org</email>
       <name>Benda Xu</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/heroxbd.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/heroxbd.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/heroxbd.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/heroxbd.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/heroxbd.git;a=atom</feed>
@@ -2159,7 +2159,7 @@ FIN
       <email>fabian.koester@posteo.de</email>
       <name>Fabian K&#246;ster</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/hibiscus.git</source>
+    <source type="git">git://anongit.gentoo.org/user/hibiscus.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/hibiscus.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/hibiscus.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/hibiscus.git;a=atom</feed>
@@ -2209,7 +2209,7 @@ FIN
       <email>domen@dev.si</email>
       <name><![CDATA[Domen Kožar]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/iElectric.git</source>
+    <source type="git">git://anongit.gentoo.org/user/iElectric.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/iElectric.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/iElectric.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/iElectric.git;a=atom</feed>
@@ -2224,7 +2224,7 @@ FIN
       <email>ikelos@gentoo.org</email>
       <name>Mike Auty</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/ikelos.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/ikelos.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/ikelos.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/ikelos.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/ikelos.git;a=atom</feed>
@@ -2238,7 +2238,7 @@ FIN
       <email>della5@iinet.com.au</email>
       <name>Ian Delaney</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/improvise.git</source>
+    <source type="git">git://anongit.gentoo.org/user/improvise.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/improvise.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/improvise.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/improvise.git;a=atom</feed>
@@ -2300,7 +2300,7 @@ FIN
       <email>jamesbroadhead@gmail.com</email>
       <name>James Broadhead</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/jamesbroadhead.git</source>
+    <source type="git">git://anongit.gentoo.org/user/jamesbroadhead.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/jamesbroadhead.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/jamesbroadhead.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/jamesbroadhead.git;a=atom</feed>
@@ -2339,7 +2339,7 @@ FIN
       <email>java@gentoo.org</email>
       <name>Gentoo Java team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/java.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/java.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/java.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/java.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/java.git;a=atom</feed>
@@ -2365,7 +2365,7 @@ FIN
     <owner>
       <email>je_fro@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/je_fro.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/je_fro.git</source>
     <!-- <source type="git">https://git.gentoo.org/gitroot/dev/je_fro.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/dev/je_fro.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/je_fro.git;a=rss</feed>
@@ -2379,7 +2379,7 @@ FIN
       <email>jens@chaox.net</email>
       <name>Jens Pranaitis</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/jensp.git</source>
+    <source type="git">git://anongit.gentoo.org/user/jensp.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/jensp.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/jensp.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/jensp.git;a=atom</feed>
@@ -2403,7 +2403,7 @@ FIN
       <email>jmbsvicetto@gentoo.org</email>
       <name>Jorge Manuel B. S. Vicetto</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/jmbsvicetto.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/jmbsvicetto.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/jmbsvicetto.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/jmbsvicetto.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/jmbsvicetto.git;a=atom</feed>
@@ -2427,7 +2427,7 @@ FIN
       <email>johu@gentoo.org</email>
       <name>Johannes Huber</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/johu.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/johu.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/johu.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/johu.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/johu.git;a=atom</feed>
@@ -2441,7 +2441,7 @@ FIN
       <email>joinge.dev@gmail.com</email>
       <name>Jo Inge Buskenes</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/joinge.git</source>
+    <source type="git">git://anongit.gentoo.org/user/joinge.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/joinge.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/joinge.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/joinge.git;a=atom</feed>
@@ -2468,7 +2468,7 @@ FIN
       <email>justusranvier@tormail.org</email>
       <name>Justus Ranvier</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/jranvier.git</source>
+    <source type="git">git://anongit.gentoo.org/user/jranvier.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/jranvier.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/jranvier.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/jranvier.git;a=atom</feed>
@@ -2482,7 +2482,7 @@ FIN
       <email>jtriley@MIT.EDU</email>
       <name>Justin Riley</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/jtriley.git</source>
+    <source type="git">git://anongit.gentoo.org/user/jtriley.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/jtriley.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/jtriley.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/jtriley.git;a=atom</feed>
@@ -2496,7 +2496,7 @@ FIN
       <email>jaroslav.hron@gmail.com</email>
       <name>Jaroslav Hron</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/jxh.git</source>
+    <source type="git">git://anongit.gentoo.org/user/jxh.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/jxh.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/jxh.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/jxh.git;a=atom</feed>
@@ -2532,7 +2532,7 @@ FIN
       <email>kde@gentoo.org</email>
       <name>KDE Team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/kde.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/kde.git</source>
     <source type="git">https://github.com/gentoo/kde.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/kde.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/kde.git</source>
@@ -2548,7 +2548,7 @@ FIN
       <email>gentoo-desktop+subscribe@lists.gentoo.org</email>
       <name>gentoo-desktop mailing list</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/kde-sunset.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/kde-sunset.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/kde-sunset.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/kde-sunset.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/kde-sunset.git;a=atom</feed>
@@ -2562,7 +2562,7 @@ FIN
       <email>Marc-Antoine@Perennou.com</email>
       <name>Marc-Antoine Perennou</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/keruspe.git</source>
+    <source type="git">git://anongit.gentoo.org/user/keruspe.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/keruspe.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/keruspe.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/keruspe.git;a=atom</feed>
@@ -2576,7 +2576,7 @@ FIN
       <email>klondike@xiscosoft.es</email>
       <name>Francisco Blas Izquierdo Riera</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/klondike.git</source>
+    <source type="git">git://anongit.gentoo.org/user/klondike.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/klondike.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/klondike.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/klondike.git;a=atom</feed>
@@ -2600,7 +2600,7 @@ FIN
       <email>hsggebhardt@googlemail.com</email>
       <name>Henry Gebhardt</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/kork.git</source>
+    <source type="git">git://anongit.gentoo.org/user/kork.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/kork.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/kork.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/kork.git;a=atom</feed>
@@ -2684,7 +2684,7 @@ FIN
       <email>leio@gentoo.org</email>
       <name>Mart Raudsepp</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/leio.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/leio.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/leio.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/leio.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/leio.git;a=atom</feed>
@@ -2698,7 +2698,7 @@ FIN
       <email>artem@levenkov.org</email>
       <name>Artem Levenkov</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/levenkov.git</source>
+    <source type="git">git://anongit.gentoo.org/user/levenkov.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/levenkov.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/levenkov.git</source>
   </repo>
@@ -2747,7 +2747,7 @@ FIN
     <owner>
       <email>lisp@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/lisp.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/lisp.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/lisp.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/lisp.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/lisp.git;a=atom</feed>
@@ -2771,7 +2771,7 @@ FIN
       <email>gentoo@lakedaemon.net</email>
       <name>Jason Cooper</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/logan.git</source>
+    <source type="git">git://anongit.gentoo.org/user/logan.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/logan.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/logan.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/logan.git;a=atom</feed>
@@ -2785,7 +2785,7 @@ FIN
       <email>mattst88@gentoo.org</email>
       <name>Matt Turner</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/loongson.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/loongson.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/loongson.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/loongson.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/loongson.git;a=atom</feed>
@@ -2799,7 +2799,7 @@ FIN
       <email>alex@freesenses.net</email>
       <name><![CDATA[Alexandre PIGNÉ]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/lootr.git</source>
+    <source type="git">git://anongit.gentoo.org/user/lootr.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/lootr.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/lootr.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/lootr.git;a=atom</feed>
@@ -2813,7 +2813,7 @@ FIN
       <email>lordvan@gentoo.org</email>
       <name>Thomas Raschbacher</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/lordvan.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/lordvan.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/lordvan.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/lordvan.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/lordvan.git;a=atom</feed>
@@ -2839,7 +2839,7 @@ FIN
       <email>dberkholz@gentoo.org</email>
       <name>Donnie Berkholz</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/ltsp.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/ltsp.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/ltsp.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/ltsp.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/ltsp.git;a=atom</feed>
@@ -2853,7 +2853,7 @@ FIN
       <email>rafaelmartins@gentoo.org</email>
       <name>Rafael G. Martins</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/lua.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/lua.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/lua.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/lua.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/lua.git;a=atom</feed>
@@ -2867,7 +2867,7 @@ FIN
       <email>gentoobugzilla@ccube.de</email>
       <name>Lukas Elsner</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/luman.git</source>
+    <source type="git">git://anongit.gentoo.org/user/luman.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/luman.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/luman.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/luman.git;a=atom</feed>
@@ -2889,7 +2889,7 @@ FIN
     <owner>
       <email>m68k@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/m68k.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/m68k.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/m68k.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -2900,7 +2900,7 @@ FIN
       <email>maekke@gentoo.org</email>
       <name>Markus Meier</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/maekke.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/maekke.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/maekke.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/maekke.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/maekke.git;a=atom</feed>
@@ -2914,7 +2914,7 @@ FIN
       <email>maksbotan@gentoo.org</email>
       <name>Maxim Koltsov</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/maksbotan.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/maksbotan.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/maksbotan.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/maksbotan.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/maksbotan.git;a=atom</feed>
@@ -2953,7 +2953,7 @@ FIN
       <email>matsuu@gentoo.org</email>
       <name>MATSUU Takuto</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/matsuu.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/matsuu.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/matsuu.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/matsuu.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/matsuu.git;a=atom</feed>
@@ -2980,7 +2980,7 @@ FIN
       <email>menelkir@itroll.org</email>
       <name>Daniel de Oliveira</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/menelkir.git</source>
+    <source type="git">git://anongit.gentoo.org/user/menelkir.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/menelkir.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/menelkir.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/menelkir.git;a=atom</feed>
@@ -2994,7 +2994,7 @@ FIN
       <email>mgorny@gentoo.org</email>
       <name><![CDATA[Michał Górny]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/mgorny.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/mgorny.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/mgorny.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/mgorny.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/mgorny.git;a=atom</feed>
@@ -3008,7 +3008,7 @@ FIN
       <email>michael@hammill.name</email>
       <name>Mike Hammill</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/mhammill.git</source>
+    <source type="git">git://anongit.gentoo.org/user/mhammill.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/mhammill.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/mhammill.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/mhammill.git;a=atom</feed>
@@ -3032,7 +3032,7 @@ FIN
       <email>simon.haegler@mistafunk.ch</email>
       <name>Simon Haegler</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/mistafunk.git</source>
+    <source type="git">git://anongit.gentoo.org/user/mistafunk.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/mistafunk.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/mistafunk.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/mistafunk.git;a=atom</feed>
@@ -3089,7 +3089,7 @@ FIN
       <email>moult@gentoo.org</email>
       <name>Dion Moult</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/moult.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/moult.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/moult.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/moult.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/moult.git;a=atom</feed>
@@ -3102,7 +3102,7 @@ FIN
     <owner type="project">
       <email>mozilla@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/mozilla.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/mozilla.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/mozilla.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3128,7 +3128,7 @@ FIN
       <email>mrueg@gentoo.org</email>
       <name><![CDATA[Manuel RÃ¼ger (mrueg)]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/mrueg.git</source>
+    <source type="git">git://anongit.gentoo.org/user/mrueg.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/mrueg.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/mrueg.git</source>
     <source type="git">https://github.com/mrueg/mrueg-overlay.git</source>
@@ -3143,7 +3143,7 @@ FIN
       <email>mschiff@gentoo.org</email>
       <name>Marc Schiffbauer</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/mschiff.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/mschiff.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/mschiff.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/mschiff.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/mschiff.git;a=atom</feed>
@@ -3157,7 +3157,7 @@ FIN
       <email>tommy@gentoo.org</email>
       <name>Thomas Sachau</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/multilib-portage.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/multilib-portage.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>multimedia</name>
@@ -3183,7 +3183,7 @@ FIN
       <email>vaeth@mathematik.uni-wuerzburg.de</email>
       <name><![CDATA[Martin Väth]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/mv.git</source>
+    <source type="git">git://anongit.gentoo.org/user/mv.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/mv.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/mv.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/mv.git;a=atom</feed>
@@ -3208,7 +3208,7 @@ FIN
       <email>mysql-bugs@gentoo.org</email>
       <name>MySQL Team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/mysql.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/mysql.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/mysql.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/mysql.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/mysql.git;a=atom</feed>
@@ -3311,7 +3311,7 @@ FIN
       <email>neurogeek@gentoo.org</email>
       <name>Jesus Rivero</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/neurogeek.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/neurogeek.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/neurogeek.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/neurogeek.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/neurogeek.git;a=atom</feed>
@@ -3351,7 +3351,7 @@ FIN
       <email>nico@overninethousand.de</email>
       <name>Nico Suhl</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/nico.git</source>
+    <source type="git">git://anongit.gentoo.org/user/nico.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/nico.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/nico.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/nico.git;a=atom</feed>
@@ -3374,7 +3374,7 @@ FIN
       <email>nikai@nikai.net</email>
       <name>Nicolas Kaiser</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/nikai.git</source>
+    <source type="git">git://anongit.gentoo.org/user/nikai.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/nikai.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/nikai.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/nikai.git;a=atom</feed>
@@ -3401,7 +3401,7 @@ FIN
       <email>nixphoeni@gentoo.org</email>
       <name>Joe Sapp</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/nixphoeni.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/nixphoeni.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/nixphoeni.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/nixphoeni.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/nixphoeni.git;a=atom</feed>
@@ -3435,7 +3435,7 @@ FIN
       <email>nx@gentoo.org</email>
     </owner>
     <!-- <source type="git">https://git.gentoo.org/gitroot/proj/nx.git</source> -->
-    <source type="git">git://git.gentoo.org/proj/nx.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/nx.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/nx.git</source>
     <feed>https://git.gentoo.org/gitweb/?p=proj/nx.git;a=atom</feed>
     <feed>https://git.gentoo.org/gitweb/?p=proj/nx.git;a=rss</feed>
@@ -3568,7 +3568,7 @@ FIN
       <email>palmem@comcast.net</email>
       <name>Palmer Dabbelt</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/palmer.git</source>
+    <source type="git">git://anongit.gentoo.org/user/palmer.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/palmer.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/palmer.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/palmer.git;a=atom</feed>
@@ -3581,7 +3581,7 @@ FIN
     <owner>
       <email>armin76@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/pandaboard.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/pandaboard.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/pandaboard.git;a=atom</feed>
     <feed>http://git.gentoo.org/gitweb/?p=proj/pandaboard.git;a=rss</feed>
   </repo>
@@ -3593,7 +3593,7 @@ FIN
       <email>octavsly@gmail.com</email>
       <name>Octavian Petre</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/paragon.git</source>
+    <source type="git">git://anongit.gentoo.org/user/paragon.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/paragon.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/paragon.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/paragon.git;a=atom</feed>
@@ -3607,7 +3607,7 @@ FIN
       <email>pchrist@gentoo.org</email>
       <name>Panagiotis Christopoulos</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/pchrist.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/pchrist.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/pchrist.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/pchrist.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/pchrist.git;a=atom</feed>
@@ -3665,7 +3665,7 @@ FIN
       <email>perl@gentoo.org</email>
       <name>Perl Team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/perl-overlay.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/perl-overlay.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/perl-overlay.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/perl-overlay.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/perl-overlay.git;a=atom</feed>
@@ -3727,7 +3727,7 @@ FIN
       <email>maciag.artur@gmail.com</email>
       <name>Artur Maciag</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/piczu.git</source>
+    <source type="git">git://anongit.gentoo.org/user/piczu.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/piczu.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/piczu.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/piczu.git;a=atom</feed>
@@ -3741,7 +3741,7 @@ FIN
       <email>pigfoot@gmail.com</email>
       <name>pigfoot</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/pigfoot.git</source>
+    <source type="git">git://anongit.gentoo.org/user/pigfoot.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/pigfoot.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/pigfoot.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/pigfoot.git;a=atom</feed>
@@ -3767,7 +3767,7 @@ FIN
       <email>plabedan@gmail.com</email>
       <name>Paul Labedan</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/plab.git</source>
+    <source type="git">git://anongit.gentoo.org/user/plab.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/plab.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/plab.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/plab.git;a=atom</feed>
@@ -3815,7 +3815,7 @@ FIN
       <email>pgsql-bugs@gentoo.org</email>
     </owner>
     <!-- <source type="git">https://git.gentoo.org/gitroot/proj/postgresql/experimental.git</source> -->
-    <source type="git">git://git.gentoo.org/proj/postgresql/experimental.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/postgresql/experimental.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/postgresql/experimental.git</source>
     <feed>https://git.gentoo.org/gitweb/?p=proj/postgresql/experimental.git;a=atom</feed>
     <feed>https://git.gentoo.org/gitweb/?p=proj/postgresql/experimental.git;a=rss</feed>
@@ -3828,7 +3828,7 @@ FIN
       <email>pgsql-bugs@gentoo.org</email>
     </owner>
     <!-- <source type="git">https://git.gentoo.org/gitroot/proj/postgresql/testing.git</source> -->
-    <source type="git">git://git.gentoo.org/proj/postgresql/testing.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/postgresql/testing.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/postgresql/testing.git</source>
     <feed>https://git.gentoo.org/gitweb/?p=proj/postgresql/testing.git;a=atom</feed>
     <feed>https://git.gentoo.org/gitweb/?p=proj/postgresql/testing.git;a=rss</feed>
@@ -3841,7 +3841,7 @@ FIN
       <email>ranger@gentoo.org</email>
     </owner>
     <!-- <source type="git">https://git.gentoo.org/gitroot/proj/powerpc.git</source> -->
-    <source type="git">git://git.gentoo.org/proj/powerpc.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/powerpc.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/powerpc.git</source>
     <feed>https://git.gentoo.org/gitweb/?p=proj/powerpc.git;a=atom</feed>
     <feed>https://git.gentoo.org/gitweb/?p=proj/powerpc.git;a=rss</feed>
@@ -3864,7 +3864,7 @@ FIN
       <email>printing@gentoo.org</email>
       <name>Gentoo printing team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/printer-drivers.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/printer-drivers.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/printer-drivers.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/printer-drivers.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/printer-drivers.git;a=atom</feed>
@@ -3889,7 +3889,7 @@ FIN
       <email>prometheanfire@gentoo.org</email>
       <name>Matthew Thode</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/prometheanfire.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/prometheanfire.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/prometheanfire.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/prometheanfire.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/prometheanfire.git;a=atom</feed>
@@ -3923,7 +3923,7 @@ FIN
       <email>pross@pross.org.uk</email>
       <name>Simon Prosser</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/pross.git</source>
+    <source type="git">git://anongit.gentoo.org/user/pross.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/pross.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/pross.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/pross.git;a=atom</feed>
@@ -3949,7 +3949,7 @@ FIN
       <email>bburaksezer@gmail.com</email>
       <name>Burak Sezer</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/purak.git</source>
+    <source type="git">git://anongit.gentoo.org/user/purak.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/purak.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/purak.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/purak.git;a=atom</feed>
@@ -3976,7 +3976,7 @@ FIN
       <email>dolsen@gentoo.org</email>
       <name>Brian Dolbec</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/kvm-tools.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/kvm-tools.git</source>
     <!-- <source type="git">https://git.gentoo.org/gitroot/proj/kvm-tools.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/proj/kvm-tools.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/kvm-tools.git;a=atom</feed>
@@ -4001,7 +4001,7 @@ FIN
       <email>qt@gentoo.org</email>
       <name>Qt Team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/qt.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/qt.git</source>
     <!-- <source type="git">https://git.gentoo.org/gitroot/proj/qt.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/proj/qt.git</source>
     <feed>https://git.gentoo.org/gitweb/?p=proj/qt.git;a=atom</feed>
@@ -4015,7 +4015,7 @@ FIN
       <email>quantumsummers@gentoo.org</email>
       <name>Matthew Summers</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/quantumsummers.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/quantumsummers.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/quantumsummers.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/quantumsummers.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/quantumsummers.git;a=atom</feed>
@@ -4131,7 +4131,7 @@ FIN
       <email>ps@twin.jikos.cz</email>
       <name>Pavel Sanda</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/rebutia.git</source>
+    <source type="git">git://anongit.gentoo.org/user/rebutia.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/rebutia.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/rebutia.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/rebutia.git;a=atom</feed>
@@ -4145,7 +4145,7 @@ FIN
       <email>remi@gentoo.org</email>
       <name><![CDATA[Rèmi Cardona]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/remi.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/remi.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/remi.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/remi.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/remi.git;a=atom</feed>
@@ -4203,7 +4203,7 @@ FIN
       <email>robbat2@gentoo.org</email>
       <name>Robin H. Johnson</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/robbat2.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/robbat2.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/robbat2.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/robbat2.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/robbat2.git;a=atom</feed>
@@ -4260,7 +4260,7 @@ FIN
       <email>ruben.bressler@cerpamid.co.cu</email>
       <name><![CDATA[Rubén Bressler Camps]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/rubenqba.git</source>
+    <source type="git">git://anongit.gentoo.org/user/rubenqba.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/rubenqba.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/rubenqba.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/rubenqba.git;a=atom</feed>
@@ -4274,7 +4274,7 @@ FIN
       <email>ruby@gentoo.org</email>
       <name>Ruby Team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/ruby-overlay.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/ruby-overlay.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/ruby-overlay.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/ruby-overlay.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/ruby-overlay.git;a=atom</feed>
@@ -4301,7 +4301,7 @@ FIN
       <email>rdwald@gmail.com</email>
       <name>Randall Wald</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/rwald.git</source>
+    <source type="git">git://anongit.gentoo.org/user/rwald.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/rwald.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/rwald.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/rwald.git;a=atom</feed>
@@ -4341,7 +4341,7 @@ FIN
       <email>sabotageandi@gmail.com</email>
       <name>Andreas Willich</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/sabotageandi.git</source>
+    <source type="git">git://anongit.gentoo.org/user/sabotageandi.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/sabotageandi.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/sabotageandi.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/sabotageandi.git;a=atom</feed>
@@ -4388,7 +4388,7 @@ FIN
       <email>sardemff7+gentoo@sardemff7.net</email>
       <name>Sardem FF7</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/sardemff7.git</source>
+    <source type="git">git://anongit.gentoo.org/user/sardemff7.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/sardemff7.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/sardemff7.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/sardemff7.git;a=atom</feed>
@@ -4402,7 +4402,7 @@ FIN
       <email>gentoo@sattvik.com</email>
       <name>Daniel Solano Gomez</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/sattvik.git</source>
+    <source type="git">git://anongit.gentoo.org/user/sattvik.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/sattvik.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/sattvik.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/sattvik.git;a=atom</feed>
@@ -4422,7 +4422,7 @@ FIN
       <email>sci@gentoo.org</email>
       <name>sci</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/sci.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/sci.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/sci.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/sci.git</source>
     <source type="git">https://github.com/gentoo-science/sci.git</source>
@@ -4476,7 +4476,7 @@ FIN
       <email>matsuu@gentoo.org</email>
     </owner>
     <!-- <source type="git">https://git.gentoo.org/gitroot/dev/matsuu/secondlife.git</source> -->
-    <source type="git">git://git.gentoo.org/dev/matsuu/secondlife.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/matsuu/secondlife.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/matsuu/secondlife.git</source>
     <feed>https://git.gentoo.org/gitweb/?p=dev/matsuu/secondlife.git;a=atom</feed>
     <feed>https://git.gentoo.org/gitweb/?p=dev/matsuu/secondlife.git;a=rss</feed>
@@ -4489,7 +4489,7 @@ FIN
       <email>yamakuzure@gmx.net</email>
       <name>Sven Eden</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/seden.git</source>
+    <source type="git">git://anongit.gentoo.org/user/seden.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/seden.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/seden.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/seden.git;a=atom</feed>
@@ -4514,7 +4514,7 @@ FIN
     <owner>
       <email>seemant@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/seemant.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/seemant.git</source>
     <!-- <source type="git">https://git.gentoo.org/gitroot/dev/seemant.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/dev/seemant.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/seemant.git;a=atom</feed>
@@ -4528,7 +4528,7 @@ FIN
       <email>wlallemand@gmail.com</email>
       <name>William Lallemand</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/sekh.git</source>
+    <source type="git">git://anongit.gentoo.org/user/sekh.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/sekh.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/sekh.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/sekh.git;a=atom</feed>
@@ -4554,7 +4554,7 @@ FIN
       <email>sera@gentoo.org</email>
       <name>Ralph Sennhauser</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/sera.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/sera.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/sera.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/sera.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/sera.git;a=atom</feed>
@@ -4589,7 +4589,7 @@ FIN
       <email>silmano@gmail.com</email>
       <name>Pedro Arizmendi</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/silmano.git</source>
+    <source type="git">git://anongit.gentoo.org/user/silmano.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/silmano.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/silmano.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/silmano.git;a=atom</feed>
@@ -4627,7 +4627,7 @@ FIN
       <email>sochotnicky@gentoo.org</email>
       <name>Stanislav Ochotnicky</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/sochotnicky.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/sochotnicky.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/sochotnicky.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/sochotnicky.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/sochotnicky.git;a=atom</feed>
@@ -4736,7 +4736,7 @@ FIN
       <email>stuart@hickinbottom.com</email>
       <name>Stuart Hickinbottom</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/squeezebox.git</source>
+    <source type="git">git://anongit.gentoo.org/user/squeezebox.git</source>
     <!-- <source type="git">https://git.gentoo.org/gitroot/user/squeezebox.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/user/squeezebox.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/squeezebox.git;a=atom</feed>
@@ -4750,7 +4750,7 @@ FIN
       <email>srcshelton@gmail.com</email>
       <name>Stuart Shelton</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/srcshelton.git</source>
+    <source type="git">git://anongit.gentoo.org/user/srcshelton.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/srcshelton.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/srcshelton.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/srcshelton.git;a=atom</feed>
@@ -4777,7 +4777,7 @@ FIN
       <email>steev@gentoo.org</email>
       <name>Stephen Klimaszewski</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/steev.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/steev.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/steev.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/steev.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/steev.git;a=atom</feed>
@@ -4861,7 +4861,7 @@ FIN
       <email>hsggebhardt@googlemail.com</email>
       <name>Henry Gebhardt</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/systemd.git</source>
+    <source type="git">git://anongit.gentoo.org/user/systemd.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/systemd.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/systemd.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/systemd.git;a=atom</feed>
@@ -4898,7 +4898,7 @@ FIN
     <owner type="project">
       <email>sunrise@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/sunrise-reviewed.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/sunrise-reviewed.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/sunrise-reviewed.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/sunrise-reviewed.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/sunrise-reviewed.git;a=atom</feed>
@@ -4953,7 +4953,7 @@ FIN
     <owner>
       <email>armin76@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/tegra.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/tegra.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/tegra.git;a=atom</feed>
     <feed>http://git.gentoo.org/gitweb/?p=proj/tegra.git;a=rss</feed>
   </repo>
@@ -5020,7 +5020,7 @@ FIN
       <email>tocaro@thocar.org</email>
       <name><![CDATA[Thomas Carrié]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/tocaro.git</source>
+    <source type="git">git://anongit.gentoo.org/user/tocaro.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/tocaro.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/tocaro.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/tocaro.git;a=atom</feed>
@@ -5034,7 +5034,7 @@ FIN
     <owner type="project">
       <email>toolchain@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/toolchain.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/toolchain.git</source>
     <!-- <source type="git">https://git.gentoo.org/gitroot/proj/toolchain.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/proj/toolchain.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/toolchain.git;a=atom</feed>
@@ -5048,7 +5048,7 @@ FIN
       <email>david@triquetradevelopment.com</email>
       <name>David Crandall</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/triquetra.git</source>
+    <source type="git">git://anongit.gentoo.org/user/triquetra.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/triquetra.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/triquetra.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/triquetra.git;a=atom</feed>
@@ -5072,7 +5072,7 @@ FIN
       <email>sping@gentoo.org</email>
       <name>Sebastian Pipping</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/turbogears2.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/turbogears2.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/turbogears2.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/turbogears2.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/turbogears2.git;a=atom</feed>
@@ -5086,7 +5086,7 @@ FIN
       <email>tjy1965@gmail.com</email>
       <name>Yamashita TAKAO</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/tjy1965.git</source>
+    <source type="git">git://anongit.gentoo.org/user/tjy1965.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/tjy1965.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/tjy1965.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/tjy1965.git;a=atom</feed>
@@ -5100,7 +5100,7 @@ FIN
       <email>tomwij@gentoo.org</email>
       <name>Tom Wijsman</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/TomWij.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/TomWij.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/TomWij.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/TomWij.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/TomWij.git;a=atom</feed>
@@ -5202,7 +5202,7 @@ FIN
       <email>ulm@gentoo.org</email>
       <name><![CDATA[Ulrich Müller]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/ulm.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/ulm.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/ulm.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/ulm.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/ulm.git;a=atom</feed>
@@ -5216,7 +5216,7 @@ FIN
       <email>ultrabug@gentoo.org</email>
       <name>Alexys Jacob</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/ultrabug.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/ultrabug.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/ultrabug.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/ultrabug.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/ultrabug.git;a=atom</feed>
@@ -5230,7 +5230,7 @@ FIN
       <email>mail@mcgruff.plus.com</email>
       <name>Noel Darlow</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/underlay.git</source>
+    <source type="git">git://anongit.gentoo.org/user/underlay.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/underlay.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/underlay.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/underlay.git;a=atom</feed>
@@ -5322,7 +5322,7 @@ FIN
     <owner type="project">
       <email>vdr@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/vdr/devel.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/vdr/devel.git</source>
     <!-- <source type="git">https://git.gentoo.org/gitroot/proj/vdr/devel.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/proj/vdr/devel.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/vdr/devel.git;a=atom</feed>
@@ -5334,7 +5334,7 @@ FIN
     <owner type="project">
       <email>vdr@gentoo.org</email>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/vdr/testing.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/vdr/testing.git</source>
     <!-- <source type="git">https://git.gentoo.org/gitroot/proj/vdr/testing.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/proj/vdr/testing.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/vdr/testing.git;a=atom</feed>
@@ -5347,7 +5347,7 @@ FIN
       <email>leonardo@venidera.com</email>
       <name>Leonardo Martins</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/venidera.git</source>
+    <source type="git">git://anongit.gentoo.org/user/venidera.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/venidera.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/venidera.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/venidera.git;a=atom</feed>
@@ -5385,7 +5385,7 @@ FIN
       <email>vincent@gentoo.org</email>
       <name>Vicente Olivert Riera</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/vincent.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/vincent.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/vincent.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/vincent.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/vincent.git;a=atom</feed>
@@ -5399,7 +5399,7 @@ FIN
       <email>virtualization@gentoo.org</email>
       <name>Gentoo virtualization team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/virtualization.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/virtualization.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/virtualization.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/virtualization.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/virtualization.git;a=atom</feed>
@@ -5425,7 +5425,7 @@ FIN
       <email>vance.m.allen@gmail.com</email>
       <name>Vance M. Allen</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/vmacs.git</source>
+    <source type="git">git://anongit.gentoo.org/user/vmacs.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/vmacs.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/vmacs.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/vmacs.git;a=atom</feed>
@@ -5439,7 +5439,7 @@ FIN
       <email>malvikus@gmail.com</email>
       <name>Victor Malov</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/vmalov.git</source>
+    <source type="git">git://anongit.gentoo.org/user/vmalov.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/vmalov.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/vmalov.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/vmalov.git;a=atom</feed>
@@ -5453,7 +5453,7 @@ FIN
       <email>vmware@gentoo.org</email>
       <name>Gentoo VMware team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/vmware.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/vmware.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/vmware.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/vmware.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/vmware.git;a=atom</feed>
@@ -5467,7 +5467,7 @@ FIN
       <email>voip@gentoo.org</email>
       <name>Gentoo VoIP team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/voip.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/voip.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/voip.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/voip.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/voip.git;a=atom</feed>
@@ -5525,7 +5525,7 @@ FIN
       <email>wbrana@gmail.com</email>
       <name>William Brana</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/wbrana.git</source>
+    <source type="git">git://anongit.gentoo.org/user/wbrana.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/wbrana.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/wbrana.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/wbrana.git;a=atom</feed>
@@ -5539,7 +5539,7 @@ FIN
       <email>wojciech.dzierzanowski@gmail.com</email>
       <name><![CDATA[Wojciech Dzierżanowski]]></name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/wdzierzan.git</source>
+    <source type="git">git://anongit.gentoo.org/user/wdzierzan.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/wdzierzan.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/wdzierzan.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/wdzierzan.git;a=atom</feed>
@@ -5553,7 +5553,7 @@ FIN
       <email>web-apps@gentoo.org</email>
     </owner>
     <!-- <source type="git">https://git.gentoo.org/gitroot/proj/webapps-experimental.git</source> -->
-    <source type="git">git://git.gentoo.org/proj/webapps-experimental.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/webapps-experimental.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/webapps-experimental.git</source>
     <feed>https://git.gentoo.org/gitweb/?p=proj/webapps-experimental.git;a=atom</feed>
     <feed>https://git.gentoo.org/gitweb/?p=proj/webapps-experimental.git;a=rss</feed>
@@ -5664,7 +5664,7 @@ FIN
       <email>iskren.s@gmail.com</email>
       <name>Iskren Slavov</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/wish.git</source>
+    <source type="git">git://anongit.gentoo.org/user/wish.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/wish.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/wish.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/wish.git;a=atom</feed>
@@ -5687,7 +5687,7 @@ FIN
       <email>write2david@gmail.com</email>
       <name>David Phillips</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/write2David.git</source>
+    <source type="git">git://anongit.gentoo.org/user/write2David.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/write2David.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/write2David.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/write2David.git;a=atom</feed>
@@ -5701,7 +5701,7 @@ FIN
       <email>wschlich@gentoo.org</email>
       <name>Wolfram Schlich</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/wschlich</source>
+    <source type="git">git://anongit.gentoo.org/dev/wschlich</source>
     <!-- <source type="git">https://git.gentoo.org/gitroot/dev/wschlich.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/dev/wschlich.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/wschlich.git;a=atom</feed>
@@ -5728,7 +5728,7 @@ FIN
       <email>p_regius@gmx.ch</email>
       <name>Wuodan</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/wuodan.git</source>
+    <source type="git">git://anongit.gentoo.org/user/wuodan.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/wuodan.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/wuodan.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/wuodan.git;a=atom</feed>
@@ -5742,7 +5742,7 @@ FIN
       <email>x11@gentoo.org</email>
       <name>Donnie Berkholz</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/x11</source>
+    <source type="git">git://anongit.gentoo.org/proj/x11</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/x11.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/x11.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/x11.git;a=atom</feed>
@@ -5756,7 +5756,7 @@ FIN
       <email>xarthisius@gentoo.org</email>
       <name>Kacper Kowalik</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/xarthisius.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/xarthisius.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/xarthisius.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/xarthisius.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/xarthisius.git;a=atom</feed>
@@ -5780,7 +5780,7 @@ FIN
       <email>xfce@gentoo.org</email>
       <name>XFCE team</name>
     </owner>
-    <source type="git">git://git.gentoo.org/proj/xfce.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/xfce.git</source>
     <source type="git">http://cgit.gentooexperimental.org/proj/xfce.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/xfce.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=proj/xfce.git;a=atom</feed>
@@ -5804,7 +5804,7 @@ FIN
       <email>olivier.huber@crans.org</email>
       <name>Olivier Huber</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/xhub.git</source>
+    <source type="git">git://anongit.gentoo.org/user/xhub.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/xhub.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/xhub.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/xhub.git;a=atom</feed>
@@ -5818,7 +5818,7 @@ FIN
       <email>xmw@gentoo.org</email>
       <name>Michael Weber</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/xmw.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/xmw.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/xmw.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/xmw.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/xmw.git;a=atom</feed>
@@ -5894,7 +5894,7 @@ FIN
       <email>yngwin@gentoo.org</email>
       <name>Ben de Groot</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/yngwin.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/yngwin.git</source>
     <source type="git">http://cgit.gentooexperimental.org/dev/yngwin.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/yngwin.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/yngwin.git;a=atom</feed>
@@ -5908,7 +5908,7 @@ FIN
       <email>yoreek@yahoo.com</email>
       <name>Yuri U.</name>
     </owner>
-    <source type="git">git://git.gentoo.org/user/yoreek.git</source>
+    <source type="git">git://anongit.gentoo.org/user/yoreek.git</source>
     <source type="git">http://cgit.gentooexperimental.org/user/yoreek.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/yoreek.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=user/yoreek.git;a=atom</feed>
@@ -5922,7 +5922,7 @@ FIN
       <email>zlogene@gentoo.org</email>
       <name>Mikle Kolyada</name>
     </owner>
-    <source type="git">git://git.gentoo.org/dev/zlogene.git</source>
+    <source type="git">git://anongit.gentoo.org/dev/zlogene.git</source>
     <!-- <source type="git">https://git.gentoo.org/gitroot/dev/zlogene.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/dev/zlogene.git</source>
     <feed>http://git.gentoo.org/gitweb/?p=dev/zlogene.git;a=atom</feed>

@@ -961,7 +961,7 @@ FIN
       <email>deathwing00@gentoo.org</email>
     </owner>
     <source type="git">git://anongit.gentoo.org/dev/deathwing00.git</source>
-    <!-- <source type="git">https://anongit.gentoo.org/git/dev/deathwing00.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/dev/deathwing00.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/deathwing00.git</source>
     <!-- <feed>https://cgit.gentoo.org/dev/deathwing00.git/rss/</feed> -->
     <feed>https://cgit.gentoo.org/dev/deathwing00.git/atom/</feed>
@@ -1141,7 +1141,7 @@ FIN
       <name>Heather</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/proj/dotnet.git</source>
-    <!-- <source type="git">https://anongit.gentoo.org/git/proj/dotnet.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/proj/dotnet.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/dotnet.git</source>
     <feed>https://cgit.gentoo.org/proj/dotnet.git/atom/</feed>
   </repo>
@@ -1180,7 +1180,7 @@ FIN
       <email>drizzt@gentoo.org</email>
     </owner>
     <source type="git">git://anongit.gentoo.org/dev/drizzt.git</source>
-    <!-- <source type="git">https://anongit.gentoo.org/git/dev/drizzt.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/dev/drizzt.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/drizzt.git</source>
     <!-- <feed>https://cgit.gentoo.org/dev/drizzt.git/rss/</feed> -->
     <feed>https://cgit.gentoo.org/dev/drizzt.git/atom/</feed>
@@ -1269,7 +1269,7 @@ FIN
     <owner>
       <email>wolf31o2@wolf31o2.org</email>
     </owner>
-    <!-- <source type="git">https://anongit.gentoo.org/git/proj/efika.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/proj/efika.git</source>
     <source type="git">git://anongit.gentoo.org/proj/efika.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/efika.git</source>
     <feed>https://cgit.gentoo.org/proj/efika.git/atom/</feed>
@@ -1937,7 +1937,7 @@ FIN
     <owner>
       <email>gnustep@gentoo.org</email>
     </owner>
-    <!-- <source type="git">https://anongit.gentoo.org/git/proj/gnustep.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/proj/gnustep.git</source>
     <source type="git">git://anongit.gentoo.org/proj/gnustep.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gnustep.git</source>
     <feed>https://cgit.gentoo.org/proj/gnustep.git/atom/</feed>
@@ -2364,7 +2364,7 @@ FIN
       <email>je_fro@gentoo.org</email>
     </owner>
     <source type="git">git://anongit.gentoo.org/dev/je_fro.git</source>
-    <!-- <source type="git">https://anongit.gentoo.org/git/dev/je_fro.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/dev/je_fro.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/je_fro.git</source>
     <!-- <feed>https://cgit.gentoo.org/dev/je_fro.git/rss/</feed> -->
     <feed>https://cgit.gentoo.org/dev/je_fro.git/atom/</feed>
@@ -3432,7 +3432,7 @@ FIN
     <owner>
       <email>nx@gentoo.org</email>
     </owner>
-    <!-- <source type="git">https://anongit.gentoo.org/git/proj/nx.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/proj/nx.git</source>
     <source type="git">git://anongit.gentoo.org/proj/nx.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/nx.git</source>
     <feed>https://cgit.gentoo.org/proj/nx.git/atom/</feed>
@@ -3812,7 +3812,7 @@ FIN
     <owner>
       <email>pgsql-bugs@gentoo.org</email>
     </owner>
-    <!-- <source type="git">https://anongit.gentoo.org/git/proj/postgresql/experimental.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/proj/postgresql/experimental.git</source>
     <source type="git">git://anongit.gentoo.org/proj/postgresql/experimental.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/postgresql/experimental.git</source>
     <feed>https://cgit.gentoo.org/proj/postgresql/experimental.git/atom/</feed>
@@ -3825,7 +3825,7 @@ FIN
     <owner>
       <email>pgsql-bugs@gentoo.org</email>
     </owner>
-    <!-- <source type="git">https://anongit.gentoo.org/git/proj/postgresql/testing.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/proj/postgresql/testing.git</source>
     <source type="git">git://anongit.gentoo.org/proj/postgresql/testing.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/postgresql/testing.git</source>
     <feed>https://cgit.gentoo.org/proj/postgresql/testing.git/atom/</feed>
@@ -3838,7 +3838,7 @@ FIN
     <owner>
       <email>ranger@gentoo.org</email>
     </owner>
-    <!-- <source type="git">https://anongit.gentoo.org/git/proj/powerpc.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/proj/powerpc.git</source>
     <source type="git">git://anongit.gentoo.org/proj/powerpc.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/powerpc.git</source>
     <feed>https://cgit.gentoo.org/proj/powerpc.git/atom/</feed>
@@ -3975,7 +3975,7 @@ FIN
       <name>Brian Dolbec</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/proj/kvm-tools.git</source>
-    <!-- <source type="git">https://anongit.gentoo.org/git/proj/kvm-tools.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/proj/kvm-tools.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/kvm-tools.git</source>
     <feed>https://cgit.gentoo.org/proj/kvm-tools.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/kvm-tools.git/rss/</feed> -->
@@ -4000,7 +4000,7 @@ FIN
       <name>Qt Team</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/proj/qt.git</source>
-    <!-- <source type="git">https://anongit.gentoo.org/git/proj/qt.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/proj/qt.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/qt.git</source>
     <feed>https://cgit.gentoo.org/proj/qt.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/qt.git/rss/</feed> -->
@@ -4473,7 +4473,7 @@ FIN
     <owner>
       <email>matsuu@gentoo.org</email>
     </owner>
-    <!-- <source type="git">https://anongit.gentoo.org/git/dev/matsuu/secondlife.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/dev/matsuu/secondlife.git</source>
     <source type="git">git://anongit.gentoo.org/dev/matsuu/secondlife.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/matsuu/secondlife.git</source>
     <feed>https://cgit.gentoo.org/dev/matsuu/secondlife.git/atom/</feed>
@@ -4513,7 +4513,7 @@ FIN
       <email>seemant@gentoo.org</email>
     </owner>
     <source type="git">git://anongit.gentoo.org/dev/seemant.git</source>
-    <!-- <source type="git">https://anongit.gentoo.org/git/dev/seemant.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/dev/seemant.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/seemant.git</source>
     <feed>https://cgit.gentoo.org/dev/seemant.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/seemant.git/rss/</feed> -->
@@ -4735,7 +4735,7 @@ FIN
       <name>Stuart Hickinbottom</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/squeezebox.git</source>
-    <!-- <source type="git">https://anongit.gentoo.org/git/user/squeezebox.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/user/squeezebox.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/squeezebox.git</source>
     <feed>https://cgit.gentoo.org/user/squeezebox.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/squeezebox.git/rss/</feed> -->
@@ -5033,7 +5033,7 @@ FIN
       <email>toolchain@gentoo.org</email>
     </owner>
     <source type="git">git://anongit.gentoo.org/proj/toolchain.git</source>
-    <!-- <source type="git">https://anongit.gentoo.org/git/proj/toolchain.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/proj/toolchain.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/toolchain.git</source>
     <feed>https://cgit.gentoo.org/proj/toolchain.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/toolchain.git/rss/</feed> -->
@@ -5321,7 +5321,7 @@ FIN
       <email>vdr@gentoo.org</email>
     </owner>
     <source type="git">git://anongit.gentoo.org/proj/vdr/devel.git</source>
-    <!-- <source type="git">https://anongit.gentoo.org/git/proj/vdr/devel.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/proj/vdr/devel.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/vdr/devel.git</source>
     <feed>https://cgit.gentoo.org/proj/vdr/devel.git/atom/</feed>
   </repo>
@@ -5333,7 +5333,7 @@ FIN
       <email>vdr@gentoo.org</email>
     </owner>
     <source type="git">git://anongit.gentoo.org/proj/vdr/testing.git</source>
-    <!-- <source type="git">https://anongit.gentoo.org/git/proj/vdr/testing.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/proj/vdr/testing.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/vdr/testing.git</source>
     <feed>https://cgit.gentoo.org/proj/vdr/testing.git/atom/</feed>
   </repo>
@@ -5550,7 +5550,7 @@ FIN
     <owner>
       <email>web-apps@gentoo.org</email>
     </owner>
-    <!-- <source type="git">https://anongit.gentoo.org/git/proj/webapps-experimental.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/proj/webapps-experimental.git</source>
     <source type="git">git://anongit.gentoo.org/proj/webapps-experimental.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/webapps-experimental.git</source>
     <feed>https://cgit.gentoo.org/proj/webapps-experimental.git/atom/</feed>
@@ -5700,7 +5700,7 @@ FIN
       <name>Wolfram Schlich</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/dev/wschlich</source>
-    <!-- <source type="git">https://anongit.gentoo.org/git/dev/wschlich.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/dev/wschlich.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/wschlich.git</source>
     <feed>https://cgit.gentoo.org/dev/wschlich.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/wschlich.git/rss/</feed> -->
@@ -5921,7 +5921,7 @@ FIN
       <name>Mikle Kolyada</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/dev/zlogene.git</source>
-    <!-- <source type="git">https://anongit.gentoo.org/git/dev/zlogene.git</source> -->
+    <source type="git">https://anongit.gentoo.org/git/dev/zlogene.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/zlogene.git</source>
     <feed>https://cgit.gentoo.org/dev/zlogene.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/zlogene.git/rss/</feed> -->

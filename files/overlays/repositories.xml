@@ -82,7 +82,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/activehome.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/activehome.git</source>
     <feed>https://cgit.gentoo.org/user/activehome.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/activehome.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/activehome.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>ago</name>
@@ -96,7 +96,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/ago.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/ago.git</source>
     <feed>https://cgit.gentoo.org/dev/ago.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/ago.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/ago.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>aidecoe</name>
@@ -147,7 +147,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/alexcepoi.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/alexcepoi.git</source>
     <feed>https://cgit.gentoo.org/user/alexcepoi.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/alexcepoi.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/alexcepoi.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>alexxy</name>
@@ -161,7 +161,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/alexxy.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/alexxy.git</source>
     <feed>https://cgit.gentoo.org/dev/alexxy.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/alexxy.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/alexxy.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>alice</name>
@@ -186,7 +186,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/aluco.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/aluco.git</source>
     <feed>https://cgit.gentoo.org/user/aluco.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/aluco.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/aluco.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>alunduil</name>
@@ -224,7 +224,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/anarchy.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/anarchy.git</source>
     <feed>https://cgit.gentoo.org/dev/anarchy.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/anarchy.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/anarchy.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>anaximander</name>
@@ -238,7 +238,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/anaximander.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/anaximander.git</source>
     <feed>https://cgit.gentoo.org/user/anaximander.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/anaximander.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/anaximander.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>and3k-sunrise</name>
@@ -277,7 +277,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/andy.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/andy.git</source>
     <feed>https://cgit.gentoo.org/user/andy.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/andy.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/andy.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>angelos</name>
@@ -291,7 +291,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/angelos.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/angelos.git</source>
     <feed>https://cgit.gentoo.org/dev/angelos.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/angelos.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/angelos.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>anyc</name>
@@ -330,7 +330,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/arc.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/arc.git</source>
     <feed>https://cgit.gentoo.org/user/arc.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/arc.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/arc.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>archenroot</name>
@@ -364,7 +364,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/Armageddon.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/Armageddon.git</source>
     <feed>https://cgit.gentoo.org/user/Armageddon.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/Armageddon.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/Armageddon.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>armagetron</name>
@@ -398,7 +398,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/AstroFloyd.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/AstroFloyd.git</source>
     <feed>https://cgit.gentoo.org/user/AstroFloyd.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/AstroFloyd.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/AstroFloyd.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>asux</name>
@@ -433,7 +433,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/axs.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/axs.git</source>
     <feed>https://cgit.gentoo.org/dev/axs.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/axs.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/axs.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>AzP</name>
@@ -447,7 +447,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/AzP.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/AzP.git</source>
     <feed>https://cgit.gentoo.org/user/AzP.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/AzP.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/AzP.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>barnowl</name>
@@ -523,7 +523,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/benf.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/benf.git</source>
     <feed>https://cgit.gentoo.org/user/benf.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/benf.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/benf.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>betagarden</name>
@@ -537,7 +537,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/betagarden.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/betagarden.git</source>
     <feed>https://cgit.gentoo.org/proj/betagarden.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/betagarden.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/betagarden.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>betelgeuse</name>
@@ -551,7 +551,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/betelgeuse.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/betelgeuse.git</source>
     <feed>https://cgit.gentoo.org/dev/betelgeuse.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/betelgeuse.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/betelgeuse.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bibletime</name>
@@ -565,7 +565,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/bibletime.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/bibletime.git</source>
     <feed>https://cgit.gentoo.org/user/bibletime.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/bibletime.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/bibletime.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bicatali</name>
@@ -579,7 +579,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/bicatali.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/bicatali.git</source>
     <feed>https://cgit.gentoo.org/dev/bicatali.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/bicatali.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/bicatali.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>bircoph</name>
@@ -593,7 +593,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/bircoph.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/bircoph.git</source>
     <feed>https://cgit.gentoo.org/dev/bircoph.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/bircoph.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/bircoph.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bitcoin</name>
@@ -652,7 +652,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/blueicefield.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/blueicefield.git</source>
     <feed>https://cgit.gentoo.org/user/blueicefield.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/blueicefield.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/blueicefield.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>blueness</name>
@@ -666,7 +666,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/blueness.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/blueness.git</source>
     <feed>https://cgit.gentoo.org/dev/blueness.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/blueness.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/blueness.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bobwya</name>
@@ -728,7 +728,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/c1pher.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/c1pher.git</source>
     <feed>https://cgit.gentoo.org/dev/c1pher.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/c1pher.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/c1pher.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>c2p-overlay</name>
@@ -755,7 +755,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/caio.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/caio.git</source>
     <feed>https://cgit.gentoo.org/user/caio.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/caio.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/caio.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>calculate</name>
@@ -814,7 +814,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/chutzpah.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/chutzpah.git</source>
     <feed>https://cgit.gentoo.org/dev/chutzpah.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/chutzpah.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/chutzpah.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>cj-overlay</name>
@@ -850,7 +850,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/clickbeetle_tools.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/clickbeetle_tools.git</source>
     <feed>https://cgit.gentoo.org/user/clickbeetle_tools.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/clickbeetle_tools.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/clickbeetle_tools.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>crossdev</name>
@@ -922,7 +922,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/dawan.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/dawan.git</source>
     <feed>https://cgit.gentoo.org/user/dawan.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/dawan.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/dawan.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dberkholz</name>
@@ -936,7 +936,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/dberkholz.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/dberkholz.git</source>
     <feed>https://cgit.gentoo.org/dev/dberkholz.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/dberkholz.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/dberkholz.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>darkside</name>
@@ -950,7 +950,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/darkside.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/darkside.git</source>
     <feed>https://cgit.gentoo.org/dev/darkside.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/darkside.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/darkside.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>deathwing00</name>
@@ -963,7 +963,7 @@ FIN
     <source type="git">git://anongit.gentoo.org/dev/deathwing00.git</source>
     <!-- <source type="git">https://anongit.gentoo.org/git/dev/deathwing00.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/dev/deathwing00.git</source>
-    <feed>https://cgit.gentoo.org/dev/deathwing00.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/deathwing00.git/rss/</feed> -->
     <feed>https://cgit.gentoo.org/dev/deathwing00.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -1001,7 +1001,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/dev-zero.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/dev-zero.git</source>
     <feed>https://cgit.gentoo.org/dev/dev-zero.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/dev-zero.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/dev-zero.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dfreise</name>
@@ -1015,7 +1015,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/dfreise.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/dfreise.git</source>
     <feed>https://cgit.gentoo.org/user/dfreise.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/dfreise.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/dfreise.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>dilfridge</name>
@@ -1029,7 +1029,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/dilfridge.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/dilfridge.git</source>
     <feed>https://cgit.gentoo.org/dev/dilfridge.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/dilfridge.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/dilfridge.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>displacer</name>
@@ -1043,7 +1043,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/displacer.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/displacer.git</source>
     <feed>https://cgit.gentoo.org/user/displacer.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/displacer.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/displacer.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>distros</name>
@@ -1090,7 +1090,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/dMaggot.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/dMaggot.git</source>
     <feed>https://cgit.gentoo.org/user/dMaggot.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/dMaggot.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/dMaggot.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dmol</name>
@@ -1104,7 +1104,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/dmol.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/dmol.git</source>
     <feed>https://cgit.gentoo.org/user/dmol.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/dmol.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/dmol.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>docd</name>
@@ -1170,7 +1170,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/drevilt.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/drevilt.git</source>
     <feed>https://cgit.gentoo.org/user/drevilt.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/drevilt.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/drevilt.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>drizzt-overlay</name>
@@ -1182,7 +1182,7 @@ FIN
     <source type="git">git://anongit.gentoo.org/dev/drizzt.git</source>
     <!-- <source type="git">https://anongit.gentoo.org/git/dev/drizzt.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/dev/drizzt.git</source>
-    <feed>https://cgit.gentoo.org/dev/drizzt.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/drizzt.git/rss/</feed> -->
     <feed>https://cgit.gentoo.org/dev/drizzt.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1197,7 +1197,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/dswm.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/dswm.git</source>
     <feed>https://cgit.gentoo.org/user/dswm.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/dswm.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/dswm.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>DuPol</name>
@@ -1211,7 +1211,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/DuPol.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/DuPol.git</source>
     <feed>https://cgit.gentoo.org/user/DuPol.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/DuPol.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/DuPol.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dustin</name>
@@ -1249,7 +1249,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/eatnumber1.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/eatnumber1.git</source>
     <feed>https://cgit.gentoo.org/user/eatnumber1.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/eatnumber1.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/eatnumber1.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>edwtjo-ebuilds</name>
@@ -1273,7 +1273,7 @@ FIN
     <source type="git">git://anongit.gentoo.org/proj/efika.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/efika.git</source>
     <feed>https://cgit.gentoo.org/proj/efika.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/efika.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/efika.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>eigenlay</name>
@@ -1322,7 +1322,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/emacs.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/emacs.git</source>
     <feed>https://cgit.gentoo.org/proj/emacs.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/emacs.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/emacs.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>embedded-cross</name>
@@ -1336,7 +1336,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/embedded-cross.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/embedded-cross.git</source>
     <feed>https://cgit.gentoo.org/proj/embedded-cross.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/embedded-cross.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/embedded-cross.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>emc</name>
@@ -1362,7 +1362,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/emery.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/emery.git</source>
     <feed>https://cgit.gentoo.org/user/emery.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/emery.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/emery.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>enlightenment</name>
@@ -1374,7 +1374,7 @@ FIN
     </owner>
     <source type="git">git://anongit.gentoo.org/proj/enlightenment.git</source>
     <feed>https://cgit.gentoo.org/proj/enlightenment.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/enlightenment.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/enlightenment.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>erikmack</name>
@@ -1399,7 +1399,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/eroen.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/eroen.git</source>
     <feed>https://cgit.gentoo.org/user/eroen.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/eroen.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/eroen.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>espenaf</name>
@@ -1426,7 +1426,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/eva.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/eva.git</source>
     <feed>https://cgit.gentoo.org/dev/eva.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/eva.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/eva.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>eyolfson</name>
@@ -1462,7 +1462,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/ezod.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/ezod.git</source>
     <feed>https://cgit.gentoo.org/user/ezod.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/ezod.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/ezod.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>farmboy0</name>
@@ -1533,7 +1533,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/flameeyes.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/flameeyes.git</source>
     <feed>https://cgit.gentoo.org/dev/flameeyes.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/flameeyes.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/flameeyes.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>flavour</name>
@@ -1601,7 +1601,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/fordfrog.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/fordfrog.git</source>
     <feed>https://cgit.gentoo.org/dev/fordfrog.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/fordfrog.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/fordfrog.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>fouxlay</name>
@@ -1732,7 +1732,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/gamerlay.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gamerlay.git</source>
     <feed>https://cgit.gentoo.org/proj/gamerlay.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/gamerlay.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/gamerlay.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>games-overlay</name>
@@ -1789,7 +1789,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/gentoo-bsd.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-bsd.git</source>
     <feed>https://cgit.gentoo.org/proj/gentoo-bsd.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/gentoo-bsd.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/gentoo-bsd.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-el</name>
@@ -1814,7 +1814,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/gentoo-guis.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-guis.git</source>
     <feed>https://cgit.gentoo.org/proj/gentoo-guis.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/gentoo-guis.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/gentoo-guis.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>gentoo-openbsd</name>
@@ -1828,7 +1828,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/gentoo-openbsd.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-openbsd.git</source>
     <feed>https://cgit.gentoo.org/proj/gentoo-openbsd.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/gentoo-openbsd.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/gentoo-openbsd.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-taiwan</name>
@@ -1914,7 +1914,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/gnome.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gnome.git</source>
     <feed>https://cgit.gentoo.org/proj/gnome.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/gnome.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/gnome.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>gnome-live</name>
@@ -1928,7 +1928,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/gnome-live.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gnome-live.git</source>
     <feed>https://cgit.gentoo.org/proj/gnome-live.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/gnome-live.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/gnome-live.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>gnustep</name>
@@ -1941,7 +1941,7 @@ FIN
     <source type="git">git://anongit.gentoo.org/proj/gnustep.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gnustep.git</source>
     <feed>https://cgit.gentoo.org/proj/gnustep.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/gnustep.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/gnustep.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>godin</name>
@@ -1980,7 +1980,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/gpe.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gpe.git</source>
     <feed>https://cgit.gentoo.org/proj/gpe.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/gpe.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/gpe.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>graaff</name>
@@ -1995,7 +1995,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/graaff.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/graaff.git</source>
     <feed>https://cgit.gentoo.org/dev/graaff.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/graaff.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/graaff.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>graveyard</name>
@@ -2054,7 +2054,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/halcy0n.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/halcy0n.git</source>
     <feed>https://cgit.gentoo.org/dev/halcy0n.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/halcy0n.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/halcy0n.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>hamper-overlay</name>
@@ -2136,7 +2136,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/heroxbd.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/heroxbd.git</source>
     <feed>https://cgit.gentoo.org/dev/heroxbd.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/heroxbd.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/heroxbd.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name><![CDATA[hhvm]]></name>
@@ -2162,7 +2162,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/hibiscus.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/hibiscus.git</source>
     <feed>https://cgit.gentoo.org/user/hibiscus.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/hibiscus.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/hibiscus.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>hnaparst</name>
@@ -2212,7 +2212,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/iElectric.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/iElectric.git</source>
     <feed>https://cgit.gentoo.org/user/iElectric.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/iElectric.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/iElectric.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ikelos</name>
@@ -2226,7 +2226,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/ikelos.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/ikelos.git</source>
     <feed>https://cgit.gentoo.org/dev/ikelos.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/ikelos.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/ikelos.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>improvise</name>
@@ -2240,7 +2240,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/improvise.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/improvise.git</source>
     <feed>https://cgit.gentoo.org/user/improvise.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/improvise.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/improvise.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>init6</name>
@@ -2302,7 +2302,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/jamesbroadhead.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/jamesbroadhead.git</source>
     <feed>https://cgit.gentoo.org/user/jamesbroadhead.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/jamesbroadhead.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/jamesbroadhead.git/rss/</feed> -->
   </repo>
 
   <repo quality="experimental" status="unofficial">
@@ -2341,7 +2341,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/java.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/java.git</source>
     <feed>https://cgit.gentoo.org/proj/java.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/java.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/java.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>javer</name>
@@ -2366,7 +2366,7 @@ FIN
     <source type="git">git://anongit.gentoo.org/dev/je_fro.git</source>
     <!-- <source type="git">https://anongit.gentoo.org/git/dev/je_fro.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/dev/je_fro.git</source>
-    <feed>https://cgit.gentoo.org/dev/je_fro.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/je_fro.git/rss/</feed> -->
     <feed>https://cgit.gentoo.org/dev/je_fro.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2381,7 +2381,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/jensp.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/jensp.git</source>
     <feed>https://cgit.gentoo.org/user/jensp.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/jensp.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/jensp.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>jkolo</name>
@@ -2405,7 +2405,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/jmbsvicetto.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/jmbsvicetto.git</source>
     <feed>https://cgit.gentoo.org/dev/jmbsvicetto.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/jmbsvicetto.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/jmbsvicetto.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>jmesmon</name>
@@ -2429,7 +2429,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/johu.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/johu.git</source>
     <feed>https://cgit.gentoo.org/dev/johu.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/johu.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/johu.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>joinge</name>
@@ -2443,7 +2443,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/joinge.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/joinge.git</source>
     <feed>https://cgit.gentoo.org/user/joinge.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/joinge.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/joinge.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>jorgicio</name>
@@ -2470,7 +2470,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/jranvier.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/jranvier.git</source>
     <feed>https://cgit.gentoo.org/user/jranvier.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/jranvier.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/jranvier.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>jtriley</name>
@@ -2484,7 +2484,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/jtriley.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/jtriley.git</source>
     <feed>https://cgit.gentoo.org/user/jtriley.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/jtriley.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/jtriley.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>jxh</name>
@@ -2498,7 +2498,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/jxh.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/jxh.git</source>
     <feed>https://cgit.gentoo.org/user/jxh.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/jxh.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/jxh.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
       <name>k_f</name>
@@ -2535,7 +2535,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/kde.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/kde.git</source>
     <feed>https://cgit.gentoo.org/proj/kde.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/kde.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/kde.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>kde-sunset</name>
@@ -2550,7 +2550,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/kde-sunset.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/kde-sunset.git</source>
     <feed>https://cgit.gentoo.org/proj/kde-sunset.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/kde-sunset.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/kde-sunset.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>keruspe</name>
@@ -2564,7 +2564,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/keruspe.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/keruspe.git</source>
     <feed>https://cgit.gentoo.org/user/keruspe.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/keruspe.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/keruspe.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>klondike</name>
@@ -2578,7 +2578,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/klondike.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/klondike.git</source>
     <feed>https://cgit.gentoo.org/user/klondike.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/klondike.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/klondike.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>kolab</name>
@@ -2602,7 +2602,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/kork.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/kork.git</source>
     <feed>https://cgit.gentoo.org/user/kork.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/kork.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/kork.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>kormoc</name>
@@ -2686,7 +2686,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/leio.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/leio.git</source>
     <feed>https://cgit.gentoo.org/dev/leio.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/leio.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/leio.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>levenkov</name>
@@ -2749,7 +2749,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/lisp.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/lisp.git</source>
     <feed>https://cgit.gentoo.org/proj/lisp.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/lisp.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/lisp.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>lmiphay</name>
@@ -2773,7 +2773,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/logan.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/logan.git</source>
     <feed>https://cgit.gentoo.org/user/logan.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/logan.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/logan.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>loongson</name>
@@ -2787,7 +2787,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/loongson.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/loongson.git</source>
     <feed>https://cgit.gentoo.org/proj/loongson.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/loongson.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/loongson.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>lootr</name>
@@ -2801,7 +2801,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/lootr.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/lootr.git</source>
     <feed>https://cgit.gentoo.org/user/lootr.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/lootr.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/lootr.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>lordvan</name>
@@ -2815,7 +2815,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/lordvan.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/lordvan.git</source>
     <feed>https://cgit.gentoo.org/dev/lordvan.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/lordvan.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/lordvan.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>lorelei</name>
@@ -2841,7 +2841,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/ltsp.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/ltsp.git</source>
     <feed>https://cgit.gentoo.org/proj/ltsp.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/ltsp.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/ltsp.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>lua</name>
@@ -2855,7 +2855,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/lua.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/lua.git</source>
     <feed>https://cgit.gentoo.org/proj/lua.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/lua.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/lua.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>luman</name>
@@ -2869,7 +2869,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/luman.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/luman.git</source>
     <feed>https://cgit.gentoo.org/user/luman.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/luman.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/luman.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>luke-jr</name>
@@ -2902,7 +2902,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/maekke.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/maekke.git</source>
     <feed>https://cgit.gentoo.org/dev/maekke.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/maekke.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/maekke.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>maksbotan</name>
@@ -2916,7 +2916,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/maksbotan.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/maksbotan.git</source>
     <feed>https://cgit.gentoo.org/dev/maksbotan.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/maksbotan.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/maksbotan.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>maggu2810-overlay</name>
@@ -2955,7 +2955,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/matsuu.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/matsuu.git</source>
     <feed>https://cgit.gentoo.org/dev/matsuu.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/matsuu.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/matsuu.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>megacoffee</name>
@@ -2982,7 +2982,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/menelkir.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/menelkir.git</source>
     <feed>https://cgit.gentoo.org/user/menelkir.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/menelkir.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/menelkir.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>mgorny</name>
@@ -2996,7 +2996,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/mgorny.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/mgorny.git</source>
     <feed>https://cgit.gentoo.org/dev/mgorny.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/mgorny.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/mgorny.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>mhammill</name>
@@ -3010,7 +3010,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/mhammill.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/mhammill.git</source>
     <feed>https://cgit.gentoo.org/user/mhammill.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/mhammill.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/mhammill.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>miramir</name>
@@ -3034,7 +3034,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/mistafunk.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/mistafunk.git</source>
     <feed>https://cgit.gentoo.org/user/mistafunk.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/mistafunk.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/mistafunk.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>mkeyoverlay</name>
@@ -3091,7 +3091,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/moult.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/moult.git</source>
     <feed>https://cgit.gentoo.org/dev/moult.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/moult.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/moult.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>mozilla</name>
@@ -3131,7 +3131,7 @@ FIN
     <source type="git">git+ssh://git@git.gentoo.org/user/mrueg.git</source>
     <source type="git">https://github.com/mrueg/mrueg-overlay.git</source>
     <feed>https://cgit.gentoo.org/user/mrueg.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/mrueg.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/mrueg.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>mschiff</name>
@@ -3145,7 +3145,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/mschiff.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/mschiff.git</source>
     <feed>https://cgit.gentoo.org/dev/mschiff.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/mschiff.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/mschiff.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>multilib-portage</name>
@@ -3185,7 +3185,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/mv.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/mv.git</source>
     <feed>https://cgit.gentoo.org/user/mv.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/mv.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/mv.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>mva</name>
@@ -3210,7 +3210,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/mysql.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/mysql.git</source>
     <feed>https://cgit.gentoo.org/proj/mysql.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/mysql.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/mysql.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>n4g</name>
@@ -3313,7 +3313,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/neurogeek.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/neurogeek.git</source>
     <feed>https://cgit.gentoo.org/dev/neurogeek.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/neurogeek.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/neurogeek.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>nextoo</name>
@@ -3353,7 +3353,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/nico.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/nico.git</source>
     <feed>https://cgit.gentoo.org/user/nico.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/nico.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/nico.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>nigoro-fbsd</name>
@@ -3376,7 +3376,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/nikai.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/nikai.git</source>
     <feed>https://cgit.gentoo.org/user/nikai.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/nikai.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/nikai.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>nirvana</name>
@@ -3403,7 +3403,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/nixphoeni.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/nixphoeni.git</source>
     <feed>https://cgit.gentoo.org/dev/nixphoeni.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/nixphoeni.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/nixphoeni.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>njw</name>
@@ -3436,7 +3436,7 @@ FIN
     <source type="git">git://anongit.gentoo.org/proj/nx.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/nx.git</source>
     <feed>https://cgit.gentoo.org/proj/nx.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/nx.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/nx.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>o11c</name>
@@ -3570,7 +3570,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/palmer.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/palmer.git</source>
     <feed>https://cgit.gentoo.org/user/palmer.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/palmer.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/palmer.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>pandaboard</name>
@@ -3581,7 +3581,7 @@ FIN
     </owner>
     <source type="git">git://anongit.gentoo.org/proj/pandaboard.git</source>
     <feed>https://cgit.gentoo.org/proj/pandaboard.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/pandaboard.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/pandaboard.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>paragon</name>
@@ -3595,7 +3595,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/paragon.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/paragon.git</source>
     <feed>https://cgit.gentoo.org/user/paragon.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/paragon.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/paragon.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>pchrist</name>
@@ -3609,7 +3609,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/pchrist.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/pchrist.git</source>
     <feed>https://cgit.gentoo.org/dev/pchrist.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/pchrist.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/pchrist.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pcsx2</name>
@@ -3667,7 +3667,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/perl-overlay.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/perl-overlay.git</source>
     <feed>https://cgit.gentoo.org/proj/perl-overlay.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/perl-overlay.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/perl-overlay.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>perl-experimental-snapshots</name>
@@ -3729,7 +3729,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/piczu.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/piczu.git</source>
     <feed>https://cgit.gentoo.org/user/piczu.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/piczu.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/piczu.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pigfoot</name>
@@ -3743,7 +3743,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/pigfoot.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/pigfoot.git</source>
     <feed>https://cgit.gentoo.org/user/pigfoot.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/pigfoot.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/pigfoot.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>pinkbyte</name>
@@ -3769,7 +3769,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/plab.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/plab.git</source>
     <feed>https://cgit.gentoo.org/user/plab.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/plab.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/plab.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>poly-c</name>
@@ -3816,7 +3816,7 @@ FIN
     <source type="git">git://anongit.gentoo.org/proj/postgresql/experimental.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/postgresql/experimental.git</source>
     <feed>https://cgit.gentoo.org/proj/postgresql/experimental.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/postgresql/experimental.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/postgresql/experimental.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>postgresql-testing</name>
@@ -3829,7 +3829,7 @@ FIN
     <source type="git">git://anongit.gentoo.org/proj/postgresql/testing.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/postgresql/testing.git</source>
     <feed>https://cgit.gentoo.org/proj/postgresql/testing.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/postgresql/testing.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/postgresql/testing.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>powerpc</name>
@@ -3842,7 +3842,7 @@ FIN
     <source type="git">git://anongit.gentoo.org/proj/powerpc.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/powerpc.git</source>
     <feed>https://cgit.gentoo.org/proj/powerpc.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/powerpc.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/powerpc.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>powerman</name>
@@ -3866,7 +3866,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/printer-drivers.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/printer-drivers.git</source>
     <feed>https://cgit.gentoo.org/proj/printer-drivers.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/printer-drivers.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/printer-drivers.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>prism-overlay</name>
@@ -3891,7 +3891,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/prometheanfire.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/prometheanfire.git</source>
     <feed>https://cgit.gentoo.org/dev/prometheanfire.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/prometheanfire.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/prometheanfire.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>proaudio</name>
@@ -3925,7 +3925,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/pross.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/pross.git</source>
     <feed>https://cgit.gentoo.org/user/pross.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/pross.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/pross.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>psix-overlay</name>
@@ -3951,7 +3951,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/purak.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/purak.git</source>
     <feed>https://cgit.gentoo.org/user/purak.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/purak.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/purak.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pypy_alice</name>
@@ -3978,7 +3978,7 @@ FIN
     <!-- <source type="git">https://anongit.gentoo.org/git/proj/kvm-tools.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/proj/kvm-tools.git</source>
     <feed>https://cgit.gentoo.org/proj/kvm-tools.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/kvm-tools.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/kvm-tools.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>qwin-overlay</name>
@@ -4003,7 +4003,7 @@ FIN
     <!-- <source type="git">https://anongit.gentoo.org/git/proj/qt.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/proj/qt.git</source>
     <feed>https://cgit.gentoo.org/proj/qt.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/qt.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/qt.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>quantumsummers</name>
@@ -4017,7 +4017,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/quantumsummers.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/quantumsummers.git</source>
     <feed>https://cgit.gentoo.org/dev/quantumsummers.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/quantumsummers.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/quantumsummers.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>quarks</name>
@@ -4133,7 +4133,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/rebutia.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/rebutia.git</source>
     <feed>https://cgit.gentoo.org/user/rebutia.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/rebutia.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/rebutia.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>remi</name>
@@ -4147,7 +4147,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/remi.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/remi.git</source>
     <feed>https://cgit.gentoo.org/dev/remi.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/remi.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/remi.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>regina-gentoo</name>
@@ -4205,7 +4205,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/robbat2.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/robbat2.git</source>
     <feed>https://cgit.gentoo.org/dev/robbat2.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/robbat2.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/robbat2.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ROKO__</name>
@@ -4262,7 +4262,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/rubenqba.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/rubenqba.git</source>
     <feed>https://cgit.gentoo.org/user/rubenqba.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/rubenqba.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/rubenqba.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>ruby</name>
@@ -4276,7 +4276,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/ruby-overlay.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/ruby-overlay.git</source>
     <feed>https://cgit.gentoo.org/proj/ruby-overlay.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/ruby-overlay.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/ruby-overlay.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>rust</name>
@@ -4303,7 +4303,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/rwald.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/rwald.git</source>
     <feed>https://cgit.gentoo.org/user/rwald.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/rwald.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/rwald.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sabayon</name>
@@ -4343,7 +4343,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/sabotageandi.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/sabotageandi.git</source>
     <feed>https://cgit.gentoo.org/user/sabotageandi.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/sabotageandi.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/sabotageandi.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sage-on-gentoo</name>
@@ -4390,7 +4390,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/sardemff7.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/sardemff7.git</source>
     <feed>https://cgit.gentoo.org/user/sardemff7.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/sardemff7.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/sardemff7.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sattvik</name>
@@ -4404,7 +4404,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/sattvik.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/sattvik.git</source>
     <feed>https://cgit.gentoo.org/user/sattvik.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/sattvik.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/sattvik.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>science</name>
@@ -4427,7 +4427,7 @@ FIN
     <source type="git">git://github.com/gentoo-science/sci.git</source>
     <source type="git">git@github.com:gentoo-science/sci.git</source>
     <feed>https://cgit.gentoo.org/proj/sci.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/sci.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/sci.git/rss/</feed> -->
     <feed>https://github.com/gentoo-science/sci/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4477,7 +4477,7 @@ FIN
     <source type="git">git://anongit.gentoo.org/dev/matsuu/secondlife.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/matsuu/secondlife.git</source>
     <feed>https://cgit.gentoo.org/dev/matsuu/secondlife.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/matsuu/secondlife.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/matsuu/secondlife.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>seden</name>
@@ -4491,7 +4491,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/seden.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/seden.git</source>
     <feed>https://cgit.gentoo.org/user/seden.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/seden.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/seden.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>seeds</name>
@@ -4516,7 +4516,7 @@ FIN
     <!-- <source type="git">https://anongit.gentoo.org/git/dev/seemant.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/dev/seemant.git</source>
     <feed>https://cgit.gentoo.org/dev/seemant.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/seemant.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/seemant.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sekh</name>
@@ -4530,7 +4530,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/sekh.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/sekh.git</source>
     <feed>https://cgit.gentoo.org/user/sekh.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/sekh.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/sekh.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sekyfsr</name>
@@ -4556,7 +4556,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/sera.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/sera.git</source>
     <feed>https://cgit.gentoo.org/dev/sera.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/sera.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/sera.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sft</name>
@@ -4591,7 +4591,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/silmano.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/silmano.git</source>
     <feed>https://cgit.gentoo.org/user/silmano.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/silmano.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/silmano.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sinustrom</name>
@@ -4629,7 +4629,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/sochotnicky.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/sochotnicky.git</source>
     <feed>https://cgit.gentoo.org/dev/sochotnicky.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/sochotnicky.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/sochotnicky.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>soehest</name>
@@ -4738,7 +4738,7 @@ FIN
     <!-- <source type="git">https://anongit.gentoo.org/git/user/squeezebox.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/user/squeezebox.git</source>
     <feed>https://cgit.gentoo.org/user/squeezebox.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/squeezebox.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/squeezebox.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>srcshelton</name>
@@ -4752,7 +4752,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/srcshelton.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/srcshelton.git</source>
     <feed>https://cgit.gentoo.org/user/srcshelton.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/srcshelton.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/srcshelton.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>steam-overlay</name>
@@ -4779,7 +4779,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/steev.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/steev.git</source>
     <feed>https://cgit.gentoo.org/dev/steev.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/steev.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/steev.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>stefantalpalaru</name>
@@ -4863,7 +4863,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/systemd.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/systemd.git</source>
     <feed>https://cgit.gentoo.org/user/systemd.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/systemd.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/systemd.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>systemd-love</name>
@@ -4900,7 +4900,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/sunrise-reviewed.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/sunrise-reviewed.git</source>
     <feed>https://cgit.gentoo.org/proj/sunrise-reviewed.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/sunrise-reviewed.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/sunrise-reviewed.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>swegener</name>
@@ -4953,7 +4953,7 @@ FIN
     </owner>
     <source type="git">git://anongit.gentoo.org/proj/tegra.git</source>
     <feed>https://cgit.gentoo.org/proj/tegra.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/tegra.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/tegra.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>tf201</name>
@@ -5022,7 +5022,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/tocaro.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/tocaro.git</source>
     <feed>https://cgit.gentoo.org/user/tocaro.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/tocaro.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/tocaro.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>toolchain</name>
@@ -5036,7 +5036,7 @@ FIN
     <!-- <source type="git">https://anongit.gentoo.org/git/proj/toolchain.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/proj/toolchain.git</source>
     <feed>https://cgit.gentoo.org/proj/toolchain.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/toolchain.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/toolchain.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>triquetra</name>
@@ -5050,7 +5050,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/triquetra.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/triquetra.git</source>
     <feed>https://cgit.gentoo.org/user/triquetra.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/triquetra.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/triquetra.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>tryton</name>
@@ -5074,7 +5074,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/turbogears2.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/turbogears2.git</source>
     <feed>https://cgit.gentoo.org/proj/turbogears2.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/turbogears2.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/turbogears2.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>tjy1965</name>
@@ -5088,7 +5088,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/tjy1965.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/tjy1965.git</source>
     <feed>https://cgit.gentoo.org/user/tjy1965.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/tjy1965.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/tjy1965.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>TomWij</name>
@@ -5102,7 +5102,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/TomWij.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/TomWij.git</source>
     <feed>https://cgit.gentoo.org/dev/TomWij.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/TomWij.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/TomWij.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>torbrowser</name>
@@ -5204,7 +5204,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/ulm.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/ulm.git</source>
     <feed>https://cgit.gentoo.org/dev/ulm.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/ulm.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/ulm.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>ultrabug</name>
@@ -5218,7 +5218,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/ultrabug.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/ultrabug.git</source>
     <feed>https://cgit.gentoo.org/dev/ultrabug.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/ultrabug.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/ultrabug.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>underlay</name>
@@ -5232,7 +5232,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/underlay.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/underlay.git</source>
     <feed>https://cgit.gentoo.org/user/underlay.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/underlay.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/underlay.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>undesktop</name>
@@ -5349,7 +5349,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/venidera.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/venidera.git</source>
     <feed>https://cgit.gentoo.org/user/venidera.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/venidera.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/venidera.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>verlihub</name>
@@ -5387,7 +5387,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/vincent.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/vincent.git</source>
     <feed>https://cgit.gentoo.org/dev/vincent.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/vincent.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/vincent.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>virtualization</name>
@@ -5401,7 +5401,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/virtualization.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/virtualization.git</source>
     <feed>https://cgit.gentoo.org/proj/virtualization.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/virtualization.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/virtualization.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>viprea-overlay</name>
@@ -5427,7 +5427,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/vmacs.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/vmacs.git</source>
     <feed>https://cgit.gentoo.org/user/vmacs.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/vmacs.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/vmacs.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>vmalov</name>
@@ -5441,7 +5441,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/vmalov.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/vmalov.git</source>
     <feed>https://cgit.gentoo.org/user/vmalov.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/vmalov.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/vmalov.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>vmware</name>
@@ -5455,7 +5455,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/vmware.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/vmware.git</source>
     <feed>https://cgit.gentoo.org/proj/vmware.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/vmware.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/vmware.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>voip</name>
@@ -5469,7 +5469,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/voip.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/voip.git</source>
     <feed>https://cgit.gentoo.org/proj/voip.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/voip.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/voip.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>vortex</name>
@@ -5527,7 +5527,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/wbrana.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/wbrana.git</source>
     <feed>https://cgit.gentoo.org/user/wbrana.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/wbrana.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/wbrana.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>wdzierzan</name>
@@ -5541,7 +5541,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/wdzierzan.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/wdzierzan.git</source>
     <feed>https://cgit.gentoo.org/user/wdzierzan.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/wdzierzan.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/wdzierzan.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>webapp-experimental</name>
@@ -5554,7 +5554,7 @@ FIN
     <source type="git">git://anongit.gentoo.org/proj/webapps-experimental.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/webapps-experimental.git</source>
     <feed>https://cgit.gentoo.org/proj/webapps-experimental.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/webapps-experimental.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/webapps-experimental.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>webos</name>
@@ -5666,7 +5666,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/wish.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/wish.git</source>
     <feed>https://cgit.gentoo.org/user/wish.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/wish.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/wish.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>wolf31o2</name>
@@ -5689,7 +5689,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/write2David.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/write2David.git</source>
     <feed>https://cgit.gentoo.org/user/write2David.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/write2David.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/write2David.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>wschlich</name>
@@ -5703,7 +5703,7 @@ FIN
     <!-- <source type="git">https://anongit.gentoo.org/git/dev/wschlich.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/dev/wschlich.git</source>
     <feed>https://cgit.gentoo.org/dev/wschlich.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/wschlich.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/wschlich.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>wtk</name>
@@ -5730,7 +5730,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/wuodan.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/wuodan.git</source>
     <feed>https://cgit.gentoo.org/user/wuodan.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/wuodan.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/wuodan.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>x11</name>
@@ -5744,7 +5744,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/x11.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/x11.git</source>
     <feed>https://cgit.gentoo.org/proj/x11.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/x11.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/x11.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>xarthisius</name>
@@ -5758,7 +5758,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/xarthisius.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/xarthisius.git</source>
     <feed>https://cgit.gentoo.org/dev/xarthisius.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/xarthisius.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/xarthisius.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>xelnor</name>
@@ -5782,7 +5782,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/proj/xfce.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/xfce.git</source>
     <feed>https://cgit.gentoo.org/proj/xfce.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/proj/xfce.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/xfce.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>xgr</name>
@@ -5806,7 +5806,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/xhub.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/xhub.git</source>
     <feed>https://cgit.gentoo.org/user/xhub.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/xhub.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/xhub.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>xmw</name>
@@ -5820,7 +5820,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/xmw.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/xmw.git</source>
     <feed>https://cgit.gentoo.org/dev/xmw.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/xmw.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/xmw.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>xtreemfs</name>
@@ -5896,7 +5896,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/dev/yngwin.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/dev/yngwin.git</source>
     <feed>https://cgit.gentoo.org/dev/yngwin.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/yngwin.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/yngwin.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>yoreek</name>
@@ -5910,7 +5910,7 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/yoreek.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/yoreek.git</source>
     <feed>https://cgit.gentoo.org/user/yoreek.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/user/yoreek.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/yoreek.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>zlogene</name>
@@ -5924,7 +5924,7 @@ FIN
     <!-- <source type="git">https://anongit.gentoo.org/git/dev/zlogene.git</source> -->
     <source type="git">git+ssh://git@git.gentoo.org/dev/zlogene.git</source>
     <feed>https://cgit.gentoo.org/dev/zlogene.git/atom/</feed>
-    <feed>https://cgit.gentoo.org/dev/zlogene.git/rss/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/zlogene.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>zoobab</name>

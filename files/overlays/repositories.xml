@@ -1894,7 +1894,7 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>gmt</name>
     <description>User overlay</description>
-    <homepage>http://git.gentoo.org/gitweb/?=user/gmt.git/</homepage>
+    <homepage>https://cgit.gentoo.org/user/gmt.git/</homepage>
     <owner type="project">
       <email>gmt@be-evil.net</email>
       <name>Greg Turner</name>
@@ -2045,8 +2045,7 @@ FIN
     <name>halcy0n</name>
     <description><![CDATA[Various packages, probably some toolchain stuff
     though]]></description>
-    <homepage>
-    http://git.gentoo.org/gitweb/?p=dev/halcy0n.git;a=summary</homepage>
+    <homepage>http://cgit.gentoo.org/dev/halcy0n.git/</homepage>
     <owner type="person">
       <email>halcy0n@gentoo.org</email>
       <name>Mark Loeser</name>
@@ -2218,8 +2217,7 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>ikelos</name>
     <description><![CDATA[Ikelos's hospice for broken and damaged ebuilds.]]></description>
-    <homepage>
-    http://git.gentoo.org/gitweb/?p=dev/ikelos.git;a=summary</homepage>
+    <homepage>https://cgit.gentoo.org/dev/ikelos.git/</homepage>
     <owner>
       <email>ikelos@gentoo.org</email>
       <name>Mike Auty</name>

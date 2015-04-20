@@ -2024,7 +2024,7 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>haarp</name>
     <description lang="en"><![CDATA[misc ebuilds that aren't in the main tree]]></description>
-    <homepage>http://gitweb.gentoo.org/user/haarp.git/</homepage>
+    <homepage>https://cgit.gentoo.org/user/haarp.git/</homepage>
     <owner type="person">
       <email>main.haarp@gmail.com</email>
       <name>haarp</name>
@@ -2754,7 +2754,7 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>lmiphay</name>
     <description lang="en"><![CDATA[Personal overlay of Paul Healy]]></description>
-    <homepage>http://gitweb.gentoo.org/user/lmiphay.git/</homepage>
+    <homepage>https://cgit.gentoo.org/user/lmiphay.git/</homepage>
     <owner type="person">
       <email>lmiphay@gmail.com</email>
       <name>Paul Healy</name>

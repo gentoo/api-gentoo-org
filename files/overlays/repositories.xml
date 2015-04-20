@@ -542,7 +542,7 @@ FIN
   <repo quality="experimental" status="official">
     <name>betelgeuse</name>
     <description><![CDATA[Betelgeuse's developer overlay]]></description>
-    <homepage>https://overlays.gentoo.org/dev/betelgeuse</homepage>
+    <homepage>https://cgit.gentoo.org/dev/betelgeuse.git/</homepage>
     <owner>
       <email>betelgeuse@gentoo.org</email>
       <name><![CDATA[Petteri Räty]]></name>
@@ -3660,7 +3660,7 @@ FIN
     <name>perl-experimental</name>
     <description><![CDATA[Experimental ebuilds for Perl packages in Gentoo. Comments and
     bugreports are welcome!]]></description>
-    <homepage>http://overlays.gentoo.org/proj/perl/</homepage>
+    <homepage>https://cgit.gentoo.org/proj/perl-overlay.git/</homepage>
     <owner type="project">
       <email>perl@gentoo.org</email>
       <name>Perl Team</name>
@@ -4269,7 +4269,7 @@ FIN
   <repo quality="experimental" status="official">
     <name>ruby</name>
     <description>Experimental ebuilds from the Ruby edge.</description>
-    <homepage>http://overlays.gentoo.org/proj/ruby/wiki</homepage>
+    <homepage>https://cgit.gentoo.org/proj/ruby</homepage>
     <owner type="project">
       <email>ruby@gentoo.org</email>
       <name>Ruby Team</name>
@@ -4894,7 +4894,7 @@ FIN
   <repo quality="experimental" status="official">
     <name>sunrise</name>
     <description>Ebuilds for bugs assigned to maintainer-wanted</description>
-    <homepage>http://overlays.gentoo.org/proj/sunrise</homepage>
+    <homepage>https://cgit.gentoo.org/proj/sunrise-reviewed.git/</homepage>
     <owner type="project">
       <email>sunrise@gentoo.org</email>
     </owner>
@@ -5775,7 +5775,7 @@ FIN
     <name>xfce-dev</name>
     <description><![CDATA[Experimental ebuilds for the Xfce4 Desktop
     Environment]]></description>
-    <homepage>http://overlays.gentoo.org/proj/xfce/wiki</homepage>
+    <homepage>https://cgit.gentoo.org/proj/xfce.git/</homepage>
     <owner type="project">
       <email>xfce@gentoo.org</email>
       <name>XFCE team</name>

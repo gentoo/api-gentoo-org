@@ -16,6 +16,21 @@ SYN
     <feed>XXXXXXXXX</feed>
   </repo>
 
+* GENTOO TEMPLATE
+  <repo quality="experimental" status="unofficial">
+    <name>XXXXX</name>
+    <description lang="en">XXXXXX</description>
+    <homepage>https://cgit.gentoo.org/XXXX/xxxx</homepage>
+    <owner type="person">
+      <email>XXXXX</email>
+      <name>XXXXX</name>
+    </owner>
+    <source type="git">https://anongit.gentoo.org/git/XXXX/xxxx.git</source>
+    <source type="git">git://anongit.gentoo.org/XXXX/xxxx.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/XXXX/xxxx.git</source>
+    <feed>https://cgit.gentoo.org/XXXX/xxxx/atom/</feed>
+  </repo>
+
 * GITHUB TEMPLATE
   <repo quality="experimental" status="unofficial">
     <name>XXXXX</name>

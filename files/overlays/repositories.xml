@@ -1313,6 +1313,19 @@ FIN
     <feed>https://github.com/pimvullers/elementary/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ennui</name>
+    <description>Facilitate running hardened-desktop hybrid system</description>
+    <homepage>https://gitweb.gentoo.org/user/ennui.git/</homepage>
+    <owner>
+      <name>Nicholas Fish</name>
+      <email>gentoo@seaofdirac.net</email>
+    </owner>
+    <source type="git">https://anongit.gentoo.org/git/user/ennui.git</source>
+    <source type="git">git://anongit.gentoo.org/user/ennui.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/user/ennui.git</source>
+    <feed>https://gitweb.gentoo.org/user/ennui.git/atom/</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ephemeral</name>
     <description lang="en">Some roguelikes, perl modules, themes, multimedia and other utilities</description>
     <homepage>http://github.com/joshuar/ephemeral-gentoo-overlay/tree/master</homepage>

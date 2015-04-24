@@ -3384,6 +3384,16 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/user/nico.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>nightmare</name>
+    <description lang="en">nightmare is a gentoo overlay with some stuff</description>
+    <homepage>https://gitlab.com/r3lgar/nightmare</homepage>
+    <owner type="person">
+      <email>r3lgar@openmailbox.org</email>
+      <name>r3lgar</name>
+    </owner>
+    <source type="git">https://gitlab.com/r3lgar/nightmare.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>nigoro-fbsd</name>
     <description>nigoro's Gentoo/FreeBSD experimental overlay</description>
     <homepage>https://github.com/nigoro/amd64-fbsd/</homepage>

@@ -1719,6 +1719,20 @@
             "Markus Meier <maekke@gentoo.org>"
         ]
     }, 
+    "maffblaster": {
+        "fingerprint": [
+            "B9BA1514FFBDAEB2FC8C14BA7656DA1BCB1ED4F1"
+        ], 
+        "keydir": "maffblaster", 
+        "keys": [
+            "B9BA1514FFBDAEB2FC8C14BA7656DA1BCB1ED4F1"
+        ], 
+        "name": "Matthew Marchese", 
+        "nick": "maffblaster", 
+        "uid": [
+            "Matthew Marchese <maffblaster@gentoo.org>"
+        ]
+    }, 
     "maksbotan": {
         "fingerprint": [
             "B9333A89FF111CA6EB5C5031098998C5F8DBDADE"

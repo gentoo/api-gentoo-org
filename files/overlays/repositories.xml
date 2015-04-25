@@ -655,20 +655,6 @@ FIN
     <source type="git">git@github.com:fearedbliss/bliss-overlay.git</source>
     <feed>https://github.com/fearedbliss/bliss-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>blueicefield</name>
-    <description lang="en">Overlay for some packages specific to web servers (PECL, Mongo..)</description>
-    <homepage>https://cgit.gentoo.org/user/blueicefield.git/</homepage>
-    <owner type="person">
-      <email>nassim.kacha@blueicefield.com</email>
-      <name>Nassim KACHA</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/blueicefield.git</source>
-    <source type="git">https://anongit.gentoo.org/git/user/blueicefield.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/blueicefield.git</source>
-    <feed>https://cgit.gentoo.org/user/blueicefield.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/blueicefield.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="official">
     <name>blueness</name>
     <description>Developer Overlay</description>

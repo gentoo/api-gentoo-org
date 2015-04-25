@@ -4529,20 +4529,6 @@ FIN
     <feed>ttps://github.com/vonavi/seeds/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>seemant</name>
-    <description><![CDATA[Seemant's development overlay for django and other
-    things.]]></description>
-    <homepage>https://cgit.gentoo.org/dev/seemant.git/</homepage>
-    <owner>
-      <email>seemant@gentoo.org</email>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/dev/seemant.git</source>
-    <source type="git">https://anongit.gentoo.org/git/dev/seemant.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/seemant.git</source>
-    <feed>https://cgit.gentoo.org/dev/seemant.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/seemant.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>sekh</name>
     <description lang="en"><![CDATA[sekh's overlay]]></description>
     <homepage>https://cgit.gentoo.org/user/sekh.git/</homepage>

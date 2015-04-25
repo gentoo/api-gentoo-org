@@ -5439,20 +5439,6 @@ FIN
     <feed>https://cgit.gentoo.org/user/vmacs.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/vmacs.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>vmalov</name>
-    <description lang="en"><![CDATA[vmalov's gentoo overlay]]></description>
-    <homepage>https://cgit.gentoo.org/user/vmalov.git/</homepage>
-    <owner type="person">
-      <email>malvikus@gmail.com</email>
-      <name>Victor Malov</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/vmalov.git</source>
-    <source type="git">https://anongit.gentoo.org/git/user/vmalov.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/vmalov.git</source>
-    <feed>https://cgit.gentoo.org/user/vmalov.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/vmalov.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="official">
     <name>vmware</name>
     <description>VMware desktop ebuilds</description>

@@ -3607,20 +3607,6 @@ FIN
     <feed>https://cgit.gentoo.org/proj/pandaboard.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/pandaboard.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>paragon</name>
-    <description lang="en">Oldies, raries, ownies, get organized</description>
-    <homepage>https://cgit.gentoo.org/user/paragon.git/</homepage>
-    <owner type="person">
-      <email>octavsly@gmail.com</email>
-      <name>Octavian Petre</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/paragon.git</source>
-    <source type="git">https://anongit.gentoo.org/git/user/paragon.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/paragon.git</source>
-    <feed>https://cgit.gentoo.org/user/paragon.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/paragon.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="official">
     <name>pchrist</name>
     <description>Panagiotis Christopoulos developer overlay</description>

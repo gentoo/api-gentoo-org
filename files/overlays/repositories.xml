@@ -3084,20 +3084,6 @@ FIN
     <source type="git">https://gitlab.com/mooyooma-overlay/mooyooma-overlay.git</source>
   </repo>
   <repo quality="experimental" status="official">
-    <name>moult</name>
-    <description lang="en">Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/moult.git/</homepage>
-    <owner type="person">
-      <email>moult@gentoo.org</email>
-      <name>Dion Moult</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/dev/moult.git</source>
-    <source type="git">https://anongit.gentoo.org/git/dev/moult.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/moult.git</source>
-    <feed>https://cgit.gentoo.org/dev/moult.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/moult.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="official">
     <name>mozilla</name>
     <description>New mozilla development that is not yet in tree</description>
     <homepage>https://cgit.gentoo.org/proj/mozilla.git</homepage>

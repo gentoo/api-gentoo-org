@@ -968,20 +968,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/darkside.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
-    <name>deathwing00</name>
-    <description><![CDATA[Experimental ebuilds from the private overlay of Ioannis
-    Aslanidis [deathwing00@gentoo.org].]]></description>
-    <homepage>https://cgit.gentoo.org/dev/deathwing00.git/</homepage>
-    <owner>
-      <email>deathwing00@gentoo.org</email>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/dev/deathwing00.git</source>
-    <source type="git">https://anongit.gentoo.org/git/dev/deathwing00.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/deathwing00.git</source>
-    <!-- <feed>https://cgit.gentoo.org/dev/deathwing00.git/rss/</feed> -->
-    <feed>https://cgit.gentoo.org/dev/deathwing00.git/atom/</feed>
-  </repo>
-  <repo quality="experimental" status="official">
     <name>desktop-effects</name>
     <description><![CDATA[Experimental overlay for desktop effects
     packages.]]></description>

@@ -3841,19 +3841,6 @@ FIN
     <feed>https://cgit.gentoo.org/proj/postgresql/testing.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/postgresql/testing.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="official">
-    <name>powerpc</name>
-    <description>Support for PowerPC-based ebuilds that are not appropriate for the portage tree.</description>
-    <homepage>https://cgit.gentoo.org/proj/powerpc.git/</homepage>
-    <owner>
-      <email>ranger@gentoo.org</email>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/powerpc.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/powerpc.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/powerpc.git</source>
-    <feed>https://cgit.gentoo.org/proj/powerpc.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/powerpc.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>powerman</name>
     <description>Overlay of Alex Efros</description>

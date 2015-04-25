@@ -1862,15 +1862,6 @@ FIN
     <feed>https://github.com/microcai/gentoo-zh/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>gentosh-ac100</name>
-    <description lang="en">Utilities and workarounds for Gentoo on the Toshiba AC100</description>
-    <homepage>http://gitorious.org/gentosh-ac100/pages/Home</homepage>
-    <owner type="person">
-      <email>gentosh.ac100@gmail.com</email>
-    </owner>
-    <source type="git">https://git.gitorious.org/gentosh-ac100/ac100-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>gentroid</name>
     <description lang="en">Bring Android back home to Linux.</description>
     <homepage>https://code.google.com/p/gentroid/source/browse/?repo=portage</homepage>

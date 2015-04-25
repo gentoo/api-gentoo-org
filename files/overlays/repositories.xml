@@ -2895,16 +2895,6 @@ FIN
     <source type="svn">svn://svn.dashjr.org/luke-portage-overlay/trunk</source>
   </repo>
   <repo quality="experimental" status="official">
-    <name>m68k</name>
-    <description>m68k team overlay</description>
-    <homepage>https://cgit.gentoo.org/proj/m68k.git</homepage>
-    <owner>
-      <email>m68k@gentoo.org</email>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/proj/m68k.git</source>
-    <feed>https://cgit.gentoo.org/proj/m68k.git/atom/</feed>
-  </repo>
-  <repo quality="experimental" status="official">
     <name>maekke</name>
     <description>Markus Meier developer overlay</description>
     <homepage>https://cgit.gentoo.org/dev/maekke.git</homepage>

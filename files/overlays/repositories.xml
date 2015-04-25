@@ -2959,7 +2959,7 @@ FIN
     <feed>http://github.com/feeds/maggu2810/commits/maggu2810-overlay/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>mate-overlay</name>
+    <name>mate</name>
     <description><![CDATA[Sabayon MATE (GNOME fork) ebuilds that could be
     upstreamed at some point in future (when GNOME2 will be dropped
     from the main tree).

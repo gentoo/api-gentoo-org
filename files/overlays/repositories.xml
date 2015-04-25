@@ -322,7 +322,7 @@ FIN
     <feed>https://github.com/anyc/anyc-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>arax-overlay</name>
+    <name>arax-os-overlay</name>
     <description lang="en">Arax OS overlay</description>
     <homepage>https://github.com/arax-os/overlay</homepage>
     <owner type="person">

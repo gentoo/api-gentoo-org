@@ -2010,6 +2010,10 @@
   <maintainer>
     <email>vapier@gentoo.org</email>
   </maintainer>
+  <maintainer>
+    <email>blueness@gentoo.org</email>
+    <name>Anthony G. Basile</name>
+  </maintainer>
 </herd>
 <herd>
   <name>gcc-porting</name>

@@ -2871,6 +2871,19 @@ FIN
     </owner>
     <source type="svn">svn://svn.dashjr.org/luke-portage-overlay/trunk</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>lxde-gtk3</name>
+    <description lang="en">lxde-gtk3 overlay</description>
+    <homepage>https://github.com/rilian-la-te/lxde-gtk3-overlay</homepage>
+    <owner type="person">
+      <email>ria.freelander@gmail.com</email>
+      <name>Konstantin</name>
+    </owner>
+    <source type="git">https://github.com/rilian-la-te/lxde-gtk3-overlay.git</source>
+    <source type="git">git://github.com/rilian-la-te/lxde-gtk3-overlay.git</source>
+    <source type="git">git@github.com:rilian-la-te/lxde-gtk3-overlay.git</source>
+    <feed>https://github.com/rilian-la-te/lxde-gtk3-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>maekke</name>
     <description>Markus Meier developer overlay</description>

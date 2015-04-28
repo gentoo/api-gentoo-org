@@ -74,10 +74,6 @@
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.cites.uiuc.edu/pub/gentoo/</uri>
     </mirror>
     <mirror>
-      <name>Walla Walla University</name>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.wallawalla.edu/pub/mirrors/ftp.gentoo.org</uri>
-    </mirror>
-    <mirror>
       <name>Michigan Tech University</name>
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://lug.mtu.edu/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://lug.mtu.edu/gentoo/</uri>

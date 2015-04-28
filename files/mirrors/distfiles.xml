@@ -85,7 +85,6 @@
     <mirror>
       <name>University of Delaware, Delaware Linux Users Group</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.lug.udel.edu/pub/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.lug.udel.edu/pub/gentoo/</uri>
     </mirror>
     <mirror>
       <name>Rochester Institute of Technology</name>

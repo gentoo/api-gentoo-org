@@ -1,10 +1,6 @@
 <mirrors>
   <mirrorgroup region="North America" country="CA" countryname="Canada">
     <mirror>
-      <name>Arctic Network Mirrors</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.arcticnetwork.ca/</uri>
-    </mirror>
-    <mirror>
       <name>Tera-byte Dot Com Inc</name>
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://mirrors.tera-byte.com/pub/gentoo</uri>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirrors.tera-byte.com/</uri>

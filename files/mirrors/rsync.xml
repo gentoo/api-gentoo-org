@@ -20,10 +20,6 @@
       <name>University of Waterloo - rsync4.ca.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync4.ca.gentoo.org</uri>
     </mirror>
-    <mirror>
-      <name>Arctic Network Mirrors - rsync5.ca.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync5.ca.gentoo.org</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="North America (rsync.namerica.gentoo.org)" country="US" countryname="USA">
     <mirror>

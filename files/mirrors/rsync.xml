@@ -291,10 +291,6 @@
       <name>Telcom ISP - rsync3.ua.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync3.ua.gentoo.org</uri>
     </mirror>
-    <mirror>
-      <name>portage.org.ua - rsync4.ua.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync4.ua.gentoo.org</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="UK" countryname="UK">
     <mirror>

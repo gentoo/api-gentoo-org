@@ -246,10 +246,6 @@
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.pt.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>Universidade do Minho - rsync1.pt.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.pt.gentoo.org</uri>
-    </mirror>
-    <mirror>
       <name>Rede das Novas Licenciaturas - rsync2.pt.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync2.pt.gentoo.org</uri>
     </mirror>

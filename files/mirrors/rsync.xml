@@ -147,11 +147,6 @@
       <name>RWTH Aachen University</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync15.de.gentoo.org</uri>
     </mirror>
-    <mirror>
-      <name>University of Applied Sciences Ostwestfalen Lippe -
-		rsync16.de.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync16.de.gentoo.org</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="FI" countryname="Finland">
     <mirror>

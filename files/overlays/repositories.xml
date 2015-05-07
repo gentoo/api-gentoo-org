@@ -282,10 +282,10 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>andy</name>
-    <description lang="en">Miscellaneous ebuilds, unmaintaned but useful</description>
+    <description lang="en">Development tools for embedded sytems and misc stuff</description>
     <homepage>https://cgit.gentoo.org/user/andy.git/</homepage>
     <owner type="person">
-      <email>andy@mailbox.tu-berlin.de</email>
+      <email>andy@ndyk.de</email>
       <name>Andrew Karpow</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/andy.git</source>

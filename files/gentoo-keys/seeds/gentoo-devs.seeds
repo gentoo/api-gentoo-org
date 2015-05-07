@@ -3229,6 +3229,20 @@
             "Richard Farina <zerochaos@gentoo.org>"
         ]
     }, 
+    "zlg": {
+        "fingerprint": [
+            "22D40497EFA7277359E054A8952B6F4F09818807"
+        ], 
+        "keydir": "zlg", 
+        "keys": [
+            "22D40497EFA7277359E054A8952B6F4F09818807"
+        ], 
+        "name": "Daniel Campbell", 
+        "nick": "zlg", 
+        "uid": [
+            "Daniel Campbell <zlg@gentoo.org>"
+        ]
+    }, 
     "zlogene": {
         "fingerprint": [
             "3BE50CBFC7DFC748D903B5D31BDC0E5AC42EB5D6"

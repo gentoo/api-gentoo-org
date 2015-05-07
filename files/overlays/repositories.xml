@@ -282,7 +282,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>andy</name>
-    <description lang="en">Development tools for embedded sytems and misc stuff</description>
+    <description lang="en">Development tools for embedded systems and misc stuff</description>
     <homepage>https://cgit.gentoo.org/user/andy.git/</homepage>
     <owner type="person">
       <email>andy@ndyk.de</email>

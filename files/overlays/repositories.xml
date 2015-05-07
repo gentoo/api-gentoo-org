@@ -4612,6 +4612,16 @@ FIN
     <feed>http://repo.or.cz/w/gentoo-soor-overlay.git?a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>sorinp</name>
+    <description lang="en">A collection of ebuilds that are missing or outdated or incomplete on the Gentoo portage official repository..</description>
+    <homepage>https://github.com/psihozefir/sorinp-gentoo-overlay</homepage>
+    <owner type="person">
+      <email>sorin.panca@gmail.com</email>
+      <name>Sorin Panca</name>
+    </owner>
+    <source type="git">https://github.com/psihozefir/sorinp-gentoo-overlay</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sortsmill</name>
     <description lang="en">Personal overlay of Barry Schwartz</description>
     <homepage>https://bitbucket.org/sortsmill/sortsmill-gentoo-overlay</homepage>

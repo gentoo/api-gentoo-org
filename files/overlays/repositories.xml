@@ -5142,15 +5142,6 @@ FIN
     <source type="svn">http://ubuntu-overlay.googlecode.com/svn/trunk/</source>
     <feed>https://code.google.com/feeds/p/ubuntu-overlay/svnchanges/basic</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>udev</name>
-    <description lang="en">Overlay on udev fork without systemd</description>
-    <homepage>https://bitbucket.org/braindamaged/udev-overlay</homepage>
-    <owner type="person">
-      <email>sickmind@lavabit.com</email>
-    </owner>
-    <source type="git">https://bitbucket.org/braindamaged/udev-overlay.git</source>
-  </repo>
   <repo quality="experimental" status="official">
     <name>ulm</name>
     <description>Developer overlay</description>

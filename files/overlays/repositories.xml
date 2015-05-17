@@ -4195,13 +4195,12 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>roslin</name>
     <description><![CDATA[This is roslin, my small overlay. Enjoy! (:]]></description>
-    <homepage>http://gitorious.org/roslin/roslin</homepage>
+    <homepage>https://gitlab.com/roslin-uberlay/roslin</homepage>
     <owner>
       <email>lazy_bum@o2.pl</email>
       <name>Piotr Szymaniak</name>
     </owner>
-    <source type="git">https://git.gitorious.org/roslin/roslin.git</source>
-    <feed>http://gitorious.org/roslin/roslin.atom</feed>
+    <source type="git">https://gitlab.com/roslin-uberlay/roslin.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>R_Overlay</name>

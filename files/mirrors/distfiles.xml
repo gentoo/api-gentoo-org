@@ -427,11 +427,6 @@
       <name>Netease.com, Inc.</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.163.com/gentoo/</uri>
     </mirror>
-    <mirror>
-      <name>Star Studio of UESTC</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.stuhome.net/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://mirrors.stuhome.net/gentoo/</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia" country="HK" countryname="Hong Kong">
     <mirror>

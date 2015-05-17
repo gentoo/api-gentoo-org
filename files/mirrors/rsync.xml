@@ -324,10 +324,6 @@
       <name>mirrors.xmu.edu.cn - rsync2.cn.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync2.cn.gentoo.org</uri>
     </mirror>
-    <mirror>
-      <name>mirrors.stuhome.net - rsync1.cn.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.cn.gentoo.org</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="JP" countryname="Japan">
     <mirror>

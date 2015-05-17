@@ -1718,6 +1718,16 @@ FIN
     <source type="git">git://github.com/FeiWongReed/fw-overlay.git</source>
     <feed>http://github.com/feeds/FeiWongReed/fw-overlay/master</feed>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>gamarouns</name>
+    <description>Bits and pieces missing in gentoo or layman repos I need</description>
+    <homepage>https://bitbucket.org/amaroun/gamarouns</homepage>
+    <owner type="project">
+        <email>vit.kasal@gmail.com</email>
+        <name>amaroun</name>
+    </owner>
+    <source type="mercurial">https://bitbucket.org/amaroun/gamarouns</source>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>gamerlay</name>
     <description><![CDATA[

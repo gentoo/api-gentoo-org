@@ -867,13 +867,12 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>daks</name>
     <description lang="en">Some useful ebuilds. Includes 1C-Predpriyatie and postgres with patches for work with 1C.</description>
-    <homepage>https://code.google.com/p/daks-overlay/</homepage>
+    <homepage>https://github.com/daks-ua/daks-overlay</homepage>
     <owner type="person">
       <email>daks12@gmail.com</email>
       <name>Dmitry Fomenko</name>
     </owner>
-    <source type="mercurial">https://code.google.com/p/daks-overlay/</source>
-    <feed>https://code.google.com/feeds/p/daks-overlay/hgchanges/basic</feed>
+    <source type="git">https://github.com/daks-ua/daks-overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>damex-overlay</name>

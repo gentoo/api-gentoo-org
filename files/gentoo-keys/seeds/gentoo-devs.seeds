@@ -2853,12 +2853,10 @@
     }, 
     "tomjbe": {
         "fingerprint": [
-            "D8E815F300A1FF59AD3620C841EE2EA9762053D5", 
             "4A43C2BA7293326011C2795624083D3E28343508"
         ], 
         "keydir": "tomjbe", 
         "keys": [
-            "D8E815F300A1FF59AD3620C841EE2EA9762053D5", 
             "4A43C2BA7293326011C2795624083D3E28343508"
         ], 
         "name": "Thomas Beierlein", 

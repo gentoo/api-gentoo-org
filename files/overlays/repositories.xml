@@ -5462,13 +5462,12 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>wavilen</name>
     <description lang="en">Overlay of Valen Tau</description>
-    <homepage>http://code.google.com/p/wavilen/</homepage>
+    <homepage>https://github.com/wavilen/wavilen-overlay</homepage>
     <owner type="person">
       <email>wavilen@gmail.com</email>
       <name>Valen Tau</name>
     </owner>
-    <source type="mercurial">https://wavilen.googlecode.com/hg/</source>
-    <feed>http://code.google.com/feeds/p/wavilen/hgchanges/basic</feed>
+    <source type="git">https://github.com/wavilen/wavilen-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>wbrana</name>

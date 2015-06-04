@@ -129,7 +129,7 @@ FIN
     <description><![CDATA[aidecoe's experimental overlay]]></description>
     <homepage>http://github.com/aidecoe/aidecoe-overlay/tree/master</homepage>
     <owner>
-      <email>aidecoe@aidecoe.name</email>
+      <email>aidecoe@gentoo.org</email>
       <name><![CDATA[Amadeusz Żołnowski]]></name>
     </owner>
     <source type="git">git://github.com/aidecoe/aidecoe-overlay.git</source>

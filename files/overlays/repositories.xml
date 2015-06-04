@@ -5087,7 +5087,7 @@ FIN
     <description>Tryton</description>
     <homepage>http://www.tryton.org/</homepage>
     <owner>
-      <email>cedric.krier@b2ck.com</email>
+      <email>cedk@gentoo.org</email>
     </owner>
     <source type="mercurial">http://www.tryton.org/hg/tryton-overlay/</source>
     <feed>http://hg.tryton.org/hgwebdir.cgi/tryton-overlay/atom-log</feed>

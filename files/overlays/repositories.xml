@@ -2627,8 +2627,8 @@ FIN
     <description lang="en">Personal overlay of Kron</description>
     <homepage>https://github.com/undying/krontage</homepage>
     <owner type="person">
-      <email>Kron</email>
-      <name>undying-m@yandex.by</name>
+      <email>undying-m@yandex.by</email>
+      <name>Kron</name>
     </owner>
     <source type="git">git://github.com/undying/krontage.git</source>
     <source type="git">https://github.com/undying/krontage.git</source>

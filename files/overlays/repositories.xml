@@ -1561,7 +1561,7 @@ FIN
     <description><![CDATA[floppym's personal overlay]]></description>
     <homepage>http://bitbucket.org/floppym/floppym-overlay</homepage>
     <owner>
-      <email>floppymaster@gmail.com</email>
+      <email>floppym@gentoo.org</email>
       <name>Mike Gilbert</name>
     </owner>
     <source type="git">https://bitbucket.org/floppym/floppym-overlay</source>
@@ -1746,7 +1746,7 @@ FIN
     <description lang="en">gentoo overlay containing games ebuilds only</description>
     <homepage>https://github.com/hasufell/games-overlay</homepage>
     <owner type="person">
-      <email>hasufell@posteo.de</email>
+      <email>hasufell@gentoo.org</email>
       <name>Julian Ospald</name>
     </owner>
     <source type="git">git://github.com/hasufell/games-overlay.git</source>
@@ -2578,7 +2578,7 @@ FIN
     <description lang="en">Ebuilds made and modified by klondike, mainly sound and virtualization</description>
     <homepage>https://cgit.gentoo.org/user/klondike.git/</homepage>
     <owner type="person">
-      <email>klondike@xiscosoft.es</email>
+      <email>klondike@gentoo.org</email>
       <name>Francisco Blas Izquierdo Riera</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/klondike.git</source>
@@ -3846,7 +3846,7 @@ FIN
     <description lang="en">Overlay for apps related to secure communication, cryptography and anonymity</description>
     <homepage>https://github.com/hasufell/prism-overlay</homepage>
     <owner type="person">
-      <email>hasufell@posteo.de</email>
+      <email>hasufell@gentoo.org</email>
       <name>Julian Ospald</name>
     </owner>
     <source type="git">git://github.com/hasufell/prism-overlay.git</source>
@@ -5125,7 +5125,7 @@ FIN
     <description lang="en">Experimental ebuilds</description>
     <homepage>https://github.com/twitch153/ebuilds</homepage>
     <owner type="person">
-      <email>twitch153@hotmail.com</email>
+      <email>twitch153@gentoo.org</email>
       <name>Devan Franchini</name>
     </owner>
     <source type="git">git://github.com/twitch153/ebuilds.git</source>
@@ -5796,7 +5796,7 @@ FIN
     <description lang="en"><![CDATA[Personal overlay of Jan Matějka]]></description>
     <homepage>https://github.com/yaccz/gentoo-overlay</homepage>
     <owner type="person">
-      <email>yac@blesmrt.net</email>
+      <email>yac@gentoo.org</email>
       <name><![CDATA[Jan Matějka]]></name>
     </owner>
     <source type="git">git://github.com/yaccz/gentoo-overlay.git</source>

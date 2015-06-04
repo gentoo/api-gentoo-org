@@ -3563,7 +3563,7 @@ FIN
     <description lang="en">User overlay</description>
     <homepage>https://cgit.gentoo.org/user/palmer.git/</homepage>
     <owner type="person">
-      <email>palmem@comcast.net</email>
+      <email>palmer@dabbelt.com</email>
       <name>Palmer Dabbelt</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/palmer.git</source>

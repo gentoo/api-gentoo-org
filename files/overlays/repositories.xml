@@ -2922,7 +2922,7 @@ FIN
     <description><![CDATA[maggu2810's Gentoo portage overlay.]]></description>
     <homepage>http://github.com/maggu2810/maggu2810-overlay</homepage>
     <owner>
-      <email>maggu2810@web.de</email>
+      <email>maggu2810@gmail.com</email>
       <name>Markus Rathgeb</name>
     </owner>
     <source type="git">git://github.com/maggu2810/maggu2810-overlay.git</source>

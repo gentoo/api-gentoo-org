@@ -466,7 +466,7 @@ FIN
     <description lang="en"><![CDATA[Peter's own software playground]]></description>
     <homepage>https://cgit.gentoo.org/user/AzP.git/</homepage>
     <owner type="person">
-      <email>peter.azp@gmail.com</email>
+      <email>peterasplund@gentoo.se</email>
       <name>Peter Asplund</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/AzP.git</source>

@@ -2652,7 +2652,10 @@ FIN
     <name>kvm</name>
     <description>Kernel Virtual Machine userspace support</description>
     <owner>
-      <email>dang@gentoo.org;cardoe@gentoo.org</email>
+      <email>dang@gentoo.org</email>
+    </owner>
+    <owner>
+      <email>cardoe@gentoo.org</email>
     </owner>
     <source type="git">git://github.com/dang/kvm.git</source>
     <feed>http://github.com/feeds/dang/commits/kvm/master</feed>

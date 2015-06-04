@@ -3177,7 +3177,7 @@ FIN
         or extensions/bugfixes for packages in the tree]]></description>
     <homepage>https://cgit.gentoo.org/user/mv.git</homepage>
     <owner type="person">
-      <email>vaeth@mathematik.uni-wuerzburg.de</email>
+      <email>martin@mvath.de</email>
       <name><![CDATA[Martin Väth]]></name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/mv.git</source>

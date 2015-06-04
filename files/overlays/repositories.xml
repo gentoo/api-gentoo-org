@@ -257,7 +257,7 @@ FIN
     <description lang="en"><![CDATA[anaximander's user overlay]]></description>
     <homepage>https://cgit.gentoo.org/user/anaximander.git/</homepage>
     <owner type="person">
-      <email>dominik.kriegner@aol.at</email>
+      <email>dominik.kriegner+gentoo@gmail.com</email>
       <name>Dominik Kriegner</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/anaximander.git</source>

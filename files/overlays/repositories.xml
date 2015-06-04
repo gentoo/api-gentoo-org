@@ -2277,7 +2277,7 @@ FIN
     <description lang="en">iXit overlay</description>
     <homepage>https://github.com/okias/ixit</homepage>
     <owner type="person">
-      <email>david.heidelberger@ixit.cz</email>
+      <email>david@ixit.cz</email>
       <name>David Heidelberger</name>
     </owner>
     <source type="git">git://github.com/okias/ixit.git</source>

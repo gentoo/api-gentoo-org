@@ -2470,8 +2470,8 @@ FIN
     <description lang="en">Gentoo repository made by Jorgicio.</description>
     <homepage>https://github.com/jorgicio/jorgicio-gentoo</homepage>
     <owner type="person">
-      <email>Jorge Pizarro Callejas</email>
-      <name>jpizarro@inf.utfsm.cl</name>
+      <email>jpizarro@inf.utfsm.cl</email>
+      <name>Jorge Pizarro Callejas</name>
     </owner>
     <source type="git">https://github.com/jorgicio/jorgicio-gentoo.git</source>
     <source type="git">git://github.com/jorgicio/jorgicio-gentoo.git</source>

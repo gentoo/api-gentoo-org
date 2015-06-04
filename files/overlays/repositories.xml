@@ -1402,7 +1402,7 @@ FIN
     <description lang="en">Personal overlay of Erik Moen</description>
     <homepage>https://cgit.gentoo.org/user/eroen.git/</homepage>
     <owner type="person">
-      <email>overlay@eroen.eu</email>
+      <email>gentoo@eroen.eu</email>
       <name>Erik Moen</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/eroen.git</source>
@@ -5556,7 +5556,7 @@ FIN
       <email>np.hardass@gmail.com</email>
     </owner>
     <owner type="person">
-      <email>gentoo-wine@eroen.eu</email>
+      <email>gentoo@eroen.eu</email>
     </owner>
     <source type="git">git://github.com/NP-Hardass/wine-a-holics.git</source>
     <source type="git">https://github.com/NP-Hardass/wine-a-holics.git</source>
@@ -5581,7 +5581,7 @@ FIN
       <email>np.hardass@gmail.com</email>
     </owner>
     <owner type="person">
-      <email>gentoo-wine@eroen.eu</email>
+      <email>gentoo@eroen.eu</email>
     </owner>
     <source type="git">git://github.com/NP-Hardass/wine-overlay.git</source>
     <source type="git">https://github.com/NP-Hardass/wine-overlay.git</source>

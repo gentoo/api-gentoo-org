@@ -1147,8 +1147,8 @@ FIN
     <description lang="en">Gentoo Layman portage repository for Jetbrains Products</description>
     <homepage>https://github.com/drdim/layman</homepage>
     <owner type="person">
-      <email>Bogatkin Dmitriy</email>
-      <name>dr.dim.pro@gmail.com</name>
+      <email>dr.dim.pro@gmail.com</email>
+      <name>Dmitriy Bogatkin</name>
     </owner>
     <source type="git">https://github.com/drdim/layman.git</source>
     <source type="git">git://github.com/drdim/layman.git</source>

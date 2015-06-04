@@ -1682,19 +1682,6 @@ FIN
     <feed>https://github.com/damex/funtoo-gambas/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>funtoo-overlay</name>
-    <description lang="en">Funtoo overlay (all funtoo ebuild/eclass changes in one place)</description>
-    <homepage>https://github.com/funtoo/funtoo-overlay</homepage>
-    <owner type="project">
-      <email>invalid@example.org</email>
-      <name>Funtoo Linux</name>
-    </owner>
-    <source type="git">git://github.com/funtoo/funtoo-overlay.git</source>
-    <source type="git">https://github.com/funtoo/funtoo-overlay.git</source>
-    <source type="git">git@github.com:funtoo/funtoo-overlay.git</source>
-    <feed>https://github.com/funtoo/funtoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>funtoo-tengine</name>
     <description lang="en">Tengine overlay for Funtoo Linux</description>
     <homepage>https://github.com/damex/funtoo-tengine</homepage>

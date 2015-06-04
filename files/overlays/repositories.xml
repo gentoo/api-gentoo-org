@@ -2123,7 +2123,7 @@ FIN
     <description lang="en">Gentoo user overlay</description>
     <homepage>https://github.com/Heather/gentoo-heather</homepage>
     <owner type="person">
-      <email>heather@cynede.net</email>
+      <email>cynede@gentoo.org</email>
       <name>Heather</name>
     </owner>
     <source type="git">git://github.com/Heather/gentoo-heather.git</source>
@@ -3632,7 +3632,7 @@ FIN
     <description lang="en">perl6 modules and tools</description>
     <homepage>https://github.com/Heather/gentoo-perl6</homepage>
     <owner type="person">
-      <email>heather@cynede.net</email>
+      <email>cynede@gentoo.org</email>
       <name>Heather</name>
     </owner>
     <source type="git">git://github.com/Heather/gentoo-perl6.git</source>
@@ -4255,7 +4255,7 @@ FIN
     <description lang="en">rust modules and tools</description>
     <homepage>https://github.com/Heather/gentoo-rust</homepage>
     <owner type="person">
-      <email>heather@cynede.net</email>
+      <email>cynede@gentoo.org</email>
       <name>Heather</name>
     </owner>
     <source type="git">git://github.com/Heather/gentoo-rust.git</source>

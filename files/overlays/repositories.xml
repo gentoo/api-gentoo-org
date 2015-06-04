@@ -2989,8 +2989,8 @@ FIN
     <description lang="de">Verschiedene ebuilds aus verschiedenen Quellen: selbsterstellte ebuilds, ebuilds mit geringfügigen Änderungen, gegenüber dem aktuellen Baum, ebuilds aus Gentoos Bugzilla, ebuilds mit erweiterten patches, alte ebuilds die nicht mehr im offiziellen Baum existieren, etc.</description>
     <homepage>http://gentoo-overlay.megacoffee.net</homepage>
     <owner type="person">
-      <email>MegaCoffee</email>
-      <name>gentoo-overlay@megacoffee.net</name>
+      <email>gentoo-overlay@megacoffee.net</email>
+      <name>MegaCoffee</name>
     </owner>
     <source type="mercurial">https://rhodecode.megacoffee.net/gentoo-overlay/main</source>
     <source type="mercurial">http://rhodecode.megacoffee.net/gentoo-overlay/main</source>

@@ -101,7 +101,7 @@ FIN
     <description lang="en"><![CDATA[Gentoo overlay for ebuilds related to 'hand-made' Active Home construction]]></description>
     <homepage>https://cgit.gentoo.org/user/activehome.git/</homepage>
     <owner type="person">
-      <email>mva@mva.name</email>
+      <email>gentoo@mva.name</email>
       <name>Vadim A. Misbakh-Soloviov (mva)</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/activehome.git</source>
@@ -709,7 +709,7 @@ FIN
     <description lang="en">Packages related to the bumblebee project</description>
     <homepage>https://github.com/Bumblebee-Project/bumblebee-gentoo/</homepage>
     <owner type="person">
-      <email>mva@mva.name</email>
+      <email>gentoo@mva.name</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://github.com/Bumblebee-Project/bumblebee-gentoo</source>
@@ -869,7 +869,7 @@ FIN
     <description lang="en">Fixed ebuilds for uclibc and other embedded systems</description>
     <homepage>https://github.com/alphallc/crossdev/</homepage>
     <owner type="person">
-      <email>mva@mva.name</email>
+      <email>gentoo@mva.name</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://github.com/alphallc/crossdev</source>
@@ -1630,7 +1630,7 @@ FIN
     <description lang="en">Freeswitch Gentoo overlay</description>
     <homepage>https://github.com/alphallc/freeswitch/</homepage>
     <owner type="person">
-      <email>mva@mva.name</email>
+      <email>gentoo@mva.name</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://github.com/alphallc/freeswitch</source>
@@ -1732,7 +1732,7 @@ FIN
   ]]></description>
     <homepage>https://cgit.gentoo.org/proj/gamerlay.git</homepage>
     <owner>
-      <email>mva@mva.name</email>
+      <email>gentoo@mva.name</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/proj/gamerlay.git</source>
@@ -3191,7 +3191,7 @@ FIN
     <description lang="en"><![CDATA[mva's sandbox overlay]]></description>
     <homepage>https://github.com/msva/mva-overlay/  </homepage>
     <owner type="person">
-      <email>mva@mva.name</email>
+      <email>gentoo@mva.name</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://github.com/msva/mva-overlay</source>

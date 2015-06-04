@@ -2602,7 +2602,7 @@ FIN
     <description lang="en">Cool, new, useful, and unmaintained packages</description>
     <homepage>https://cgit.gentoo.org/user/kork.git/</homepage>
     <owner type="person">
-      <email>hsggebhardt@googlemail.com</email>
+      <email>hsggebhardt@gmail.com</email>
       <name>Henry Gebhardt</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/kork.git</source>
@@ -4871,7 +4871,7 @@ FIN
     <description lang="en">User collaboration on ebuilds for the systemd init system</description>
     <homepage>https://cgit.gentoo.org/user/systemd.git/</homepage>
     <owner type="person">
-      <email>hsggebhardt@googlemail.com</email>
+      <email>hsggebhardt@gmail.com</email>
       <name>Henry Gebhardt</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/systemd.git</source>

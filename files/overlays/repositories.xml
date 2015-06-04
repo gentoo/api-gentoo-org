@@ -271,7 +271,7 @@ FIN
     <description>and3ks unstable ebuilds</description>
     <homepage>https://github.com/and3k/and3k-sunrise</homepage>
     <owner type="person">
-      <email>post@belahausmann.name</email>
+      <email>and@stuffit.at</email>
       <name>Bela Hausmann</name>
     </owner>
     <source type="git">https://github.com/and3k/and3k-sunrise.git</source>

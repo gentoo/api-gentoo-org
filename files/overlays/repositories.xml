@@ -4927,7 +4927,7 @@ FIN
     <description lang="en">TF201 (Asus Transformer Prime) overlay for Gentoo</description>
     <homepage>https://github.com/Tux1c/tf201-overlay</homepage>
     <owner type="person">
-      <email>tux1c@gmail.com</email>
+      <email>tux1cc@gmail.com</email>
       <name>Yan A.</name>
     </owner>
     <source type="git">https://github.com/Tux1c/tf201-overlay</source>

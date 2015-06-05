@@ -2592,7 +2592,7 @@ FIN
     <description lang="en">Gentoo ebuilds for Kolab</description>
     <homepage>https://wiki.awesome-it.de/kolab</homepage>
     <owner type="person">
-      <email>daniel.morlock@awesome-it.de</email>
+      <email>info@awesome-it.de</email>
       <name>Daniel Morlock</name>
     </owner>
     <source type="git">https://gitlab.awesome-it.de/overlays/kolab.git</source>

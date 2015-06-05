@@ -814,18 +814,6 @@ FIN
     <source type="git">https://github.com/chaoskagami/chaos-overlay.git</source>
     <feed>https://github.com/feeds/chaoskagami/commits/chaos-overlay/master</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>chromiumos</name>
-    <description>ChromiumOS overlay</description>
-    <homepage>http://git.chromium.org/gitweb/?p=chromiumos/overlays/chromiumos-overlay.git;a=summary</homepage>
-    <owner>
-      <email>anush@chromium.org</email>
-      <name>Anush Elangovan</name>
-    </owner>
-    <source type="git">http://git.chromium.org/chromiumos/overlays/chromiumos-overlay.git</source>
-    <feed>http://git.chromium.org/gitweb/?p=chromiumos/overlays/chromiumos-overlay.git;a=atom</feed>
-    <feed>http://git.chromium.org/gitweb/?p=chromiumos/overlays/chromiumos-overlay.git;a=rss</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>chutzpah</name>
     <description><![CDATA[Random stuff I am working on which isn't ready for the tree for some reason]]></description>

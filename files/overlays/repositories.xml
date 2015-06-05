@@ -2740,7 +2740,7 @@ FIN
     <description>experimental ebuilds from linuxunderground.be</description>
     <homepage>http://github.com/linuxunderground/gentoo.overlay</homepage>
     <owner>
-      <email>vincent@linuxunderground.be</email>
+      <email>vincent.hardy.be@gmail.com</email>
       <name>linuxunderground</name>
     </owner>
     <source type="git">git://github.com/linuxunderground/gentoo.overlay.git</source>

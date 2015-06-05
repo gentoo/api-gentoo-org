@@ -584,7 +584,7 @@ FIN
     <description lang="en">BibleTime overlay</description>
     <homepage>https://cgit.gentoo.org/user/bibletime.git/</homepage>
     <owner type="person">
-      <email>ristioja@gmail.com</email>
+      <email>jaak@ristioja.ee</email>
       <name>Jaak Ristioja</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/bibletime.git</source>

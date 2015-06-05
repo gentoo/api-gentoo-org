@@ -4418,7 +4418,7 @@ FIN
     <description lang="en">Portage overlay to maintain seafile ebuilds</description>
     <homepage>https://github.com/steveeJ/seafile-portage-overlay</homepage>
     <owner type="person">
-      <email>code@stefanjunker.de</email>
+      <email>mail@stefanjunker.de</email>
       <name>Stefan Junker</name>
     </owner>
     <source type="git">https://github.com/steveeJ/seafile-portage-overlay.git</source>
@@ -4767,7 +4767,7 @@ FIN
     <description lang="en">Personal overlay of Stefan Junker</description>
     <homepage>https://github.com/steveeJ/personal-portage-overlay</homepage>
     <owner type="person">
-      <email>code@stefanjunker.de</email>
+      <email>mail@stefanjunker.de</email>
       <name>Stefan Junker</name>
     </owner>
     <source type="git">https://github.com/steveeJ/personal-portage-overlay.git</source>

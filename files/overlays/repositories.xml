@@ -1524,7 +1524,7 @@ FIN
     <description><![CDATA[Flameeyes' private developer overlay]]></description>
     <homepage>http://blog.flameeyes.eu/</homepage>
     <owner>
-      <email>flameeyes@gmail.com</email>
+      <email>flameeyes@gentoo.org</email>
       <name><![CDATA[Diego Pettenò]]></name>
     </owner>
     <source type="git">git://anongit.gentoo.org/dev/flameeyes.git</source>

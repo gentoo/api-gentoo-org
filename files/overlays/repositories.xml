@@ -3515,7 +3515,7 @@ FIN
     <description lang="en">Ebuilds related to the ownCloud Sync Client</description>
     <homepage>https://github.com/Weuxel/portage-owncloud-client</homepage>
     <owner type="person">
-      <email>devel@smash-net.org</email>
+      <email>norman@smash-net.org</email>
       <name><![CDATA[Norman Rieß]]></name>
     </owner>
     <source type="git">git://github.com/Weuxel/portage-owncloud-client.git</source>
@@ -5504,7 +5504,7 @@ FIN
     <description>Weuxels Personal Overlay</description>
     <homepage>https://github.com/Weuxel/portage-weuxel</homepage>
     <owner>
-      <email>devel@smash-net.org</email>
+      <email>norman@smash-net.org</email>
       <name>Norman Rieß</name>
     </owner>
     <source type="git">https://github.com/Weuxel/portage-weuxel.git</source>

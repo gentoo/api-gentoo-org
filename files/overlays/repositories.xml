@@ -2227,7 +2227,7 @@ FIN
     <description lang="en"><![CDATA[Patches and patched ebuilds; xen and python bugs && bumps]]></description>
     <homepage>https://cgit.gentoo.org/user/improvise.git/</homepage>
     <owner type="person">
-      <email>della5@iinet.com.au</email>
+      <email>idella4@gentoo.org</email>
       <name>Ian Delaney</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/improvise.git</source>

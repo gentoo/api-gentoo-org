@@ -5640,7 +5640,7 @@ FIN
     <description><![CDATA[W. Trevor King's Overlay]]></description>
     <homepage>http://blog.tremily.us/posts/Gentoo_overlay/</homepage>
     <owner>
-      <email>wking@drexel.edu</email>
+      <email>wking@tremily.us</email>
       <name>W. Trevor King</name>
     </owner>
     <source type="git">git://tremily.us/wtk-overlay.git</source>

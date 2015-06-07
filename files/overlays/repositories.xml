@@ -5339,8 +5339,8 @@ FIN
     <description lang="en"><![CDATA[Viprea; a distribution based on Gentoo]]></description>
     <homepage>https://github.com/viprea/viprea-overlay</homepage>
     <owner type="person">
-      <email>oscailt@oscailtfoundation.org.uk</email>
-      <name>Haydania-Capri Hummel</name>
+      <email>gentoo@aoibh.in</email>
+      <name>Aoibhinn di Torí</name>
     </owner>
     <source type="git">git://github.com/viprea/viprea-overlay.git</source>
     <source type="git">https://github.com/viprea/viprea-overlay.git</source>

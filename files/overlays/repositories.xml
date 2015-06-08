@@ -2315,7 +2315,7 @@ FIN
     <description lang="en">Experimental ebuilds</description>
     <homepage>https://github.com/jauhien/jauhien-overlay</homepage>
     <owner type="person">
-      <email>piatlicki@gmail.com</email>
+      <email>jauhien@gentoo.org</email>
       <name>Jauhien Piatlicki</name>
     </owner>
     <source type="git">git://github.com/jauhien/jauhien-overlay.git</source>

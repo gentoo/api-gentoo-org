@@ -436,11 +436,6 @@
   </mirrorgroup>
   <mirrorgroup region="Asia" country="JP" countryname="Japan">
     <mirror>
-      <name>gg3.net</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.gg3.net/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gg3.net/pub/linux/gentoo/</uri>
-    </mirror>
-    <mirror>
       <name>Japan Advanced Institute of Science and Technology</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.jaist.ac.jp/pub/Linux/Gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://ftp.jaist.ac.jp/pub/Linux/Gentoo/</uri>

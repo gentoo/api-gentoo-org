@@ -420,10 +420,6 @@
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirrors.xmu.edu.cn/gentoo/</uri>
     </mirror>
     <mirror>
-      <name>Sohu.inc</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.sohu.com/gentoo/</uri>
-    </mirror>
-    <mirror>
       <name>Netease.com, Inc.</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.163.com/gentoo/</uri>
     </mirror>

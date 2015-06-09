@@ -78,10 +78,10 @@
       <name>Any available mirror - rsync.at.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.at.gentoo.org</uri>
     </mirror>
-    <mirror>
+    <!--<mirror>
       <name>Inode - rsync1.at.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.at.gentoo.org</uri>
-    </mirror>
+    </mirror>-->
     <mirror>
       <name>Lagis - rsync2.at.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync2.at.gentoo.org</uri>

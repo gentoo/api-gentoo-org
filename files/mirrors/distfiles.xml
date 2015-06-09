@@ -120,11 +120,11 @@
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="AT" countryname="Austria">
-    <mirror>
+      <!--<mirror>
       <name>Inode</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.inode.at/</uri>
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.inode.at/source/</uri>
-    </mirror>
+    </mirror>-->
     <mirror>
       <name>Vienna Univ. of Technology</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gd.tuwien.ac.at/opsys/linux/gentoo/</uri>

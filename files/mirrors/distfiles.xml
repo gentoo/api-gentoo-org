@@ -52,11 +52,6 @@
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.netnitco.net/pub/mirrors/gentoo/source/</uri>
     </mirror>
     <mirror>
-      <name>Semaphore Corporation</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://gentoo.llarian.net/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://gentoo.llarian.net/pub/gentoo</uri>
-    </mirror>
-    <mirror>
       <name>Utah State University</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.usu.edu/mirrors/gentoo/</uri>
     </mirror>

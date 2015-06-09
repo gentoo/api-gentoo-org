@@ -331,10 +331,6 @@
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.jp.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>gg3.net - rsync1.jp.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.jp.gentoo.org</uri>
-    </mirror>
-    <mirror>
       <name>Japan Advanced Institute of Science and Technology -
 		rsync3.jp.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync3.jp.gentoo.org</uri>

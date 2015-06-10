@@ -4508,7 +4508,7 @@ FIN
     <description>SFT Technologies gentoo overlay</description>
     <homepage>https://github.com/SFTtech/gentoo-overlay</homepage>
     <owner type="person">
-      <email>jj@sft.mx</email>
+      <email>jj@stusta.net</email>
       <name>Jonas Jelten</name>
     </owner>
     <source type="git">https://github.com/SFTtech/gentoo-overlay.git</source>

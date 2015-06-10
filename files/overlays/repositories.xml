@@ -1044,7 +1044,7 @@ FIN
     <description lang="en"><![CDATA[Dennis Lan's testing grounds and bleeding edge ebuilds]]></description>
     <homepage>https://github.com/dlanx/dlan-overlay/</homepage>
     <owner>
-      <email>dennis.yxun@gmail.org</email>
+      <email>dlan@gentoo.org</email>
       <name>Lan Yixun (dlan)</name>
     </owner>
     <source type="git">git://github.com/dlanx/dlan-overlay.git</source>

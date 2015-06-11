@@ -3144,6 +3144,20 @@ FIN
     <source type="git">git://anongit.gentoo.org/proj/multilib-portage.git</source>
   </repo>
   <repo quality="experimental" status="official">
+    <name>musl</name>
+    <description>musl development overlay</description>
+    <homepage>https://cgit.gentoo.org/proj/musl.git/</homepage>
+    <owner>
+      <email>musl@gentoo.org</email>
+      <name>Gentoo musl team</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/proj/musl.git</source>
+    <source type="git">https://anongit.gentoo.org/git/proj/musl.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/proj/musl.git</source>
+    <feed>https://cgit.gentoo.org/proj/musl.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/musl.git/rss/</feed> -->
+  </repo>
+  <repo quality="experimental" status="official">
     <name>multimedia</name>
     <description><![CDATA[Repository for development of (mostly bleeding-edge)
     multimedia packages for Gentoo Linux. This is the official overlay

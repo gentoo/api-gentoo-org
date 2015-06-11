@@ -4194,8 +4194,12 @@ FIN
     <description><![CDATA[This is roslin, my small overlay. Enjoy! (:]]></description>
     <homepage>https://gitlab.com/roslin-uberlay/roslin</homepage>
     <owner>
-      <email>lazy_bum@o2.pl</email>
+      <email>szarpaj@grubelek.pl</email>
       <name>Piotr Szymaniak</name>
+    </owner>
+    <owner>
+      <email>mziab@o2.pl</email>
+      <name>Michał Ziąbkowski</name>
     </owner>
     <source type="git">https://gitlab.com/roslin-uberlay/roslin.git</source>
   </repo>

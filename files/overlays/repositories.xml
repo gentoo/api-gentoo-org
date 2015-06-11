@@ -5076,8 +5076,7 @@ FIN
     <owner>
       <email>cedk@gentoo.org</email>
     </owner>
-    <source type="mercurial">http://www.tryton.org/hg/tryton-overlay/</source>
-    <feed>http://hg.tryton.org/hgwebdir.cgi/tryton-overlay/atom-log</feed>
+    <source type="mercurial">https://hg.tryton.org/tryton-overlay</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>turbogears2</name>

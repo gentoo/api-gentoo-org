@@ -94,13 +94,6 @@
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.mirrors.pair.com/</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="South America" country="AR" countryname="Argentina">
-    <mirror>
-      <name>LocalHost Soluciones Innovadoras</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.localhost.net.ar/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://mirrors.localhost.net.ar/pub/mirrors/gentoo/</uri>
-    </mirror>
-  </mirrorgroup>
   <mirrorgroup region="South America" country="BR" countryname="Brazil">
     <mirror>
       <name>Laboratory of System Administration</name>

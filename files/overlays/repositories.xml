@@ -3293,7 +3293,7 @@ FIN
     <description lang="en">Netcrave Communications Gentoo Overlay</description>
     <homepage>https://github.com/cloudkitsch/netcrave</homepage>
     <owner type="person">
-      <email>cloudkitsch@gmail.com</email>
+      <email>paigeadele@gmail.com</email>
       <name>Paige Thompson</name>
     </owner>
     <source type="git">https://github.com/cloudkitsch/netcrave.git</source>

@@ -3624,7 +3624,7 @@ FIN
     <description>The overlay contains new or updated security tools.</description>
     <homepage>http://www.pentoo.ch</homepage>
     <owner>
-      <email>zerochaos@pentoo.ch</email>
+      <email>zerochaos@gentoo.org</email>
     </owner>
     <source type="svn">https://pentoo.googlecode.com/svn/portage/trunk/</source>
   </repo>

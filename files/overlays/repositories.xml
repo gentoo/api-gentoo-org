@@ -442,7 +442,7 @@ FIN
     <description lang="en">Awesome ebuilds</description>
     <homepage>https://gitlab.awesome-it.de/overlays/awesome</homepage>
     <owner type="person">
-        <email>daniel.morlock@awesome-it.de</email>
+        <email>info@awesome-it.de</email>
         <name>Daniel Morlock</name>
     </owner>
     <source type="git">https://gitlab.awesome-it.de/overlays/awesome.git</source>

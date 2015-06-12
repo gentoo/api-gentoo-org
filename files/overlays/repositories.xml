@@ -397,7 +397,7 @@ FIN
     <description>3D light cycles, like the movie TRON</description>
     <homepage>http://armagetronad.net</homepage>
     <owner>
-      <email>luke_armagetron@dashjr.org</email>
+      <email>luke-jr+gentoobugs@utopios.org</email>
     </owner>
     <source type="svn">https://armagetronad.svn.sourceforge.net/svnroot/armagetronad/armagetronad/trunk/build/gentoo/overlay</source>
   </repo>
@@ -2859,7 +2859,7 @@ FIN
     <description>Misc ebuilds by Luke-Jr</description>
     <homepage>http://luke.dashjr.org</homepage>
     <owner>
-      <email>luke_armagetron@dashjr.org</email>
+      <email>luke-jr+gentoobugs@utopios.org</email>
     </owner>
     <source type="svn">svn://svn.dashjr.org/luke-portage-overlay/trunk</source>
   </repo>
@@ -3238,7 +3238,7 @@ FIN
     (N8x0)]]></description>
     <homepage>https://gitorious.org/handheld-gentoo-overlays/</homepage>
     <owner>
-      <email>luke_n8x0_overlay@dashjr.org</email>
+      <email>luke-jr+gentoobugs@utopios.org</email>
     </owner>
     <source type="git">https://git.gitorious.org/handheld-gentoo-overlays/n8x0.git</source>
   </repo>
@@ -3247,7 +3247,7 @@ FIN
     <description lang="en">Packages to support Nokia Internet Tablets (N900)</description>
     <homepage>http://luke.dashjr.org/programs/gentoo-n900</homepage>
     <owner type="person">
-      <email>luke_n900_overlay@dashjr.org</email>
+      <email>luke-jr+gentoobugs@utopios.org</email>
       <name>Luke-Jr</name>
     </owner>
     <source type="git">git://git.dashjr.org/var/scmroot/git/portage-overlays/n900</source>

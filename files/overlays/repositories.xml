@@ -1898,20 +1898,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/gnome.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
-    <name>gnome-live</name>
-    <description>highly experimental gnome live ebuilds</description>
-    <homepage>https://cgit.gentoo.org/proj/gnome-live.git/</homepage>
-    <owner type="project">
-      <email>gnome@gentoo.org</email>
-      <name>GNOME team</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/proj/gnome-live.git</source>
-    <source type="git">https://anongit.gentoo.org/git/proj/gnome-live.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/gnome-live.git</source>
-    <feed>https://cgit.gentoo.org/proj/gnome-live.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/gnome-live.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="official">
     <name>gnustep</name>
     <description>Experimental ebuilds for GNUstep packages in Gentoo. Comments and bugreports are welcome!</description>
     <homepage>https://cgit.gentoo.org/proj/gnustep.git/</homepage>

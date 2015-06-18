@@ -1922,19 +1922,6 @@ FIN
     <source type="git">https://github.com/Godin/gentoo-overlay.git</source>
     <feed>https://github.com/Godin/gentoo-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>GoGooOS</name>
-    <description lang="en">GoGooOS portage overlay (MeeGo fork to Gentoo)</description>
-    <homepage>https://github.com/dudochkin-victor/gogooos</homepage>
-    <owner type="person">
-      <email>blacksmith@gogoo.ru</email>
-      <name>Dudochkin Victor</name>
-    </owner>
-    <source type="git">git://github.com/dudochkin-victor/gogooos.git</source>
-    <source type="git">https://github.com/dudochkin-victor/gogooos.git</source>
-    <source type="git">git@github.com:dudochkin-victor/gogooos.git</source>
-    <feed>https://github.com/dudochkin-victor/gogooos/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>gpe</name>
     <description>experimental gpe ebuilds</description>

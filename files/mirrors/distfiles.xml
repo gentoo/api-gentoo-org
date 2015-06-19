@@ -276,10 +276,6 @@
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.prz.rzeszow.pl</uri>
     </mirror>
     <mirror>
-      <name>Technical University of Opole</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.po.opole.pl</uri>
-    </mirror>
-    <mirror>
       <name>Warsaw University Of Technology</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirror.pw.edu.pl/</uri>
     </mirror>

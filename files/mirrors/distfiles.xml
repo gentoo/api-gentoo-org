@@ -257,11 +257,6 @@
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://ftp.snt.utwente.nl/gentoo</uri>
     </mirror>
     <mirror>
-      <name>Tiscali</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.tiscali.nl/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.tiscali.nl/pub/mirror/gentoo/</uri>
-    </mirror>
-    <mirror>
       <name>LeaseWeb</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.leaseweb.com/gentoo/</uri>
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirror.leaseweb.com/gentoo/</uri>

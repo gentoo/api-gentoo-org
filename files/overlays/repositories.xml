@@ -219,7 +219,7 @@ FIN
     <description>Overlay with focus on VDR and software that is not in Portage</description>
     <homepage>http://amielke.de/</homepage>
     <owner>
-      <email>overlay@amielke.de</email>
+      <email>gentoo@amielke.de</email>
       <name>Andreas Mielke</name>
     </owner>
     <source type="git">git://github.com/amielke/amielke-overlay.git</source>

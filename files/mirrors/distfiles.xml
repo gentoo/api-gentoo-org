@@ -364,11 +364,6 @@
       <name>ITEAM gentoo mirror</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.iteam.net.ua/</uri>
     </mirror>
-    <mirror>
-      <name>portage.org.ua</name>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://portage.org.ua/</uri>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://portage.org.ua/</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="UK" countryname="UK">
     <mirror>

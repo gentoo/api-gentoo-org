@@ -5658,7 +5658,7 @@ FIN
     <description>Raphaël Barrois' (Xelnor) Gentoo overlay.</description>
     <homepage>http://overlay.xelnor.net</homepage>
     <owner>
-      <email>overlay@xelnor.net</email>
+      <email>gentoo@xelnor.net</email>
     </owner>
     <source type="git">git://overlay.xelnor.net/overlay.git</source>
   </repo>

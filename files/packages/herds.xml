@@ -1390,6 +1390,10 @@
     Wine - System for running windows apps under Linux.
   </description>
   <maintainer>
+    <email>np-hardass@gentoo.org</email>
+    <name>NP-Hardass</name>
+  </maintainer>
+  <maintainer>
     <email>ryao@gentoo.org</email>
     <name>Richard Yao</name>
   </maintainer>

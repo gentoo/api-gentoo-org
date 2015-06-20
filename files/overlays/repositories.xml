@@ -2996,6 +2996,16 @@ FIN
     <feed>https://bitbucket.org/mknjc/mkeyoverlay/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>moaxcp</name>
+    <description lang="en">gentoo overlay for packages</description>
+    <homepage>https://github.com/moaxcp/moaxcp-gentoo-overlay</homepage>
+    <owner type="person">
+      <email>moaxcp@gmail.com</email>
+      <name>John Mercier</name>
+    </owner>
+    <source type="git">https://github.com/moaxcp/moaxcp-gentoo-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>moltonel</name>
     <description lang="en">Vincent de Phily's private overlay</description>
     <homepage>https://github.com/vincentdephily/moltonel-ebuilds/</homepage>

@@ -267,18 +267,6 @@ FIN
     <feed>https://github.com/and3k/and3k-sunrise/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>anderse</name>
-    <description lang="en"><![CDATA[Anders Evenrud's Gentoo/Funtoo Overlay]]></description>
-    <homepage>https://github.com/andersevenrud/anderse-overlay</homepage>
-    <owner type="person">
-      <email>andersevenrud@gmail.com</email>
-      <name>Anders Evenrud</name>
-    </owner>
-    <source type="git">git://github.com/andersevenrud/anderse-overlay.git</source>
-    <source type="git">https://github.com/andersevenrud/anderse-overlay.git</source>
-    <feed>https://github.com/andersevenrud/anderse-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>andy</name>
     <description lang="en">Development tools for embedded systems and misc stuff</description>
     <homepage>https://cgit.gentoo.org/user/andy.git/</homepage>
@@ -412,17 +400,6 @@ FIN
     <source type="git">git+ssh://git@git.gentoo.org/user/AstroFloyd.git</source>
     <feed>https://cgit.gentoo.org/user/AstroFloyd.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/AstroFloyd.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>asux</name>
-    <description lang="en"><![CDATA[asux' Gentoo overlay: collection of custom ebuilds]]></description>
-    <homepage>https://github.com/asux/asux-overlay</homepage>
-    <owner type="person">
-      <email>a.ulyanitsky@gmail.com</email>
-      <name>Oleksandr Ulianytskyi</name>
-    </owner>
-    <source type="git">git://github.com/asux/asux-overlay.git</source>
-    <feed>https://github.com/asux/asux-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>awesome</name>
@@ -741,20 +718,6 @@ FIN
     <source type="git">git://github.com/karolgrudzinski/c2p-overlay.git</source>
     <source type="git">git+ssh://git@github.com:karolgrudzinski/c2p-overlay.git</source>
     <feed>https://github.com/karolgrudzinski/c2p-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>caio</name>
-    <description lang="en"><![CDATA[Claudio's experimental ebuilds]]></description>
-    <homepage>https://cgit.gentoo.org/user/caio.git/</homepage>
-    <owner type="person">
-      <email>elcaio@gmail.com</email>
-      <name>Claudio Furrer</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/caio.git</source>
-    <source type="git">https://anongit.gentoo.org/git/user/caio.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/caio.git</source>
-    <feed>https://cgit.gentoo.org/user/caio.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/caio.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>calculate</name>
@@ -1767,16 +1730,6 @@ FIN
     <source type="rsync">rsync://rsync.gentoo.org/gentoo-portage</source>
     <source type="git">https://github.com/gentoo/gentoo-portage-rsync-mirror</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gentoo-arm</name>
-    <description>Gentoo ARM Overlay</description>
-    <homepage>http://gentooarm.powderluv.org/</homepage>
-    <owner>
-      <email>powderluv@powderluv.org</email>
-    </owner>
-    <source type="git">https://git.gitorious.org/gentoo-arm-overlay/gentoo-arm-overlay.git</source>
-    <feed>http://gitorious.org/gentoo-arm-overlay.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>gentoo-bsd</name>
     <description>Gentoo/BSD Project Overlay</description>
@@ -1815,16 +1768,6 @@ FIN
     <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-guis.git</source>
     <feed>https://cgit.gentoo.org/proj/gentoo-guis.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/gentoo-guis.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gentoojp</name>
-    <description><![CDATA[GentooJP provides custom ebuilds for Japanese Gentoo
-    users.]]></description>
-    <homepage>http://ebuild.gentoo.gr.jp/</homepage>
-    <owner>
-      <email>jp-admins@gentoo.gr.jp</email>
-    </owner>
-    <source type="git">git://github.com/gentoojp/gentoojp-overlay.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>gentoo-openbsd</name>
@@ -4192,20 +4135,6 @@ FIN
       <name>Denis Dupeyron</name>
     </owner>
     <source type="rsync">rsync://roverlay.dev.gentoo.org/roverlay</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>rubenqba</name>
-    <description lang="en">User overlay with miscellaneous ebuilds</description>
-    <homepage>https://cgit.gentoo.org/user/rubenqba.git/</homepage>
-    <owner type="person">
-      <email>ruben.bressler@cerpamid.co.cu</email>
-      <name><![CDATA[Rubén Bressler Camps]]></name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/rubenqba.git</source>
-    <source type="git">https://anongit.gentoo.org/git/user/rubenqba.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/rubenqba.git</source>
-    <feed>https://cgit.gentoo.org/user/rubenqba.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/rubenqba.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>ruby</name>

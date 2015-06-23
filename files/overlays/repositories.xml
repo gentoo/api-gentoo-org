@@ -3131,11 +3131,11 @@ FIN
     <name>n8x0</name>
     <description><![CDATA[Packages to support Nokia Internet Tablets
     (N8x0)]]></description>
-    <homepage>https://gitorious.org/handheld-gentoo-overlays/</homepage>
+    <homepage>https://gitlab.com/handheld-gentoo-overlays/n8x0</homepage>
     <owner>
       <email>luke-jr+gentoobugs@utopios.org</email>
     </owner>
-    <source type="git">https://git.gitorious.org/handheld-gentoo-overlays/n8x0.git</source>
+    <source type="git">https://gitlab.com/handheld-gentoo-overlays/n8x0.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>n900</name>

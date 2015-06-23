@@ -3809,20 +3809,6 @@ FIN
     <feed>https://github.com/zabuldon/psix-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>purak</name>
-    <description lang="en"><![CDATA[purak's overlay]]></description>
-    <homepage>https://cgit.gentoo.org/user/purak.git/</homepage>
-    <owner type="person">
-      <email>bburaksezer@gmail.com</email>
-      <name>Burak Sezer</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/purak.git</source>
-    <source type="git">https://anongit.gentoo.org/git/user/purak.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/purak.git</source>
-    <feed>https://cgit.gentoo.org/user/purak.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/purak.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>pypy_alice</name>
     <description lang="en">Personal User Overlay</description>
     <homepage>https://github.com/aliceinwire/overlay</homepage>

@@ -3386,7 +3386,7 @@ FIN
     <description>Gentoo overlay of Nick White (njw)</description>
     <homepage>http://git.njw.me.uk/cgit/cgit.cgi/njw-gentoo-local/</homepage>
     <owner>
-      <email>gentoo-overlay@njw.me.uk</email>
+      <email>gentoo@njw.me.uk</email>
     </owner>
     <source type="git">http://git.njw.me.uk/njw-gentoo-local.git</source>
     <feed>http://git.njw.me.uk/cgit/cgit.cgi/njw-gentoo-local/atom/?h=master</feed>

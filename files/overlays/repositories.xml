@@ -320,20 +320,6 @@ FIN
     <feed>https://github.com/arax-os/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>arc</name>
-    <description lang="en">User Overlay</description>
-    <homepage>https://cgit.gentoo.org/user/arc.git/</homepage>
-    <owner type="person">
-      <email>arcriley@gmail.com</email>
-      <name>Arc Riley</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/arc.git</source>
-    <source type="git">https://anongit.gentoo.org/git/user/arc.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/arc.git</source>
-    <feed>https://cgit.gentoo.org/user/arc.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/arc.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>archenroot</name>
     <description lang="en">ArchenROOT Gentoo Overlay</description>
     <homepage>https://github.com/archenroot/gentoo-overlay</homepage>

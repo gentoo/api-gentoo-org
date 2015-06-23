@@ -4190,20 +4190,6 @@ FIN
     <feed>https://github.com/feeds/Sabayon/commits/sabayon-distro/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>sabotageandi</name>
-    <description lang="en"><![CDATA[SabotageAndi's ebuilds (uTouch, E17, ..)]]></description>
-    <homepage>https://cgit.gentoo.org/user/sabotageandi.git/</homepage>
-    <owner type="person">
-      <email>sabotageandi@gmail.com</email>
-      <name>Andreas Willich</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/sabotageandi.git</source>
-    <source type="git">https://anongit.gentoo.org/git/user/sabotageandi.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/sabotageandi.git</source>
-    <feed>https://cgit.gentoo.org/user/sabotageandi.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/sabotageandi.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>sage-on-gentoo</name>
     <description>Split ebuilds for the Sage computer algebra system</description>
     <homepage>http://github.com/cschwan/sage-on-gentoo</homepage>

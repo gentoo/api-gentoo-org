@@ -3177,7 +3177,7 @@ FIN
     <description lang="en"><![CDATA[Nicolas Bigaouette's ebuilds]]></description>
     <homepage>https://github.com/nbigaouette/ebuilds/</homepage>
     <owner type="person">
-      <email>nbigaouette+ebuilds@gmail.com</email>
+      <email>nbigaouette@gmail.com</email>
       <name>Nicolas Bigaouette</name>
     </owner>
     <source type="git">git://github.com/nbigaouette/ebuilds.git</source>

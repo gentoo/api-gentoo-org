@@ -1811,17 +1811,6 @@ FIN
     </owner>
     <source type="git">https://gitlab.awesome-it.de/overlays/gitlab.git</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gmt</name>
-    <description>User overlay</description>
-    <homepage>https://cgit.gentoo.org/user/gmt.git/</homepage>
-    <owner type="project">
-      <email>gmt@be-evil.net</email>
-      <name>Greg Turner</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/gmt.git</source>
-    <feed>https://cgit.gentoo.org/user/gmt.git/atom/</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>gnome</name>
     <description>experimental gnome ebuilds</description>

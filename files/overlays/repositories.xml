@@ -1839,6 +1839,16 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/gnustep.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>go-overlay</name>
+    <description lang="en">Golang related ebuilds</description>
+    <homepage>https://github.com/Dr-Terrible/go-overlay</homepage>
+    <owner type="person">
+      <email>toffanin.mauro@gmail.com</email>
+      <name>Mauro Toffanin</name>
+    </owner>
+    <source type="git">https://github.com/Dr-Terrible/go-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>godin</name>
     <description lang="en"><![CDATA[Godin's Gentoo Overlay]]></description>
     <homepage>https://github.com/Godin/gentoo-overlay</homepage>

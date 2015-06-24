@@ -4919,11 +4919,11 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>trash</name>
     <description lang="en">Some ugly ebuilds</description>
-    <homepage>https://gitorious.org/batekman/trash-overlay/</homepage>
+    <homepage>https://github.com/batekman/trash-overlay</homepage>
     <owner type="person">
       <email>batekman@gmail.com</email>
     </owner>
-    <source type="git">https://gitorious.org/batekman/trash-overlay.git</source>
+    <source type="git">https://github.com/batekman/trash-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>triquetra</name>

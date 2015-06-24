@@ -3686,32 +3686,6 @@ FIN
     <source type="git">git@github.com:posativ/overlay.git</source>
     <feed>https://github.com/posativ/overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>postgresql-experimental</name>
-    <description>Development overlay for PostgreSQL, experimental branch.</description>
-    <homepage>https://cgit.gentoo.org/proj/postgresql/experimental.git/</homepage>
-    <owner>
-      <email>pgsql-bugs@gentoo.org</email>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/postgresql/experimental.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/postgresql/experimental.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/postgresql/experimental.git</source>
-    <feed>https://cgit.gentoo.org/proj/postgresql/experimental.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/postgresql/experimental.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>postgresql-testing</name>
-    <description>Development overlay for PostgreSQL, testing branch.</description>
-    <homepage>https://cgit.gentoo.org/proj/postgresql/testing.git/</homepage>
-    <owner>
-      <email>pgsql-bugs@gentoo.org</email>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/postgresql/testing.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/postgresql/testing.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/postgresql/testing.git</source>
-    <feed>https://cgit.gentoo.org/proj/postgresql/testing.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/postgresql/testing.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>powerman</name>
     <description>Overlay of Alex Efros</description>

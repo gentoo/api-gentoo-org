@@ -3112,7 +3112,7 @@ FIN
     server from novell on gentoo]]></description>
     <homepage>http://n4g.mars.arge.at</homepage>
     <owner>
-      <email>Mario-Fetka@gmx.at</email>
+      <email>mario.fetka@gmail.com</email>
     </owner>
     <source type="git">git://git.disconnected-by-peer.at/novell4gentoo/stable.git</source>
   </repo>
@@ -3122,7 +3122,7 @@ FIN
     server from novell on gentoo]]></description>
     <homepage>http://n4g.mars.arge.at</homepage>
     <owner>
-      <email>Mario-Fetka@gmx.at</email>
+      <email>mario.fetka@gmail.com</email>
     </owner>
     <source type="git">git://git.disconnected-by-peer.at/novell4gentoo/experimental.git</source>
   </repo>

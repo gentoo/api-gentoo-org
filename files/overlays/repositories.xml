@@ -1090,20 +1090,6 @@ FIN
     <feed>https://github.com/drdim/layman/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>drevilt</name>
-    <description lang="en"><![CDATA[Daniel Nagy's overlay]]></description>
-    <homepage>https://cgit.gentoo.org/user/drevilt.git/</homepage>
-    <owner type="person">
-      <email>DanielNagy@gmx.de</email>
-      <name>Daniel Nagy</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/drevilt.git</source>
-    <source type="git">https://anongit.gentoo.org/git/user/drevilt.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/drevilt.git</source>
-    <feed>https://cgit.gentoo.org/user/drevilt.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/drevilt.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>drizzt-overlay</name>
     <description><![CDATA[drizzt's overlay]]></description>
     <homepage>https://cgit.gentoo.org/dev/drizzt.git/</homepage>

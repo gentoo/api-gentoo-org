@@ -73,6 +73,9 @@
   <maintainer>
     <email>naota@gentoo.org</email>
   </maintainer>
+  <maintainer>
+    <email>NP-Hardass@gentoo.org</email>
+  </maintainer>
 </herd>
 <herd>
   <name>chromium</name>

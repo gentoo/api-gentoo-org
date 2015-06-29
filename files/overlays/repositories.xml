@@ -267,6 +267,16 @@ FIN
     <feed>https://github.com/and3k/and3k-sunrise/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>anders-larsson</name>
+    <description>A few packages that are not hosted elsewhere.</description>
+    <homepage>https://github.com/anders-larsson/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>andla@thethundertemplars.com</email>
+      <name>Anders Larsson</name>
+    </owner>
+    <source type="git">https://github.com/anders-larsson/gentoo-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>andy</name>
     <description lang="en">Development tools for embedded systems and misc stuff</description>
     <homepage>https://cgit.gentoo.org/user/andy.git/</homepage>

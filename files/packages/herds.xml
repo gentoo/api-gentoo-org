@@ -674,6 +674,9 @@
   <maintainer>
     <email>dberkholz@gentoo.org</email>
   </maintainer>
+  <maintainer>
+    <email>mrueg@gentoo.org</email>
+  </maintainer>
 </herd>
 <herd>
   <name>x11-drivers</name>

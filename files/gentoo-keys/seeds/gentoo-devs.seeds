@@ -1509,12 +1509,10 @@
     }, 
     "kensington": {
         "fingerprint": [
-            "95CE61EEE6E32FCC2AF01059C6F03BAB675D0D2C", 
             "B11105F58195265602FF3A486C9BEBEB3331F554"
         ], 
         "keydir": "kensington", 
         "keys": [
-            "95CE61EEE6E32FCC2AF01059C6F03BAB675D0D2C", 
             "B11105F58195265602FF3A486C9BEBEB3331F554"
         ], 
         "name": "Michael Palimaka", 

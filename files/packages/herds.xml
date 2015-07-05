@@ -248,6 +248,9 @@
   <maintainer>
     <email>lxqt@gentoo.org</email>
   </maintainer>
+  <maintainer>
+    <email>mate@gentoo.org</email>
+  </maintainer>
 </herd>
 <herd>
   <name>gnome</name>
@@ -441,6 +444,16 @@
     <email>mrueg@gentoo.org</email>
   </maintainer>
 </herd>
+<herd>
+  <name>mate</name>
+  <email>mate@gentoo.org</email>
+  <description>MATE Desktop and related packages</description>
+  <maintainer>
+    <email>NP-Hardass@gentoo.org</email>
+    <name>NP-Hardass</name>
+  </maintainer>
+</herd>
+
 <herd>
   <name>openstack</name>
   <email>openstack@gentoo.org</email>

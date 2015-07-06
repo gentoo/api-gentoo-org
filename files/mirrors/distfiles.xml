@@ -70,10 +70,6 @@
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://lug.mtu.edu/gentoo/</uri>
     </mirror>
     <mirror>
-      <name>Hoobly Classifieds</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirrors.hoobly.com/</uri>
-    </mirror>
-    <mirror>
       <name>University of Delaware, Delaware Linux Users Group</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.lug.udel.edu/pub/gentoo/</uri>
     </mirror>

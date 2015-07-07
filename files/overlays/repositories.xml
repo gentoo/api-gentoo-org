@@ -4457,6 +4457,16 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/user/triquetra.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>tristelune</name>
+    <description><![CDATA[Cédric's user overlay]]></description>
+    <homepage>https://github.com/tristelune1/tristelune-overlay</homepage>
+    <owner type="person">
+      <email>cmacquat@mykolab.com</email>
+      <name><![CDATA[Cédric]]></name>
+    </owner>
+    <source type="git">https://github.com/tristelune1/tristelune-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>tryton</name>
     <description>Tryton</description>
     <homepage>http://www.tryton.org/</homepage>

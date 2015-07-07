@@ -15,7 +15,6 @@ SYN
     <source type="git">XXXXXX</source>
     <feed>XXXXXXXXX</feed>
   </repo>
-
 * GENTOO TEMPLATE
   <repo quality="experimental" status="unofficial">
     <name>XXXXX</name>
@@ -30,7 +29,6 @@ SYN
     <source type="git">git+ssh://git@git.gentoo.org/XXXX/xxxx.git</source>
     <feed>https://cgit.gentoo.org/XXXX/xxxx/atom/</feed>
   </repo>
-
 * GITHUB TEMPLATE
   <repo quality="experimental" status="unofficial">
     <name>XXXXX</name>
@@ -45,7 +43,6 @@ SYN
     <source type="git">git@github.com:XXXX/xxxx.git</source>
     <feed>https://github.com/XXXX/xxxx/commits/master.atom</feed>
   </repo>
-
 * BITBUCKET TEMPLATE
   <repo quality="experimental" status="unofficial">
     <name>XXXX</name>
@@ -1904,16 +1901,6 @@ FIN
     <source type="git">https://github.com/pashazz/humble-overlay.git</source>
     <source type="git">git@github.com:pashazz/humble-overlay.git</source>
     <feed>https://github.com/pashazz/humble-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>ibormuth</name>
-    <description>Personal Overlay of Ingo Bormuth</description>
-    <homepage>http://repo.or.cz/w/gentoo-overlay-ibormuth.git</homepage>
-    <owner>
-      <email>ibormuth@efil.de</email>
-    </owner>
-    <source type="git">git://repo.or.cz/gentoo-overlay-ibormuth.git</source>
-    <feed>http://repo.or.cz/w/gentoo-overlay-ibormuth.git?a=rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ikelos</name>

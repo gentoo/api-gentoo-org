@@ -2030,7 +2030,7 @@ FIN
     <homepage>https://cgit.gentoo.org/user/hibiscus.git/</homepage>
     <owner type="person">
       <email>fabian.koester@posteo.de</email>
-      <name>Fabian K&#246;ster</name>
+      <name>Fabian Köster</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/hibiscus.git</source>
     <source type="git">https://anongit.gentoo.org/git/user/hibiscus.git</source>

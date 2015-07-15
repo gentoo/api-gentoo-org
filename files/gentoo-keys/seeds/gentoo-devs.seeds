@@ -673,11 +673,11 @@
     }, 
     "desultory": {
         "fingerprint": [
-            "66A84561CF8CA783C78693A284DAA694A8C5D9DB"
+            "3F69E14303D803067DDA1E671401EC3CC31C5F54"
         ], 
         "keydir": "desultory", 
         "keys": [
-            "66A84561CF8CA783C78693A284DAA694A8C5D9DB"
+            "3F69E14303D803067DDA1E671401EC3CC31C5F54"
         ], 
         "name": "Dean Stephens", 
         "nick": "desultory", 
@@ -2101,11 +2101,11 @@
     }, 
     "nixphoeni": {
         "fingerprint": [
-            "3C6CB2A17CA5A47F3EE832C6B83F7F4184E08386"
+            "5D3F1DDAB4CB682AB366B72E0015DC9F784ADCF5"
         ], 
         "keydir": "nixphoeni", 
         "keys": [
-            "3C6CB2A17CA5A47F3EE832C6B83F7F4184E08386"
+            "5D3F1DDAB4CB682AB366B72E0015DC9F784ADCF5"
         ], 
         "name": "Joe Sapp", 
         "nick": "nixphoeni", 

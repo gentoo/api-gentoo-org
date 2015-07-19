@@ -5053,11 +5053,11 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>yac</name>
-    <description lang="en"><![cdata[personal overlay of jan matějka]]></description>
+    <description lang="en"><![CDATA[personal overlay of jan matějka]]></description>
     <homepage>https://github.com/yaccz/gentoo-overlay</homepage>
     <owner type="person">
       <email>yac@gentoo.org</email>
-      <name><![cdata[jan matějka]]></name>
+      <name><![CDATA[jan matějka]]></name>
     </owner>
     <source type="git">git://github.com/yaccz/gentoo-overlay.git</source>
     <source type="git">https://github.com/yaccz/gentoo-overlay.git</source>

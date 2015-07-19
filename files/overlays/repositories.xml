@@ -5042,12 +5042,22 @@ FIN
     <source type="rsync">rsync://gentoo.xwing.info/xwing-overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>y2kbadbug</name>
+    <description lang="en">All ebuilds made by Daniel Shafer</description>
+    <homepage>https://github.com/y2kbadbug/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>daniel@danielshafer.name</email>
+      <name>Daniel Shafer</name>
+    </owner>
+    <source type="git">https://github.com/y2kbadbug/gentoo-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>yac</name>
-    <description lang="en"><![CDATA[Personal overlay of Jan Matějka]]></description>
+    <description lang="en"><![cdata[personal overlay of jan matějka]]></description>
     <homepage>https://github.com/yaccz/gentoo-overlay</homepage>
     <owner type="person">
       <email>yac@gentoo.org</email>
-      <name><![CDATA[Jan Matějka]]></name>
+      <name><![cdata[jan matějka]]></name>
     </owner>
     <source type="git">git://github.com/yaccz/gentoo-overlay.git</source>
     <source type="git">https://github.com/yaccz/gentoo-overlay.git</source>

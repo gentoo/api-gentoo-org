@@ -1573,11 +1573,11 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>geki</name>
     <description><![CDATA[The playground of gekis hacking on Gentoo Linux distribution.]]></description>
-    <homepage>https://code.google.com/p/gekis-playground/</homepage>
+    <homepage>https://github.com/geki-yaba/gekis-playground</homepage>
     <owner>
       <email>h.mth@web.de</email>
     </owner>
-    <source type="svn">http://gekis-playground.googlecode.com/svn/trunk/</source>
+    <source type="git">https://github.com/geki-yaba/gekis-playground.git</source>
   </repo>
   <repo quality="core" status="official">
     <name>gentoo</name>

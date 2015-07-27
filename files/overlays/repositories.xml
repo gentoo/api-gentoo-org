@@ -2288,19 +2288,6 @@ FIN
     <source type="git">git@github.com:undying/krontage.git</source>
     <feed>https://github.com/undying/krontage/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>LaraCraft93</name>
-    <description lang="en">Personal overlay of Lara Maia</description>
-    <homepage>https://github.com/LaraCraft93/Overlays</homepage>
-    <owner type="person">
-      <email>lara@craft.net.br</email>
-      <name>Lara Maia</name>
-    </owner>
-    <source type="git">https://github.com/LaraCraft93/Overlays.git</source>
-    <source type="git">git://github.com/LaraCraft93/Overlays.git</source>
-    <source type="git">git@github.com:LaraCraft93/Overlays.git</source>
-    <feed>https://github.com/LaraCraft93/Overlays/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>last-hope</name>
     <description>A gentoo portage overlay with a set of too exotic, or unusal ebuilds for the sunrise overlay or the main tree.</description>
@@ -3734,6 +3721,19 @@ FIN
     <source type="git">git+ssh://git@git.gentoo.org/user/rwald.git</source>
     <feed>https://cgit.gentoo.org/user/rwald.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/rwald.git/rss/</feed> -->
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>ShyPixie</name>
+    <description lang="en">Personal overlay of Lara Maia</description>
+    <homepage>https://github.com/ShyPixie/Overlays</homepage>
+    <owner type="person">
+      <email>dev@lara.click</email>
+      <name>Lara Maia</name>
+    </owner>
+    <source type="git">https://github.com/ShyPixie/Overlays.git</source>
+    <source type="git">git://github.com/ShyPixie/Overlays.git</source>
+    <source type="git">git@github.com:ShyPixie/Overlays.git</source>
+    <feed>https://github.com/ShyPixie/Overlays/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sabayon</name>

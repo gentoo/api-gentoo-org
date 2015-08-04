@@ -2161,6 +2161,16 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/user/jtriley.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>junkdrawer</name>
+    <description lang="en">Various development tools, libraries, and patches not in Gentoo (yet)</description>
+    <homepage>https://github.com/doctaweeks/junkdrawer-overlay</homepage>
+    <owner type="person">
+      <email>dan@danweeks.net</email>
+      <name>Daniel M. Weeks</name>
+    </owner>
+    <source type="git">https://github.com/doctaweeks/junkdrawer-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
       <name>k_f</name>
       <description><![CDATA[K_F's personal overlay]]></description>
       <homepage>http://git.sumptuouscapital.com/?p=portage-overlay.git;a=summary</homepage>

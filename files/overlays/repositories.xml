@@ -1253,7 +1253,7 @@ FIN
       <email>ext@sidvind.com</email>
       <name>David Sveningsson</name>
     </owner>
-    <source type="svn">svn://sidvind.com/overlays/ext-devlibs </source>
+    <source type="svn">svn://sidvind.com/overlays/ext-devlibs</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>eyolfson</name>

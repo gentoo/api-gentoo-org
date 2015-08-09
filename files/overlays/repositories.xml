@@ -2676,6 +2676,20 @@ FIN
     <feed>https://bitbucket.org/mknjc/mkeyoverlay/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>mklich</name>
+    <description lang="en">For learning purposes.</description>
+    <homepage>https://cgit.gentoo.org/user/mklich.git/</homepage>
+    <owner type="person">
+      <email>michal@michalklich.com</email>
+      <name>Michał Klich</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/user/mklich.git</source>
+    <source type="git">https://anongit.gentoo.org/git/user/mklich.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/user/mklich.git</source>
+    <feed>https://cgit.gentoo.org/user/mklich.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/mklich.git/rss/</feed> -->
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>moaxcp</name>
     <description lang="en">gentoo overlay for packages</description>
     <homepage>https://github.com/moaxcp/moaxcp-gentoo-overlay</homepage>

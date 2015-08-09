@@ -1601,7 +1601,10 @@ FIN
       <email>qa@gentoo.org</email>
     </owner>
     <source type="rsync">rsync://rsync.gentoo.org/gentoo-portage</source>
-    <source type="git">https://github.com/gentoo/gentoo-portage-rsync-mirror</source>
+    <source type="git">https://anongit.gentoo.org/git/repo/gentoo.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/gentoo.git</source>
+    <source type="git">git://anongit.gentoo.org/repo/gentoo.git</source>
+    <feed>https://cgit.gentoo.org/repo/gentoo.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>gentoo-bsd</name>

@@ -2230,12 +2230,14 @@
     "pesa": {
         "fingerprint": [
             "8E7AC01E36E39F8F972B2896D5CBB31C17A85C72", 
-            "394F80215ABF6B7915DFAFF01DDFE604617D1F94"
+            "394F80215ABF6B7915DFAFF01DDFE604617D1F94", 
+            "87F9BB3D803BDFF3179E2528DADED6B2671CB57D"
         ], 
         "keydir": "pesa", 
         "keys": [
             "8E7AC01E36E39F8F972B2896D5CBB31C17A85C72", 
-            "394F80215ABF6B7915DFAFF01DDFE604617D1F94"
+            "394F80215ABF6B7915DFAFF01DDFE604617D1F94", 
+            "87F9BB3D803BDFF3179E2528DADED6B2671CB57D"
         ], 
         "name": "Davide Pesavento", 
         "nick": "pesa", 
@@ -2511,11 +2513,13 @@
     }, 
     "robbat2": {
         "fingerprint": [
-            "11ACBA4F4778E3F6E4EDF38EB27B944E34884E85"
+            "11ACBA4F4778E3F6E4EDF38EB27B944E34884E85", 
+            "7D0B3CEBE9B85B1F825BCECFEE05E6F6A48F6136"
         ], 
         "keydir": "robbat2", 
         "keys": [
-            "11ACBA4F4778E3F6E4EDF38EB27B944E34884E85"
+            "11ACBA4F4778E3F6E4EDF38EB27B944E34884E85", 
+            "7D0B3CEBE9B85B1F825BCECFEE05E6F6A48F6136"
         ], 
         "name": "Robin H. Johnson", 
         "nick": "robbat2", 
@@ -2809,11 +2813,11 @@
     }, 
     "thev00d00": {
         "fingerprint": [
-            "E29ED7C93613033CCEA47CBF2CDC81B7C0822198"
+            "71CF5133F2CB73A13301678200AB281D28969B1F"
         ], 
         "keydir": "thev00d00", 
         "keys": [
-            "E29ED7C93613033CCEA47CBF2CDC81B7C0822198"
+            "71CF5133F2CB73A13301678200AB281D28969B1F"
         ], 
         "name": "Ian Whyman", 
         "nick": "thev00d00", 
@@ -3019,11 +3023,13 @@
     }, 
     "vapier": {
         "fingerprint": [
-            "B902B5271325F892AC251AD441633B9FE837F581"
+            "B902B5271325F892AC251AD441633B9FE837F581", 
+            "CA79895E8AE3CACF5672BE65F1AED436D2E96200"
         ], 
         "keydir": "vapier", 
         "keys": [
-            "B902B5271325F892AC251AD441633B9FE837F581"
+            "B902B5271325F892AC251AD441633B9FE837F581", 
+            "CA79895E8AE3CACF5672BE65F1AED436D2E96200"
         ], 
         "name": "Mike Frysinger", 
         "nick": "vapier", 
@@ -3175,11 +3181,11 @@
     }, 
     "xmw": {
         "fingerprint": [
-            "9243C33F2B9A423B8E72E981D60234D4C3F4435D"
+            "67B0837F8855C12235D40817927ADD0C62EEF090"
         ], 
         "keydir": "xmw", 
         "keys": [
-            "9243C33F2B9A423B8E72E981D60234D4C3F4435D"
+            "67B0837F8855C12235D40817927ADD0C62EEF090"
         ], 
         "name": "Michael Weber", 
         "nick": "xmw", 

@@ -3675,6 +3675,16 @@ FIN
     <feed>https://github.com/rich0/rich0-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>rinaldus-overlay</name>
+    <description>Rinaldus overlay</description>
+    <homepage>https://github.com/rinaldus/rinaldus-overlay</homepage>
+    <owner>
+      <email>forreg@rinaldus.ru</email>
+      <name>Rinaldus</name>
+    </owner>
+    <source type="git">https://github.com/rinaldus/rinaldus-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>rion</name>
     <description><![CDATA[Russian overlay with a some patched and specific
     software]]></description>

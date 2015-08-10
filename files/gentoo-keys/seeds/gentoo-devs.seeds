@@ -61,16 +61,16 @@
     }, 
     "aidecoe": {
         "fingerprint": [
-            "C700CEDE0C18212E49DA4653F0134531E1DBFAB5"
+            "AC6337A027243EFCCAD40C9AE420A389C19FB5B7"
         ], 
         "keydir": "aidecoe", 
         "keys": [
-            "C700CEDE0C18212E49DA4653F0134531E1DBFAB5"
+            "AC6337A027243EFCCAD40C9AE420A389C19FB5B7"
         ], 
-        "name": "Amadeusz \u017bo\u0142nowski", 
+        "name": "Amadeusz Piotr \u017bo\u0142nowski", 
         "nick": "aidecoe", 
         "uid": [
-            "Amadeusz \u017bo\u0142nowski <aidecoe@gentoo.org>"
+            "Amadeusz Piotr \u017bo\u0142nowski <aidecoe@gentoo.org>"
         ]
     }, 
     "alexxy": {
@@ -103,11 +103,13 @@
     }, 
     "alonbl": {
         "fingerprint": [
-            "E2B41E288BA9695B3DD56B5CDBA36CEDA27B3B1C"
+            "E2B41E288BA9695B3DD56B5CDBA36CEDA27B3B1C", 
+            "8A2FE85CFCA42D74480B4B235D893D18BF20DC51"
         ], 
         "keydir": "alonbl", 
         "keys": [
-            "E2B41E288BA9695B3DD56B5CDBA36CEDA27B3B1C"
+            "E2B41E288BA9695B3DD56B5CDBA36CEDA27B3B1C", 
+            "8A2FE85CFCA42D74480B4B235D893D18BF20DC51"
         ], 
         "name": "Alon Bar-Lev", 
         "nick": "alonbl", 
@@ -2883,11 +2885,13 @@
     }, 
     "tomka": {
         "fingerprint": [
-            "820F92B19207F3CD5E4D41673EBC47CA7A4A7D6B"
+            "820F92B19207F3CD5E4D41673EBC47CA7A4A7D6B", 
+            "29E47692837029B36CBB7F2089DEB219565C32BC"
         ], 
         "keydir": "tomka", 
         "keys": [
-            "820F92B19207F3CD5E4D41673EBC47CA7A4A7D6B"
+            "820F92B19207F3CD5E4D41673EBC47CA7A4A7D6B", 
+            "29E47692837029B36CBB7F2089DEB219565C32BC"
         ], 
         "name": "Thomas Kahle", 
         "nick": "tomka", 

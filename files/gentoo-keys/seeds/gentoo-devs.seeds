@@ -103,12 +103,10 @@
     }, 
     "alonbl": {
         "fingerprint": [
-            "E2B41E288BA9695B3DD56B5CDBA36CEDA27B3B1C", 
             "8A2FE85CFCA42D74480B4B235D893D18BF20DC51"
         ], 
         "keydir": "alonbl", 
         "keys": [
-            "E2B41E288BA9695B3DD56B5CDBA36CEDA27B3B1C", 
             "8A2FE85CFCA42D74480B4B235D893D18BF20DC51"
         ], 
         "name": "Alon Bar-Lev", 

@@ -726,6 +726,15 @@ FIN
     <feed>http://github.com/feeds/transacid/commits/CenterIM-overlay/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>cg</name>
+    <description>Computer graphics ebuilds for gentoo</description>
+    <homepage>http://github.com/brothermechanic/cg</homepage>
+    <owner>
+      <email>brothermechanic@gmail.com</email>
+    </owner>
+    <source type="git">https://github.com/brothermechanic/cg.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>chaos</name>
     <description>Personal overlay</description>
     <homepage>http://github.com/chaoskagami/chaos-overlay</homepage>

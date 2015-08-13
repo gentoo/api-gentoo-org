@@ -2066,6 +2066,16 @@ FIN
     <feed>https://github.com/javer/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>jboro-overlay</name>
+    <description>personal experimental ebuilds</description>
+    <homepage>https://github.com/JBoro/portage</homepage>
+    <owner>
+        <email>justin.borodinsky@gmail.com</email>
+        <name>justin borodinsky</name>
+    </owner>
+    <source type="git">https://github.com/JBoro/portage.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>je_fro</name>
     <description><![CDATA[Helpful ebuilds for the macbook pro, and experimental
     gentoo-science packages.]]></description>

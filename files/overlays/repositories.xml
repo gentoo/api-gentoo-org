@@ -3252,7 +3252,9 @@ FIN
     <owner>
       <email>zerochaos@gentoo.org</email>
     </owner>
-    <source type="svn">https://pentoo.googlecode.com/svn/portage/trunk/</source>
+    <source type="git">git://github.com/pentoo/pentoo-overlay.git</source>
+    <source type="git">https://github.com/pentoo/pentoo-overlay.git</source>
+    <source type="git">git@github.com:pentoo/pentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>perl6</name>

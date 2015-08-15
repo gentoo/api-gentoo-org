@@ -1289,18 +1289,6 @@ FIN
     <source type="svn">svn://sidvind.com/overlays/ext-devlibs</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>eyolfson</name>
-    <description><![CDATA[Jon Eyolfson's personal overlay.]]></description>
-    <homepage>http://github.com/eyolfson/overlay-eyolfson</homepage>
-    <owner>
-      <email>jon@eyolfson.com</email>
-      <name>Jon Eyolfson</name>
-    </owner>
-    <source type="git">git://github.com/eyolfson/overlay-eyolfson.git</source>
-    <source type="git">http://github.com/eyolfson/overlay-eyolfson.git</source>
-    <feed>http://github.com/feeds/eyolfson/commits/overlay-eyolfson/master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ezod</name>
     <description lang="en"><![CDATA[Aaron Mavrinac's overlay]]></description>
     <homepage>https://cgit.gentoo.org/user/ezod.git/</homepage>
@@ -2252,21 +2240,6 @@ FIN
     <source type="git">git+ssh://git@git.gentoo.org/proj/kde.git</source>
     <feed>https://cgit.gentoo.org/proj/kde.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/kde.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>kde-sunset</name>
-    <description><![CDATA[User-maintained overlay for old KDE packages removed from the tree, such as KDE3.
-  Please do not file bug reports, but subscribe to the gentoo-desktop mailing list]]></description>
-    <homepage>https://cgit.gentoo.org/proj/kde-sunset.git/</homepage>
-    <owner type="project">
-      <email>gentoo-desktop+subscribe@lists.gentoo.org</email>
-      <name>gentoo-desktop mailing list</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/proj/kde-sunset.git</source>
-    <source type="git">https://anongit.gentoo.org/git/proj/kde-sunset.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/kde-sunset.git</source>
-    <feed>https://cgit.gentoo.org/proj/kde-sunset.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/kde-sunset.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>keruspe</name>
@@ -3233,17 +3206,6 @@ FIN
     <source type="git">git+ssh://git@git.gentoo.org/dev/pchrist.git</source>
     <feed>https://cgit.gentoo.org/dev/pchrist.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/pchrist.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>pd-overlay</name>
-    <description><![CDATA[Subversion ebuilds for PureData the dataflow
-    language]]></description>
-    <homepage>http://pd-overlay.sourceforge.net/</homepage>
-    <owner>
-      <email>mescalinum@gmail.com</email>
-    </owner>
-    <source type="svn">https://pd-overlay.svn.sourceforge.net/svnroot/pd-overlay/pd-overlay</source>
-    <feed>http://sourceforge.net/export/rss2_keepsake.php?group_id=180376</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pentoo</name>

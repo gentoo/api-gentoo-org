@@ -2336,7 +2336,7 @@ FIN
     <description lang="en">Personal overlay of Kron</description>
     <homepage>https://github.com/undying/krontage</homepage>
     <owner type="person">
-      <email>undying-m@yandex.by</email>
+      <email>undying-m@yandex.ru</email>
       <name>Kron</name>
     </owner>
     <source type="git">git://github.com/undying/krontage.git</source>

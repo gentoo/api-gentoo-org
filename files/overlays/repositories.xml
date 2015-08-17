@@ -4818,16 +4818,6 @@ FIN
     <source type="git">https://cafarelli.fr/git/voyageur-overlay/</source>
     <feed>https://cafarelli.fr/cgi-bin/cgit.cgi/voyageur-overlay/atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>wacfg</name>
-    <description>Overlay for WaCfg - webapp-configs replacement.</description>
-    <homepage>http://wacfg.noova.de</homepage>
-    <owner type="person">
-      <email>nutz@noova.de</email>
-    </owner>
-    <source type="git">git://github.com/nutztherookie/wacfg-overlay.git</source>
-    <feed>http://github.com/nutztherookie/wacfg-overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>wavilen</name>
     <description lang="en">Overlay of Valen Tau</description>

@@ -2185,7 +2185,7 @@ FIN
     <description lang="en">User overlay for jtriley</description>
     <homepage>https://cgit.gentoo.org/user/jtriley.git/</homepage>
     <owner type="person">
-      <email>jtriley@MIT.EDU</email>
+      <email>justin.t.riley@gmail.com</email>
       <name>Justin Riley</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/jtriley.git</source>

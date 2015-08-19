@@ -401,11 +401,11 @@
     }, 
     "calchan": {
         "fingerprint": [
-            "A6F06ECA9C0EE7B98A5876D46C1C6EB3B16C047F"
+            "EFDFC4811C1B193777172F4473A5F099C69D7E8B"
         ], 
         "keydir": "calchan", 
         "keys": [
-            "A6F06ECA9C0EE7B98A5876D46C1C6EB3B16C047F"
+            "EFDFC4811C1B193777172F4473A5F099C69D7E8B"
         ], 
         "name": "Denis Dupeyron", 
         "nick": "calchan", 

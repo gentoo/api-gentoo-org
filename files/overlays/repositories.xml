@@ -3733,8 +3733,8 @@ FIN
     <description>Gentoo overlay of R packages</description>
     <homepage>https://cgit.gentoo.org/proj/R_overlay.git/</homepage>
     <owner type="project">
-      <email>calchan@gentoo.org</email>
-      <name>Denis Dupeyron</name>
+      <email>heroxbd@gentoo.org</email>
+      <name>Benda Xu</name>
     </owner>
     <source type="rsync">rsync://roverlay.dev.gentoo.org/roverlay</source>
   </repo>

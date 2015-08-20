@@ -1854,19 +1854,6 @@
   </maintainer>
 </herd>
 <herd>
-  <name>xfce</name>
-  <email>xfce@gentoo.org</email>
-  <description>The XFCE Desktop Environment</description>
-  <maintainer>
-    <email>angelos@gentoo.org</email>
-    <name>Christoph Mende</name>
-  </maintainer>
-  <maintainer>
-    <email>ssuominen@gentoo.org</email>
-    <name>Samuli Suominen</name>
-  </maintainer>
-</herd>
-<herd>
   <name>graphics</name>
   <email>graphics@gentoo.org</email>
   <description>media-gfx and related packages</description>

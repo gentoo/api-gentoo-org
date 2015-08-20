@@ -4622,17 +4622,6 @@ FIN
     <feed>https://github.com/feeds/shiznix/commits/unity-gentoo/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>usr-gentoo</name>
-    <description lang="en">Auto-generated repository which moves apps to /usr</description>
-    <homepage>http://wiki.gentoo.org/wiki/Usr-gentoo</homepage>
-    <owner type="person">
-      <email>mgorny@gentoo.org</email>
-      <name><![CDATA[Michał Górny]]></name>
-    </owner>
-    <source type="git">https://bitbucket.org/mgorny/usr-gentoo</source>
-    <feed>https://bitbucket.org/mgorny/usr-gentoo/rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>vaca</name>
     <description>Just another personal Gentoo overlay</description>
     <homepage>https://github.com/hashashin/gentoo-vaca-overlay</homepage>

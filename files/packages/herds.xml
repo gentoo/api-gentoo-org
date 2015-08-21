@@ -392,6 +392,7 @@
   </maintainer>
   <maintainer>
     <email>monsieurp@gentoo.org</email>
+    <name>Patrice Clement</name>
   </maintainer>
 </herd>
 <herd>
@@ -665,6 +666,10 @@
   <maintainer>
     <email>jlec@gentoo.org</email>
     <name>Justin Lecher</name>
+  </maintainer>
+  <maintainer>
+    <email>monsieurp@gentoo.org</email>
+    <name>Patrice Clement</name>
   </maintainer>
 </herd>
 <herd>
@@ -2191,6 +2196,10 @@
   </maintainer>
   <maintainer>
     <email>jlec@gentoo.org</email>
+  </maintainer>
+  <maintainer>
+    <email>monsieurp@gentoo.org</email>
+    <name>Patrice Clement</name>
   </maintainer>
   <maintainer>
     <email>heroxbd@gentoo.org</email>

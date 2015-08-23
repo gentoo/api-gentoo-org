@@ -1261,19 +1261,6 @@ FIN
     <feed>https://cgit.gentoo.org/user/eroen.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/eroen.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>espenaf</name>
-    <description lang="en"><![CDATA[espenaf's personal overlay]]></description>
-    <homepage>https://github.com/espenaf/espenaf-overlay</homepage>
-    <owner type="person">
-      <email>espenaf@junta.no</email>
-      <name>Espen A. Fossen</name>
-    </owner>
-    <source type="git">git://github.com/espenaf/espenaf-overlay.git</source>
-    <source type="git">https://github.com/espenaf/espenaf-overlay</source>
-    <source type="git">git@github.com:espenaf/espenaf-overlay.git</source>
-    <feed>https://github.com/espenaf/espenaf-overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>eva</name>
     <description lang="en">Developer overlay</description>

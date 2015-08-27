@@ -1917,11 +1917,11 @@
     }, 
     "mr_bones_": {
         "fingerprint": [
-            "7ACEE789D820361C228CFBCDF406C08522B40A2C"
+            "65CD747D8EBDC956622C2E11D3CC680853FDE3EB"
         ], 
         "keydir": "mr_bones_", 
         "keys": [
-            "7ACEE789D820361C228CFBCDF406C08522B40A2C"
+            "65CD747D8EBDC956622C2E11D3CC680853FDE3EB"
         ], 
         "name": "Michael Sterrett", 
         "nick": "mr_bones_", 
@@ -2043,11 +2043,13 @@
     }, 
     "nicolasbock": {
         "fingerprint": [
-            "E0D8020A7F1FC428ED0980487F5E6D64AC91CA52"
+            "E0D8020A7F1FC428ED0980487F5E6D64AC91CA52", 
+            "3AD6D9BE38C5F904B4FF80FA5D70C349F8E1DF4D"
         ], 
         "keydir": "nicolasbock", 
         "keys": [
-            "E0D8020A7F1FC428ED0980487F5E6D64AC91CA52"
+            "E0D8020A7F1FC428ED0980487F5E6D64AC91CA52", 
+            "3AD6D9BE38C5F904B4FF80FA5D70C349F8E1DF4D"
         ], 
         "name": "Nicolas Bock", 
         "nick": "nicolasbock", 

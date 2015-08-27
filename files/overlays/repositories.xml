@@ -3100,6 +3100,17 @@ FIN
     <feed>https://github.com/rafaelmartins/octave-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>octopus</name>
+    <description lang="en">Own and claimed ebuilds</description>
+    <homepage>https://github.com/Bfgeshka/octopus</homepage>
+    <owner type="person">
+      <email>bfg@derpy.ru</email>
+      <name>Bfgeshka</name>
+    </owner>
+    <source type="git">https://github.com/Bfgeshka/octopus.git</source>
+    <feed>https://github.com/Bfgeshka/octopus/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ohnobinki_overlay</name>
     <description>Miscelleneous ebuild fixes and personal ebuilds</description>
     <homepage>http://ohnopub.net/~ohnobinki/gentoo</homepage>

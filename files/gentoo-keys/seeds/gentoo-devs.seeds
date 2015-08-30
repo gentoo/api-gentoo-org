@@ -873,11 +873,13 @@
     }, 
     "fordfrog": {
         "fingerprint": [
-            "93D653E69902121FD0528606452CD60A6AAEFB46"
+            "93D653E69902121FD0528606452CD60A6AAEFB46", 
+            "D2F044C3095D2DE9834640CFCCD603A543659523"
         ], 
         "keydir": "fordfrog", 
         "keys": [
-            "93D653E69902121FD0528606452CD60A6AAEFB46"
+            "93D653E69902121FD0528606452CD60A6AAEFB46", 
+            "D2F044C3095D2DE9834640CFCCD603A543659523"
         ], 
         "name": "Miroslav \u0160ulc", 
         "nick": "fordfrog", 
@@ -1523,11 +1525,11 @@
     }, 
     "keri": {
         "fingerprint": [
-            "7319FA7DD2DDAED9DF17460B2486B12A756D6F67"
+            "1B7222AB1128480A91FF89D335C63117E6A60B09"
         ], 
         "keydir": "keri", 
         "keys": [
-            "7319FA7DD2DDAED9DF17460B2486B12A756D6F67"
+            "1B7222AB1128480A91FF89D335C63117E6A60B09"
         ], 
         "name": "Keri Harris", 
         "nick": "keri", 

@@ -291,6 +291,19 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/angelos.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>anomen</name>
+    <description lang="en">anomen's personal Gentoo overlay</description>
+    <homepage>https://github.com/anomen-s/anomen-overlay</homepage>
+    <owner type="person">
+      <email>ludek_h@seznam.cz</email>
+      <name>anomen</name>
+    </owner>
+    <source type="git">https://github.com/anomen-s/anomen-overlay.git</source>
+    <source type="git">git://github.com/anomen-s/anomen-overlay.git</source>
+    <source type="git">git@github.com:anomen-s/anomen-overlay.git</source>
+    <feed>https://github.com/anomen-s/anomen-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>anyc</name>
     <description lang="en">Testing ebuilds for out-of-tree applications</description>
     <homepage>https://github.com/anyc/anyc-overlay</homepage>

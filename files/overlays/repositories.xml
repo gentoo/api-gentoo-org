@@ -4580,16 +4580,16 @@ FIN
   <repo quality="experimental" status="official">
     <name>ulm</name>
     <description>Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/ulm.git/</homepage>
+    <homepage>https://cgit.gentoo.org/repo/dev/ulm.git/</homepage>
     <owner type="person">
       <email>ulm@gentoo.org</email>
       <name><![CDATA[Ulrich Müller]]></name>
     </owner>
-    <source type="git">git://anongit.gentoo.org/dev/ulm.git</source>
-    <source type="git">https://anongit.gentoo.org/git/dev/ulm.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/ulm.git</source>
-    <feed>https://cgit.gentoo.org/dev/ulm.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/ulm.git/rss/</feed> -->
+    <source type="git">git://anongit.gentoo.org/repo/dev/ulm.git</source>
+    <source type="git">https://anongit.gentoo.org/git/repo/dev/ulm.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/dev/ulm.git</source>
+    <feed>https://cgit.gentoo.org/repo/dev/ulm.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/repo/dev/ulm.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
     <name>ultrabug</name>

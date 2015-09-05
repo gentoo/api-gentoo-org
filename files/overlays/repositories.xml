@@ -3776,15 +3776,15 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>rust</name>
     <description lang="en">rust modules and tools</description>
-    <homepage>https://github.com/Heather/gentoo-rust</homepage>
+    <homepage>https://github.com/gentoo/gentoo-rust</homepage>
     <owner type="person">
       <email>cynede@gentoo.org</email>
       <name>Heather</name>
     </owner>
-    <source type="git">git://github.com/Heather/gentoo-rust.git</source>
-    <source type="git">https://github.com/Heather/gentoo-rust.git</source>
-    <source type="git">git@github.com:Heather/gentoo-rust.git</source>
-    <feed>https://github.com/Heather/gentoo-rust/commits/master.atom</feed>
+    <source type="git">git://github.com/gentoo/gentoo-rust.git</source>
+    <source type="git">https://github.com/gentoo/gentoo-rust.git</source>
+    <source type="git">git@github.com:gentoo/gentoo-rust.git</source>
+    <feed>https://github.com/gentoo/gentoo-rust/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>rwald</name>

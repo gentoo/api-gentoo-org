@@ -1757,6 +1757,20 @@ FIN
     <source type="git">https://github.com/Godin/gentoo-overlay.git</source>
     <feed>https://github.com/Godin/gentoo-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>goris</name>
+    <description lang="en">Goris overlay</description>
+    <homepage>https://cgit.gentoo.org/repo/user/goris.git/</homepage>
+    <owner type="person">
+      <email>norayr.am@gmail.com</email>
+      <name>Norayr Mirakyan</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/repo/user/goris.git</source>
+    <source type="git">https://anongit.gentoo.org/git/repo/user/goris.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/user/goris.git</source>
+    <feed>https://cgit.gentoo.org/repo/user/goris.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/repo/user/goris.git/rss/</feed> -->
+  </repo>
   <repo quality="experimental" status="official">
     <name>graaff</name>
     <description><![CDATA[Developer overlay of Hans de Graaff with mostly ruby and

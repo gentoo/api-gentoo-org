@@ -4394,6 +4394,20 @@ FIN
     <feed>https://github.com/feeds/Sabayon/commits/systemd-love/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>tamiko</name>
+    <description>Developer overlay</description>
+    <homepage>https://cgit.gentoo.org/repo/dev/tamiko.git/</homepage>
+    <owner>
+      <email>tamiko@gentoo.org</email>
+      <name>Matthias Maier</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/repo/dev/tamiko.git</source>
+    <source type="git">https://anongit.gentoo.org/git/repo/dev/tamiko.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/dev/tamiko.git</source>
+    <feed>https://cgit.gentoo.org/repo/dev/tamiko.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/repo/dev/tamiko.git/rss/</feed> -->
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>tante</name>
     <description>Overlay of tante</description>
     <homepage>https://github.com/tante/overlay</homepage>

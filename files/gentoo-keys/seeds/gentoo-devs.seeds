@@ -873,13 +873,11 @@
     }, 
     "fordfrog": {
         "fingerprint": [
-            "93D653E69902121FD0528606452CD60A6AAEFB46", 
-            "D2F044C3095D2DE9834640CFCCD603A543659523"
+            "04BFC412A96861A72064CDA1CE0D13B5433AC673"
         ], 
         "keydir": "fordfrog", 
         "keys": [
-            "93D653E69902121FD0528606452CD60A6AAEFB46", 
-            "D2F044C3095D2DE9834640CFCCD603A543659523"
+            "04BFC412A96861A72064CDA1CE0D13B5433AC673"
         ], 
         "name": "Miroslav \u0160ulc", 
         "nick": "fordfrog", 
@@ -917,11 +915,11 @@
     }, 
     "george": {
         "fingerprint": [
-            "380BDFCADD22184CC4D6C0C565A99DEA0AD58A7F"
+            "2BCB2D1780A907304FDEDCF51DC569ACFB3291E4"
         ], 
         "keydir": "george", 
         "keys": [
-            "380BDFCADD22184CC4D6C0C565A99DEA0AD58A7F"
+            "2BCB2D1780A907304FDEDCF51DC569ACFB3291E4"
         ], 
         "name": "George Shapovalov", 
         "nick": "george", 
@@ -1029,11 +1027,11 @@
     }, 
     "gurligebis": {
         "fingerprint": [
-            "DDB4FDE829C7775A7FE096583BE130B698BDACB1"
+            "C3E9529E2623D19A63AE11B44098E52BC835A25A"
         ], 
         "keydir": "gurligebis", 
         "keys": [
-            "DDB4FDE829C7775A7FE096583BE130B698BDACB1"
+            "C3E9529E2623D19A63AE11B44098E52BC835A25A"
         ], 
         "name": "Bjarke Istrup Pedersen", 
         "nick": "gurligebis", 
@@ -2335,11 +2333,11 @@
     }, 
     "psomas": {
         "fingerprint": [
-            "9EF0838015735E4A85505B4C89DD6555E3433260"
+            "49E8276BA70968B0943933F6B9CCB0BFBC35D737"
         ], 
         "keydir": "psomas", 
         "keys": [
-            "9EF0838015735E4A85505B4C89DD6555E3433260"
+            "49E8276BA70968B0943933F6B9CCB0BFBC35D737"
         ], 
         "name": "Stratos Psomadakis", 
         "nick": "psomas", 

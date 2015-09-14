@@ -3452,12 +3452,12 @@ FIN
   <repo quality="testing" status="unofficial">
     <name>progress</name>
     <description><![CDATA[Progress Overlay: Python packages (including Pyramid, Zope) and other packages]]></description>
-    <homepage>http://code.google.com/p/gentoo-progress/</homepage>
+    <homepage>https://sourceforge.net/projects/gentoo-progress/</homepage>
     <owner type="person">
       <email>Arfrever.FTA@gmail.com</email>
+      <name>Arfrever Frehtes Taifersar Arahesis</name>
     </owner>
-    <source type="svn">http://gentoo-progress.googlecode.com/svn/overlays/progress</source>
-    <feed>http://code.google.com/p/gentoo-progress/source/list</feed>
+    <source type="svn">https://svn.code.sf.net/p/gentoo-progress/code</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>prometheanfire</name>

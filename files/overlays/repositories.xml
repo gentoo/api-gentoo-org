@@ -2125,6 +2125,16 @@ FIN
     </owner>
     <source type="git">https://git.kolosowscy.pl/jurek/gentoo-overlay.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>jm-overlay</name>
+    <description lang="en">Personal overlay with more or less random ebuilds</description>
+    <homepage>https://github.com/Jannis234/jm-overlay</homepage>
+    <owner type="person">
+      <email>jannism234@gmail.com</email>
+      <name>Jannis234</name>
+    </owner>
+    <source type="git">https://github.com/Jannis234/jm-overlay.git</source>
+  </repo>
   <repo quality="experimental" status="official">
     <name>jmbsvicetto</name>
     <description>Jorge Manuel B. S. Vicetto developer overlay</description>

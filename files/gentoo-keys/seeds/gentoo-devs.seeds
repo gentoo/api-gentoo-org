@@ -1891,11 +1891,11 @@
     }, 
     "moult": {
         "fingerprint": [
-            "8D5A9FEDEF2F77A30A5975B1521E2800A10DC722"
+            "923A0E0304D6B08B19DE1032C06F5AEBF1DEC4CE"
         ], 
         "keydir": "moult", 
         "keys": [
-            "8D5A9FEDEF2F77A30A5975B1521E2800A10DC722"
+            "923A0E0304D6B08B19DE1032C06F5AEBF1DEC4CE"
         ], 
         "name": "Dion Moult", 
         "nick": "moult", 
@@ -2959,11 +2959,13 @@
     }, 
     "tupone": {
         "fingerprint": [
-            "5F513ABFD57EFAC8FA2336EC7731303FD926947A"
+            "5F513ABFD57EFAC8FA2336EC7731303FD926947A", 
+            "C1F89E3060A29E4475F2E29C7963DEE6A3A6CE48"
         ], 
         "keydir": "tupone", 
         "keys": [
-            "5F513ABFD57EFAC8FA2336EC7731303FD926947A"
+            "5F513ABFD57EFAC8FA2336EC7731303FD926947A", 
+            "C1F89E3060A29E4475F2E29C7963DEE6A3A6CE48"
         ], 
         "name": "Alfredo Tupone", 
         "nick": "tupone", 
@@ -3285,11 +3287,11 @@
     }, 
     "zorry": {
         "fingerprint": [
-            "CEAE6CD1A2AA217D45059A007BA250AAFD79807F"
+            "EDC20794FB08BD8D47D5B19276BA3DEF33570F41"
         ], 
         "keydir": "zorry", 
         "keys": [
-            "CEAE6CD1A2AA217D45059A007BA250AAFD79807F"
+            "EDC20794FB08BD8D47D5B19276BA3DEF33570F41"
         ], 
         "name": "Magnus Granberg", 
         "nick": "zorry", 

@@ -1788,20 +1788,6 @@
   </maintainer>
 </herd>
 <herd>
-  <name>openoffice</name>
-  <email>openoffice@gentoo.org</email>
-  <description>Openoffice related packages</description>
-  <maintainer>
-    <email>suka@gentoo.org</email>
-  </maintainer>
-  <maintainer>
-    <email>dilfridge@gentoo.org</email>
-  </maintainer>
-  <maintainer>
-    <email>scarabeus@gentoo.org</email>
-  </maintainer>
-</herd>
-<herd>
   <name>net-p2p</name>
   <email>net-p2p@gentoo.org</email>
   <description>Peer to Peer network related packages</description>

@@ -1777,6 +1777,17 @@
   </maintainer>
 </herd>
 <herd>
+  <name>office</name>
+  <email>office@gentoo.org</email>
+  <description>Office related packages</description>
+  <maintainer>
+    <email>dilfridge@gentoo.org</email>
+  </maintainer>
+  <maintainer>
+    <email>scarabeus@gentoo.org</email>
+  </maintainer>
+</herd>
+<herd>
   <name>openoffice</name>
   <email>openoffice@gentoo.org</email>
   <description>Openoffice related packages</description>

@@ -1663,12 +1663,10 @@
     }, 
     "lu_zero": {
         "fingerprint": [
-            "66774209213C88435B6729E7E84C78C284E90E34", 
             "6D832C3022EA49B9AB98F472902D3C0CCD0F2634"
         ], 
         "keydir": "lu_zero", 
         "keys": [
-            "66774209213C88435B6729E7E84C78C284E90E34", 
             "6D832C3022EA49B9AB98F472902D3C0CCD0F2634"
         ], 
         "name": "Luca Barbato", 

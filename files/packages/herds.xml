@@ -1513,6 +1513,10 @@
     <email>bicatali@gentoo.org</email>
     <name>Sebastien Fabbro</name>
   </maintainer>
+  <maintainer>
+    <email>bircoph@gentoo.org</email>
+    <name>Andrew Savchenko</name>
+  </maintainer>
 </herd>
 <herd>
   <name>postgresql</name>

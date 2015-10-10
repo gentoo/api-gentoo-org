@@ -1927,7 +1927,7 @@ FIN
     <description lang="en">User overlay</description>
     <homepage>https://cgit.gentoo.org/user/hibiscus.git/</homepage>
     <owner type="person">
-      <email>fabian.koester@posteo.de</email>
+      <email>gentoo@posteo.de</email>
       <name>Fabian Köster</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/hibiscus.git</source>

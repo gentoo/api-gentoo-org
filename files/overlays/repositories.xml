@@ -1924,7 +1924,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>hibiscus</name>
-    <description lang="en">User overlay</description>
+    <description lang="en">Hibiscus homebanking overlay</description>
     <homepage>https://cgit.gentoo.org/user/hibiscus.git/</homepage>
     <owner type="person">
       <email>gentoo@posteo.de</email>

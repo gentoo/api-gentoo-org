@@ -2315,9 +2315,6 @@
   <email>amd64@gentoo.org</email>
   <description>x86_64-specific packages</description>
   <maintainer>
-    <email>kingtaco@gentoo.org</email>
-  </maintainer>
-  <maintainer>
     <email>angelos@gentoo.org</email>
   </maintainer>
   <maintainer>
@@ -2325,9 +2322,6 @@
   </maintainer>
   <maintainer>
     <email>Chainsaw@gentoo.org</email>
-  </maintainer>
-  <maintainer>
-    <email>Ken69267@gentoo.org</email>
   </maintainer>
   <maintainer>
     <email>hparker@gentoo.org</email>

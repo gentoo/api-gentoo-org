@@ -901,11 +901,11 @@
     }, 
     "fuzzyray": {
         "fingerprint": [
-            "4B0DD00BDBD50EA34DEDED4D0FED1FC36B402757"
+            "BA365A4B61C21C6868BDD5DAFF167620EE7EF6AD"
         ], 
         "keydir": "fuzzyray", 
         "keys": [
-            "4B0DD00BDBD50EA34DEDED4D0FED1FC36B402757"
+            "BA365A4B61C21C6868BDD5DAFF167620EE7EF6AD"
         ], 
         "name": "Paul Varner", 
         "nick": "fuzzyray", 
@@ -2717,11 +2717,11 @@
     }, 
     "swegener": {
         "fingerprint": [
-            "3ED60FAA275A643B7E8C4AB7D3888C2A36D3A5D8"
+            "32E4730F0FFB38596ADC3A5857E638366F2DB177"
         ], 
         "keydir": "swegener", 
         "keys": [
-            "3ED60FAA275A643B7E8C4AB7D3888C2A36D3A5D8"
+            "32E4730F0FFB38596ADC3A5857E638366F2DB177"
         ], 
         "name": "Sven Wegener", 
         "nick": "swegener", 

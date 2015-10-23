@@ -1510,6 +1510,17 @@ FIN
     <source type="git">git://git.funroll-loops.de/portage-overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>fuverlay</name>
+    <description lang="en">Funkill's overlay</description>
+    <homepage>https://github.com/funkill/fuverlay</homepage>
+    <owner type="person">
+      <email>funkill2@gmail.com</email>
+      <name>Funkill</name>
+    </owner>
+    <source type="git">https://github.com/funkill/fuverlay.git</source>
+    <feed>https://github.com/funkill/fuverlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>funtoo-deadbeef</name>
     <description lang="en">DeaDBeeF player overlay for Funtoo Linux</description>
     <homepage>https://github.com/damex/funtoo-deadbeef</homepage>

@@ -4590,8 +4590,8 @@ FIN
     <description lang="en">Ebuilds for Toxcore, Tox clients, and other Tox-related projects</description>
     <homepage>https://github.com/Tox/gentoo-overlay-tox</homepage>
     <owner type="person">
-      <email>urras@tox.im</email>
-      <name>urras</name>
+      <email>infrastructure@tox.chat</email>
+      <name>The Tox Project</name>
     </owner>
     <source type="git">git://github.com/Tox/gentoo-overlay-tox.git</source>
     <source type="git">https://github.com/Tox/gentoo-overlay-tox.git</source>

@@ -1345,10 +1345,6 @@
     <role>Lead</role>
   </maintainer>
   <maintainer>
-    <email>nirbheek@gentoo.org</email>
-    <name>Nirbheek Chauhan</name>
-  </maintainer>
-  <maintainer>
     <email>polynomial-c@gentoo.org</email>
     <name>Lars Wendler</name>
   </maintainer>

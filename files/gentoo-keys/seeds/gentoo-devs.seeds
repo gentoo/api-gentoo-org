@@ -1621,11 +1621,11 @@
     }, 
     "lejonet": {
         "fingerprint": [
-            "C79B230DED54F2A3C359998DE99A2854D5980C65"
+            "AD7920A76FAB6482ADD168DED4F46A05270273AF"
         ], 
         "keydir": "lejonet", 
         "keys": [
-            "C79B230DED54F2A3C359998DE99A2854D5980C65"
+            "AD7920A76FAB6482ADD168DED4F46A05270273AF"
         ], 
         "name": "Daniel Kuehn", 
         "nick": "lejonet", 
@@ -1903,11 +1903,11 @@
     }, 
     "mpagano": {
         "fingerprint": [
-            "EEE2601D0763B60F848C9E143C33C650B576E4E3"
+            "52CCA0B0F6310B170142F83F92A6DBEC81F2B137"
         ], 
         "keydir": "mpagano", 
         "keys": [
-            "EEE2601D0763B60F848C9E143C33C650B576E4E3"
+            "52CCA0B0F6310B170142F83F92A6DBEC81F2B137"
         ], 
         "name": "Mike Pagano", 
         "nick": "mpagano", 
@@ -3187,11 +3187,11 @@
     }, 
     "xmw": {
         "fingerprint": [
-            "67B0837F8855C12235D40817927ADD0C62EEF090"
+            "8BE8B3F0643045FB055A8417FB6DC7DA476C3DAF"
         ], 
         "keydir": "xmw", 
         "keys": [
-            "67B0837F8855C12235D40817927ADD0C62EEF090"
+            "8BE8B3F0643045FB055A8417FB6DC7DA476C3DAF"
         ], 
         "name": "Michael Weber", 
         "nick": "xmw", 

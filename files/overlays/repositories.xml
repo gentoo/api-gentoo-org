@@ -4453,6 +4453,18 @@ FIN
     <feed>https://github.com/feeds/Sabayon/commits/systemd-love/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>TAJJADA</name>
+    <description>Ebuilds for random stuff, including own/personal software, by Jasen Borisov.</description>
+    <homepage>https://github.com/tajjada/overlay</homepage>
+    <owner>
+      <email>tajjada@gmail.com</email>
+      <name>Jasen Borisov</name>
+    </owner>
+    <source type="git">https://github.com/tajjada/overlay.git</source>
+    <source type="git">git://github.com/tajjada/overlay.git</source>
+    <feed>https://github.com/tajjada/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>tamiko</name>
     <description>Developer overlay</description>
     <homepage>https://cgit.gentoo.org/repo/dev/tamiko.git/</homepage>

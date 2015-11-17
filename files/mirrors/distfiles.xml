@@ -202,10 +202,9 @@
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://ftp-stud.hs-esslingen.de/gentoo/</uri>
     </mirror>
     <mirror>
-      <name>de-mirror.org</name>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://de-mirror.org/gentoo/</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://de-mirror.org/gentoo/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://de-mirror.org/gentoo/</uri>
+      <name>1&amp;1 Internet SE</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.eu.oneandone.net/linux/distributions/gentoo/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.eu.oneandone.net/gentoo/</uri>
     </mirror>
     <mirror>
       <name>SPLINE, Institut für Informatik, Freie Universität Berlin</name>

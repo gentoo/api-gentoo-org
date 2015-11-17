@@ -1138,12 +1138,12 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>eigenlay</name>
     <description lang="en">Eigenlab Gentoo overlay</description>
-    <homepage>https://gitorious.org/eigennet/eigenlay</homepage>
+    <homepage>https://gitlab.com/eigennet/eigenlay</homepage>
     <owner type="person">
       <email>gio@eigenlab.org</email>
       <name>Gioacchino Mazzurco</name>
     </owner>
-    <source type="git">https://git.gitorious.org/eigennet/eigenlay.git</source>
+    <source type="git">https://gitlab.com/eigennet/eigenlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>elementary</name>

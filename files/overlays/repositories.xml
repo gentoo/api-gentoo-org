@@ -3785,7 +3785,7 @@ FIN
     <feed>https://github.com/sandikata/ROKO__/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>ros-gentoo</name>
+    <name>ros-overlay</name>
     <description>Ebuilds for the Robot Operating System (ROS).</description>
     <homepage>https://github.com/ros/ros-overlay</homepage>
     <owner>

@@ -3914,6 +3914,18 @@ FIN
     <feed>https://github.com/feeds/Sabayon/commits/sabayon-distro/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>sabayon-tools</name>
+    <description lang="en">Brenton's Sabayon Overlay</description>
+    <homepage>https://github.com/fusion809/sabayon-tools</homepage>
+    <owner type="person">
+      <email>brentonhorne77@gmail.com</email>
+      <name>Brenton Horne</name>
+    </owner>
+    <source type="git">https://github.com/fusion809/sabayon-tools.git</source>
+    <source type="git">git://github.com/fusion809/sabayon-tools.git</source>
+    <feed>https://github.com/fusion809/sabayon-tools/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sage-on-gentoo</name>
     <description>Split ebuilds for the Sage computer algebra system</description>
     <homepage>http://github.com/cschwan/sage-on-gentoo</homepage>

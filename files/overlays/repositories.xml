@@ -4637,6 +4637,19 @@ FIN
     <source type="git">git@github.com:Tox/gentoo-overlay-tox.git</source>
     <feed>https://github.com/Tox/gentoo-overlay-tox/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>tranquility</name>
+    <description lang="en">Developer overlay</description>
+    <homepage>https://gitweb.gentoo.org/repo/dev/tranquility.git/</homepage>
+    <owner type="person">
+      <email>tranquility@gentoo.org</email>
+      <name>Ole Reifschneider</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/repo/dev/tranquility.git</source>
+    <source type="git">https://anongit.gentoo.org/git/repo/dev/tranquility.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/dev/tranquility.git</source>
+    <feed>https://gitweb.gentoo.org/repo/dev/tranquility.git/atom/</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>trash</name>
     <description lang="en">Some ugly ebuilds</description>

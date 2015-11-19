@@ -584,12 +584,15 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>bleeding-edge</name>
     <description><![CDATA[Gentoo ebuilds for "bleeding edge" versions of packages - newest, untested - running on ~amd64.]]></description>
-    <homepage>http://gitorious.org/jasiu/bleeding-edge</homepage>
+    <homepage>http://cgit.gentoo.org/repo/user/bleeding-edge.git/</homepage>
     <owner>
       <email>jasiupsota@gmail.com</email>
       <name>Jan Psota</name>
     </owner>
-    <source type="git">https://git.gitorious.org/jasiu/bleeding-edge.git</source>
+    <source type="git">git://anongit.gentoo.org/repo/user/bleeding-edge</source>
+    <source type="git">https://anongit.gentoo.org/git/repo/user/bleeding-edge.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/user/bleeding-edge.git</source>
+    <feed>https://cgit.gentoo.org/repo/user/bleeding-edge.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>blender-gentoo-logo</name>

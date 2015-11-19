@@ -808,6 +808,18 @@ FIN
     <feed>https://github.com/alphallc/crossdev/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>cvut</name>
+    <description>A Gentoo overlay of CTU</description>
+    <homepage>https://github.com/cvut/gentoo-overlay/</homepage>
+    <owner type="organization">
+      <email>jakub@jirutka.cz</email>
+      <name>Jakub Jirutka (Czech Technical University in Prague)</name>
+    </owner>
+    <source type="git">https://github.com/cvut/gentoo-overlay.git</source>
+    <source type="git">git://github.com/cvut/gentoo-overlay.git</source>
+    <feed>https://github.com/cvut/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>daks</name>
     <description lang="en">Some useful ebuilds. Includes 1C-Predpriyatie and postgres with patches for work with 1C.</description>
     <homepage>https://github.com/daks-ua/daks-overlay</homepage>

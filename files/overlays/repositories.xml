@@ -728,6 +728,20 @@ FIN
     <source type="git">git://git.calculate.ru/calculate/overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>carreira</name>
+    <description lang="en">Overlay for personal project and forks</description>
+    <homepage>https://cgit.gentoo.org/user/carreira.git/</homepage>
+    <owner type="person">
+      <email>jfmcarreira@gmail.com</email>
+      <name>Joao Carreira</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/user/carreira.git</source>
+    <source type="git">https://anongit.gentoo.org/git/user/carreira.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/user/carreira.git</source>
+    <feed>https://cgit.gentoo.org/user/carreira.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/carreira.git/rss/</feed> -->
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>causelay</name>
     <description><![CDATA[Ari Malinen's personal overlay]]></description>
     <homepage>https://github.com/causes-/causelay</homepage>

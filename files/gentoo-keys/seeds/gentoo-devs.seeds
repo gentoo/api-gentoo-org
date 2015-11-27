@@ -2103,11 +2103,11 @@
     }, 
     "nixphoeni": {
         "fingerprint": [
-            "5D3F1DDAB4CB682AB366B72E0015DC9F784ADCF5"
+            "994B4AEC83EF1F492A7F9BD72A1F8CCACB8CDAD5"
         ], 
         "keydir": "nixphoeni", 
         "keys": [
-            "5D3F1DDAB4CB682AB366B72E0015DC9F784ADCF5"
+            "994B4AEC83EF1F492A7F9BD72A1F8CCACB8CDAD5"
         ], 
         "name": "Joe Sapp", 
         "nick": "nixphoeni", 

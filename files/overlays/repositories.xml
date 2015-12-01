@@ -1714,6 +1714,16 @@ FIN
     <feed>https://cgit.gentoo.org/proj/gentoo-guis.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/gentoo-guis.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>gentoo-mate-112</name>
+    <description lang="en">Portage Overlay for Mate Desktop 1.12</description>
+    <homepage>https://github.com/oz123/gentoo-mate-112</homepage>
+    <owner type="person">
+      <email>oz.tiram@gmail.com</email>
+      <name>OzTiram</name>
+    </owner>
+    <source type="git">https://github.com/oz123/gentoo-mate-112.git</source>
+  </repo>
   <repo quality="experimental" status="official">
     <name>gentoo-openbsd</name>
     <description lang="en">Gentoo/OpenBSD Project Overlay</description>

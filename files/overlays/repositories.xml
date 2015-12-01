@@ -1961,6 +1961,17 @@ FIN
     <feed>https://github.com/Heather/gentoo-heather/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>hering-overlay</name>
+    <description lang="en">Richard Hering's gentoo overlay</description>
+    <homepage>https://github.com/internethering/hering-overlay</homepage>
+    <owner type="person">
+      <email>richard@internethering.de</email>
+      <name>Richard Hering</name>
+    </owner>
+    <source type="git">https://github.com/internethering/hering-overlay.git</source>
+    <feed>https://github.com/internethering/hering-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[hhvm]]></name>
     <description><![CDATA[hhvm gentoo overlay]]></description>
     <homepage>https://github.com/reanimus/hhvm-overlay</homepage>

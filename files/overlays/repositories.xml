@@ -3254,15 +3254,6 @@ FIN
     <feed>https://github.com/tampakrap/okupy-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>open-overlay</name>
-    <description>Gentoo overlay with some packages</description>
-    <homepage>https://github.com/pantera31752/open-overlay/</homepage>
-    <owner>
-      <email>a.xarlanov29@gmail.com</email>
-    </owner>
-    <source type="git">git://github.com/pantera31752/open-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>OSSDL</name>
     <description lang="en">Overlay of W-Mark Kubacki</description>
     <homepage>https://github.com/wmark/ossdl-overlay</homepage>

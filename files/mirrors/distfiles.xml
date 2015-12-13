@@ -304,12 +304,6 @@
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirror.mdfnet.se/gentoo</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.mdfnet.se/gentoo</uri>
     </mirror>
-    <mirror>
-      <name>Lund University</name>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.df.lth.se/pub/gentoo/</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://ftp.df.lth.se/pub/gentoo/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://ftp.df.lth.se/pub/gentoo/</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="SK" countryname="Slovakia">
     <mirror>

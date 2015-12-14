@@ -248,7 +248,7 @@
     </mirror>
     <mirror>
       <name>Romanian Organization Network</name>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://ftp.romnet.org</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync3.ro.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="SK" countryname="Slovakia">

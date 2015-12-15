@@ -825,7 +825,7 @@ FIN
     <name>cvut</name>
     <description>A Gentoo overlay of CTU</description>
     <homepage>https://github.com/cvut/gentoo-overlay/</homepage>
-    <owner type="organization">
+    <owner type="person">
       <email>jakub@jirutka.cz</email>
       <name>Jakub Jirutka (Czech Technical University in Prague)</name>
     </owner>

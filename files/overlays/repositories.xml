@@ -1259,8 +1259,8 @@ FIN
     <description>Facilitate running hardened-desktop hybrid system</description>
     <homepage>https://gitweb.gentoo.org/user/ennui.git/</homepage>
     <owner>
-      <name>Nicholas Fish</name>
       <email>gentoo@seaofdirac.net</email>
+      <name>Nicholas Fish</name>
     </owner>
     <source type="git">https://anongit.gentoo.org/git/user/ennui.git</source>
     <source type="git">git://anongit.gentoo.org/user/ennui.git</source>

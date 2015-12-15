@@ -3210,6 +3210,16 @@ FIN
     <feed>https://github.com/o11c/ebuilds/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>observer</name>
+    <description>Contains ebuilds I need, but not in Gentoo portage tree yet.</description>
+    <homepage>https://github.com/meng89/observer</homepage>
+    <owner type="person">
+      <email>ObserverChan@gmail.com</email>
+      <name>Chen Meng</name>
+    </owner>
+    <source type="git">https://github.com/meng89/observer.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>octave</name>
     <description lang="en">octave-forge packages</description>
     <homepage>https://github.com/rafaelmartins/octave-overlay</homepage>

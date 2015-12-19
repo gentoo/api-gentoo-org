@@ -2305,11 +2305,11 @@
     }, 
     "polynomial-c": {
         "fingerprint": [
-            "4DD8C47CCDFA5295E1A63FC8F69674AB981CA6FC"
+            "21CCCF0245860A07ED939F68498FE765960E9B39"
         ], 
         "keydir": "polynomial-c", 
         "keys": [
-            "4DD8C47CCDFA5295E1A63FC8F69674AB981CA6FC"
+            "21CCCF0245860A07ED939F68498FE765960E9B39"
         ], 
         "name": "Lars Wendler", 
         "nick": "polynomial-c", 

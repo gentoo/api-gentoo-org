@@ -2187,13 +2187,11 @@
     }, 
     "patrick": {
         "fingerprint": [
-            "0A0901B8F018D5D6A4A31A4410F17899A28441CC", 
-            "F941D86BAA0D851BFE411493A8447784E52864CE"
+            "BADF498FF38A3708DB80CA5CA6B98739114414D6"
         ], 
         "keydir": "patrick", 
         "keys": [
-            "0A0901B8F018D5D6A4A31A4410F17899A28441CC", 
-            "F941D86BAA0D851BFE411493A8447784E52864CE"
+            "BADF498FF38A3708DB80CA5CA6B98739114414D6"
         ], 
         "name": "Patrick Lauer", 
         "nick": "patrick", 
@@ -2473,11 +2471,13 @@
     }, 
     "remi": {
         "fingerprint": [
-            "91472E8B8C895ADEFEC0B7E47D453F23901AB08A"
+            "91472E8B8C895ADEFEC0B7E47D453F23901AB08A", 
+            "D06729B2DFB4CA427DDD25B0E0663D48103108F8"
         ], 
         "keydir": "remi", 
         "keys": [
-            "91472E8B8C895ADEFEC0B7E47D453F23901AB08A"
+            "91472E8B8C895ADEFEC0B7E47D453F23901AB08A", 
+            "D06729B2DFB4CA427DDD25B0E0663D48103108F8"
         ], 
         "name": "Remi Cardona", 
         "nick": "remi", 

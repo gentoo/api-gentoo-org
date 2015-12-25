@@ -2718,6 +2718,16 @@ FIN
     <feed>https://github.com/Sabayon/mate-overlay</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>mate-overlay</name>
+    <description lang="en">Portage Overlay for Mate Desktop 1.12.1 with GTK3 support</description>
+    <homepage>https://github.com/ilya84/mate-overlay</homepage>
+    <owner type="person">
+      <email>kacnep.0000@gmail.com</email>
+      <name>goodghost</name>
+    </owner>
+    <source type="git">https://github.com/ilya84/mate-overlay</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>megacoffee</name>
     <description lang="en">Mixed ebuilds from various sources: self-written missing ebuilds, more current ebuilds, ebuilds that just needed a slight update from official portage, ebuilds others posted on Gentoo Bugzilla, ebuilds with added patches, old ebuilds that were removed from official portage etc.</description>
     <description lang="de">Verschiedene ebuilds aus verschiedenen Quellen: selbsterstellte ebuilds, ebuilds mit geringfügigen Änderungen, gegenüber dem aktuellen Baum, ebuilds aus Gentoos Bugzilla, ebuilds mit erweiterten patches, alte ebuilds die nicht mehr im offiziellen Baum existieren, etc.</description>

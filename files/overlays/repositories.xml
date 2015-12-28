@@ -909,6 +909,17 @@ FIN
     <feed>https://cgit.gentoo.org/dev/dberkholz.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/dberkholz.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>deadbeef-overlay</name>
+    <description lang="en">DeaDBeeF player overlay for Gentoo Linux</description>
+    <homepage>https://github.com/damex/deadbeef-overlay</homepage>
+    <owner type="person">
+      <email>damex.pp@gmail.com</email>
+      <name>Roman Kuzmitsky</name>
+    </owner>
+    <source type="git">https://github.com/damex/deadbeef-overlay.git</source>
+    <feed>https://github.com/damex/deadbeef-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>desktop-effects</name>
     <description><![CDATA[Experimental overlay for desktop effects
@@ -1550,39 +1561,6 @@ FIN
     <feed>https://github.com/funkill/fuverlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>funtoo-deadbeef</name>
-    <description lang="en">DeaDBeeF player overlay for Funtoo Linux</description>
-    <homepage>https://github.com/damex/funtoo-deadbeef</homepage>
-    <owner type="person">
-      <email>damex.pp@gmail.com</email>
-      <name>Roman Kuzmitsky</name>
-    </owner>
-    <source type="git">https://github.com/damex/funtoo-deadbeef.git</source>
-    <feed>https://github.com/damex/funtoo-deadbeef/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>funtoo-gambas</name>
-    <description lang="en">Gambas IDE overlay for Funtoo Linux</description>
-    <homepage>https://github.com/damex/funtoo-gambas</homepage>
-    <owner type="person">
-      <email>damex.pp@gmail.com</email>
-      <name>Roman Kuzmitsky</name>
-    </owner>
-    <source type="git">https://github.com/damex/funtoo-gambas.git</source>
-    <feed>https://github.com/damex/funtoo-gambas/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>funtoo-tengine</name>
-    <description lang="en">Tengine overlay for Funtoo Linux</description>
-    <homepage>https://github.com/damex/funtoo-tengine</homepage>
-    <owner type="person">
-      <email>damex.pp@gmail.com</email>
-      <name>Roman Kuzmitsky</name>
-    </owner>
-    <source type="git">https://github.com/damex/funtoo-tengine.git</source>
-    <feed>https://github.com/damex/funtoo-tengine/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>furikake</name>
     <description lang="en">Gentoo overlay of Alex Wilson</description>
     <homepage>https://github.com/antoligy/furikake</homepage>
@@ -1613,6 +1591,17 @@ FIN
         <name>amaroun</name>
     </owner>
     <source type="mercurial">https://bitbucket.org/amaroun/gamarouns</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>gambas-overlay</name>
+    <description lang="en">Gambas IDE overlay for Gentoo Linux</description>
+    <homepage>https://github.com/damex/gambas-overlay</homepage>
+    <owner type="person">
+      <email>damex.pp@gmail.com</email>
+      <name>Roman Kuzmitsky</name>
+    </owner>
+    <source type="git">https://github.com/damex/gambas-overlay.git</source>
+    <feed>https://github.com/damex/gambas-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gamerlay</name>
@@ -4571,6 +4560,17 @@ FIN
     <source type="git">git://anongit.gentoo.org/proj/tegra.git</source>
     <feed>https://cgit.gentoo.org/proj/tegra.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/tegra.git/rss/</feed> -->
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>tengine-overlay</name>
+    <description lang="en">Tengine overlay for Gentoo Linux</description>
+    <homepage>https://github.com/damex/tengine-overlay</homepage>
+    <owner type="person">
+      <email>damex.pp@gmail.com</email>
+      <name>Roman Kuzmitsky</name>
+    </owner>
+    <source type="git">https://github.com/damex/tengine-overlay.git</source>
+    <feed>https://github.com/damex/tengine-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>tf201</name>

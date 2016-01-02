@@ -1715,6 +1715,19 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/gentoo-guis.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
+    <name>gentoo-mate</name>
+    <description lang="en">Gentoo MATE Desktop Project Repo</description>
+    <homepage>https://wiki.gentoo.org/wiki/Project:MATE</homepage>
+    <owner type="project">
+      <email>mate@gentoo.org</email>
+      <name>MATE Desktop Project</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/proj/gentoo-mate.git</source>
+    <source type="git">https://anongit.gentoo.org/git/proj/gentoo-mate.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-mate.git</source>
+    <feed>https://cgit.gentoo.org/proj/gentoo-mate.git/atom/</feed>
+  </repo>
+  <repo quality="experimental" status="official">
     <name>gentoo-openbsd</name>
     <description lang="en">Gentoo/OpenBSD Project Overlay</description>
     <homepage>https://cgit.gentoo.org/proj/gentoo-openbsd.git/</homepage>

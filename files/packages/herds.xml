@@ -696,17 +696,6 @@
   </maintainer>
 </herd>
 <herd>
-  <name>x11-drivers</name>
-  <email>x11-drivers@gentoo.org</email>
-  <description>X11 external drivers packages</description>
-  <maintainer>
-    <email>lu_zero@gentoo.org</email>
-  </maintainer>
-  <maintainer>
-    <email>ricmm@gentoo.org</email>
-  </maintainer>
-</herd>
-<herd>
   <name>sound</name>
   <email>sound@gentoo.org</email>
   <description>media-sound and related packages</description>

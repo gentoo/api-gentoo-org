@@ -815,6 +815,20 @@
             "Gilles Dartiguelongue <eva@gentoo.org>"
         ]
     }, 
+    "expeditioneer": {
+        "fingerprint": [
+            "41A0510B55A4B9823D13A9833B88FD2E13CE979C"
+        ], 
+        "keydir": "expeditioneer", 
+        "keys": [
+            "41A0510B55A4B9823D13A9833B88FD2E13CE979C"
+        ], 
+        "name": "Dennis Lamm", 
+        "nick": "expeditioneer", 
+        "uid": [
+            "Dennis Lamm <expeditioneer@gentoo.org>"
+        ]
+    }, 
     "fauli": {
         "fingerprint": [
             "68C5D381B69AA7776A91E999350AAD7C2B859DE3"
@@ -1099,11 +1113,11 @@
     }, 
     "hd_brummy": {
         "fingerprint": [
-            "95916D0BAAA8E8CC1B82FE81767D3B1D34C2808A"
+            "0E0AA1EE1DF441D7A3F521C293EB5F4DAA5832A1"
         ], 
         "keydir": "hd_brummy", 
         "keys": [
-            "95916D0BAAA8E8CC1B82FE81767D3B1D34C2808A"
+            "0E0AA1EE1DF441D7A3F521C293EB5F4DAA5832A1"
         ], 
         "name": "Joerg Bornkessel", 
         "nick": "hd_brummy", 
@@ -1477,6 +1491,20 @@
         "nick": "jsbronder", 
         "uid": [
             "Justin Bronder <jsbronder@gentoo.org>"
+        ]
+    }, 
+    "jstein": {
+        "fingerprint": [
+            "04AC7A21E1EBC3661CF5C192270C8757B9FE97FF"
+        ], 
+        "keydir": "jstein", 
+        "keys": [
+            "04AC7A21E1EBC3661CF5C192270C8757B9FE97FF"
+        ], 
+        "name": "Jonas Stein", 
+        "nick": "jstein", 
+        "uid": [
+            "Jonas Stein <jstein@gentoo.org>"
         ]
     }, 
     "k_f": {
@@ -2115,6 +2143,20 @@
             "Joe Sapp <nixphoeni@gentoo.org>"
         ]
     }, 
+    "np-hardass": {
+        "fingerprint": [
+            "862040BE422755F27FDE13D5671C52F118F89C67"
+        ], 
+        "keydir": "np-hardass", 
+        "keys": [
+            "862040BE422755F27FDE13D5671C52F118F89C67"
+        ], 
+        "name": "NP Hardass", 
+        "nick": "np-hardass", 
+        "uid": [
+            "NP Hardass <np-hardass@gentoo.org>"
+        ]
+    }, 
     "nullishzero": {
         "fingerprint": [
             "1D9F284468C68B3A09E4765BD6F579C239E7AB2E"
@@ -2701,6 +2743,20 @@
             "Samuli Suominen <ssuominen@gentoo.org>"
         ]
     }, 
+    "stasibear": {
+        "fingerprint": [
+            "C584CB225849EF8065E37F0D6B61E4CCEA210C51"
+        ], 
+        "keydir": "stasibear", 
+        "keys": [
+            "C584CB225849EF8065E37F0D6B61E4CCEA210C51"
+        ], 
+        "name": "Erik Mackdanz", 
+        "nick": "stasibear", 
+        "uid": [
+            "Erik Mackdanz <stasibear@gentoo.org>"
+        ]
+    }, 
     "steev": {
         "fingerprint": [
             "75CE6F930FD433DB1C64C0FE26B588EAF51374AF"
@@ -3030,12 +3086,14 @@
     "vapier": {
         "fingerprint": [
             "B902B5271325F892AC251AD441633B9FE837F581", 
-            "CA79895E8AE3CACF5672BE65F1AED436D2E96200"
+            "CA79895E8AE3CACF5672BE65F1AED436D2E96200", 
+            "FF2CE3AF1A9BA0694CC1107D3925A3DBC9975267"
         ], 
         "keydir": "vapier", 
         "keys": [
             "B902B5271325F892AC251AD441633B9FE837F581", 
-            "CA79895E8AE3CACF5672BE65F1AED436D2E96200"
+            "CA79895E8AE3CACF5672BE65F1AED436D2E96200", 
+            "FF2CE3AF1A9BA0694CC1107D3925A3DBC9975267"
         ], 
         "name": "Mike Frysinger", 
         "nick": "vapier", 

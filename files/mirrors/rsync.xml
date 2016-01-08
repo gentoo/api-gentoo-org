@@ -131,11 +131,6 @@
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync10.de.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>SPLINE, Institut für Informatik, Freie Universität Berlin -
-		rsync11.de.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync11.de.gentoo.org</uri>
-    </mirror>
-    <mirror>
       <name>mirror.amiconsult.de - rsync12.de.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync12.de.gentoo.org</uri>
     </mirror>

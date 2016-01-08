@@ -4731,6 +4731,16 @@ FIN
     <source type="git">https://github.com/tristelune1/tristelune-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>trollerlay</name>
+    <description>Overlay for packages that I use, which doesn't exist in main tree or layman's overlays</description>
+    <homepage>https://github.com/fat0troll/trollerlay</homepage>
+    <owner type="person">
+      <email>iam@toofat.ru</email>
+      <name>Vladimir "fat0troll" Kozlov</name>
+    </owner>
+    <source type="git">https://github.com/fat0troll/trollerlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>tryton</name>
     <description>Tryton</description>
     <homepage>http://www.tryton.org/</homepage>

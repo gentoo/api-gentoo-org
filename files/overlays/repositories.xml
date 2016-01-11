@@ -981,6 +981,17 @@ FIN
     <feed>https://cgit.gentoo.org/user/dfreise.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/dfreise.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>didactic-duck</name>
+    <description>Some ebuilds that might work</description>
+    <homepage>https://github.com/lucianposton/didactic-duck</homepage>
+    <owner type="person">
+      <email>lucianposton@gmail.com</email>
+      <name>Lucian Poston</name>
+    </owner>
+    <source type="git">https://github.com/lucianposton/didactic-duck.git</source>
+    <feed>http://github.com/lucianposton/didactic-duck/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>dilfridge</name>
     <description lang="en"><![CDATA[Dilfridge overlay: experimental ebuilds and lab software]]></description>

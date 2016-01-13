@@ -497,6 +497,20 @@
             "John Christian Stoddart <chiguire@gentoo.org>"
         ]
     }, 
+    "chiitoo": {
+        "fingerprint": [
+            "FC91B120FB7838F4BD9EC3951F15AC5FB0D2958A"
+        ], 
+        "keydir": "chiitoo", 
+        "keys": [
+            "FC91B120FB7838F4BD9EC3951F15AC5FB0D2958A"
+        ], 
+        "name": "Jimi Huotari", 
+        "nick": "chiitoo", 
+        "uid": [
+            "Jimi Huotari <chiitoo@gentoo.org>"
+        ]
+    }, 
     "chithanh": {
         "fingerprint": [
             "6C2EF02FB81F1F3A59F44F60FA0BC7DAFA043D10", 
@@ -2671,6 +2685,20 @@
         "nick": "slyfox", 
         "uid": [
             "Sergei Trofimovich <slyfox@gentoo.org>"
+        ]
+    }, 
+    "soap": {
+        "fingerprint": [
+            "51B530432B61780E9444ABA4EB917A4D2FFC1685"
+        ], 
+        "keydir": "soap", 
+        "keys": [
+            "51B530432B61780E9444ABA4EB917A4D2FFC1685"
+        ], 
+        "name": "David Seifert", 
+        "nick": "soap", 
+        "uid": [
+            "David Seifert <soap@gentoo.org>"
         ]
     }, 
     "sochotnicky": {

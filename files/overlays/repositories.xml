@@ -1173,6 +1173,18 @@ FIN
     <feed>https://bitbucket.org/dwfreed/dwfreed.gentoo/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>earshark</name>
+    <description>personal overlay, mostly games related</description>
+    <homepage>https://github.com/Chemrat/overlay</homepage>
+    <owner>
+      <email>jazzvoid@gmail.com</email>
+      <name>Valeriy</name>
+    </owner>
+    <source type="git">https://github.com/Chemrat/overlay.git</source>
+    <source type="git">git://github.com/Chemrat/overlay.git</source>
+    <feed>https://github.com/Chemrat/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>eatnumber1</name>
     <description lang="en"><![CDATA[Eatnumber1's personal overlay]]></description>
     <homepage>https://cgit.gentoo.org/user/eatnumber1.git/</homepage>

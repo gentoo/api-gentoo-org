@@ -1527,10 +1527,6 @@
     <name>Tony Vroon</name>
     <role>ejabberd and jabber-base</role>
   </maintainer>
-  <maintainer>
-    <email>mrueg@gentoo.org</email>
-    <name>Manuel Rüger</name>
-  </maintainer>
 </herd>
 <herd>
   <name>sparc</name>

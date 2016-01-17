@@ -265,10 +265,6 @@
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://gentoo.prz.rzeszow.pl/gentoo</uri>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.prz.rzeszow.pl</uri>
     </mirror>
-    <mirror>
-      <name>Warsaw University Of Technology</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirror.pw.edu.pl/</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="PT" countryname="Portugal">
     <mirror>

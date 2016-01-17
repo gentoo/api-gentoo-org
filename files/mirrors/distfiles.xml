@@ -331,12 +331,6 @@
   </mirrorgroup>
   <mirrorgroup region="Europe" country="UA" countryname="Ukraine">
     <mirror>
-      <name>gentoo.kiev.ua</name>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.kiev.ua/</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.kiev.ua/ftp/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://gentoo.kiev.ua/gentoo-distfiles</uri>
-    </mirror>
-    <mirror>
       <name>ITEAM gentoo mirror</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.iteam.net.ua/</uri>
     </mirror>

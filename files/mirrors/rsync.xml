@@ -262,10 +262,6 @@
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.ua.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>gentoo.kiev.ua - rsync1.ua.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.ua.gentoo.org</uri>
-    </mirror>
-    <mirror>
       <name>ITEAM gentoo mirror - rsync2.ua.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync2.ua.gentoo.org</uri>
     </mirror>

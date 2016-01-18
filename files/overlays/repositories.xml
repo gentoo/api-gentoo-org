@@ -2011,6 +2011,16 @@ FIN
     <feed>https://github.com/internethering/hering-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>hexedit-overlay</name>
+    <description lang="en">Ebuilds for infrastructure-related packages and my own projects</description>
+    <homepage>http://hexedit.me/gentoo/</homepage>
+    <owner type="person">
+      <email>hexedit@ifproject.ru</email>
+      <name>Timofey Negrebetsky</name>
+    </owner>
+    <source type="svn">https://svn.ifproject.ru/gentoo-overlay/</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name><![CDATA[hhvm]]></name>
     <description><![CDATA[hhvm gentoo overlay]]></description>
     <homepage>https://github.com/reanimus/hhvm-overlay</homepage>

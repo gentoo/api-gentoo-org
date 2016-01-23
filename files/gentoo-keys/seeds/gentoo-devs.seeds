@@ -1495,11 +1495,11 @@
     }, 
     "jsbronder": {
         "fingerprint": [
-            "8B912373DE6701B0DA5E848AE0CAEF044D7043C9"
+            "3C5F3FC09C20E9870BE45AB21DECCB56718E4344"
         ], 
         "keydir": "jsbronder", 
         "keys": [
-            "8B912373DE6701B0DA5E848AE0CAEF044D7043C9"
+            "3C5F3FC09C20E9870BE45AB21DECCB56718E4344"
         ], 
         "name": "Justin Bronder", 
         "nick": "jsbronder", 
@@ -1649,11 +1649,11 @@
     }, 
     "leio": {
         "fingerprint": [
-            "4E38C5E3E82518A8AC16D8CC91E61BEA89451C97"
+            "93A56F193C261368CD7F056904DA8079BE94C646"
         ], 
         "keydir": "leio", 
         "keys": [
-            "4E38C5E3E82518A8AC16D8CC91E61BEA89451C97"
+            "93A56F193C261368CD7F056904DA8079BE94C646"
         ], 
         "name": "Mart Raudsepp", 
         "nick": "leio", 

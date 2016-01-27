@@ -3215,11 +3215,11 @@
     }, 
     "wired": {
         "fingerprint": [
-            "EE9C993E3A4B17193261101E3645F0AEEB9B4AFA"
+            "2CA263DCA4F538E4FB32A8283A5DB94BD146D5A8"
         ], 
         "keydir": "wired", 
         "keys": [
-            "EE9C993E3A4B17193261101E3645F0AEEB9B4AFA"
+            "2CA263DCA4F538E4FB32A8283A5DB94BD146D5A8"
         ], 
         "name": "Alex Alexander", 
         "nick": "wired", 

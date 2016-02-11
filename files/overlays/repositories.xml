@@ -339,6 +339,28 @@ FIN
     <source type="git">https://github.com/archenroot/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>argent-main</name>
+    <description>Argent Linux</description>
+    <homepage>https://gitlab.com/argent/argent-main</homepage>
+    <owner type="project">
+      <email>stefan.cristian@rogentos.ro</email>
+      <name>Stefan Cristian Brindusa</name>
+    </owner>
+    <source type="git">https://gitlab.com/argent/argent-main.git</source>
+    <feed>https://gitlab.com/argent/argent-main/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>argent-server</name>
+    <description>Argent enterprise and servers oriented overlay of ebuilds</description>
+    <homepage>https://gitlab.com/argent/argent-server.git</homepage>
+    <owner type="project">
+      <email>stefan.cristian@rogentos.ro</email>
+      <name>Stefan Cristian Brindusa</name>
+    </owner>
+    <source type="git">https://gitlab.com/argent/argent-server.git</source>
+    <feed>https://gitlab.com/argent/argent-server/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>Armageddon</name>
     <description lang="en">User overlay</description>
     <homepage>https://cgit.gentoo.org/user/Armageddon.git/</homepage>

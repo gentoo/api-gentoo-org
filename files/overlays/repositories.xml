@@ -3613,6 +3613,15 @@ FIN
     </owner>
     <source type="svn">svn://svn.tuxfamily.org/svnroot/proaudio/proaudio/trunk/overlays/proaudio</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>procyon</name>
+    <description>Procyon Overlay</description>
+    <owner>
+      <email>donat@opmbx.org</email>
+      <name>donat-b</name>
+    </owner>
+    <source type="git">https://github.com/donat-b/procyon.git</source>
+  </repo>
   <repo quality="testing" status="unofficial">
     <name>progress</name>
     <description><![CDATA[Progress Overlay: Python packages (including Pyramid, Zope) and other packages]]></description>

@@ -273,11 +273,13 @@
     }, 
     "bicatali": {
         "fingerprint": [
-            "DF2A5525060DD25F4B1B907ED727196E13CB1360"
+            "DF2A5525060DD25F4B1B907ED727196E13CB1360", 
+            "328B38E323C8B2F85F0575BA7009F3DC6752A7F0"
         ], 
         "keydir": "bicatali", 
         "keys": [
-            "DF2A5525060DD25F4B1B907ED727196E13CB1360"
+            "DF2A5525060DD25F4B1B907ED727196E13CB1360", 
+            "328B38E323C8B2F85F0575BA7009F3DC6752A7F0"
         ], 
         "name": "Sebastien Fabbro", 
         "nick": "bicatali", 
@@ -2543,11 +2545,13 @@
     }, 
     "rhill": {
         "fingerprint": [
-            "47C36D6248640E498E9E7F92ED38BD49957A8463"
+            "47C36D6248640E498E9E7F92ED38BD49957A8463", 
+            "9E1DDA84ED44EF1053670293EB3B63D13F2602FF"
         ], 
         "keydir": "rhill", 
         "keys": [
-            "47C36D6248640E498E9E7F92ED38BD49957A8463"
+            "47C36D6248640E498E9E7F92ED38BD49957A8463", 
+            "9E1DDA84ED44EF1053670293EB3B63D13F2602FF"
         ], 
         "name": "Ryan Hill", 
         "nick": "rhill", 
@@ -2787,11 +2791,11 @@
     }, 
     "steev": {
         "fingerprint": [
-            "75CE6F930FD433DB1C64C0FE26B588EAF51374AF"
+            "D8D9CCCB00DE249DC96BDEF8E909CE944B7E2435"
         ], 
         "keydir": "steev", 
         "keys": [
-            "75CE6F930FD433DB1C64C0FE26B588EAF51374AF"
+            "D8D9CCCB00DE249DC96BDEF8E909CE944B7E2435"
         ], 
         "name": "Stephen Klimaszewski", 
         "nick": "steev", 

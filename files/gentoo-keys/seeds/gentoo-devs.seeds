@@ -273,12 +273,10 @@
     }, 
     "bicatali": {
         "fingerprint": [
-            "DF2A5525060DD25F4B1B907ED727196E13CB1360", 
             "328B38E323C8B2F85F0575BA7009F3DC6752A7F0"
         ], 
         "keydir": "bicatali", 
         "keys": [
-            "DF2A5525060DD25F4B1B907ED727196E13CB1360", 
             "328B38E323C8B2F85F0575BA7009F3DC6752A7F0"
         ], 
         "name": "Sebastien Fabbro", 

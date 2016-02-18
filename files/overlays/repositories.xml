@@ -1612,16 +1612,6 @@ FIN
     <feed>https://github.com/FrostyX/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>funroll-loops</name>
-    <description>Ebuilds for webserver, osm and other software.</description>
-    <homepage>https://redmine.funroll-loops.de/projects/portage-overlay/repository</homepage>
-    <owner>
-      <email>portage-overlay@funroll-loops.de</email>
-      <name>Daniel Bahrdt</name>
-    </owner>
-    <source type="git">git://git.funroll-loops.de/portage-overlay</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>fuverlay</name>
     <description lang="en">Funkill's overlay</description>
     <homepage>https://github.com/funkill/fuverlay</homepage>

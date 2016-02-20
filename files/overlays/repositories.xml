@@ -1170,6 +1170,16 @@ FIN
     <feed>https://github.com/drdim/layman/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>dsr</name>
+    <description>Andrew Reyes' personal overlay</description>
+    <homepage>https://gitlab.com/dsreyes1014/dsr-overlay</homepage>
+    <owner>
+      <email>dsreyes1014@gmail.com</email>
+      <name>Andrew Reyes</name>
+    </owner>
+    <source type="git">https://gitlab.com/dsreyes1014/dsr-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>dswm</name>
     <description lang="en">Deep Space Window Manager - StumpWM-based windowmanager with better usability</description>
     <homepage>https://cgit.gentoo.org/user/dswm.git/</homepage>

@@ -2096,6 +2096,15 @@ FIN
     <feed>https://github.com/hnaparst/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>hossie</name>
+    <description>gentoo-overlay from hossie</description>
+    <homepage>https://git.hossie.de/projects/GEN/repos/gentoo-overlay/browse</homepage>
+    <owner>
+      <email>hossie@hossie.de</email>
+    </owner>
+    <source type="git">https://git.hossie.de/scm/gen/gentoo-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>humble</name>
     <description lang="en">Humble Indie Bundle unofficial overlay for Gentoo</description>
     <homepage>https://github.com/pashazz/humble-overlay</homepage>

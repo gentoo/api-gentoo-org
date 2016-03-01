@@ -2131,6 +2131,15 @@ FIN
     <feed>https://cgit.gentoo.org/dev/ikelos.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/ikelos.git/rss/</feed> -->
   </repo>
+	<repo quality="experimental" status="unofficial">
+		<name>imaging</name>
+		<description>Gentoo overlay for image processing and visualization</description>
+		<homepage>https://github.com/gerddie/gentoo-imaging</homepage>
+		<owner>
+			<email>gw.fossdev@gmail.com</email>
+		</owner>
+		<source type="git">https://github.com/gerddie/gentoo-imaging.git</source>
+	</repo>
   <repo quality="experimental" status="unofficial">
     <name>improvise</name>
     <description lang="en"><![CDATA[Patches and patched ebuilds; xen and python bugs && bumps]]></description>

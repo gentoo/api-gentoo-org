@@ -118,7 +118,8 @@
   <mirrorgroup region="Europe" country="BG" countryname="Bulgaria">
     <mirror>
       <name>telepoint.bg</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.telepoint.bg/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.telepoint.bg/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirrors.telepoint.bg/gentoo/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="CZ" countryname="Czech Republic">

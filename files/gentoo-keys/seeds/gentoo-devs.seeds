@@ -387,11 +387,11 @@
     }, 
     "bman": {
         "fingerprint": [
-            "244BA4969531293149F8D52E2085CB468EE88A22"
+            "1536F4B372EB9C5411F55C43246D23A210FB0F3E"
         ], 
         "keydir": "bman", 
         "keys": [
-            "244BA4969531293149F8D52E2085CB468EE88A22"
+            "1536F4B372EB9C5411F55C43246D23A210FB0F3E"
         ], 
         "name": "Aaron Bauman", 
         "nick": "bman", 

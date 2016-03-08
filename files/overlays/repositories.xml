@@ -4098,12 +4098,12 @@ FIN
   <repo quality="experimental" status="unofficial">
       <name>salfter</name>
       <description lang="en">Scott Alfter's ebuilds</description>
-      <homepage>https://github.com/salfter/portage</homepage>
+      <homepage>https://gitlab.com/salfter/portage</homepage>
       <owner type="person">
           <email>scott@alfter.us</email>
           <name>Scott Alfter</name>
       </owner>
-      <source type="git">https://github.com/salfter/portage</source>
+      <source type="git">https://gitlab.com/salfter/portage</source>
   </repo>
   <repo quality="experimental" status="unofficial">
       <name>santa01</name>

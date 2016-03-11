@@ -4103,7 +4103,7 @@ FIN
           <email>scott@alfter.us</email>
           <name>Scott Alfter</name>
       </owner>
-      <source type="git">https://gitlab.com/salfter/portage</source>
+      <source type="git">https://gitlab.com/salfter/portage.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
       <name>santa01</name>

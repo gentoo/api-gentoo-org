@@ -1799,6 +1799,18 @@ FIN
     <feed>https://cgit.gentoo.org/proj/gentoo-guis.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/gentoo-guis.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>gentoo-htpc</name>
+    <description>viddi87 HTPC overlay</description>
+    <homepage>https://github.com/viddi87/gentoo-htpc</homepage>
+    <owner>
+      <email>viddi@viddi.us</email>
+      <name>Vidar</name>
+    </owner>
+    <source type="git">https://github.com/viddi87/gentoo-htpc.git</source>
+    <source type="git">git://github.com/viddi87/gentoo-htpc.git</source>
+    <feed>https://github.com/viddi87/gentoo-htpc/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>gentoo-mate</name>
     <description lang="en">Gentoo MATE Desktop Project Repo</description>

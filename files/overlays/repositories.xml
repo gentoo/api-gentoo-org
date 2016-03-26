@@ -263,6 +263,15 @@ FIN
     <source type="git">https://github.com/anders-larsson/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>andjscott</name>
+    <description>Few ebuilds that others may find useful</description>
+    <homepage>https://github.com/andjscott/overlays</homepage>
+    <owner type="person">
+      <email>andj.scott@gmail.com</email>
+    </owner>
+    <source type="git">https://github.com/andjscott/overlays.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>andy</name>
     <description lang="en">Development tools for embedded systems and misc stuff</description>
     <homepage>https://cgit.gentoo.org/user/andy.git/</homepage>

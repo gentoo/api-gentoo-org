@@ -2449,13 +2449,12 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>kaa</name>
     <description><![CDATA[Kaa's experimental overlay]]></description>
-    <homepage>http://www.kaa.org.ua/gentoo</homepage>
+    <homepage>http://www.kaa.org.ua</homepage>
     <owner>
       <email>oleg@kaa.org.ua</email>
       <name>Oleg Kravchenko</name>
     </owner>
-    <source type="svn">http://www.kaa.org.ua/gentoo</source>
-    <feed>http://www.kaa.org.ua/gentoo</feed>
+    <source type="git">https://github.com/Oleh-Kravchenko/kaa-layman.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>kde</name>

@@ -1987,11 +1987,11 @@
     }, 
     "mschiff": {
         "fingerprint": [
-            "8AAC5F4683B4DB7083173723296C6CCA35A64134"
+            "F7FB78F77CC379F6DF076E9ECA3E7BF67F979BE5"
         ], 
         "keydir": "mschiff", 
         "keys": [
-            "8AAC5F4683B4DB7083173723296C6CCA35A64134"
+            "F7FB78F77CC379F6DF076E9ECA3E7BF67F979BE5"
         ], 
         "name": "Marc Schiffbauer", 
         "nick": "mschiff", 

@@ -2764,6 +2764,17 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/user/luman.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>luxifer</name>
+    <description lang="en">Personal Overlay, contains stoken ebuilds</description>
+    <homepage>https://github.com/luxifr/olgentoo</homepage>
+    <owner type="person">
+      <email>dhertel@gmail.com</email>
+      <name>Dominik Keil</name>
+    </owner>
+    <source type="git">https://github.com/luxifr/olgentoo.git</source>
+    <feed>https://github.com/luxifr/olgentoo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>lxde-gtk3</name>
     <description lang="en">lxde-gtk3 overlay</description>
     <homepage>https://github.com/rilian-la-te/lxde-gtk3-overlay</homepage>

@@ -3547,6 +3547,17 @@ FIN
     <feed>https://github.com/jcpetkovich/overlay-petkovich/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>luxifer</name>
+    <description lang="en">User overlay</description>
+    <homepage>https://github.com/perfect7gentleman/pg_overlay</homepage>
+    <owner type="person">
+      <email>perfect007gentleman@gmail.com</email>
+      <name>Perfect Gentleman</name>
+    </owner>
+    <source type="git">https://github.com/perfect7gentleman/pg_overlay.git</source>
+    <feed>https://github.com/perfect7gentleman/pg_overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>pica-pica</name>
     <description lang="en">Pica Pica ebuilds</description>
     <homepage>https://github.com/antonsviridenko/pica-pica-gentoo-overlay</homepage>

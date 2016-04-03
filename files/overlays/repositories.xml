@@ -3558,7 +3558,7 @@ FIN
     <feed>https://github.com/jcpetkovich/overlay-petkovich/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>luxifer</name>
+    <name>pg_overlay</name>
     <description lang="en">User overlay</description>
     <homepage>https://github.com/perfect7gentleman/pg_overlay</homepage>
     <owner type="person">

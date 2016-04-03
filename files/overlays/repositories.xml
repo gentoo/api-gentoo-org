@@ -2212,6 +2212,17 @@ FIN
     <feed>https://github.com/okias/ixit/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>jacendi-overlay</name>
+    <description lang="en">Various ebuilds (mostly idTech-related)</description>
+    <homepage>https://github.com/Jacendi/jacendi-overlay</homepage>
+    <owner type="person">
+      <email>jacendi@protonmail.com</email>
+      <name>Vladimir Gavrilov</name>
+    </owner>
+    <source type="git">https://github.com/Jacendi/jacendi-overlay.git</source>
+    <feed>https://github.com/Jacendi/jacendi-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>jamesbroadhead</name>
     <description lang="en"><![CDATA[James Broadhead's personal overlay and pre-sunrise testing ground]]></description>
     <homepage>https://cgit.gentoo.org/user/jamesbroadhead.git/</homepage>

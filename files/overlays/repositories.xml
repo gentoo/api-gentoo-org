@@ -4599,6 +4599,17 @@ FIN
     <feed>https://github.com/steveeJ/personal-portage-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>stowe-verlay</name>
+    <description>Few things that have either broken elsewhere or fallen unmaintained, such as winexe, a source-based version of logitech media server, a patched version of dansguardian</description>
+    <homepage>https://github.com/mwstowe/stowe-verlay</homepage>
+    <owner>
+      <email>mstowe@chicago.us.mensa.org</email>
+	  <name>Michael Stowe</name>
+    </owner>
+    <source type="git">https://github.com/mwstowe/stowe-verlay.git</source>
+    <feed>https://github.com/mwstowe/stowe-verlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>strohel</name>
     <description lang="en"><![CDATA[strohel's overlay]]></description>
     <homepage>https://github.com/strohel/strohel-overlay</homepage>

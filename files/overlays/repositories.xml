@@ -409,6 +409,17 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/user/AstroFloyd.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>atom</name>
+    <description lang="en">Atom Overlay</description>
+    <homepage>https://github.com/elprans/atom-overlay</homepage>
+    <owner type="person">
+      <email>elprans@gmail.com</email>
+      <name>Elvis Pranskevichus</name>
+    </owner>
+    <source type="git">https://github.com/elprans/atom-overlay.git</source>
+    <feed>https://github.com/elprans/atom-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>awesome</name>
     <description lang="en">Awesome ebuilds</description>
     <homepage>https://gitlab.awesome-it.de/overlays/awesome</homepage>

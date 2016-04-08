@@ -3043,13 +3043,11 @@
     }, 
     "tupone": {
         "fingerprint": [
-            "5F513ABFD57EFAC8FA2336EC7731303FD926947A", 
-            "C1F89E3060A29E4475F2E29C7963DEE6A3A6CE48"
+            "4C6A81FA36B09D5C41DBECFA9E6E4AB4ABDB5B78"
         ], 
         "keydir": "tupone", 
         "keys": [
-            "5F513ABFD57EFAC8FA2336EC7731303FD926947A", 
-            "C1F89E3060A29E4475F2E29C7963DEE6A3A6CE48"
+            "4C6A81FA36B09D5C41DBECFA9E6E4AB4ABDB5B78"
         ], 
         "name": "Alfredo Tupone", 
         "nick": "tupone", 
@@ -3227,6 +3225,22 @@
         "nick": "wired", 
         "uid": [
             "Alex Alexander <wired@gentoo.org>"
+        ]
+    }, 
+    "wizardedit": {
+        "fingerprint": [
+            "520FB412FAF5C0D9EC1EF56A00B32957B94BF3E1", 
+            "6C589DFE65C2111A54B8752514FBD7EAA041937B"
+        ], 
+        "keydir": "wizardedit", 
+        "keys": [
+            "520FB412FAF5C0D9EC1EF56A00B32957B94BF3E1", 
+            "6C589DFE65C2111A54B8752514FBD7EAA041937B"
+        ], 
+        "name": "Austin English", 
+        "nick": "wizardedit", 
+        "uid": [
+            "Austin English <wizardedit@gentoo.org>"
         ]
     }, 
     "wschlich": {

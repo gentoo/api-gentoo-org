@@ -2569,6 +2569,17 @@ FIN
     <source type="git">git@github.com:undying/krontage.git</source>
     <feed>https://github.com/undying/krontage/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>lacimarsik-overlay</name>
+    <description>Various patches and improvements on Gentoo Linux ebuilds</description>
+    <homepage>https://github.com/lacimarsik/lacimarsik-overlay</homepage>
+    <owner type="person">
+      <email>laci.marsik@gmail.com</email>
+      <name>Ladislav Marsik</name>
+    </owner>
+    <source type="git">https://github.com/lacimarsik/lacimarsik-overlay.git</source>
+    <feed>https://github.com/lacimarsik/lacimarsik-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>last-hope</name>
     <description>A gentoo portage overlay with a set of too exotic, or unusal ebuilds for the sunrise overlay or the main tree.</description>

@@ -121,6 +121,17 @@ FIN
     <feed>https://cgit.gentoo.org/dev/ago.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/ago.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>ahyangyi-overlay</name>
+    <description lang="en">Ahyangyi's overlay</description>
+    <homepage>https://github.com/ahyangyi/ahyangyi-overlay</homepage>
+    <owner type="person">
+      <email>ahyangyi@gmail.com</email>
+      <name>Yi Yang</name>
+    </owner>
+    <source type="git">https://github.com/ahyangyi/ahyangyi-overlay.git</source>
+    <feed>https://github.com/ahyangyi/ahyangyi-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>aidecoe</name>
     <description><![CDATA[aidecoe's experimental overlay]]></description>

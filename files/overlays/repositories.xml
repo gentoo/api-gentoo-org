@@ -4101,6 +4101,17 @@ FIN
     </owner>
     <source type="rsync">rsync://roverlay.dev.gentoo.org/roverlay</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>rs-overlay</name>
+    <description lang="en">Gentoo overlay for conveniance</description>
+    <homepage>https://github.com/gled-rs/rs-overlay</homepage>
+    <owner type="person">
+      <email>gled@remote-shell.net</email>
+      <name>Tristan Mahé</name>
+    </owner>
+    <source type="git">https://github.com/gled-rs/rs-overlay.git</source>
+    <feed>https://github.com/gled-rs/rs-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>ruby</name>
     <description>Experimental ebuilds from the Ruby edge.</description>

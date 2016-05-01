@@ -61,8 +61,8 @@
     </mirror>
     <mirror>
       <name>University of Illinois-Urbana Champaign</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.cites.uiuc.edu/pub/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.cites.uiuc.edu/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://cosmos.illinois.edu/pub/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://cosmos.illinois.edu/pub/gentoo/</uri>
     </mirror>
     <mirror>
       <name>Michigan Tech University</name>

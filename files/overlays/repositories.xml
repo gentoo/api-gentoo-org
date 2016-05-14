@@ -4209,10 +4209,6 @@ FIN
     <description>Split ebuilds for the Sage computer algebra system</description>
     <homepage>http://github.com/cschwan/sage-on-gentoo</homepage>
     <owner>
-      <email>schwan@uni-mainz.de</email>
-      <name>Christopher Schwan</name>
-    </owner>
-    <owner>
       <email>francois.bissey@canterbury.ac.nz</email>
       <name>Francois Bissey</name>
     </owner>

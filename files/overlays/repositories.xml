@@ -558,6 +558,19 @@ FIN
     <feed>https://cgit.gentoo.org/user/benklop.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/benklop.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>bes</name>
+    <description lang="en">bes' personal overlay</description>
+    <homepage>https://github.com/bes-internal/gentoo-overlay-bes</homepage>
+    <owner type="person">
+      <email>bes.internal@gmail.com</email>
+      <name>Vladimir Varlamov</name>
+    </owner>
+    <source type="git">https://github.com/bes-internal/gentoo-overlay-bes.git</source>
+    <source type="git">git://github.com/bes-internal/gentoo-overlay-bes.git</source>
+    <source type="git">git@github.com:bes-internal/gentoo-overlay-bes.git</source>
+    <feed>https://github.com/bes-internal/gentoo-overlay-bes/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>betagarden</name>
     <description lang="en">Joint beta-quality overlay effort to reduce overlay scatter. Any dev is welcome to join.</description>

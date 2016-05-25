@@ -1352,20 +1352,6 @@ FIN
     <feed>https://cgit.gentoo.org/proj/emacs.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/emacs.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="official">
-    <name>embedded-cross</name>
-    <description lang="en">Gentoo cross-compilation overlay for embedded devices</description>
-    <homepage>https://cgit.gentoo.org/proj/embedded-cross.git/</homepage>
-    <owner type="project">
-      <email>armin76@gentoo.org</email>
-      <name><![CDATA[Raúl Porcel]]></name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/proj/embedded-cross.git</source>
-    <source type="git">https://anongit.gentoo.org/git/proj/embedded-cross.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/embedded-cross.git</source>
-    <feed>https://cgit.gentoo.org/proj/embedded-cross.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/embedded-cross.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>emc</name>
     <description lang="en"><![CDATA[Michal Plichta's (emc aka mipl) overlay]]></description>

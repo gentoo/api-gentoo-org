@@ -2090,6 +2090,20 @@ FIN
     <source type="git">git@github.com:Heather/gentoo-heather.git</source>
     <feed>https://github.com/Heather/gentoo-heather/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>heroxbd</name>
+    <description lang="en">Developer overlay</description>
+    <homepage>https://cgit.gentoo.org/dev/heroxbd.git/</homepage>
+    <owner type="person">
+      <email>heroxbd@gentoo.org</email>
+      <name>Benda Xu</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/dev/heroxbd.git</source>
+    <source type="git">https://anongit.gentoo.org/git/dev/heroxbd.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/dev/heroxbd.git</source>
+    <feed>https://cgit.gentoo.org/dev/heroxbd.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/heroxbd.git/rss/</feed> -->
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>hering-overlay</name>
     <description lang="en">Richard Hering's gentoo overlay</description>

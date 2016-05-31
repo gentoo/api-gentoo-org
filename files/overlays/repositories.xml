@@ -1346,11 +1346,11 @@ FIN
       <email>emacs@gentoo.org</email>
       <name>Gentoo Emacs team</name>
     </owner>
-    <source type="git">git://anongit.gentoo.org/proj/emacs.git</source>
-    <source type="git">https://anongit.gentoo.org/git/proj/emacs.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/emacs.git</source>
-    <feed>https://cgit.gentoo.org/proj/emacs.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/emacs.git/rss/</feed> -->
+    <source type="git">git://anongit.gentoo.org/repo/proj/emacs.git</source>
+    <source type="git">https://anongit.gentoo.org/git/repo/proj/emacs.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/proj/emacs.git</source>
+    <feed>https://cgit.gentoo.org/repo/proj/emacs.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/repo/proj/emacs.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>emc</name>

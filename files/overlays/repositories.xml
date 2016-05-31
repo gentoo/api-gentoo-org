@@ -3824,6 +3824,17 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/prometheanfire.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>pross</name>
+    <description lang="en">User overlay</description>
+    <homepage>https://github.com/Pross/pross-overlay</homepage>
+    <owner type="person">
+      <email>pross@pross.org.uk</email>
+      <name>Simon Prosser</name>
+    </owner>
+    <source type="git">https://github.com/Pross/pross-overlay.git</source>
+    <feed>https://github.com/Pross/pross-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>psix-overlay</name>
     <description lang="en"><![CDATA[zabuldon's personal overlay]]></description>
     <homepage>https://github.com/zabuldon/psix-overlay</homepage>

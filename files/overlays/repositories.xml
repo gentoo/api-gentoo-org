@@ -519,18 +519,6 @@ FIN
     <feed>http://bazaar.launchpad.net/~serkan-kaba/serkan-overlay/mainline/atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>belak</name>
-    <description><![CDATA[belak's gentoo overlay for testing]]></description>
-    <homepage>http://github.com/belak/gentoo.overlay</homepage>
-    <owner>
-      <email>kelwert@mtu.edu</email>
-      <name>Kaleb Elwert</name>
-    </owner>
-    <source type="mercurial">https://bitbucket.org/belak/belak.gentoo</source>
-    <feed>http://bitbucket.org/belak/belak.gentoo/atom/</feed>
-    <feed>http://bitbucket.org/belak/belak.gentoo/rss/</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>benf</name>
     <description lang="en"><![CDATA[ben's overlay]]></description>
     <homepage>https://cgit.gentoo.org/user/benf.git/</homepage>

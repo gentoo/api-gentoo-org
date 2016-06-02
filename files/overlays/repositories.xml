@@ -1914,6 +1914,18 @@ FIN
     <feed>https://cgit.gentoo.org/proj/gnome.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/gnome.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>gnome-next</name>
+    <description>experimental newer gnome ebuilds</description>
+    <homepage>https://github.com/Heather/gentoo-gnome</homepage>
+    <owner type="person">
+      <email>cynede@gentoo.org</email>
+      <name>Heather Cynede</name>
+    </owner>
+    <source type="git">https://github.com/Heather/gentoo-gnome.git</source>
+    <source type="git">git@github.com:Heather/gentoo-gnome.git</source>
+    <feed>https://github.com/Heather/gentoo-gnome/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>gnustep</name>
     <description>Experimental ebuilds for GNUstep packages in Gentoo. Comments and bugreports are welcome!</description>

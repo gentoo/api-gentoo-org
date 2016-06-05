@@ -2218,20 +2218,6 @@ FIN
     <source type="git">https://github.com/JBoro/portage.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>je_fro</name>
-    <description><![CDATA[Helpful ebuilds for the macbook pro, and experimental
-    gentoo-science packages.]]></description>
-    <homepage>https://cgit.gentoo.org/dev/je_fro.git/</homepage>
-    <owner>
-      <email>je_fro@gentoo.org</email>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/dev/je_fro.git</source>
-    <source type="git">https://anongit.gentoo.org/git/dev/je_fro.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/je_fro.git</source>
-    <!-- <feed>https://cgit.gentoo.org/dev/je_fro.git/rss/</feed> -->
-    <feed>https://cgit.gentoo.org/dev/je_fro.git/atom/</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>jensp</name>
     <description><![CDATA[jensp's user overlay]]></description>
     <homepage>https://cgit.gentoo.org/user/jensp.git/</homepage>

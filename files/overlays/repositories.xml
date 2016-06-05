@@ -2624,20 +2624,6 @@ FIN
     </owner>
     <source type="git">git://anongit.gentoo.org/user/lmiphay.git</source>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>loongson</name>
-    <description>Gentoo loongson overlay</description>
-    <homepage>https://cgit.gentoo.org/proj/loongson.git/</homepage>
-    <owner>
-      <email>mattst88@gentoo.org</email>
-      <name>Matt Turner</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/proj/loongson.git</source>
-    <source type="git">https://anongit.gentoo.org/git/proj/loongson.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/loongson.git</source>
-    <feed>https://cgit.gentoo.org/proj/loongson.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/loongson.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>lootr</name>
     <description lang="en">dev-python/netzob and maybe some i3 hacks</description>

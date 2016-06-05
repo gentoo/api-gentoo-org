@@ -5065,17 +5065,6 @@ FIN
     <source type="git">https://github.com/NP-Hardass/wine-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>wirelay</name>
-    <description><![CDATA[wired's testing grounds and bleeding edge
-    ebuilds]]></description>
-    <homepage>http://dev.gentoo.org/~wired/</homepage>
-    <owner>
-      <email>wired@gentoo.org</email>
-    </owner>
-    <source type="git">git://github.com/wired/wirelay.git</source>
-    <feed>http://github.com/feeds/wired/commits/wirelay/master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>wjn-overlay</name>
     <description>wjn's overlay for Gentoo Linux</description>
     <homepage>https://bitbucket.org/wjn/wjn-overlay</homepage>

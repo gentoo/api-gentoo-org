@@ -507,18 +507,6 @@ FIN
     <feed>https://github.com/barzog/barzog-gentoo-overlay/commits/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>bazaar</name>
-    <description><![CDATA[A collection of Bazaar-related ebuilds, including release
-    candidates of Bazaar.]]></description>
-    <homepage>https://launchpad.net/bzr-gentoo-overlay/</homepage>
-    <owner>
-      <email>malept@malept.com</email>
-      <name>Mark Lee</name>
-    </owner>
-    <source type="bzr">lp:bzr-gentoo-overlay</source>
-    <feed>http://bazaar.launchpad.net/~serkan-kaba/serkan-overlay/mainline/atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>benf</name>
     <description lang="en"><![CDATA[ben's overlay]]></description>
     <homepage>https://cgit.gentoo.org/user/benf.git/</homepage>

@@ -1460,20 +1460,6 @@ FIN
     <feed>https://github.com/fkmclane/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>flameeyes-overlay</name>
-    <description><![CDATA[Flameeyes' private developer overlay]]></description>
-    <homepage>http://blog.flameeyes.eu/</homepage>
-    <owner>
-      <email>flameeyes@gentoo.org</email>
-      <name><![CDATA[Diego Pettenò]]></name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/dev/flameeyes.git</source>
-    <source type="git">https://anongit.gentoo.org/git/dev/flameeyes.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/flameeyes.git</source>
-    <feed>https://cgit.gentoo.org/dev/flameeyes.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/flameeyes.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>flammie</name>
     <description lang="en">An overlay for gentoo for things Flammie's worked on: Apertium, HFST, computational linguistics, spell-checking, obscure languages...</description>
     <homepage>https://github.com/flammie/flammie-overlay</homepage>

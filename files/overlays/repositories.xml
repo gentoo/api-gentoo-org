@@ -1726,20 +1726,6 @@ FIN
     <source type="git">git://github.com/gentoo-el/overlay.git</source>
     <feed>https://github.com/gentoo-el/overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>gentoo-guis</name>
-    <description lang="en">Experimental ebuilds for Gentoo specific guis and guis related projects</description>
-    <homepage>https://cgit.gentoo.org/proj/gentoo-guis.git/</homepage>
-    <owner type="project">
-      <email>gentoo-guis@gentoo.org</email>
-      <name>Gentoo-guis team</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/proj/gentoo-guis.git</source>
-    <source type="git">https://anongit.gentoo.org/git/proj/gentoo-guis.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-guis.git</source>
-    <feed>https://cgit.gentoo.org/proj/gentoo-guis.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/gentoo-guis.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-htpc</name>
     <description>viddi87 HTPC overlay</description>

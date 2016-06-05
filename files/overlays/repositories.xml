@@ -3804,20 +3804,6 @@ FIN
     <source type="git">git+ssh://git@github.com:rindeal/gentoo-overlay.git</source>
     <feed>https://github.com/rindeal/gentoo-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>robbat2</name>
-    <description lang="en">Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/robbat2.git/</homepage>
-    <owner type="person">
-      <email>robbat2@gentoo.org</email>
-      <name>Robin H. Johnson</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/dev/robbat2.git</source>
-    <source type="git">https://anongit.gentoo.org/git/dev/robbat2.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/robbat2.git</source>
-    <feed>https://cgit.gentoo.org/dev/robbat2.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/robbat2.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>ROKO__</name>
     <description lang="en">Unofficial ebuilds for gentoo based distributions.</description>

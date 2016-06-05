@@ -1352,17 +1352,6 @@ FIN
     <feed>https://gitweb.gentoo.org/user/ennui.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>ephemeral</name>
-    <description lang="en">Some roguelikes, perl modules, themes, multimedia and other utilities</description>
-    <homepage>http://github.com/joshuar/ephemeral-gentoo-overlay/tree/master</homepage>
-    <owner type="person">
-      <email>joshua.rich@gmail.com</email>
-      <name>Joshua Rich</name>
-    </owner>
-    <source type="git">git://github.com/joshuar/ephemeral-gentoo-overlay.git</source>
-    <feed>http://github.com/joshuar/ephemeral-gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>erikmack</name>
     <description lang="en"><![CDATA[Erik Mackdanz' overlay]]></description>
     <homepage>http://github.com/erikmack/gentoo-overlay</homepage>

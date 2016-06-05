@@ -3646,20 +3646,6 @@ FIN
     <feed>https://cgit.gentoo.org/proj/qt.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/qt.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="official">
-    <name>quantumsummers</name>
-    <description lang="en">Developer Overlay for Quantumsummers</description>
-    <homepage>https://cgit.gentoo.org/dev/quantumsummers.git/</homepage>
-    <owner type="person">
-      <email>quantumsummers@gentoo.org</email>
-      <name>Matthew Summers</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/dev/quantumsummers.git</source>
-    <source type="git">https://anongit.gentoo.org/git/dev/quantumsummers.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/quantumsummers.git</source>
-    <feed>https://cgit.gentoo.org/dev/quantumsummers.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/quantumsummers.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>quarks</name>
     <description><![CDATA[Quarks's overlay; needful things around Gentoo Hardened, Security and Penetration Testing]]></description>

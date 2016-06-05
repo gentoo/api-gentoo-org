@@ -4958,20 +4958,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/ultrabug.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>underlay</name>
-    <description lang="en">Miscellaneous admin and multimedia packages</description>
-    <homepage>https://cgit.gentoo.org/user/underlay.git/</homepage>
-    <owner type="person">
-      <email>mail@mcgruff.plus.com</email>
-      <name>Noel Darlow</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/underlay.git</source>
-    <source type="git">https://anongit.gentoo.org/git/user/underlay.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/underlay.git</source>
-    <feed>https://cgit.gentoo.org/user/underlay.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/underlay.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>undesktop</name>
     <description>Overlay containing Undesktop projects</description>
     <homepage>http://github.com/undesktop/undesktop-overlay</homepage>

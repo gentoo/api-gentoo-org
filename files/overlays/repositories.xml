@@ -2741,7 +2741,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>mate-de-gentoo</name>
-    <description lang="en">Portage Overlay for Mate Desktop 1.12</description>
+    <description lang="en">Updated ebuilds for mate-desktop environment</description>
     <homepage>https://github.com/oz123/mate-de-gentoo</homepage>
     <owner type="person">
       <email>oz.tiram@gmail.com</email>

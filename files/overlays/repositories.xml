@@ -4240,18 +4240,6 @@ FIN
     <feed>https://cgit.gentoo.org/user/sekh.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/sekh.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>sekyfsr</name>
-    <description lang="en"><![CDATA[Nicolas Pinto's sekyfsr overlay]]></description>
-    <homepage>https://github.com/npinto/sekyfsr-gentoo-overlay</homepage>
-    <owner type="person">
-      <email>nicolas.pinto@gmail.com</email>
-      <name>Nicolas Pinto</name>
-    </owner>
-    <source type="git">git://github.com/npinto/sekyfsr-gentoo-overlay.git</source>
-    <source type="git">https://github.com/npinto/sekyfsr-gentoo-overlay.git</source>
-    <feed>https://github.com/npinto/sekyfsr-gentoo-overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>sera</name>
     <description lang="en">Developer overlay</description>

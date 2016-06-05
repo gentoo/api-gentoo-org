@@ -3026,26 +3026,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/mysql.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>n4g</name>
-    <description><![CDATA[The goal for this overlay is to reproduce the Open Enterprise
-    server from novell on gentoo]]></description>
-    <homepage>http://n4g.mars.arge.at</homepage>
-    <owner>
-      <email>mario.fetka@gmail.com</email>
-    </owner>
-    <source type="git">git://git.disconnected-by-peer.at/novell4gentoo/stable.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>n4g-experimental</name>
-    <description><![CDATA[The goal for this overlay is to reproduce the Open Enterprise
-    server from novell on gentoo]]></description>
-    <homepage>http://n4g.mars.arge.at</homepage>
-    <owner>
-      <email>mario.fetka@gmail.com</email>
-    </owner>
-    <source type="git">git://git.disconnected-by-peer.at/novell4gentoo/experimental.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>nashedelo</name>
     <description lang="en">Experimental ebuilds</description>
     <homepage>https://bitbucket.org/angry_elf/nashedelo</homepage>

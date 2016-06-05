@@ -1263,20 +1263,6 @@ FIN
     <feed>https://github.com/Chemrat/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>eatnumber1</name>
-    <description lang="en"><![CDATA[Eatnumber1's personal overlay]]></description>
-    <homepage>https://cgit.gentoo.org/user/eatnumber1.git/</homepage>
-    <owner type="person">
-      <email>russ@eatnumber1.com</email>
-      <name>Russell Harmon</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/eatnumber1.git</source>
-    <source type="git">https://anongit.gentoo.org/git/user/eatnumber1.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/eatnumber1.git</source>
-    <feed>https://cgit.gentoo.org/user/eatnumber1.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/eatnumber1.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>eigenlay</name>
     <description lang="en">Eigenlab Gentoo overlay</description>
     <homepage>https://gitlab.com/eigennet/eigenlay</homepage>

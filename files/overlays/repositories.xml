@@ -1669,18 +1669,6 @@ FIN
     <feed>https://github.com/hasufell/games-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>gbin</name>
-    <description lang="en">Various gentoo ebuilds tweaked mainly around multimedia, python and forensics.</description>
-    <homepage>https://github.com/gbin/gbin-overlay</homepage>
-    <owner type="person">
-      <email>gbin@gootz.net</email>
-      <name>Guillaume BINET</name>
-    </owner>
-    <source type="git">git://github.com/gbin/gbin-overlay.git</source>
-    <source type="git">https://github.com/gbin/gbin-overlay.git</source>
-    <feed>https://github.com/gbin/gbin-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>geki</name>
     <description><![CDATA[The playground of gekis hacking on Gentoo Linux distribution.]]></description>
     <homepage>https://github.com/geki-yaba/gekis-playground</homepage>

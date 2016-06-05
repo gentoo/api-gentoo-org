@@ -2490,17 +2490,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/user/kork.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>kormoc</name>
-    <description lang="en"><![CDATA[Rob Smith's custom ebuilds]]></description>
-    <homepage>https://github.com/kormoc/Ebuilds</homepage>
-    <owner type="person">
-      <email>kormoc@gmail.com</email>
-      <name>Rob Smith</name>
-    </owner>
-    <source type="git">git://github.com/kormoc/Ebuilds.git</source>
-    <source type="git">https://github.com/kormoc/Ebuilds.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>Krontage</name>
     <description lang="en">Personal overlay of Kron</description>
     <homepage>https://github.com/undying/krontage</homepage>

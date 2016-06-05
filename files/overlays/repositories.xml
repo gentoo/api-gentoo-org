@@ -3245,16 +3245,6 @@ FIN
     <feed>https://github.com/Bfgeshka/octopus/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>ohnobinki_overlay</name>
-    <description>Miscelleneous ebuild fixes and personal ebuilds</description>
-    <homepage>http://ohnopub.net/~ohnobinki/gentoo</homepage>
-    <owner>
-      <email>binki@gentoo.org</email>
-    </owner>
-    <source type="mercurial">http://ohnopublishing.net/hg/ohnobinki_overlay</source>
-    <feed>http://ohnopublishing.net/hg/ohnobinki_overlay/rss-log</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>okupy</name>
     <description>Overlay for okupy project</description>
     <homepage>https://github.com/tampakrap/okupy-overlay</homepage>

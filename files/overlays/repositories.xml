@@ -5117,20 +5117,6 @@ FIN
     <feed>https://cgit.gentoo.org/proj/vmware.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/vmware.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="official">
-    <name>voip</name>
-    <description lang="en">Voice over IP related ebuilds.</description>
-    <homepage>https://cgit.gentoo.org/proj/voip.git/</homepage>
-    <owner type="project">
-      <email>voip@gentoo.org</email>
-      <name>Gentoo VoIP team</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/proj/voip.git</source>
-    <source type="git">https://anongit.gentoo.org/git/proj/voip.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/voip.git</source>
-    <feed>https://cgit.gentoo.org/proj/voip.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/voip.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>vortex</name>
     <description lang="en">Personal overlay</description>

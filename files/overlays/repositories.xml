@@ -2651,20 +2651,6 @@ FIN
     <feed>http://github.com/feeds/bignaux/commits/lorelei-overlay/master</feed>
   </repo>
   <repo quality="experimental" status="official">
-    <name>ltsp</name>
-    <description>Linux Terminal Server Project overlay</description>
-    <homepage>https://cgit.gentoo.org/proj/ltsp.git/</homepage>
-    <owner>
-      <email>dberkholz@gentoo.org</email>
-      <name>Donnie Berkholz</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/proj/ltsp.git</source>
-    <source type="git">https://anongit.gentoo.org/git/proj/ltsp.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/ltsp.git</source>
-    <feed>https://cgit.gentoo.org/proj/ltsp.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/ltsp.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="official">
     <name>lua</name>
     <description lang="en">Lua development overlay</description>
     <homepage>https://cgit.gentoo.org/proj/lua.git/</homepage>

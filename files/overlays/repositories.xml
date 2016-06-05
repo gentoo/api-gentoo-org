@@ -3288,18 +3288,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/nx.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>o11c</name>
-    <description lang="en">Personal overlay of Ben Longbons</description>
-    <homepage>https://github.com/o11c/ebuilds</homepage>
-    <owner type="person">
-      <email>b.r.longbons@gmail.com</email>
-      <name>Ben Longbons</name>
-    </owner>
-    <source type="git">git://github.com/o11c/ebuilds.git</source>
-    <source type="git">https://github.com/o11c/ebuilds.git</source>
-    <feed>https://github.com/o11c/ebuilds/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>observer</name>
     <description>Contains ebuilds I need, but not in Gentoo portage tree yet.</description>
     <homepage>https://github.com/meng89/observer</homepage>

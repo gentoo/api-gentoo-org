@@ -5023,20 +5023,6 @@ FIN
     <source type="git">http://github.com/v-fox/gentoo_overlay.git</source>
     <feed>http://github.com/v-fox/gentoo_overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>vincent</name>
-    <description lang="en">Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/vincent.git/</homepage>
-    <owner>
-      <email>vincent@gentoo.org</email>
-      <name>Vicente Olivert Riera</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/dev/vincent.git</source>
-    <source type="git">https://anongit.gentoo.org/git/dev/vincent.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/vincent.git</source>
-    <feed>https://cgit.gentoo.org/dev/vincent.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/vincent.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="official">
     <name>virtualization</name>
     <description lang="en">Experimental virtualization stuff</description>

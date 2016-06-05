@@ -3502,20 +3502,6 @@ FIN
     <source type="git">https://github.com/antonsviridenko/pica-pica-gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>piczu</name>
-    <description lang="en"><![CDATA[piczu's user overlay]]></description>
-    <homepage>https://cgit.gentoo.org/user/piczu.git/</homepage>
-    <owner type="person">
-      <email>maciag.artur@gmail.com</email>
-      <name>Artur Maciag</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/piczu.git</source>
-    <source type="git">https://anongit.gentoo.org/git/user/piczu.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/piczu.git</source>
-    <feed>https://cgit.gentoo.org/user/piczu.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/piczu.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>pigfoot</name>
     <description lang="en">Ebuilds for experimental packages and chinese patches</description>
     <homepage>https://cgit.gentoo.org/user/pigfoot.git/</homepage>

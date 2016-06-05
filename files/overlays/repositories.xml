@@ -3046,16 +3046,6 @@ FIN
     <source type="git">git://git.disconnected-by-peer.at/novell4gentoo/experimental.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>n900</name>
-    <description lang="en">Packages to support Nokia Internet Tablets (N900)</description>
-    <homepage>http://luke.dashjr.org/programs/gentoo-n900</homepage>
-    <owner type="person">
-      <email>luke-jr+gentoobugs@utopios.org</email>
-      <name>Luke-Jr</name>
-    </owner>
-    <source type="git">https://gitlab.com/n900-gentoo/overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>nashedelo</name>
     <description lang="en">Experimental ebuilds</description>
     <homepage>https://bitbucket.org/angry_elf/nashedelo</homepage>

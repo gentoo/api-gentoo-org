@@ -4139,16 +4139,6 @@ FIN
     <feed>https://github.com/SFTtech/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>sigrok</name>
-    <description lang="en">Ebuilds for sigrok</description>
-    <homepage>http://github.com/jmesmon/sigrok-overlay</homepage>
-    <owner type="person">
-      <email>jmesmon@gmail.com</email>
-      <name>Cody Schafer</name>
-    </owner>
-    <source type="git">git://github.com/jmesmon/sigrok-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>silmano</name>
     <description lang="en"><![CDATA[Peter's personal overlay]]></description>
     <homepage>https://cgit.gentoo.org/user/silmano.git/</homepage>

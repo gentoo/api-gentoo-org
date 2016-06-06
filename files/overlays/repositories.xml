@@ -5091,20 +5091,6 @@ FIN
     <feed>https://cgit.gentoo.org/dev/wschlich.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/wschlich.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>wuodan</name>
-    <description lang="en">Personal overlay playground</description>
-    <homepage>https://cgit.gentoo.org/user/wuodan.git/</homepage>
-    <owner type="person">
-      <email>p_regius@gmx.ch</email>
-      <name>Wuodan</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/wuodan.git</source>
-    <source type="git">https://anongit.gentoo.org/git/user/wuodan.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/wuodan.git</source>
-    <feed>https://cgit.gentoo.org/user/wuodan.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/wuodan.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="official">
     <name>x11</name>
     <description>Gentoo X11 team overlay</description>

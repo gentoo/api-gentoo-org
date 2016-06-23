@@ -4328,6 +4328,19 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/user/srcshelton.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ssnb</name>
+    <description>Gentoo repository made by ssnb</description>
+    <homepage>http://cgit.gentoo.org/repo/user/ssnb.git/</homepage>
+    <owner>
+      <email>samuelbernardo.mail@gmail.com</email>
+      <name>Samuel Bernardo</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/repo/user/ssnb</source>
+    <source type="git">https://anongit.gentoo.org/git/repo/user/ssnb.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/user/ssnb.git</source>
+    <feed>https://cgit.gentoo.org/repo/user/ssnb.git/atom/</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>steam-overlay</name>
     <description lang="en"><![CDATA[Gentoo overlay for Valve's Steam client and Steam-based games]]></description>
     <homepage>https://github.com/anyc/steam-overlay</homepage>

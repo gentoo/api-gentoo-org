@@ -3875,6 +3875,19 @@ FIN
     <feed>https://cgit.gentoo.org/proj/ruby-overlay.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/ruby-overlay.git/rss/</feed> -->
   </repo>
+    <repo quality="experimental" status="unofficial">
+    <name>rukruk</name>
+    <description lang="en">some packages not found in other overlays, for issues create ticket in github</description>
+    <homepage>https://github.com/Atoms/rukruk</homepage>
+    <owner type="person">
+      <email>atoms@tups.lv</email>
+      <name>Aivars Sterns</name>
+    </owner>
+    <source type="git">git://github.com/Atoms/rukruk.git</source>
+    <source type="git">https://github.com/Atoms/rukruk.git</source>
+    <source type="git">git@github.com:Atoms/rukruk.git</source>
+    <feed>https://github.com/Atoms/rukruk/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>rust</name>
     <description lang="en">rust modules and tools</description>

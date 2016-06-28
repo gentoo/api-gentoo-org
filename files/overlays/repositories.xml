@@ -3499,6 +3499,19 @@ FIN
     </owner>
     <source type="git">https://github.com/powerman/powerman-overlay.git</source>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>ppc64le</name>
+    <description lang="en">ppc64le development overlay</description>
+    <homepage>https://cgit.gentoo.org/repo/proj/ppc64le.git/</homepage>
+    <owner type="person">
+      <email>blueness@gentoo.org</email>
+      <name>Anthony G. Basile</name>
+    </owner>
+    <source type="git">https://anongit.gentoo.org/git/repo/proj/ppc64le.git</source>
+    <source type="git">git://anongit.gentoo.org/repo/proj/ppc64le.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/proj/ppc64le.git</source>
+    <feed>https://cgit.gentoo.org/repo/proj/ppc64le.git/atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>printer-drivers</name>
     <description lang="en">User-submitted ebuilds for printer drivers</description>

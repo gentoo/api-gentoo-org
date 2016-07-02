@@ -561,20 +561,6 @@ FIN
     <feed>https://cgit.gentoo.org/proj/betagarden.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/betagarden.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="official">
-    <name>betelgeuse</name>
-    <description><![CDATA[Betelgeuse's developer overlay]]></description>
-    <homepage>https://cgit.gentoo.org/dev/betelgeuse.git/</homepage>
-    <owner>
-      <email>betelgeuse@gentoo.org</email>
-      <name><![CDATA[Petteri Räty]]></name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/dev/betelgeuse.git</source>
-    <source type="git">https://anongit.gentoo.org/git/dev/betelgeuse.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/betelgeuse.git</source>
-    <feed>https://cgit.gentoo.org/dev/betelgeuse.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/betelgeuse.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>bezerker</name>
     <description>Bezerker's Packages</description>

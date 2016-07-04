@@ -4864,18 +4864,6 @@ FIN
     <source type="git">git+ssh://git@git.gentoo.org/proj/vdr/devel.git</source>
     <feed>https://cgit.gentoo.org/proj/vdr/devel.git/atom/</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>vdr-testing</name>
-    <description>Development overlay for VDR, testing branch.</description>
-    <homepage>https://cgit.gentoo.org/proj/vdr/testing.git/</homepage>
-    <owner type="project">
-      <email>vdr@gentoo.org</email>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/proj/vdr/testing.git</source>
-    <source type="git">https://anongit.gentoo.org/git/proj/vdr/testing.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/vdr/testing.git</source>
-    <feed>https://cgit.gentoo.org/proj/vdr/testing.git/atom/</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>v-fox</name>
     <description lang="en">Public Gentoo overlay for games, emulators and more of nifty stuff</description>

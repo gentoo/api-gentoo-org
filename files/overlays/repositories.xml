@@ -5033,26 +5033,13 @@ FIN
     <description>An overlay filled with lots of goodies for those who are hooked on WINE.</description>
     <homepage>https://github.com/NP-Hardass/wine-a-holics</homepage>
     <owner type="person">
-      <email>np.hardass@gmail.com</email>
+      <email>NP-Hardass@gentoo.org</email>
     </owner>
     <owner type="person">
       <email>gentoo@eroen.eu</email>
     </owner>
     <source type="git">git://github.com/NP-Hardass/wine-a-holics.git</source>
     <source type="git">https://github.com/NP-Hardass/wine-a-holics.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>wine-overlay</name>
-    <description>Unofficial Wine Overlay</description>
-    <homepage>https://github.com/NP-Hardass/wine-overlay</homepage>
-    <owner type="person">
-      <email>np.hardass@gmail.com</email>
-    </owner>
-    <owner type="person">
-      <email>gentoo@eroen.eu</email>
-    </owner>
-    <source type="git">git://github.com/NP-Hardass/wine-overlay.git</source>
-    <source type="git">https://github.com/NP-Hardass/wine-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>wjn-overlay</name>

@@ -2527,10 +2527,10 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>lif</name>
-    <description lang="en">Third-party gentoo overlay from Agent Smith.</description>
+    <description lang="en">Gentoo overlay from Igor Savlook.</description>
     <homepage>https://github.com/killer2tester/gentoo-overlay-lif</homepage>
     <owner type="person">
-      <email>agentsmith.hengsha.city@gmail.com</email>
+      <email>igorsavlook@gmail.com</email>
       <name>Igor Savlook</name>
     </owner>
     <source type="git">https://github.com/killer2tester/gentoo-overlay-lif.git</source>

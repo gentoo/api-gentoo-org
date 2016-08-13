@@ -5280,5 +5280,15 @@ FIN
     <source type="git">ssh://git@git.zx2c4.com/portage</source>
     <feed>http://git.zx2c4.com/portage/atom/?h=master</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>holgersson-overlay</name>
+    <description lang="en">Nils "holgersson" Freydank's personal overlay</description>
+    <homepage>https://git.holgersson.xyz</homepage>
+    <owner type="person">
+      <email>holgersson@posteo.de</email>
+      <name>Nils Freydank</name>
+    </owner>
+    <source type="git">https://git.holgersson.xyz/holgersson-overlay</source>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

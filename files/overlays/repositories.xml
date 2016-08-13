@@ -2038,6 +2038,16 @@ FIN
     <feed>https://github.com/hnaparst/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>holgersson-overlay</name>
+    <description lang="en">Nils "holgersson" Freydank's personal overlay</description>
+    <homepage>https://git.holgersson.xyz</homepage>
+    <owner type="person">
+      <email>holgersson@posteo.de</email>
+      <name>Nils Freydank</name>
+    </owner>
+    <source type="git">https://git.holgersson.xyz/holgersson-overlay</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>hossie</name>
     <description>gentoo-overlay from hossie</description>
     <homepage>https://git.hossie.de/projects/GEN/repos/gentoo-overlay/browse</homepage>

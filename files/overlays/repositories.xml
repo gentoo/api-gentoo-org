@@ -853,6 +853,17 @@ FIN
     <feed>https://github.com/junghans/cj-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>concaveoverlay</name>
+    <description lang="en">KNX32542's overlay.</description>
+    <homepage>https://gitlab.com/KNX32542/overlay</homepage>
+    <owner type="person">
+      <email>kawinnikom@gmail.com</email>
+      <name>Kawin Nikomborirak</name>
+    </owner>
+    <source type="git">https://gitlab.com/KNX32542/overlay.git</source>
+    <feed>https://gitlab.com/KNX32542/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>crossdev</name>
     <description lang="en">Fixed ebuilds for uclibc and other embedded systems</description>
     <homepage>https://github.com/alphallc/crossdev/</homepage>

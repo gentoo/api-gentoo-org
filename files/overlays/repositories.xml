@@ -60,6 +60,19 @@ SYN
 FIN
 -->
   <repo quality="experimental" status="unofficial">
+    <name>0x4d4c</name>
+    <description lang="en">Personal overlay with no special focus</description>
+    <homepage>https://github.com/0x4d4c/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>gentoo@0x4d4c.xyz</email>
+      <name>Martin Lambertz</name>
+    </owner>
+    <source type="git">https://github.com/0x4d4c/gentoo-overlay.git</source>
+    <source type="git">git://github.com/0x4d4c/gentoo-overlay.git</source>
+    <source type="git">git@github.com:0x4d4c/gentoo-overlay.git</source>
+    <feed>https://github.com/0x4d4c/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>abadonna-overlay</name>
     <description>This personal repository contains ebuilds and fixes for packages that I'm interested in</description>
     <homepage>https://gitlab.com/Abadonna/abadonna-overlay</homepage>

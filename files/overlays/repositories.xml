@@ -3071,7 +3071,7 @@ FIN
     <feed>https://bitbucket.org/angry_elf/nashedelo/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>necromancy-overlay</name>
+    <name>necromancy</name>
     <description lang="en">This repository contains the ebuild from Necrose99 (some are works in progress)</description>
     <homepage>https://github.com/necrose99/necromancy-overlay</homepage>
     <owner type="person">

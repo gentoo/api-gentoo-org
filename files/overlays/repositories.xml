@@ -1192,7 +1192,7 @@ FIN
     <homepage>http://github.com/gentoo/dotnet</homepage>
     <owner>
       <email>cynede@gentoo.org</email>
-      <name>Heather</name>
+      <name>Mikhail Pukhlikov</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/proj/dotnet.git</source>
     <source type="git">https://anongit.gentoo.org/git/proj/dotnet.git</source>
@@ -1830,7 +1830,7 @@ FIN
     <homepage>https://github.com/Heather/gentoo-gnome</homepage>
     <owner type="person">
       <email>cynede@gentoo.org</email>
-      <name>Heather Cynede</name>
+      <name>Mikhail Pukhlikov</name>
     </owner>
     <source type="git">https://github.com/Heather/gentoo-gnome.git</source>
     <source type="git">git@github.com:Heather/gentoo-gnome.git</source>
@@ -1989,17 +1989,17 @@ FIN
     <feed>https://bitbucket.org/hasufell/hasufell-overlay/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>heather</name>
+    <name>cynede</name>
     <description lang="en">Gentoo user overlay</description>
-    <homepage>https://github.com/Heather/gentoo-heather</homepage>
+    <homepage>https://github.com/Heather/gentoo-cynede</homepage>
     <owner type="person">
       <email>cynede@gentoo.org</email>
-      <name>Heather</name>
+      <name>Mikhail Pukhlikov</name>
     </owner>
-    <source type="git">git://github.com/Heather/gentoo-heather.git</source>
-    <source type="git">https://github.com/Heather/gentoo-heather.git</source>
-    <source type="git">git@github.com:Heather/gentoo-heather.git</source>
-    <feed>https://github.com/Heather/gentoo-heather/commits/master.atom</feed>
+    <source type="git">git://github.com/Heather/gentoo-cynede.git</source>
+    <source type="git">https://github.com/Heather/gentoo-cynede.git</source>
+    <source type="git">git@github.com:Heather/gentoo-cynede.git</source>
+    <feed>https://github.com/Heather/gentoo-cynede/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>heroxbd</name>
@@ -3363,19 +3363,6 @@ FIN
     <source type="git">https://github.com/pentoo/pentoo-overlay.git</source>
     <source type="git">git@github.com:pentoo/pentoo-overlay.git</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>perl6</name>
-    <description lang="en">perl6 modules and tools</description>
-    <homepage>https://github.com/Heather/gentoo-perl6</homepage>
-    <owner type="person">
-      <email>cynede@gentoo.org</email>
-      <name>Heather</name>
-    </owner>
-    <source type="git">git://github.com/Heather/gentoo-perl6.git</source>
-    <source type="git">https://github.com/Heather/gentoo-perl6.git</source>
-    <source type="git">git@github.com:Heather/gentoo-perl6.git</source>
-    <feed>https://github.com/Heather/gentoo-perl6/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>perl-experimental</name>
     <description><![CDATA[Experimental ebuilds for Perl packages in Gentoo. Comments and
@@ -3939,7 +3926,7 @@ FIN
     <homepage>https://github.com/gentoo/gentoo-rust</homepage>
     <owner type="person">
       <email>cynede@gentoo.org</email>
-      <name>Heather</name>
+      <name>Mikhail Pukhlikov</name>
     </owner>
     <source type="git">git://github.com/gentoo/gentoo-rust.git</source>
     <source type="git">https://github.com/gentoo/gentoo-rust.git</source>

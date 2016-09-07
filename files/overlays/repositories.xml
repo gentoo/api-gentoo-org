@@ -5325,5 +5325,19 @@ FIN
     <source type="git">ssh://git@git.zx2c4.com/portage</source>
     <feed>http://git.zx2c4.com/portage/atom/?h=master</feed>
   </repo>
+    <repo quality="experimental" status="unofficial">
+    <name>youbroketheinternet</name>
+    <description lang="en">This overlay is a collaborative maintained Gentoo developer overlay. Some of us are involved with SecuShare, but we try out all sorts of XKEYSCORE-resistant technology. Some of our unique ebuilds are the full GNUnet suite, and software around the psyced chatserver. Some ebuilds are experimental/testing - refer to the included README for more info and details. If you would like to get involved read https://wiki.gentoo.org/wiki/Overlay:Youbroketheinternet</description>
+    <homepage>http://youbroketheinternet.org/#overlay</homepage>
+    <owner type="person">
+      <email>ng0@n0.is</email>
+      <name>ng0</name>
+    </owner>
+    <source type="git">git://cheettyiapsyciew.onion/youbroketheinternet-overlay</source>
+    <source type="git">git://git.far37qbrwiredyo5.onion:/youbroketheinternet-overlay</source>
+    <source type="git">git://git.n0.is:/youbroketheinternet-overlay</source>
+    <source type="git">https://git.n0.is/youbroketheinternet-overlay.git</source>
+    <source type="git">http://git.n0.is/youbroketheinternet-overlay.git</source>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

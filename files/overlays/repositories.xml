@@ -727,6 +727,19 @@ FIN
     <feed>https://github.com/l29ah/booboo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>brother-overlay</name>
+    <description lang="en">Brother printer and scanner software</description>
+    <homepage>https://github.com/stefan-langenmaier/brother-overlay</homepage>
+    <owner type="person">
+      <email>stefan.langenmaier+gentoo@gmail.com</email>
+      <name>Stefan Langenmaier</name>
+    </owner>
+    <source type="git">https://github.com/stefan-langenmaier/brother-overlay.git</source>
+    <source type="git">git://github.com/stefan-langenmaier/brother-overlay.git</source>
+    <source type="git">git@github.com:stefan-langenmaier/brother-overlay.git</source>
+    <feed>https://github.com/stefan-langenmaier/brother-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>bubba</name>
     <description lang="en">"Bubba" platform support for Excito B2|3</description>
     <homepage>https://github.com/gordonb3/bubba-overlay</homepage>

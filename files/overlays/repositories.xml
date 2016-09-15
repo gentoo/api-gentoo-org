@@ -1380,8 +1380,8 @@ FIN
     <description lang="en">Enlightenment WM latest stable version and live ebuilds</description>
     <homepage>https://github.com/rafspiny/enlightenment-live</homepage>
     <owner type="person">
-      <email>Raffaele Spinelli</email>
-      <name>rafspiny@gmail.com</name>
+      <email>rafspiny@gmail.com</email>
+      <name>Raffaele Spinelli</name>
     </owner>
     <source type="git">https://github.com/rafspiny/enlightenment-live.git</source>
     <feed>https://github.com/rafspiny/enlightenment-live/commits/master.atom</feed>

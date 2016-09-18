@@ -1376,6 +1376,17 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/enlightenment.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>enlightenment-live</name>
+    <description lang="en">Enlightenment WM latest stable version and live ebuilds</description>
+    <homepage>https://github.com/rafspiny/enlightenment-live</homepage>
+    <owner type="person">
+      <email>rafspiny@gmail.com</email>
+      <name>Raffaele Spinelli</name>
+    </owner>
+    <source type="git">https://github.com/rafspiny/enlightenment-live.git</source>
+    <feed>https://github.com/rafspiny/enlightenment-live/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ennui</name>
     <description>Facilitate running hardened-desktop hybrid system</description>
     <homepage>https://gitweb.gentoo.org/user/ennui.git/</homepage>

@@ -5380,5 +5380,18 @@ FIN
     <source type="git">ssh://git@git.zx2c4.com/portage</source>
     <feed>http://git.zx2c4.com/portage/atom/?h=master</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>pdilung</name>
+    <description lang="en">Personal Gentoo overlay of Pavol Dilung</description>
+    <homepage>https://github.com/pdilung/gentoo-overlay/</homepage>
+    <owner type="person">
+      <email>pavol.dilung@gmail.com</email>
+      <name>Pavol Dilung</name>
+    </owner>
+    <source type="git">https://github.com/pdilung/gentoo-overlay.git</source>
+    <source type="git">git://github.com/pdilung/gentoo-overlay.git</source>
+    <source type="git">git@github.com:pdilung/gentoo-overlay.git</source>
+    <feed>https://github.com/pdilung/gentoo-overlay/commits/master.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

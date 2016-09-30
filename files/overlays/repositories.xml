@@ -2508,6 +2508,17 @@ FIN
     <source type="git">https://gitlab.awesome-it.de/overlays/kolab.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>konsolebox</name>
+    <description>konsolebox's overlay</description>
+    <homepage>https://github.com/konsolebox/overlay</homepage>
+    <owner type="person">
+      <email>konsolebox@gmail.com</email>
+      <name>konsolebox</name>
+    </owner>
+    <source type="git">https://github.com/konsolebox/overlay.git</source>
+    <feed>http://github.com/konsolebox/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>kork</name>
     <description lang="en">Cool, new, useful, and unmaintained packages</description>
     <homepage>https://cgit.gentoo.org/user/kork.git/</homepage>

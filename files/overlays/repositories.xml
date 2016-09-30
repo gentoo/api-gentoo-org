@@ -2343,6 +2343,19 @@ FIN
     </owner>
     <source type="git">git://github.com/jmesmon/overlay.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>johnmh</name>
+    <description>Personal overlay of johnmh</description>
+    <homepage>http://cgit.gentoo.org/repo/user/johnmh.git/</homepage>
+    <owner>
+      <email>johnmh@openblox.org</email>
+      <name>John Harris</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/repo/user/johnmh</source>
+    <source type="git">https://anongit.gentoo.org/git/repo/user/johnmh.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/user/johnmh.git</source>
+    <feed>https://cgit.gentoo.org/repo/user/johnmh.git/atom/</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>johu</name>
     <description>Johannes Huber developer overlay</description>

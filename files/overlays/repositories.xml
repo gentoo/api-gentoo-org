@@ -4264,6 +4264,19 @@ FIN
     <feed>https://github.com/SFTtech/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>sihnon</name>
+    <description lang="en"><![CDATA[optiz0r's sihnon overlay]]></description>
+    <homepage>https://github.com/optiz0r/gentoo-overlay.git</homepage>
+    <owner type="person">
+      <email>optiz0r@gmail.com</email>
+      <name>optiz0r</name>
+    </owner>
+    <source type="git">https://github.com/optiz0r/gentoo-overlay.git</source>
+    <source type="git">git://github.com/optiz0r/gentoo-overlay.git</source>
+    <source type="git">git@github.com:optiz0r/gentoo-overlay.git</source>
+    <feed>https://github.com/optiz0r/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>silmano</name>
     <description lang="en"><![CDATA[Peter's personal overlay]]></description>
     <homepage>https://cgit.gentoo.org/user/silmano.git/</homepage>

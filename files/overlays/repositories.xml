@@ -988,6 +988,20 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/darkside.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>das-labor</name>
+    <description lang="en">Gentoo overlay from Hackerspace Bochum</description>
+    <homepage>https://github.com/das-labor/labor-overlay</homepage>
+    <owner type="person">
+      <email>zaolin@das-labor.org</email>
+      <name>Philipp Deppenwiese</name>
+    </owner>
+    <owner type="person">
+      <email>kai@gnupg.org</email>
+      <name>Kai Michaelis</name>
+    </owner>
+    <source type="git">https://github.com/das-labor/labor-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>dawan</name>
     <description lang="en">OCaml and proof-search related ebuilds</description>
     <homepage>https://cgit.gentoo.org/user/dawan.git/</homepage>

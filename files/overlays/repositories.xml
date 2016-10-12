@@ -2847,19 +2847,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/maksbotan.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>mate</name>
-    <description><![CDATA[Sabayon MATE (GNOME fork) ebuilds that could be
-    upstreamed at some point in future (when GNOME2 will be dropped
-    from the main tree).
-    Bugs to http://bugs.sabayon.org]]></description>
-    <homepage>http://sabayon.org</homepage>
-    <owner>
-      <email>lxnay@gentoo.org</email>
-    </owner>
-    <source type="git">git://github.com/Sabayon/mate-overlay.git</source>
-    <feed>https://github.com/Sabayon/mate-overlay</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>mate-de-gentoo</name>
     <description lang="en">Updated ebuilds for mate-desktop environment</description>
     <homepage>https://github.com/oz123/mate-de-gentoo</homepage>

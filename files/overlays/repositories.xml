@@ -3281,7 +3281,7 @@ FIN
     <feed>https://bitbucket.org/danysk/nirvana-overlay/atom</feed>
     <feed>https://bitbucket.org/danysk/nirvana-overlay/rss</feed>
   </repo>
-  <repo quality="experimental" status="official">
+ <repo quality="experimental" status="official">
     <name>nixphoeni</name>
     <description lang="en"><![CDATA[Joe Sapp's overlay]]></description>
     <homepage>https://cgit.gentoo.org/dev/nixphoeni.git/</homepage>
@@ -3304,6 +3304,16 @@ FIN
       <name><![CDATA[Vítor Brandão (noisebleed)]]></name>
     </owner>
     <source type="git">git://github.com/noiselabs/overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>np-hardass-overlay</name>
+    <description lang="en"><![CDATA[NP-Hardass's Personal Overlay]]></description>
+    <homepage>https://github.com/np-hardass/np-hardass-overlay</homepage>
+    <owner type="person">
+      <email>NP-Hardass@gentoo.org</email>
+      <name>NP-Hardass</name>
+    </owner>
+    <source type="git">https://github.com/np-hardass/np-hardass-overlay.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>nx</name>

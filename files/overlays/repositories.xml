@@ -1414,6 +1414,19 @@ FIN
     <feed>https://gitweb.gentoo.org/user/ennui.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>erayd</name>
+    <description lang="en">Various personal ebuilds</description>
+    <homepage>https://github.com/erayd/overlay</homepage>
+    <owner type="person">
+      <email>steve@erayd.net</email>
+      <name>Steve Gilberd</name>
+    </owner>
+    <source type="git">https://github.com/erayd/overlay.git</source>
+    <source type="git">git://github.com/erayd/overlay.git</source>
+    <source type="git">git@github.com:erayd/overlay.git</source>
+    <feed>https://github.com/erayd/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>erikmack</name>
     <description lang="en"><![CDATA[Erik Mackdanz' overlay]]></description>
     <homepage>http://github.com/erikmack/gentoo-overlay</homepage>

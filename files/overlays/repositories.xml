@@ -4425,17 +4425,6 @@ FIN
     <feed>https://bitbucket.org/sortsmill/sortsmill-gentoo-overlay/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>spiderlay</name>
-    <description lang="en"><![CDATA[aranea's overlay]]></description>
-    <homepage>http://git.spheniscida.de/index.cgi/spiderlay.git/</homepage>
-    <owner type="person">
-      <email>aranea@aixah.de</email>
-      <name>aranea</name>
-    </owner>
-    <source type="git">git://spheniscida.de/spiderlay.git</source>
-    <feed>http://git.spheniscida.de/index.cgi/spiderlay.git/atom/?h=master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>spike</name>
     <description lang="en">This repository contains the ebuild used to build spike, a pentesting distro based on Sabayon.</description>
     <homepage>https://github.com/Spike-Pentesting/spike-overlay</homepage>

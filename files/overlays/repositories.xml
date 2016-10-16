@@ -1113,6 +1113,19 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/dilfridge.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>discworld</name>
+    <description lang="en">Various VoIP-related ebuils</description>
+    <homepage>https://github.com/gedia/discworld-overlay</homepage>
+    <owner type="person">
+      <email>georgediam@gmail.com</email>
+      <name>George Diamantopoulos</name>
+    </owner>
+    <source type="git">https://github.com/gedia/discworld-overlay.git</source>
+    <source type="git">git://github.com/gedia/discworld-overlay.git</source>
+    <source type="git">git@github.com:gedia/discworld-overlay.git</source>
+    <feed>https://github.com/gedia/discworld-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>displacer</name>
     <description lang="en">Fixes and new unstable packages</description>
     <homepage>https://cgit.gentoo.org/user/displacer.git/</homepage>

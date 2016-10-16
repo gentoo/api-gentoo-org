@@ -60,19 +60,6 @@ SYN
 FIN
 -->
 
-	<repo quality="experimental" status="unofficial">
-		<name>chrytoo</name>
-		<description lang="en">Personal overlay for packages that usually aren't in the official repository...</description>
-		<homepage>https://github.com/chrytoo/gentoo-overlay</homepage>
-		<owner type="person">
-			<email>chry7oo@gmail.com</email>
-			<name>Miloš Đ. Omeragić</name>
-		</owner>
-		<source type="git">https://github.com/chrytoo/gentoo-overlay.git</source>
-		<source type="git">git://github.com/chrytoo/gentoo-overlay.git</source>
-		<source type="git">git@github.com:chrytoo/gentoo-overlay.git</source>
-		<feed>https://github.com/chrytoo/gentoo-overlay/commits/master.atom</feed>
-	</repo>
   <repo quality="experimental" status="unofficial">
     <name>0x4d4c</name>
     <description lang="en">Personal overlay with no special focus</description>
@@ -868,6 +855,19 @@ FIN
     <source type="git">https://github.com/chaoskagami/chaos-overlay.git</source>
     <feed>https://github.com/feeds/chaoskagami/commits/chaos-overlay/master</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>chrytoo</name>
+    <description lang="en">Personal overlay for packages that usually aren't in the official repository...</description>
+    <homepage>https://github.com/chrytoo/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>chry7oo@gmail.com</email>
+      <name>Miloš Đ. Omeragić</name>
+    </owner>
+    <source type="git">https://github.com/chrytoo/gentoo-overlay.git</source>
+    <source type="git">git://github.com/chrytoo/gentoo-overlay.git</source>
+    <source type="git">git@github.com:chrytoo/gentoo-overlay.git</source>
+    <feed>https://github.com/chrytoo/gentoo-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>chutzpah</name>
     <description><![CDATA[Random stuff I am working on which isn't ready for the tree for some reason]]></description>
@@ -1111,6 +1111,19 @@ FIN
     <source type="git">git+ssh://git@git.gentoo.org/dev/dilfridge.git</source>
     <feed>https://cgit.gentoo.org/dev/dilfridge.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/dilfridge.git/rss/</feed> -->
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>discworld</name>
+    <description lang="en">Various VoIP-related ebuils</description>
+    <homepage>https://github.com/gedia/discworld-overlay</homepage>
+    <owner type="person">
+      <email>georgediam@gmail.com</email>
+      <name>George Diamantopoulos</name>
+    </owner>
+    <source type="git">https://github.com/gedia/discworld-overlay.git</source>
+    <source type="git">git://github.com/gedia/discworld-overlay.git</source>
+    <source type="git">git@github.com:gedia/discworld-overlay.git</source>
+    <feed>https://github.com/gedia/discworld-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>displacer</name>

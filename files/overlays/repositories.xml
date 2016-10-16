@@ -60,19 +60,6 @@ SYN
 FIN
 -->
 
-	<repo quality="experimental" status="unofficial">
-		<name>chrytoo</name>
-		<description lang="en">Personal overlay for packages that usually aren't in the official repository...</description>
-		<homepage>https://github.com/chrytoo/gentoo-overlay</homepage>
-		<owner type="person">
-			<email>chry7oo@gmail.com</email>
-			<name>Miloš Đ. Omeragić</name>
-		</owner>
-		<source type="git">https://github.com/chrytoo/gentoo-overlay.git</source>
-		<source type="git">git://github.com/chrytoo/gentoo-overlay.git</source>
-		<source type="git">git@github.com:chrytoo/gentoo-overlay.git</source>
-		<feed>https://github.com/chrytoo/gentoo-overlay/commits/master.atom</feed>
-	</repo>
   <repo quality="experimental" status="unofficial">
     <name>0x4d4c</name>
     <description lang="en">Personal overlay with no special focus</description>
@@ -867,6 +854,19 @@ FIN
     <source type="git">git://github.com/chaoskagami/chaos-overlay.git</source>
     <source type="git">https://github.com/chaoskagami/chaos-overlay.git</source>
     <feed>https://github.com/feeds/chaoskagami/commits/chaos-overlay/master</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>chrytoo</name>
+    <description lang="en">Personal overlay for packages that usually aren't in the official repository...</description>
+    <homepage>https://github.com/chrytoo/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>chry7oo@gmail.com</email>
+      <name>Miloš Đ. Omeragić</name>
+    </owner>
+    <source type="git">https://github.com/chrytoo/gentoo-overlay.git</source>
+    <source type="git">git://github.com/chrytoo/gentoo-overlay.git</source>
+    <source type="git">git@github.com:chrytoo/gentoo-overlay.git</source>
+    <feed>https://github.com/chrytoo/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>chutzpah</name>

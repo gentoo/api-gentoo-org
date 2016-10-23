@@ -110,6 +110,7 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>activehome</name>
     <description lang="en"><![CDATA[Gentoo overlay for ebuilds related to 'hand-made' Active Home construction]]></description>
+    <description lang="ru"><![CDATA[Оверлей для ebuild'ов связанных созданием самодельного умного дома]]></description>
     <homepage>https://cgit.gentoo.org/user/activehome.git/</homepage>
     <owner type="person">
       <email>gentoo@mva.name</email>
@@ -905,7 +906,8 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>crossdev</name>
-    <description lang="en">Fixed ebuilds for uclibc and other embedded systems</description>
+    <description lang="en">Ebuilds for embedded systems</description>
+    <description lang="ru">Пакеты для встраиваемых систем</description>
     <homepage>https://github.com/alphallc/crossdev/</homepage>
     <owner type="person">
       <email>gentoo@mva.name</email>

@@ -113,7 +113,7 @@ FIN
     <homepage>https://cgit.gentoo.org/user/activehome.git/</homepage>
     <owner type="person">
       <email>gentoo@mva.name</email>
-      <name>Vadim A. Misbakh-Soloviov (mva)</name>
+      <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/activehome.git</source>
     <source type="git">https://anongit.gentoo.org/git/user/activehome.git</source>

@@ -122,6 +122,19 @@ FIN
     <feed>https://cgit.gentoo.org/user/activehome.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/activehome.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>AlexandreFournier</name>
+    <description lang="en">Alexandre Fournier's personal overlay</description>
+    <homepage>https://github.com/AlexandreFournier/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>gentoo@alexandrefournier.com</email>
+      <name>Alexandre Fournier</name>
+    </owner>
+    <source type="git">https://github.com/AlexandreFournier/gentoo-overlay.git</source>
+    <source type="git">git://github.com/AlexandreFournier/gentoo-overlay.git</source>
+    <source type="git">git@github.com:AlexandreFournier/gentoo-overlay.git</source>
+    <feed>https://github.com/AlexandreFournier/gentoo-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>ago</name>
     <description lang="en">Developer overlay</description>

@@ -4670,6 +4670,20 @@ FIN
     <feed>https://cgit.gentoo.org/proj/sunrise-reviewed.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/sunrise-reviewed.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>superposition</name>
+    <description lang="en">Phil's overlay</description>
+    <homepage>https://cgit.gentoo.org/repo/user/superposition.git/</homepage>
+    <owner type="person">
+      <email>Phil_miess@yahoo.com</email>
+      <name>Philip Miess</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/repo/user/superposition.git</source>
+    <source type="git">https://anongit.gentoo.org/git/repo/user/superposition.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/user/superposition.git</source>
+    <feed>https://cgit.gentoo.org/repo/user/superposition.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/repo/user/superposition.git/rss/</feed> -->
+  </repo>
   <repo quality="experimental" status="official">
     <name>swegener</name>
     <description><![CDATA[This overlay contains some experimental stuff, but mostly

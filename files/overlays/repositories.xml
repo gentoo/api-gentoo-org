@@ -4481,13 +4481,7 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>spike-community-overlay</name>
     <description lang="en">Spike community overlay</description>
-    <homepage>http://spike-pentesting.org/</homepage>
-    <owner type="person">
-      <email>mudler@sabayonlinux.org</email>
-    </owner>
-    <owner type="person">
-      <email>skullbocks@dark-lab.net</email>
-    </owner>
+    <homepage>https://github.com/Sabayon-Labs/spike-community-overlay</homepage>
     <owner type="person">
       <email>mike@michaellawrenceit.com</email>
     </owner>

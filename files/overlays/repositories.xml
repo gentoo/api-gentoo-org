@@ -4471,7 +4471,7 @@ FIN
     <description lang="en">This repository contains the ebuild used to build spike, a pentesting distro based on Sabayon.</description>
     <homepage>https://github.com/Spike-Pentesting/spike-overlay</homepage>
     <owner type="person">
-      <email>mudler@sabayonlinux.org</email>
+      <email>mudler@gentoo.org</email>
     </owner>
     <owner type="person">
       <email>skullbocks@dark-lab.net</email>

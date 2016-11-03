@@ -3953,6 +3953,19 @@ FIN
     <source type="git">https://github.com/rinaldus/rinaldus-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ring-overlay</name>
+    <description lang="en">Ring is free software for universal communication which respects freedoms and privacy of its users.</description>
+    <homepage>https://github.com/stefan-langenmaier/ring-overlay</homepage>
+    <owner type="person">
+      <email>stefan.langenmaier+gentoo@gmail.com</email>
+      <name>Stefan Langenmaier</name>
+    </owner>
+    <source type="git">https://github.com/stefan-langenmaier/ring-overlay.git</source>
+    <source type="git">git://github.com/stefan-langenmaier/ring-overlay.git</source>
+    <source type="git">git@github.com:stefan-langenmaier/ring-overlay.git</source>
+    <feed>https://github.com/stefan-langenmaier/ring-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>rion</name>
     <description><![CDATA[Russian overlay with a some patched and specific
     software]]></description>

@@ -5560,5 +5560,19 @@ FIN
     <source type="git">git@github.com:sjnewbury/gentoo-playground.git</source>
     <feed>https://github.com/sjnewbury/gentoo-playground/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>shnurise</name>
+    <description lang="en">packages for mono environment and other</description>
+    <description lang="ru">пакеты для моно и разное прочее</description>
+    <homepage>https://github.com/ArsenShnurkov/shnurise</homepage>
+    <owner type="person">
+      <email>Arsen.Shnurkov@gmail.com</email>
+      <name>Arsen Shnurkov</name>
+    </owner>
+    <source type="git">https://github.com/ArsenShnurkov/shnurise.git</source>
+    <source type="git">git://github.com/ArsenShnurkov/shnurise.git</source>
+    <source type="git">git@github.com:ArsenShnurkov/shnurise.git</source>
+    <feed>https://github.com/ArsenShnurkov/shnurise/commits/master.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

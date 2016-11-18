@@ -4893,19 +4893,6 @@ FIN
     <source type="git">git@github.com:MeisterP/torbrowser-overlay.git</source>
     <feed>https://github.com/MeisterP/torbrowser-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>tox-overlay</name>
-    <description lang="en">Ebuilds for Toxcore, Tox clients, and other Tox-related projects</description>
-    <homepage>https://github.com/Tox/gentoo-overlay-tox</homepage>
-    <owner type="person">
-      <email>infrastructure@tox.chat</email>
-      <name>The Tox Project</name>
-    </owner>
-    <source type="git">git://github.com/Tox/gentoo-overlay-tox.git</source>
-    <source type="git">https://github.com/Tox/gentoo-overlay-tox.git</source>
-    <source type="git">git@github.com:Tox/gentoo-overlay-tox.git</source>
-    <feed>https://github.com/Tox/gentoo-overlay-tox/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>tranquility</name>
     <description lang="en">Developer overlay</description>

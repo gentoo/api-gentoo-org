@@ -45,11 +45,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.ussg.iu.edu/pub/linux/gentoo</uri>
     </mirror>
     <mirror>
-      <name>University of California, Santa Barbara</name>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.ucsb.edu/pub/mirrors/linux/gentoo/</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://ftp.ucsb.edu/pub/mirrors/linux/gentoo/</uri>
-    </mirror>
-    <mirror>
       <name>TDS Internet Services</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirrors.tds.net/gentoo</uri>
     </mirror>

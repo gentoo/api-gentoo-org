@@ -689,6 +689,19 @@ FIN
     <source type="git">git@github.com:fearedbliss/bliss-overlay.git</source>
     <feed>https://github.com/fearedbliss/bliss-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>bloody</name>
+    <description lang="en">krita bleeding edge and artists tools/resources</description>
+    <homepage>https://github.com/bloodywing/bloody</homepage>
+    <owner type="person">
+      <email>bloodywing@neocomy.net</email>
+      <name>Pierre Geier</name>
+    </owner>
+    <source type="git">https://github.com/bloodywing/bloody.git</source>
+    <source type="git">git://github.com/bloodywing/bloody.git</source>
+    <source type="git">git@github.com:bloodywing/bloody.git</source>
+    <feed>https://github.com/bloodywing/bloody/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>blueness</name>
     <description>Developer Overlay</description>

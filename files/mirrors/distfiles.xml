@@ -420,9 +420,10 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.kaist.ac.kr/gentoo/</uri>
     </mirror>
     <mirror>
-      <name>lecl.net</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://ftp.lecl.net/pub/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.lecl.net/pub/gentoo/</uri>
+      <name>lanet.kr</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.lanet.kr/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://ftp.lanet.kr/pub/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ftp.lanet.kr/pub/gentoo/</uri>
     </mirror>
     <mirror>
       <name>Daum Communications Corp</name>

@@ -143,9 +143,10 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
     <mirror>
       <name>UPC Česká republika, a.s.</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://gentoo.mirror.dkm.cz/pub/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://gentoo.mirror.dkm.cz/pub/gentoo/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://gentoo.mirror.dkm.cz/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.dkm.cz/gentoo/</url>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirror.dkm.cz/gentoo/</url>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirror.dkm.cz/gentoo/</url>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.dkm.cz/gentoo/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="FI" countryname="Finland">

@@ -3387,6 +3387,19 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/nx.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>oboeverlay</name>
+    <description lang="en">ChrisOboe's overlay</description>
+    <homepage>https://github.com/ChrisOboe/oboeverlay</homepage>
+    <owner type="person">
+      <email>ChrisOboe@eml.cc</email>
+      <name>Chris Oboe</name>
+    </owner>
+    <source type="git">https://github.com/ChrisOboe/oboeverlay.git</source>
+    <source type="git">git://github.com/ChrisOboe/oboeverlay.git</source>
+    <source type="git">git@github.com:ChrisOboe/oboeverlay.git</source>
+    <feed>https://github.com/ChrisOboe/oboeverlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>observer</name>
     <description>Contains ebuilds I need, but not in Gentoo portage tree yet.</description>
     <homepage>https://github.com/meng89/observer</homepage>

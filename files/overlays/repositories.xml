@@ -2652,8 +2652,7 @@ FIN
     </owner>
     <!-- https:// certificate not accepted by ca-certificates
     <source type="git">https://hacktivis.me/git/overlay.git</source> -->
-    <!-- git:// daemon down
-    <source type="git">git://hacktivis.me/git/overlay.git</source> -->
+    <source type="git">git://hacktivis.me/git/overlay.git</source>
     <source type="git">https://gitlab.com/lanodan/overlay.git</source>
     <source type="git">git://gitlab.com/lanodan/overlay.git</source>
     <feed>https://hacktivis.me/git/overlay/atom.xml</feed>

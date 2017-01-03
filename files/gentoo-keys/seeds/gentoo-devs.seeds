@@ -145,11 +145,11 @@
     }, 
     "amynka": {
         "fingerprint": [
-            "1B841D8FD5E1F621EBBDF9D53B89D45034E69781"
+            "6606755DC669B857855EE4DBA6CC832E4E670EB9"
         ], 
         "keydir": "amynka", 
         "keys": [
-            "1B841D8FD5E1F621EBBDF9D53B89D45034E69781"
+            "6606755DC669B857855EE4DBA6CC832E4E670EB9"
         ], 
         "name": "Amy Winston", 
         "nick": "amynka", 
@@ -197,6 +197,20 @@
         "nick": "araujo", 
         "uid": [
             "Luis Francisco Araujo <araujo@gentoo.org>"
+        ]
+    }, 
+    "asturm": {
+        "fingerprint": [
+            "3B7A700006367015B3786CC30AF8B3A860381DD4"
+        ], 
+        "keydir": "asturm", 
+        "keys": [
+            "3B7A700006367015B3786CC30AF8B3A860381DD4"
+        ], 
+        "name": "Andreas Sturmlechner", 
+        "nick": "asturm", 
+        "uid": [
+            "Andreas Sturmlechner <asturm@gentoo.org>"
         ]
     }, 
     "axs": {
@@ -3203,6 +3217,20 @@
         "nick": "wizardedit", 
         "uid": [
             "Austin English <wizardedit@gentoo.org>"
+        ]
+    }, 
+    "wraeth": {
+        "fingerprint": [
+            "5BA480AE3863141D99B61932C07D98EED6180C26"
+        ], 
+        "keydir": "wraeth", 
+        "keys": [
+            "5BA480AE3863141D99B61932C07D98EED6180C26"
+        ], 
+        "name": "Sam Jorna", 
+        "nick": "wraeth", 
+        "uid": [
+            "Sam Jorna <wraeth@gentoo.org>"
         ]
     }, 
     "wschlich": {

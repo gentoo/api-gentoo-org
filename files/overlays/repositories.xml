@@ -4713,12 +4713,12 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>stuff</name>
     <description>stuff</description>
-    <homepage>https://github.com/megabaks/stuff</homepage>
+    <homepage>https://github.com/istitov/stuff</homepage>
     <owner>
-      <email>megagreener@gmail.com</email>
+      <email>iohann.s.titov@gmail.com</email>
     </owner>
-    <source type="git">https://github.com/megabaks/stuff.git</source>
-    <feed>https://github.com/megabaks/stuff/commits/master.atom</feed>
+    <source type="git">https://github.com/istitov/stuff.git</source>
+    <feed>https://github.com/istitov/stuff/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>stuge</name>

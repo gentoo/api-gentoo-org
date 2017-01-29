@@ -5196,6 +5196,19 @@ FIN
     <source type="git">http://github.com/v-fox/gentoo_overlay.git</source>
     <feed>http://github.com/v-fox/gentoo_overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>vifino-overlay</name>
+    <description lang="en">vifino's personal overlay</description>
+    <homepage>https://github.com/vifino/vifino-overlay</homepage>
+    <owner type="person">
+      <email>vifino@tty.sh</email>
+      <name>Adrian "vifino" Pistol</name>
+    </owner>
+    <source type="git">https://github.com/vifino/vifino-overlay.git</source>
+    <source type="git">git://github.com/vifino/vifino-overlay.git</source>
+    <source type="git">git@github.com:vifino/vifino-overlay.git</source>
+    <feed>https://github.com/vifino/vifino-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>virtualization</name>
     <description lang="en">Experimental virtualization stuff</description>

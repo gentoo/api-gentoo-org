@@ -108,6 +108,19 @@ FIN
     <source type="git">git://github.com/faust/portage.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ace</name>
+    <description lang="en">Personal overlay with ebuilds that were missing at one point or another</description>
+    <homepage>https://github.com/ace13/overlay</homepage>
+    <owner type="person">
+      <email>ace@haxalot.com</email>
+      <name>Alexander Olofsson</name>
+    </owner>
+    <source type="git">https://github.com/ace13/overlay.git</source>
+    <source type="git">git://github.com/ace13/overlay.git</source>
+    <source type="git">git@github.com:ace13/overlay.git</source>
+    <feed>https://github.com/ace13/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>activehome</name>
     <description lang="en"><![CDATA[Gentoo overlay for ebuilds related to 'hand-made' Active Home construction]]></description>
     <description lang="ru"><![CDATA[Оверлей для ebuild'ов связанных созданием самодельного умного дома]]></description>

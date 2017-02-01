@@ -172,9 +172,9 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ftp.free.fr/mirrors/ftp.gentoo.org/</uri>
     </mirror>
     <mirror>
-      <name>Linuxant.fr</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.linuxant.fr/distfiles.gentoo.org/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirrors.linuxant.fr/distfiles.gentoo.org/</uri>
+      <name>soeasyto.com</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.soeasyto.com/distfiles.gentoo.org/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirrors.soeasyto.com/distfiles.gentoo.org/</uri>
     </mirror>
     <mirror>
       <name>modulix.net</name>

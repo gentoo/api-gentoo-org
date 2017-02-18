@@ -1882,17 +1882,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/gentoo-bsd.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>gentoo-el</name>
-    <description>Various ebuilds made and used by Greek Gentoo Community (gentoo-el)</description>
-    <homepage>https://github.com/gentoo-el/overlay</homepage>
-    <owner>
-      <email>contact@gentoo-el.org</email>
-      <name>Greek Gentoo Community</name>
-    </owner>
-    <source type="git">git://github.com/gentoo-el/overlay.git</source>
-    <feed>https://github.com/gentoo-el/overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>gentoo-htpc</name>
     <description>viddi87 HTPC overlay</description>
     <homepage>https://github.com/viddi87/gentoo-htpc</homepage>

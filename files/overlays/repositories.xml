@@ -1828,7 +1828,7 @@ FIN
     <description lang="en">gentoo overlay containing games ebuilds only</description>
     <homepage>https://github.com/hasufell/games-overlay</homepage>
     <owner type="person">
-      <email>hasufell@gentoo.org</email>
+      <email>hasufell@hasufell.de</email>
       <name>Julian Ospald</name>
     </owner>
     <source type="git">git://github.com/hasufell/games-overlay.git</source>

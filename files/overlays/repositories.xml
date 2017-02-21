@@ -4516,17 +4516,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/sochotnicky.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>soehest</name>
-    <description lang="en">Experimental ebuilds for Gentoo Linux</description>
-    <homepage>https://github.com/soehest/gentoo</homepage>
-    <owner type="person">
-      <email>drunejensen@gmail.com</email>
-      <name>Daniel Rune Jensen</name>
-    </owner>
-    <source type="git">git://github.com/soehest/gentoo.git</source>
-    <source type="git">https://github.com/soehest/gentoo.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>soft</name>
     <description>Soft's personal overlay for miscellaneous ebuilds</description>
     <homepage>https://bitbucket.org/Soft/overlay</homepage>

@@ -3310,7 +3310,7 @@ FIN
     <description lang="en"><![CDATA[Nextoo ("Next Gentoo") overlay]]></description>
     <homepage>https://github.com/nextoo/portage-overlay</homepage>
     <owner type="person">
-      <email>aarontc@aarontc.com</email>
+      <email>gentoo-bugzilla@aarontc.com</email>
       <name>Aaron Ten Clay</name>
     </owner>
     <source type="git">https://github.com/nextoo/portage-overlay.git</source>

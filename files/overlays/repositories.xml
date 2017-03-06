@@ -655,6 +655,19 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/bircoph.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>bitcetera</name>
+    <description lang="en">Miscellaneous Gentoo ebuilds</description>
+    <homepage>https://github.com/svoop/bitcetera-overlay</homepage>
+    <owner type="person">
+      <email>gentoo@bitcetera.com</email>
+      <name>Sven Schwyn</name>
+    </owner>
+    <source type="git">https://github.com/svoop/bitcetera-overlay.git</source>
+    <source type="git">git://github.com/svoop/bitcetera-overlay.git</source>
+    <source type="git">git@github.com:svoop/bitcetera-overlay.git</source>
+    <feed>https://github.com/svoop/bitcetera-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>bitcoin</name>
     <description>Bitcoin and CPU/GPU mining related ebuilds</description>
     <homepage>https://gitlab.com/bitcoin/gentoo.git</homepage>

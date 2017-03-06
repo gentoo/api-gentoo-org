@@ -1106,7 +1106,7 @@ FIN
     <description lang="en">packages for cloud development</description>
     <homepage>https://github.com/d3fy/defiance-overlay.git</homepage>
     <owner type="person">
-      <email>dan+overlay@d3fy.net</email>
+      <email>dan@d3fy.net</email>
       <name>Dan Molik</name>
     </owner>
     <source type="git">https://github.com/d3fy/defiance-overlay.git</source>

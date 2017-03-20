@@ -5260,7 +5260,7 @@ FIN
     <description lang="en">Personal overlay</description>
     <homepage>https://github.com/nE0sIghT/vortex-overlay</homepage>
     <owner type="person">
-      <email>ykonotopov@gmail.com</email>
+      <email>ykonotopov@gnome.org</email>
       <name><![CDATA[Yuri 'nE0sIghT' Konotopov]]></name>
     </owner>
     <source type="git">git://github.com/nE0sIghT/vortex-overlay.git</source>

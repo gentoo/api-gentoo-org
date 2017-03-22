@@ -4091,7 +4091,7 @@ FIN
     <owner>
       <email>rion4ik@gmail.com</email>
     </owner>
-    <source type="git">git://github.com/rion-overlay/rion-overlay.git</source>
+    <source type="git">https://github.com/rion-overlay/rion-overlay.git</source>
     <feed>https://github.com/rion-overlay/rion-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="testing" status="unofficial">

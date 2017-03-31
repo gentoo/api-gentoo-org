@@ -3278,6 +3278,7 @@ FIN
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://github.com/msva/mva-overlay</source>
+    <source type="git">https://github.com/msva/mva-overlay</source>
     <feed>https://github.com/msva/mva-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -4005,6 +4006,7 @@ FIN
       <name>Cecil Curry</name>
     </owner>
     <source type="git">git://github.com/leycec/raiagent.git</source>
+    <source type="git">https://github.com/leycec/raiagent</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>rainyday</name>
@@ -4015,6 +4017,7 @@ FIN
       <name>Iegor</name>
     </owner>
     <source type="git">git://github.com/iegor/rainyday.git</source>
+    <source type="git">https://github.com/iegor/rainyday</source>
     <feed>https://github.com/iegor/rainyday/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4026,6 +4029,7 @@ FIN
         <name>Andrey Senik</name>
     </owner>
     <source type="git">git://github.com/rasdark/overlay.git</source>
+    <source type="git">https://github.com/rasdark/overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>raw</name>
@@ -5166,6 +5170,7 @@ FIN
       <name>Rick Harris</name>
     </owner>
     <source type="git">git://github.com/shiznix/unity-gentoo.git</source>
+    <source type="git">https://github.com/shiznix/unity-gentoo</source>
     <feed>https://github.com/feeds/shiznix/commits/unity-gentoo/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -5177,6 +5182,7 @@ FIN
       <name>hashashin</name>
     </owner>
     <source type="git">git://github.com/hashashin/gentoo-vaca-overlay.git</source>
+    <source type="git">https://github.com/hashashin/gentoo-vaca-overlay</source>
     <feed>https://github.com/hashashin/gentoo-vaca-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

@@ -2118,15 +2118,6 @@ FIN
     <source type="git">git://github.com/hamper/hamper-overlay.git</source>
     <feed>https://github.com/hamper/hamper-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>hanno</name>
-    <description>Hanno Boeck developer overlay.</description>
-    <homepage>http://www.hboeck.de</homepage>
-    <owner type="person">
-      <email>hanno@gentoo.org</email>
-    </owner>
-    <source type="svn">https://svn.hboeck.de/overlay/</source>
-  </repo>
   <repo quality="experimental" status="official">
     <name>hardened-development</name>
     <description>Development Overlay for Hardened Gcc 4.x Toolchain</description>

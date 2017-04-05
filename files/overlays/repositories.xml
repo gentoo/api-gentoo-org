@@ -2404,20 +2404,6 @@ FIN
     <source type="git">https://github.com/JBoro/portage.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>jensp</name>
-    <description><![CDATA[jensp's user overlay]]></description>
-    <homepage>https://cgit.gentoo.org/user/jensp.git/</homepage>
-    <owner>
-      <email>jens@chaox.net</email>
-      <name>Jens Pranaitis</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/jensp.git</source>
-    <source type="git">git://anongit.gentoo.org/user/jensp.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/jensp.git</source>
-    <feed>https://cgit.gentoo.org/user/jensp.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/jensp.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>jkolo</name>
     <description lang="en">Jerzy Kolosowski's Gentoo overlay</description>
     <homepage>https://git.kolosowscy.pl/jurek/gentoo-overlay</homepage>

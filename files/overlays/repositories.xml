@@ -2939,17 +2939,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/maekke.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>mage-overlay</name>
-    <description lang="en">https://github.com/Vaizard/mage-overlay</description>
-    <homepage>https://github.com/Vaizard/mage-overlay</homepage>
-    <owner type="person">
-      <email>nicolasbock@gentoo.org</email>
-      <name>Nicolas Bock</name>
-    </owner>
-    <source type="git">https://github.com/Vaizard/mage-overlay.git</source>
-    <feed>https://github.com/Vaizard/mage-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>maggu2810-overlay</name>
     <description><![CDATA[maggu2810's Gentoo portage overlay.]]></description>
     <homepage>http://github.com/maggu2810/maggu2810-overlay</homepage>

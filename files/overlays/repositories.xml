@@ -2129,18 +2129,6 @@ FIN
     <feed>http://github.com/gentoo-haskell/gentoo-haskell/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>hasufell</name>
-    <description lang="en">ePSXe and experimental games ebuilds</description>
-    <homepage>https://bitbucket.org/hasufell/hasufell-overlay</homepage>
-    <owner type="person">
-      <email>hasufell@gentoo.org</email>
-      <name>Julian Ospald</name>
-    </owner>
-    <source type="git">https://bitbucket.org/hasufell/hasufell-overlay.git</source>
-    <feed>https://bitbucket.org/hasufell/hasufell-overlay/atom</feed>
-    <feed>https://bitbucket.org/hasufell/hasufell-overlay/rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>cynede</name>
     <description lang="en">Gentoo user overlay</description>
     <homepage>https://github.com/Heather/gentoo-cynede</homepage>

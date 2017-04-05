@@ -87,17 +87,6 @@ FIN
     <feed>https://github.com/4nykey/4nykey/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>abadonna-overlay</name>
-    <description>This personal repository contains ebuilds and fixes for packages that I'm interested in</description>
-    <homepage>https://gitlab.com/Abadonna/abadonna-overlay</homepage>
-    <owner>
-      <email>abadonna@abadonna.net</email>
-      <name>Abadonna</name>
-    </owner>
-    <source type="git">https://gitlab.com/Abadonna/abadonna-overlay.git</source>
-    <source type="git">git@gitlab.com:Abadonna/abadonna-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>abendbrot</name>
     <description lang="en">Desktop oriented overlay for various ebuilds and the occasional gamer</description>
     <homepage>https://github.com/stefan-gr/abendbrot</homepage>

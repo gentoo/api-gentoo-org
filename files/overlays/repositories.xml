@@ -3277,20 +3277,6 @@ FIN
     <source type="git">git@github.com:cloudkitsch/netcrave.git</source>
     <feed>https://github.com/cloudkitsch/netcrave/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>neurogeek</name>
-    <description>Jesus Rivero developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/neurogeek.git</homepage>
-    <owner>
-      <email>neurogeek@gentoo.org</email>
-      <name>Jesus Rivero</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/neurogeek.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/neurogeek.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/neurogeek.git</source>
-    <feed>https://cgit.gentoo.org/dev/neurogeek.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/neurogeek.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>nextoo</name>
     <description lang="en"><![CDATA[Nextoo ("Next Gentoo") overlay]]></description>

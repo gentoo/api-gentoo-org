@@ -2975,17 +2975,6 @@ FIN
     <source type="git">https://github.com/oz123/mate-de-gentoo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>maxik-overlay</name>
-    <description lang="en">My storage of Gentoo ebuilds not present in any other overlays/with unique features</description>
-    <homepage>https://github.com/mradermaxlol/maxik-overlay</homepage>
-    <owner type="person">
-      <email>mrader3940@openmailbox.org</email>
-      <name>Maxim Sheviakov</name>
-    </owner>
-    <source type="git">https://github.com/mradermaxlol/maxik-overlay.git</source>
-    <feed>https://github.com/mradermaxlol/maxik-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>megacoffee</name>
     <description lang="en">Mixed ebuilds from various sources: self-written missing ebuilds, more current ebuilds, ebuilds that just needed a slight update from official portage, ebuilds others posted on Gentoo Bugzilla, ebuilds with added patches, old ebuilds that were removed from official portage etc.</description>
     <description lang="de">Verschiedene ebuilds aus verschiedenen Quellen: selbsterstellte ebuilds, ebuilds mit geringfügigen Änderungen, gegenüber dem aktuellen Baum, ebuilds aus Gentoos Bugzilla, ebuilds mit erweiterten patches, alte ebuilds die nicht mehr im offiziellen Baum existieren, etc.</description>

@@ -2802,19 +2802,6 @@ FIN
     <feed>http://github.com/feeds/gentoo/commits/libressl/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>lif</name>
-    <description lang="en">Gentoo overlay from Igor Savlook.</description>
-    <homepage>https://github.com/killer2tester/gentoo-overlay-lif</homepage>
-    <owner type="person">
-      <email>igorsavlook@gmail.com</email>
-      <name>Igor Savlook</name>
-    </owner>
-    <source type="git">https://github.com/killer2tester/gentoo-overlay-lif.git</source>
-    <source type="git">git://github.com/killer2tester/gentoo-overlay-lif.git</source>
-    <source type="git">git@github.com:killer2tester/gentoo-overlay-lif.git</source>
-    <feed>https://github.com/killer2tester/gentoo-overlay-lif/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>linuxunderground-overlay</name>
     <description>experimental ebuilds from linuxunderground.be</description>
     <homepage>http://github.com/linuxunderground/gentoo.overlay</homepage>

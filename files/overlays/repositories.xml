@@ -5204,16 +5204,6 @@ FIN
     <feed>https://cafarelli.fr/cgi-bin/cgit.cgi/voyageur-overlay/atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>wavilen</name>
-    <description lang="en">Overlay of Valen Tau</description>
-    <homepage>https://github.com/wavilen/wavilen-overlay</homepage>
-    <owner type="person">
-      <email>wavilen@gmail.com</email>
-      <name>Valen Tau</name>
-    </owner>
-    <source type="git">https://github.com/wavilen/wavilen-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>wbrana</name>
     <description lang="en"><![CDATA[wbrana's overlay]]></description>
     <homepage>https://cgit.gentoo.org/user/wbrana.git/</homepage>

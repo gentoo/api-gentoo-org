@@ -4467,20 +4467,6 @@ FIN
     <source type="git">git://github.com/vonavi/seeds.git</source>
     <feed>ttps://github.com/vonavi/seeds/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>sekh</name>
-    <description lang="en"><![CDATA[sekh's overlay]]></description>
-    <homepage>https://cgit.gentoo.org/user/sekh.git/</homepage>
-    <owner type="person">
-      <email>wlallemand@gmail.com</email>
-      <name>William Lallemand</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/sekh.git</source>
-    <source type="git">git://anongit.gentoo.org/user/sekh.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/sekh.git</source>
-    <feed>https://cgit.gentoo.org/user/sekh.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/sekh.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="official">
     <name>sera</name>
     <description lang="en">Developer overlay</description>

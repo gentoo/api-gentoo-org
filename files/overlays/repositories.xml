@@ -1860,8 +1860,7 @@ FIN
     <description>Gentoo/BSD Project Overlay</description>
     <homepage>https://cgit.gentoo.org/proj/gentoo-bsd.git</homepage>
     <owner>
-      <email>welp@gentoo.org</email>
-      <name>Peter Weller</name>
+      <email>bsd@gentoo.org</email>
     </owner>
     <source type="git">https://anongit.gentoo.org/git/proj/gentoo-bsd.git</source>
     <source type="git">git://anongit.gentoo.org/proj/gentoo-bsd.git</source>

@@ -634,7 +634,7 @@ FIN
     <homepage>https://cgit.gentoo.org/dev/bicatali.git/</homepage>
     <owner type="person">
       <email>bicatali@gentoo.org</email>
-      <name>![CDATA[Sébastien Fabbro]</name>
+      <name>Sébastien Fabbro</name>
     </owner>
     <source type="git">https://anongit.gentoo.org/git/dev/bicatali.git</source>
     <source type="git">git://anongit.gentoo.org/dev/bicatali.git</source>

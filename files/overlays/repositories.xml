@@ -4344,20 +4344,6 @@ FIN
     <source type="git">http://repo.or.cz/r/slyfox-gentoo.git</source>
     <feed>http://repo.or.cz/w/slyfox-gentoo.git?a=rss</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>sochotnicky</name>
-    <description lang="en">Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/sochotnicky.git/</homepage>
-    <owner type="person">
-      <email>sochotnicky@gentoo.org</email>
-      <name>Stanislav Ochotnicky</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/sochotnicky.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/sochotnicky.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/sochotnicky.git</source>
-    <feed>https://cgit.gentoo.org/dev/sochotnicky.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/sochotnicky.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>soft</name>
     <description>Soft's personal overlay for miscellaneous ebuilds</description>

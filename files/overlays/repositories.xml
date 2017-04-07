@@ -941,7 +941,7 @@ FIN
     <description><![CDATA[Christoph's Overlay]]></description>
     <homepage>https://github.com/junghans/cj-overlay</homepage>
     <owner>
-      <email>ottxor@gentoo.org</email>
+      <email>junghans@gentoo.org</email>
     </owner>
     <source type="git">git://github.com/junghans/cj-overlay</source>
     <feed>https://github.com/junghans/cj-overlay/commits/master.atom</feed>

@@ -2699,9 +2699,8 @@ FIN
     <name>libressl</name>
     <description lang="en">LibreSSL ebuilds testing repository</description>
     <homepage>https://github.com/gentoo/libressl</homepage>
-    <owner type="person">
-      <email>hasufell@gentoo.org</email>
-      <name>Julian Ospald</name>
+    <owner type="project">
+      <email>libressl@gentoo.org</email>
     </owner>
     <source type="git">https://github.com/gentoo/libressl.git</source>
     <source type="git">git@github.com:gentoo/libressl.git</source>

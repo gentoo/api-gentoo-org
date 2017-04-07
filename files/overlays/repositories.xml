@@ -4643,15 +4643,6 @@ FIN
     </owner>
     <source type="rsync">rsync://rsync.gentoo.stealer.net/swegener-overlay/</source>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>synnefo</name>
-    <description lang="en">Synnefo IaaS software ebuilds</description>
-    <homepage>https://github.com/psomas/synnefo-overlay</homepage>
-    <owner type="person">
-      <email>psomas@gentoo.org</email>
-    </owner>
-    <source type="git">git://github.com/psomas/synnefo-overlay.git</source>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>systemd</name>
     <description lang="en">User collaboration on ebuilds for the systemd init system</description>

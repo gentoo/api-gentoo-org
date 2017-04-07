@@ -3672,17 +3672,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/printer-drivers.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>prism-overlay</name>
-    <description lang="en">Overlay for apps related to secure communication, cryptography and anonymity</description>
-    <homepage>https://github.com/hasufell/prism-overlay</homepage>
-    <owner type="person">
-      <email>hasufell@gentoo.org</email>
-      <name>Julian Ospald</name>
-    </owner>
-    <source type="git">git://github.com/hasufell/prism-overlay.git</source>
-    <feed>https://github.com/hasufell/prism-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>proaudio</name>
     <description>Evermind's overlay with ebuilds for a lot of pro-audio
     production software.</description>

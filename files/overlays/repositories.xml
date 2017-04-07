@@ -4767,17 +4767,6 @@ FIN
     </owner>
     <source type="git">https://github.com/tante/overlay.git</source>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>tegra</name>
-    <description>Gentoo overlay for NVIDIA Tegra2</description>
-    <homepage>https://cgit.gentoo.org/proj/tegra.git/</homepage>
-    <owner>
-      <email>armin76@gentoo.org</email>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/proj/tegra.git</source>
-    <feed>https://cgit.gentoo.org/proj/tegra.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/tegra.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>tengine-overlay</name>
     <description lang="en">Tengine overlay for Gentoo Linux</description>

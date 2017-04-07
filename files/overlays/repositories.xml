@@ -3250,7 +3250,7 @@ FIN
     <description>nigoro's Gentoo/FreeBSD experimental overlay</description>
     <homepage>https://github.com/nigoro/amd64-fbsd/</homepage>
     <owner type="person">
-      <email>nigoro@gentoo.gr.jp</email>
+      <email>nigoro.dev@gmail.com</email>
     </owner>
     <source type="git">git://github.com/nigoro/amd64-fbsd.git</source>
   </repo>

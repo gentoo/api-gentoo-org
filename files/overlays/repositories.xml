@@ -4064,6 +4064,16 @@ FIN
     </owner>
     <source type="git">https://gitlab.com/roslin-uberlay/roslin.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>rpm</name>
+    <description lang="en">Overlay for RPM packagers targeting Fedora, EPEL, CentOS and similar distros</description>
+    <homepage>https://github.com/pavlix/gentoo-rpm</homepage>
+    <owner type="person">
+      <email>pavlix@pavlix.net</email>
+      <name>Pavel Šimerda</name>
+    </owner>
+    <source type="git">https://github.com/pavlix/gentoo-rpm.git</source>
+  </repo>
   <repo quality="experimental" status="official">
     <name>R_Overlay</name>
     <description>Gentoo overlay of R packages</description>

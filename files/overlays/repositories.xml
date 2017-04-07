@@ -3933,7 +3933,7 @@ FIN
     <homepage>https://github.com/rindeal/gentoo-overlay</homepage>
     <owner type="person">
       <name>Jan Chren (rindeal)</name>
-      <email>dev.rindeal@gmail.com</email>
+      <email>dev.rindeal+gentoo@gmail.com</email>
     </owner>
     <source type="git">https://github.com/rindeal/gentoo-overlay.git</source>
     <source type="git">git://git@github.com:rindeal/gentoo-overlay.git</source>

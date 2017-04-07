@@ -3481,7 +3481,7 @@ FIN
     <description><![CDATA[Unofficial mirror of overlay "perl-experimental" with metadata cache]]></description>
     <homepage>https://github.com/gentoo-perl/perl-experimental-snapshots</homepage>
     <owner type="person">
-      <email>kentfredric@gmail.com</email>
+      <email>kentnl@gentoo.org</email>
       <name>Kent Fredric</name>
     </owner>
     <source type="git">https://github.com/gentoo-perl/perl-experimental-snapshots.git</source>

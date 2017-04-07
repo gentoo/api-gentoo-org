@@ -4282,20 +4282,6 @@ FIN
     <source type="git">git://github.com/vonavi/seeds.git</source>
     <feed>ttps://github.com/vonavi/seeds/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>sera</name>
-    <description lang="en">Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/sera.git/</homepage>
-    <owner type="person">
-      <email>sera@gentoo.org</email>
-      <name>Ralph Sennhauser</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/sera.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/sera.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/sera.git</source>
-    <feed>https://cgit.gentoo.org/dev/sera.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/sera.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>sft</name>
     <description>SFT Technologies gentoo overlay</description>

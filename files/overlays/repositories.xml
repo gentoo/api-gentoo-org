@@ -1029,20 +1029,6 @@ FIN
     <feed>https://github.com/dannyboy48888/dannyboy48888-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>darkside</name>
-    <description><![CDATA[Jeremy Olexa's private developer overlay]]></description>
-    <homepage>https://cgit.gentoo.org/dev/darkside.git/</homepage>
-    <owner>
-      <email>darkside@gentoo.org</email>
-      <name>Jeremy Olexa</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/darkside.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/darkside.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/darkside.git</source>
-    <feed>https://cgit.gentoo.org/dev/darkside.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/darkside.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>das-labor</name>
     <description lang="en">Gentoo overlay from Hackerspace Bochum</description>
     <homepage>https://github.com/das-labor/labor-overlay</homepage>

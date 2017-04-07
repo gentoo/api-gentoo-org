@@ -2243,20 +2243,6 @@ FIN
 		<source type="git">https://github.com/gerddie/gentoo-imaging.git</source>
 	</repo>
   <repo quality="experimental" status="unofficial">
-    <name>improvise</name>
-    <description lang="en"><![CDATA[Patches and patched ebuilds; xen and python bugs && bumps]]></description>
-    <homepage>https://cgit.gentoo.org/user/improvise.git/</homepage>
-    <owner type="person">
-      <email>idella4@gentoo.org</email>
-      <name>Ian Delaney</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/improvise.git</source>
-    <source type="git">git://anongit.gentoo.org/user/improvise.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/improvise.git</source>
-    <feed>https://cgit.gentoo.org/user/improvise.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/improvise.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>interactive-fiction</name>
     <description><![CDATA[Packages for players and authors of interactive
     fiction]]></description>

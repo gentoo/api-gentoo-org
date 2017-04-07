@@ -828,20 +828,6 @@ FIN
     <source type="git">git@github.com:buzden/buzden-overlay.git</source>
     <feed>https://github.com/buzden/buzden-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>c1pher</name>
-    <description lang="en">Developer Overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/c1pher.git/</homepage>
-    <owner type="person">
-      <email>c1pher@gentoo.org</email>
-      <name>Dane Smith</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/c1pher.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/c1pher.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/c1pher.git</source>
-    <feed>https://cgit.gentoo.org/dev/c1pher.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/c1pher.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>c2p-overlay</name>
     <description>Personal overlay of Karol Grudziński</description>

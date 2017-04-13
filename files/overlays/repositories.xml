@@ -2523,20 +2523,6 @@ FIN
     <feed>https://github.com/john-r-graham/jrg-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>jtriley</name>
-    <description lang="en">User overlay for jtriley</description>
-    <homepage>https://cgit.gentoo.org/user/jtriley.git/</homepage>
-    <owner type="person">
-      <email>justin.t.riley@gmail.com</email>
-      <name>Justin Riley</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/jtriley.git</source>
-    <source type="git">git://anongit.gentoo.org/user/jtriley.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/jtriley.git</source>
-    <feed>https://cgit.gentoo.org/user/jtriley.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/jtriley.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>junkdrawer</name>
     <description lang="en">Various development tools, libraries, and patches not in Gentoo (yet)</description>
     <homepage>https://github.com/doctaweeks/junkdrawer-overlay</homepage>

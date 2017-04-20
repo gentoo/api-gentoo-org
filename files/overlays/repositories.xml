@@ -910,6 +910,19 @@ FIN
     <feed>https://github.com/feeds/chaoskagami/commits/chaos-overlay/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>chemoelectric</name>
+    <description lang="en">Personal overlay of Barry Schwartz</description>
+    <homepage>https://bitbucket.org/chemoelectric/chemoelectric-overlay</homepage>
+    <owner type="person">
+      <email>chemoelectric@chemoelectric.org</email>
+      <name>Barry Schwartz</name>
+    </owner>
+    <source type="git">https://bitbucket.org/chemoelectric/chemoelectric-overlay.git</source>
+    <source type="git">git@bitbucket.org:chemoelectric/chemoelectric-overlay.git</source>
+    <feed>https://bitbucket.org/chemoelectric/chemoelectric-overlay/atom</feed>
+    <feed>https://bitbucket.org/chemoelectric/chemoelectric-overlay/rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>chrytoo</name>
     <description lang="en">Personal overlay for packages that usually aren't in the official repository...</description>
     <homepage>https://github.com/chrytoo/gentoo-overlay</homepage>
@@ -4395,7 +4408,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sortsmill</name>
-    <description lang="en">Personal overlay of Barry Schwartz</description>
+    <description lang="en">Personal overlay of Barry Schwartz for font projects</description>
     <homepage>https://bitbucket.org/sortsmill/sortsmill-gentoo-overlay</homepage>
     <owner type="person">
       <email>chemoelectric@chemoelectric.org</email>

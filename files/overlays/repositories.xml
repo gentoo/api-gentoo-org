@@ -4336,6 +4336,19 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/user/silmano.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>simonvanderveldt</name>
+    <description lang="en">Personal Gentoo overlay focused on music production and engineering applications</description>
+    <homepage>https://github.com/simonvanderveldt/simonvanderveldt-overlay</homepage>
+    <owner type="person">
+      <email>simon.vanderveldt@gmail.com</email>
+      <name>Simon van der Veldt</name>
+    </owner>
+    <source type="git">https://github.com/simonvanderveldt/simonvanderveldt-overlay.git</source>
+    <source type="git">git://github.com/simonvanderveldt/simonvanderveldt-overlay.git</source>
+    <source type="git">git@github.com:simonvanderveldt/simonvanderveldt-overlay.git</source>
+    <feed>https://github.com/simonvanderveldt/simonvanderveldt-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sinustrom</name>
     <description lang="en">Sinustrom Gentoo Overlay</description>
     <homepage>https://github.com/zpuskas/sinustrom-gentoo-overlay</homepage>

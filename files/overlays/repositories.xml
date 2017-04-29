@@ -3689,6 +3689,19 @@ FIN
     </owner>
     <source type="git">https://github.com/donat-b/procyon.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>programmador</name>
+    <description lang="en">Programmador overlay</description>
+    <homepage>https://bitbucket.org/programmador/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>alexander.konotop@gmail.com</email>
+      <name>Alexander Konotop</name>
+    </owner>
+    <source type="mercurial">https://bitbucket.org/programmador/gentoo-overlay</source>
+    <source type="mercurial">ssh://hg@bitbucket.org/programmador/gentoo-overlay</source>
+    <feed>https://bitbucket.org/programmador/gentoo-overlay/atom</feed>
+    <feed>https://bitbucket.org/programmador/gentoo-overlay/rss</feed>
+  </repo>
   <repo quality="testing" status="unofficial">
     <name>progress</name>
     <description>Progress Overlay: Python packages (including Pyramid, Zope) and other packages</description>

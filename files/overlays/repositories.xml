@@ -1677,6 +1677,19 @@ FIN
     <source type="git">git://github.com/wimmuskee/flavour.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>flightsim</name>
+    <description lang="en">Overlay with packages for flight simulation, mainly related to X-Plane</description>
+    <homepage>https://github.com/rafaelmartins/flightsim-overlay</homepage>
+    <owner type="person">
+      <email>rafaelmartins@gentoo.org</email>
+      <name>Rafael G. Martins</name>
+    </owner>
+    <source type="git">https://github.com/rafaelmartins/flightsim-overlay.git</source>
+    <source type="git">git://github.com/rafaelmartins/flightsim-overlay.git</source>
+    <source type="git">git@github.com:rafaelmartins/flightsim-overlay.git</source>
+    <feed>https://github.com/rafaelmartins/flightsim-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>floppym</name>
     <description>floppym's personal overlay</description>
     <homepage>http://bitbucket.org/floppym/floppym-overlay</homepage>

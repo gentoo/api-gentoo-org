@@ -3436,6 +3436,16 @@ FIN
     <source type="git">https://github.com/pavlix/gentoo-openwrt</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>openwrt</name>
+    <description>Overlay for network configuration packages found in OpenWRT</description>
+    <homepage>https://github.com/pavlix/gentoo-openwrt</homepage>
+    <owner>
+      <email>pavlix@pavlix.net</email>
+      <name>Pavel Šimerda</name>
+    </owner>
+    <source type="git">https://github.com/pavlix/gentoo-openwrt</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>owncloud-client</name>
     <description lang="en">Ebuilds related to the ownCloud Sync Client</description>
     <homepage>https://github.com/Weuxel/portage-owncloud-client</homepage>

@@ -1104,6 +1104,19 @@ FIN
     <source type="git">git@github.com:d3fy/defiance-overlay.git</source>
     <feed>https://github.com/d3fy/defiance-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>delicious-absurdities</name>
+    <description lang="en">Personal overlay with delicious absurdities</description>
+    <homepage>https://github.com/paraenggu/delicious-absurdities-overlay</homepage>
+    <owner type="person">
+      <email>c.affolter@purplehaze.ch</email>
+      <name>Christian Affolter</name>
+    </owner>
+    <source type="git">https://github.com/paraenggu/delicious-absurdities-overlay.git</source>
+    <source type="git">git://github.com/paraenggu/delicious-absurdities-overlay.git</source>
+    <source type="git">git@github.com:paraenggu/delicious-absurdities-overlay.git</source>
+    <feed>https://github.com/paraenggu/delicious-absurdities-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>desktop-effects</name>
     <description>Experimental overlay for desktop effects

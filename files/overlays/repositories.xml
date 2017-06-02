@@ -3935,6 +3935,20 @@ FIN
     <feed>https://github.com/rion-overlay/rion-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>riru</name>
+    <description lang="en">Home overlay for development, patches and live ebuilds</description>
+    <description lang="ru">Домашний оверлей для разработки, патчей и лайв ебилдов</description>
+    <homepage>https://github.com/pkulev/riru</homepage>
+    <owner type="person">
+      <email>kulyov.pavel@gmail.com</email>
+      <name>Pavel Kulyov</name>
+    </owner>
+    <source type="git">https://github.com/pkulev/riru.git</source>
+    <source type="git">git://github.com/pkulev/riru.git</source>
+    <source type="git">git@github.com:pkulev/riru.git</source>
+    <feed>https://github.com/pkulev/riru/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>robert7k</name>
     <description lang="en">personal overlay of robert7k</description>
     <homepage>https://github.com/robert7k/gentoo-overlay</homepage>

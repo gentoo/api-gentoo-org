@@ -3399,17 +3399,6 @@ FIN
     <source type="git">https://github.com/pavlix/gentoo-openwrt</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>owncloud-client</name>
-    <description lang="en">Ebuilds related to the ownCloud Sync Client</description>
-    <homepage>https://github.com/Weuxel/portage-owncloud-client</homepage>
-    <owner type="person">
-      <email>norman@smash-net.org</email>
-      <name>Norman Rieß</name>
-    </owner>
-    <source type="git">git://github.com/Weuxel/portage-owncloud-client.git</source>
-    <feed>https://github.com/Weuxel/portage-owncloud-client/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>palemoon</name>
     <description lang="en">Unofficial Gentoo overlay for the Pale Moon (http://www.palemoon.org/) web browser.</description>
     <homepage>https://github.com/deuiore/palemoon-overlay</homepage>

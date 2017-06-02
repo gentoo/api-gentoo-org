@@ -3029,16 +3029,6 @@ FIN
     <source type="git">git://github.com/vincentdephily/moltonel-ebuilds.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>moonrise</name>
-    <description lang="en">Bleeding edge, experimental overlay for Gentoo</description>
-    <homepage>http://github.com/Barthalion/moonrise</homepage>
-    <owner type="person">
-      <email>11mariom@gmail.com</email>
-      <name>Mariusz Kozakowski</name>
-    </owner>
-    <source type="git">git://github.com/Barthalion/moonrise.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>mooyooma</name>
     <description lang="en">mooyooma's personal overlay</description>
     <homepage>https://gitlab.com/mooyooma-overlay/mooyooma-overlay</homepage>

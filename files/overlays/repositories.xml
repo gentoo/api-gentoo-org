@@ -2096,20 +2096,6 @@ FIN
     <feed>https://cgit.gentoo.org/dev/graaff.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/graaff.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>graveyard</name>
-    <description lang="en">packages tree-cleaned from the official
-    portage repository</description>
-    <homepage>https://github.com/gentoo/graveyard</homepage>
-    <owner type="person">
-      <email>williamh@gentoo.org</email>
-      <name>William Hubbs</name>
-    </owner>
-    <source type="git">https://github.com/gentoo/graveyard.git</source>
-    <source type="git">git://github.com/gentoo/graveyard.git</source>
-    <source type="git">git@github.com:gentoo/graveyard.git</source>
-    <feed>https://github.com/gentoo/graveyard/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>grub2-themes</name>
     <description lang="en">Overlay dedicated to Grub2 themes (of any distribution)</description>

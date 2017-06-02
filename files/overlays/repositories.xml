@@ -2311,15 +2311,15 @@ FIN
     <feed>https://cgit.gentoo.org/dev/ikelos.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/ikelos.git/rss/</feed> -->
   </repo>
-	<repo quality="experimental" status="unofficial">
-		<name>imaging</name>
-		<description>Gentoo overlay for image processing and visualization</description>
-		<homepage>https://github.com/gerddie/gentoo-imaging</homepage>
-		<owner type="person">
-			<email>gw.fossdev@gmail.com</email>
-		</owner>
-		<source type="git">https://github.com/gerddie/gentoo-imaging.git</source>
-	</repo>
+  <repo quality="experimental" status="unofficial">
+    <name>imaging</name>
+    <description>Gentoo overlay for image processing and visualization</description>
+    <homepage>https://github.com/gerddie/gentoo-imaging</homepage>
+    <owner type="person">
+      <email>gw.fossdev@gmail.com</email>
+    </owner>
+    <source type="git">https://github.com/gerddie/gentoo-imaging.git</source>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>interactive-fiction</name>
     <description>Packages for players and authors of interactive
@@ -4605,7 +4605,7 @@ FIN
     <homepage>https://github.com/mwstowe/stowe-verlay</homepage>
     <owner type="person">
       <email>mstowe@chicago.us.mensa.org</email>
-	  <name>Michael Stowe</name>
+      <name>Michael Stowe</name>
     </owner>
     <source type="git">https://github.com/mwstowe/stowe-verlay.git</source>
     <feed>https://github.com/mwstowe/stowe-verlay/commits/master.atom</feed>

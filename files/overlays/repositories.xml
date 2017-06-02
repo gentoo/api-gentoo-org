@@ -1150,20 +1150,6 @@ FIN
     </owner>
     <source type="git">https://github.com/DevPump/gentoo-overlay.git</source>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>dev-zero</name>
-    <description>Dev-zeros personal developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/dev-zero.git/</homepage>
-    <owner type="person">
-      <email>dev-zero@gentoo.org</email>
-      <name>Tiziano Mueller</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/dev-zero.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/dev-zero</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/dev-zero.git</source>
-    <feed>https://cgit.gentoo.org/dev/dev-zero.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/dev-zero.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>dfreise</name>
     <description lang="en">ISDN, network and other stuff</description>

@@ -3657,16 +3657,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/printer-drivers.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>proaudio</name>
-    <description>Evermind's overlay with ebuilds for a lot of pro-audio
-    production software.</description>
-    <homepage>http://proaudio.tuxfamily.org/wiki</homepage>
-    <owner type="person">
-      <email>evermind@tuxfamily.org</email>
-    </owner>
-    <source type="svn">svn://svn.tuxfamily.org/svnroot/proaudio/proaudio/trunk/overlays/proaudio</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>procyon</name>
     <description>Procyon Overlay</description>
     <owner type="person">

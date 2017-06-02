@@ -4469,15 +4469,6 @@ FIN
     </owner>
     <source type="git">https://github.com/Spike-Pentesting/spike-overlay.git</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>spike-community-overlay</name>
-    <description lang="en">Spike community overlay</description>
-    <homepage>https://github.com/Sabayon-Labs/spike-community-overlay</homepage>
-    <owner type="person">
-      <email>mike@michaellawrenceit.com</email>
-    </owner>
-    <source type="git">https://github.com/Sabayon-Labs/spike-community-overlay.git</source>
-  </repo>
   <repo quality="experimental" status="official">
     <name>sping</name>
     <description lang="en">Overlay of Gentoo developer Sebastian Pipping; for issues, please open tickets at GitHub</description>

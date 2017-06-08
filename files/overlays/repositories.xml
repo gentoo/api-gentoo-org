@@ -5431,5 +5431,18 @@ FIN
     <source type="git">git@github.com:scriptkitties/overlay.git</source>
     <feed>https://github.com/scriptkitties/overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>sevcsik</name>
+    <description lang="en">Mainly cryptocurrency/blockchain related ebuilds</description>
+    <homepage>https://github.com/sevcsik/overlay</homepage>
+    <owner type="person">
+      <email>sevcsik@sevdev.hu</email>
+      <name>Andras Sevcsik</name>
+    </owner>
+    <source type="git">https://github.com/sevcsik/overlay.git</source>
+    <source type="git">git://github.com/sevcsik/overlay.git</source>
+    <source type="git">git@github.com:sevcsik/overlay.git</source>
+    <feed>https://github.com/sevcsik/overlay/commits/master.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

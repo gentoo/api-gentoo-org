@@ -4369,6 +4369,19 @@ FIN
     <source type="git">git@github.com:zpuskas/sinustrom-gentoo-overlay.git</source>
     <feed>https://github.com/zpuskas/sinustrom-gentoo-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>sk-overlay</name>
+    <description lang="en">The Scriptkitties overlay for additional ebuilds</description>
+    <homepage>https://github.com/scriptkitties/overlay</homepage>
+    <owner type="person">
+      <email>p.spek@tyil.work</email>
+      <name>Patrick Spek</name>
+    </owner>
+    <source type="git">https://github.com/scriptkitties/overlay.git</source>
+    <source type="git">git://github.com/scriptkitties/overlay.git</source>
+    <source type="git">git@github.com:scriptkitties/overlay.git</source>
+    <feed>https://github.com/scriptkitties/overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>slyfox</name>
     <description lang="en">slyfox's ebuild den</description>
@@ -5417,19 +5430,6 @@ FIN
     <source type="git">http://git.zx2c4.com/portage</source>
     <source type="git">ssh://git@git.zx2c4.com/portage</source>
     <feed>http://git.zx2c4.com/portage/atom/?h=master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>sk-overlay</name>
-    <description lang="en">The Scriptkitties overlay for additional ebuilds</description>
-    <homepage>https://github.com/scriptkitties/overlay</homepage>
-    <owner type="person">
-      <email>p.spek@tyil.work</email>
-      <name>Patrick Spek</name>
-    </owner>
-    <source type="git">https://github.com/scriptkitties/overlay.git</source>
-    <source type="git">git://github.com/scriptkitties/overlay.git</source>
-    <source type="git">git@github.com:scriptkitties/overlay.git</source>
-    <feed>https://github.com/scriptkitties/overlay/commits/master.atom</feed>
   </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

@@ -2656,6 +2656,17 @@ FIN
     <feed>https://github.com/undying/krontage/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>kryptus</name>
+    <description>A pocket repository for few unavailable packages</description>
+    <homepage>https://github.com/kryptuss/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>milos.om.dj@gmail.com</email>
+      <name>Miloš O. Đurđević</name>
+    </owner>
+    <source type="git">https://github.com/kryptuss/gentoo-overlay.git</source>
+    <feed>https://github.com/kryptuss/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>lacimarsik-overlay</name>
     <description>Various patches and improvements on Gentoo Linux ebuilds</description>
     <homepage>https://github.com/lacimarsik/lacimarsik-overlay</homepage>

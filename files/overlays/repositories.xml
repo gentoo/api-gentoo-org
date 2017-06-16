@@ -5397,6 +5397,19 @@ FIN
     <source type="git">git://gnunet.org/youbroketheinternet-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>yurij-overlay</name>
+    <description lang="en">Yurij's overlay</description>
+    <homepage>https://github.com/yurijmikhalevich/yurij-overlay</homepage>
+    <owner type="person">
+      <email>yurij@mikhalevi.ch</email>
+      <name>Yurij Mikhalevich</name>
+    </owner>
+    <source type="git">https://github.com/yurijmikhalevich/yurij-overlay.git</source>
+    <source type="git">git://github.com/yurijmikhalevich/yurij-overlay.git</source>
+    <source type="git">git@github.com:yurijmikhalevich/yurij-overlay.git</source>
+    <feed>https://github.com/yurijmikhalevich/yurij-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>zoobab</name>
     <description lang="en">Personal overlay of Benjamin Henrion</description>
     <homepage>https://github.com/zoobab/overlay4gentoo/</homepage>
@@ -5430,19 +5443,6 @@ FIN
     <source type="git">http://git.zx2c4.com/portage</source>
     <source type="git">ssh://git@git.zx2c4.com/portage</source>
     <feed>http://git.zx2c4.com/portage/atom/?h=master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>yurij-overlay</name>
-    <description lang="en">Yurij's overlay</description>
-    <homepage>https://github.com/yurijmikhalevich/yurij-overlay</homepage>
-    <owner type="person">
-      <email>yurij@mikhalevi.ch</email>
-      <name>Yurij Mikhalevich</name>
-    </owner>
-    <source type="git">https://github.com/yurijmikhalevich/yurij-overlay.git</source>
-    <source type="git">git://github.com/yurijmikhalevich/yurij-overlay.git</source>
-    <source type="git">git@github.com:yurijmikhalevich/yurij-overlay.git</source>
-    <feed>https://github.com/yurijmikhalevich/yurij-overlay/commits/master.atom</feed>
   </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

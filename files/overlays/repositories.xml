@@ -5244,8 +5244,8 @@ FIN
   </repo>
   <repo quality="experimental" status="official">
     <name>x11</name>
-    <description>Gentoo X11 team overlay</description>
-    <homepage>http://www.gentoo.org/proj/en/desktop/x/x11/</homepage>
+    <description>Gentoo X11 team ebuild repository</description>
+    <homepage>https://cgit.gentoo.org/proj/x11.git</homepage>
     <owner type="project">
       <email>x11@gentoo.org</email>
     </owner>

@@ -1758,6 +1758,19 @@ FIN
     <feed>https://github.com/foux/fouxlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>foxiverlay</name>
+    <description lang="en">Personal overlay for unofficial ebuilds</description>
+    <homepage>https://github.com/PikkuJose/foxiverlay</homepage>
+    <owner type="person">
+      <email>koalinux@gmail.com</email>
+      <name>José Pekkarinen</name>
+    </owner>
+    <source type="git">https://github.com/PikkuJose/foxiverlay.git</source>
+    <source type="git">git://github.com/PikkuJose/foxiverlay.git</source>
+    <source type="git">git@github.com:PikkuJose/foxiverlay.git</source>
+    <feed>https://github.com/PikkuJose/foxiverlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>frabjous</name>
     <description lang="en">Frabjous! Yet another personal Gentoo overlay</description>
     <homepage>https://github.com/csmk/frabjous</homepage>

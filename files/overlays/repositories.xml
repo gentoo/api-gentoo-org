@@ -1277,6 +1277,19 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/user/dMaggot.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>dmchurch</name>
+    <description lang="en">Danielle Church's Portage overlay</description>
+    <homepage>https://github.com/dmchurch/portage-overlay</homepage>
+    <owner type="person">
+      <email>dani.church@gmail.com</email>
+      <name>Danielle Church</name>
+    </owner>
+    <source type="git">https://github.com/dmchurch/portage-overlay.git</source>
+    <source type="git">git://github.com/dmchurch/portage-overlay.git</source>
+    <source type="git">git@github.com:dmchurch/portage-overlay.git</source>
+    <feed>https://github.com/dmchurch/portage-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>dmol</name>
     <description lang="en">Overlay to store java-related ebuilds, for further reviewing</description>
     <homepage>https://cgit.gentoo.org/user/dmol.git/</homepage>

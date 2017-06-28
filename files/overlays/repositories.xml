@@ -961,8 +961,8 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>concaveoverlay</name>
-    <description lang="en">KNX32542's overlay.</description>
-    <homepage>https://gitlab.com/KNX32542/overlay</homepage>
+    <description lang="en">concavegit's overlay.</description>
+    <homepage>https://gitlab.com/concavegit/overlay</homepage>
     <owner type="person">
       <email>kawinnikom@gmail.com</email>
       <name>Kawin Nikomborirak</name>

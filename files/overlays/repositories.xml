@@ -961,14 +961,13 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>concaveoverlay</name>
-    <description lang="en">KNX32542's overlay.</description>
-    <homepage>https://gitlab.com/KNX32542/overlay</homepage>
+    <description lang="en">concavegit's overlay.</description>
+    <homepage>https://gitlab.com/concavegit/concaveoverlay</homepage>
     <owner type="person">
-      <email>kawinnikom@gmail.com</email>
-      <name>Kawin Nikomborirak</name>
+      <email>concavemail@gmail.com</email>
     </owner>
-    <source type="git">https://gitlab.com/KNX32542/overlay.git</source>
-    <feed>https://gitlab.com/KNX32542/overlay/commits/master.atom</feed>
+    <source type="git">https://gitlab.com/concavegit/concaveoverlay.git</source>
+    <feed>https://gitlab.com/concavegit/concaveoverlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>crossdev</name>

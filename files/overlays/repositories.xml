@@ -3425,6 +3425,19 @@ FIN
     <feed>https://github.com/Bfgeshka/octopus/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>olifre</name>
+    <description lang="en">Personal overlay of Oliver Freyermuth.</description>
+    <homepage>https://github.com/olifre/olifre-portage</homepage>
+    <owner type="person">
+      <email>o.freyermuth@googlemail.com</email>
+      <name>Oliver Freyermuth</name>
+    </owner>
+    <source type="git">https://github.com/olifre/olifre-portage.git</source>
+    <source type="git">git://github.com/olifre/olifre-portage.git</source>
+    <source type="git">git@github.com:olifre/olifre-portage.git</source>
+    <feed>https://github.com/olifre/olifre-portage/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>openwrt</name>
     <description>Overlay for network configuration packages found in OpenWRT</description>
     <homepage>https://github.com/pavlix/gentoo-openwrt</homepage>

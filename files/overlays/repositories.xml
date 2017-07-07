@@ -228,6 +228,19 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/alexxy.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>alinefr</name>
+    <description lang="en">Some overlays that I could not find anywhere else.</description>
+    <homepage>https://github.com/alinefr/alinefr-overlay</homepage>
+    <owner type="person">
+      <email>aline@alinefreitas.com.br</email>
+      <name>Aline Freitas</name>
+    </owner>
+    <source type="git">https://github.com/alinefr/alinefr-overlay.git</source>
+    <source type="git">git://github.com/alinefr/alinefr-overlay.git</source>
+    <source type="git">git@github.com:alinefr/alinefr-overlay.git</source>
+    <feed>https://github.com/alinefr/alinefr-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>aluco</name>
     <description lang="en">From drm-next to phoronix-test-suite ebuilds</description>
     <homepage>https://cgit.gentoo.org/user/aluco.git/</homepage>

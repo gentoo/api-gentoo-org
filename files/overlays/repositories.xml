@@ -2148,6 +2148,19 @@ FIN
     <feed>https://github.com/gentoo/grub2-themes-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gsview-overlay</name>
+    <description lang="en">Overlay for the gsview and some other plotting/scientific soft</description>
+    <homepage>https://github.com/uleysky/gsview-overlay</homepage>
+    <owner type="person">
+      <email>uleysky@gmail.com</email>
+      <name>Michael Uleysky</name>
+    </owner>
+    <source type="git">https://github.com/uleysky/gsview-overlay.git</source>
+    <source type="git">git://github.com/uleysky/gsview-overlay.git</source>
+    <source type="git">git@github.com:uleysky/gsview-overlay.git</source>
+    <feed>https://github.com/uleysky/gsview-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>haarp</name>
     <description lang="en">misc ebuilds that aren't in the main tree</description>
     <homepage>https://cgit.gentoo.org/user/haarp.git/</homepage>

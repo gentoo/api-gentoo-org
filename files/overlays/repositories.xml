@@ -2158,6 +2158,19 @@ FIN
     <source type="git">git://anongit.gentoo.org/user/haarp.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gsview-overlay</name>
+    <description lang="en">Overlay for the gsview and some other plotting/scientific soft</description>
+    <homepage>https://github.com/uleysky/gsview-overlay</homepage>
+    <owner type="person">
+      <email>uleysky@gmail.com</email>
+      <name>Michael Uleysky</name>
+    </owner>
+    <source type="git">https://github.com/uleysky/gsview-overlay.git</source>
+    <source type="git">git://github.com/uleysky/gsview-overlay.git</source>
+    <source type="git">git@github.com:uleysky/gsview-overlay.git</source>
+    <feed>https://github.com/uleysky/gsview-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>hacking-gentoo</name>
     <description lang="en">Ebuilds of Hacking Network Solutions Ltd</description>
     <homepage>http://www.mad-hacking.net/software/linux/gentoo/gentoo-overlay/index.xml</homepage>

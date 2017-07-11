@@ -100,16 +100,6 @@ FIN
     <feed>https://github.com/stefan-gr/abendbrot/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>abnorm</name>
-    <description lang="en">Personal overlay with live ebuilds</description>
-    <homepage>https://github.com/faust/portage</homepage>
-    <owner type="person">
-      <email>faust@abnorm.org</email>
-      <name>Faust</name>
-    </owner>
-    <source type="git">git://github.com/faust/portage.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ace</name>
     <description lang="en">Personal overlay with ebuilds that were missing at one point or another</description>
     <homepage>https://github.com/ace13/overlay</homepage>

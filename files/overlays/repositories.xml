@@ -1460,18 +1460,6 @@ FIN
     <feed>https://cgit.gentoo.org/user/emery.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/emery.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="official">
-    <name>enlightenment</name>
-    <description>Support for the Enlightenment project, most notably
-    DR17/e17.</description>
-    <homepage>https://cgit.gentoo.org/proj/enlightenment.git/</homepage>
-    <owner type="person">
-      <email>enlightenment@gentoo.org</email>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/proj/enlightenment.git</source>
-    <feed>https://cgit.gentoo.org/proj/enlightenment.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/enlightenment.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>enlightenment-live</name>
     <description lang="en">Enlightenment WM latest stable version and live ebuilds</description>

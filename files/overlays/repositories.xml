@@ -331,20 +331,6 @@ FIN
     <feed>https://cgit.gentoo.org/user/andy.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/andy.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="official">
-    <name>angelos</name>
-    <description lang="en">Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/angelos.git/</homepage>
-    <owner type="person">
-      <email>angelos@gentoo.org</email>
-      <name>Christoph Mende</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/angelos.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/angelos.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/angelos.git</source>
-    <feed>https://cgit.gentoo.org/dev/angelos.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/angelos.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>anomen</name>
     <description lang="en">anomen's personal Gentoo overlay</description>

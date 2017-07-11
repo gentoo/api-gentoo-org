@@ -2909,20 +2909,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/mgorny.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>mhammill</name>
-    <description lang="en">Mike's user overlay</description>
-    <homepage>https://cgit.gentoo.org/user/mhammill.git/</homepage>
-    <owner type="person">
-      <email>michael@hammill.name</email>
-      <name>Mike Hammill</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/mhammill.git</source>
-    <source type="git">git://anongit.gentoo.org/user/mhammill.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/mhammill.git</source>
-    <feed>https://cgit.gentoo.org/user/mhammill.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/mhammill.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>miramir</name>
     <description lang="en">Miramir repository</description>
     <homepage>https://github.com/miramir/miramir-layman</homepage>

@@ -1216,17 +1216,6 @@ FIN
     <feed>https://github.com/djc/djc-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>dlan</name>
-    <description lang="en">Dennis Lan's testing grounds and bleeding edge ebuilds</description>
-    <homepage>https://github.com/dlanx/dlan-overlay/</homepage>
-    <owner type="person">
-      <email>dlan@gentoo.org</email>
-      <name>Lan Yixun (dlan)</name>
-    </owner>
-    <source type="git">git://github.com/dlanx/dlan-overlay.git</source>
-    <feed>https://github.com/feeds/dlanx/commits/dlan-overlay/master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>dlang</name>
     <description>A collection of ebuilds related to the D programming
     language.</description>

@@ -3147,16 +3147,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/nixphoeni.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>noiselabs</name>
-    <description lang="en">noiselabs.org Gentoo Overlay</description>
-    <homepage>http://overlay.noiselabs.org/</homepage>
-    <owner type="person">
-      <email>noisebleed@noiselabs.org</email>
-      <name>Vítor Brandão (noisebleed)</name>
-    </owner>
-    <source type="git">git://github.com/noiselabs/overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>np-hardass-overlay</name>
     <description lang="en">NP-Hardass's Personal Overlay</description>
     <homepage>https://github.com/np-hardass/np-hardass-overlay</homepage>

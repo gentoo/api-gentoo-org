@@ -3310,20 +3310,6 @@ FIN
     <source type="git">git://github.com/nigoro/amd64-fbsd.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>nikai</name>
-    <description>nikai user overlay</description>
-    <homepage>https://cgit.gentoo.org/user/nikai.git</homepage>
-    <owner type="person">
-      <email>nikai@nikai.net</email>
-      <name>Nicolas Kaiser</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/nikai.git</source>
-    <source type="git">git://anongit.gentoo.org/user/nikai.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/nikai.git</source>
-    <feed>https://cgit.gentoo.org/user/nikai.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/nikai.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>nirvana</name>
     <description lang="en">Ebuilds not good enough to make it to Sabayon's for-gentoo.</description>
     <homepage>https://bitbucket.org/danysk/nirvana-overlay</homepage>

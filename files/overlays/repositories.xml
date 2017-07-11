@@ -426,20 +426,6 @@ FIN
     <feed>https://gitlab.com/argent/argent-server/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>Armageddon</name>
-    <description lang="en">User overlay</description>
-    <homepage>https://cgit.gentoo.org/user/Armageddon.git/</homepage>
-    <owner type="person">
-      <email>ThyArmageddon+Gentoo@Gmail.com</email>
-      <name>Elijah El Lazkani (Armageddon)</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/Armageddon.git</source>
-    <source type="git">git://anongit.gentoo.org/user/Armageddon.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/Armageddon.git</source>
-    <feed>https://cgit.gentoo.org/user/Armageddon.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/Armageddon.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>arx-libertatis</name>
     <description lang="en">Arx Libertatis Overlay</description>
     <homepage>https://github.com/arx/ArxGentoo</homepage>

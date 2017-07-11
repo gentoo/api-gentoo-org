@@ -2968,20 +2968,6 @@ FIN
     <source type="git">git://anongit.gentoo.org/proj/multilib-portage.git</source>
   </repo>
   <repo quality="experimental" status="official">
-    <name>multimedia</name>
-    <description>Repository for development of (mostly bleeding-edge)
-    multimedia packages for Gentoo Linux. This is the official overlay
-    for Gentoo's media herds.</description>
-    <homepage>https://github.com/gentoo/multimedia</homepage>
-    <owner type="project">
-      <email>media-video@gentoo.org</email>
-    </owner>
-    <source type="git">https://github.com/gentoo/multimedia.git</source>
-    <source type="git">git://github.com/gentoo/multimedia.git</source>
-    <source type="git">git@github.com:gentoo/multimedia.git</source>
-    <feed>https://github.com/gentoo/multimedia/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="official">
     <name>musl</name>
     <description>musl development overlay</description>
     <homepage>https://cgit.gentoo.org/proj/musl.git/</homepage>

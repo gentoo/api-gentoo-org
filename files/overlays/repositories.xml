@@ -2900,21 +2900,6 @@ FIN
     <feed>https://cgit.gentoo.org/proj/mozilla.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>mpd</name>
-    <description>The experimental gentoo overlay was designed as a way to keep
-    up-to-date. Most of it are live ebuilds, ebuilds that pull the latest HEAD
-    from whatever repository. It also includes ebuilds for clients that are not
-    yet in portage. It is maintained by avuton, send new ebuilds, corrections
-    or bugs directly to him.</description>
-    <homepage>http://musicpd.org/mantis/</homepage>
-    <owner type="person">
-      <email>kelwert@mtu.edu</email>
-      <name>Kaleb Elwert</name>
-    </owner>
-    <source type="git">git://git.musicpd.org/master/mpd-gentoo-overlay.git</source>
-    <feed>http://git.musicpd.org/cgit/master/mpd-gentoo-overlay.git/atom/</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>mrueg</name>
     <description lang="en">User overlay</description>
     <homepage>https://cgit.gentoo.org/dev/mrueg.git/</homepage>

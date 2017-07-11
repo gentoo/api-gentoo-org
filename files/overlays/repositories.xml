@@ -267,17 +267,6 @@ FIN
     <source type="git">git@github.com:alunduil/alunduil-overlay.git</source>
     <feed>https://github.com/alunduil/alunduil-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>amielke-overlay</name>
-    <description>Overlay with focus on VDR and software that is not in Portage</description>
-    <homepage>http://amielke.de/</homepage>
-    <owner type="person">
-      <email>gentoo@amielke.de</email>
-      <name>Andreas Mielke</name>
-    </owner>
-    <source type="git">git://github.com/amielke/amielke-overlay.git</source>
-    <feed>http://github.com/feeds/amielke/commits/amielke-overlay/master</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>anarchy</name>
     <description>Testing/Bug fixes, new ebuilds</description>

@@ -2058,16 +2058,6 @@ FIN
     <feed>https://github.com/hamper/hamper-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
-    <name>hardened-development</name>
-    <description>Development Overlay for Hardened Gcc 4.x Toolchain</description>
-    <homepage>https://cgit.gentoo.org/proj/hardened-dev.git/</homepage>
-    <owner type="project">
-      <email>hardened@gentoo.org</email>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/proj/hardened-dev.git</source>
-    <feed>https://cgit.gentoo.org/proj/hardened-dev.git/atom/</feed>
-  </repo>
-  <repo quality="experimental" status="official">
     <name>haskell</name>
     <description>The Official Gentoo Haskell overlay.</description>
     <homepage>https://github.com/gentoo-haskell</homepage>

@@ -1128,20 +1128,6 @@ FIN
     <source type="git">https://github.com/DevPump/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>dfreise</name>
-    <description lang="en">ISDN, network and other stuff</description>
-    <homepage>https://cgit.gentoo.org/user/dfreise.git/</homepage>
-    <owner type="person">
-      <email>dennis.freise@final-frontier.org</email>
-      <name>Dennis Freise</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/dfreise.git</source>
-    <source type="git">git://anongit.gentoo.org/user/dfreise.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/dfreise.git</source>
-    <feed>https://cgit.gentoo.org/user/dfreise.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/dfreise.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>didactic-duck</name>
     <description>Some ebuilds that might work</description>
     <homepage>https://github.com/lucianposton/didactic-duck</homepage>

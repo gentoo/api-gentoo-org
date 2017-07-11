@@ -566,20 +566,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/user/benf.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>benklop</name>
-    <description lang="en">Customized Media Center ebuilds (benklop)</description>
-    <homepage>https://cgit.gentoo.org/user/benklop.git/</homepage>
-    <owner type="person">
-      <email>benklop@gmail.com</email>
-      <name>Ben Klopfenstein</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/benklop.git</source>
-    <source type="git">git://anongit.gentoo.org/user/benklop.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/benklop.git</source>
-    <feed>https://cgit.gentoo.org/user/benklop.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/benklop.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>bes</name>
     <description lang="en">bes' personal overlay</description>
     <homepage>https://github.com/bes-internal/gentoo-overlay-bes</homepage>

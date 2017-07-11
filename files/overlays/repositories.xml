@@ -1009,16 +1009,6 @@ FIN
     <feed>https://github.com/Heather/gentoo-cynede/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>daks</name>
-    <description lang="en">Some useful ebuilds. Includes 1C-Predpriyatie and postgres with patches for work with 1C.</description>
-    <homepage>https://github.com/daks-ua/daks-overlay</homepage>
-    <owner type="person">
-      <email>daks12@gmail.com</email>
-      <name>Dmitry Fomenko</name>
-    </owner>
-    <source type="git">https://github.com/daks-ua/daks-overlay</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>damex-overlay</name>
     <description lang="en">damex's personal overlay</description>
     <homepage>https://github.com/damex/damex-overlay</homepage>

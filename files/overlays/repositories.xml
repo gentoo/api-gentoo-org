@@ -5078,20 +5078,6 @@ FIN
     </owner>
     <source type="git">https://bitbucket.org/wjn/wjn-overlay.git</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>write2David</name>
-    <description lang="en">David's Overlay for Misc Utils</description>
-    <homepage>https://cgit.gentoo.org/user/write2David.git/</homepage>
-    <owner type="person">
-      <email>write2david@gmail.com</email>
-      <name>David Phillips</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/write2David.git</source>
-    <source type="git">git://anongit.gentoo.org/user/write2David.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/write2David.git</source>
-    <feed>https://cgit.gentoo.org/user/write2David.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/write2David.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="official">
     <name>wschlich</name>
     <description>A collection of ebuilds from Wolfram Schlich</description>

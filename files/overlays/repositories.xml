@@ -2905,20 +2905,6 @@ FIN
     <source type="git">http://github.com/maggu2810/maggu2810-overlay.git</source>
     <feed>http://github.com/feeds/maggu2810/commits/maggu2810-overlay/master</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>maksbotan</name>
-    <description lang="en">Overlay for testing my ebuilds</description>
-    <homepage>https://cgit.gentoo.org/dev/maksbotan.git/</homepage>
-    <owner type="person">
-      <email>maksbotan@gentoo.org</email>
-      <name>Maxim Koltsov</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/maksbotan.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/maksbotan.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/maksbotan.git</source>
-    <feed>https://cgit.gentoo.org/dev/maksbotan.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/maksbotan.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>mate-de-gentoo</name>
     <description lang="en">Updated ebuilds for mate-desktop environment</description>

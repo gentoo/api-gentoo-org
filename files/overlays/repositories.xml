@@ -4683,16 +4683,6 @@ FIN
     <feed>https://github.com/istitov/stuff/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>stuge</name>
-    <description>Various ebuilds by Konsult Stuge</description>
-    <homepage>http://stuge.se/</homepage>
-    <owner type="person">
-      <email>peter@stuge.se</email>
-      <name>Peter Stuge</name>
-    </owner>
-    <source type="git">git://git.stuge.se/stuge-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>sublime-text</name>
     <description lang="en">Collection of ebuilds to install Sublime Text 2 or Sublime Text 3</description>
     <homepage>https://github.com/DamnWidget/sublime-text</homepage>

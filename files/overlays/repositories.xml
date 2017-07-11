@@ -538,20 +538,6 @@ FIN
     <feed>https://github.com/barzog/barzog-gentoo-overlay/commits/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>benf</name>
-    <description lang="en">ben's overlay</description>
-    <homepage>https://cgit.gentoo.org/user/benf.git/</homepage>
-    <owner type="person">
-      <email>benjaminfranzke@gmail.com</email>
-      <name>Benjamin Franzke</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/benf.git</source>
-    <source type="git">git://anongit.gentoo.org/user/benf.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/benf.git</source>
-    <feed>https://cgit.gentoo.org/user/benf.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/benf.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>bes</name>
     <description lang="en">bes' personal overlay</description>
     <homepage>https://github.com/bes-internal/gentoo-overlay-bes</homepage>

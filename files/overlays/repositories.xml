@@ -2388,6 +2388,19 @@ FIN
     <feed>https://github.com/john-r-graham/jrg-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>jsteward</name>
+    <description lang="en">jsteward's personal overlay</description>
+    <homepage>https://github.com/KireinaHoro/jsteward</homepage>
+    <owner type="person">
+      <email>i@jsteward.moe</email>
+      <name>KireinaHoro</name>
+    </owner>
+    <source type="git">https://github.com/KireinaHoro/jsteward.git</source>
+    <source type="git">git://github.com/KireinaHoro/jsteward.git</source>
+    <source type="git">git@github.com:KireinaHoro/jsteward.git</source>
+    <feed>https://github.com/KireinaHoro/jsteward/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>junkdrawer</name>
     <description lang="en">Various development tools, libraries, and patches not in Gentoo (yet)</description>
     <homepage>https://github.com/doctaweeks/junkdrawer-overlay</homepage>

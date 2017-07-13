@@ -59,7 +59,16 @@ SYN
   </repo>
 FIN
 -->
-
+        <repo priority="50" quality="experimental" status="unofficial">
+                <name>ebuilds_for_gentoo</name>
+                <description>Here are some of my own or modified ebuilds. Also some of them I´ve found in the web.</description>
+                <homepage>https://github.com/spikyatlinux/ebuilds_for_gentoo</homepage>
+                <owner type="person">
+                        <email>spikyatlinux@gmail.com</email>
+                        <name>SpikyAtLinux</name>
+                </owner>
+                <source type="git">https://github.com/spikyatlinux/ebuilds_for_gentoo.git</source>
+        </repo>
   <repo quality="experimental" status="unofficial">
     <name>0x4d4c</name>
     <description lang="en">Personal overlay with no special focus</description>

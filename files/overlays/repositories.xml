@@ -60,7 +60,7 @@ SYN
 FIN
 -->
         <repo priority="50" quality="experimental" status="unofficial">
-                <name>ebuilds_for_gentoo</name>
+                <name>spikyatlinux</name>
                 <description>Here are some of my own or modified ebuilds. Also some of them I´ve found in the web.</description>
                 <homepage>https://github.com/spikyatlinux/ebuilds_for_gentoo</homepage>
                 <owner type="person">

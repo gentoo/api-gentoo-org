@@ -1639,7 +1639,7 @@ FIN
     <description lang="en">The frabjous Gentoo overlay focused on crypto, server-side stuffs and some desktop apps</description>
     <homepage>https://github.com/csmk/frabjous</homepage>
     <owner type="person">
-      <email>csmk+frabjous@chaoslab.org</email>
+      <email>csmk+gentoo@chaoslab.org</email>
       <name>Ian Moone</name>
     </owner>
     <source type="git">https://github.com/csmk/frabjous.git</source>

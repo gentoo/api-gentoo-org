@@ -3920,7 +3920,7 @@ FIN
     <description>Split ebuilds for the Sage computer algebra system</description>
     <homepage>http://github.com/cschwan/sage-on-gentoo</homepage>
     <owner type="person">
-      <email>francois.bissey@canterbury.ac.nz</email>
+      <email>frp.bissey@gmail.com</email>
       <name>Francois Bissey</name>
     </owner>
     <source type="git">git://github.com/cschwan/sage-on-gentoo.git</source>

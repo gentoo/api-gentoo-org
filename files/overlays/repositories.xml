@@ -437,6 +437,19 @@ FIN
     <feed>https://github.com/elprans/atom-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>audio-overlay</name>
+    <description lang="en">Pro audio overlay. Please file bugs or package suggestions at https://github.com/gentoo-audio/audio-overlay/issues/new</description>
+    <homepage>https://github.com/gentoo-audio/audio-overlay</homepage>
+    <owner type="project">
+      <email>audio-overlay@googlegroups.com</email>
+      <name>Audio overlay</name>
+    </owner>
+    <source type="git">https://github.com/gentoo-audio/audio-overlay.git</source>
+    <source type="git">git://github.com/gentoo-audio/audio-overlay.git</source>
+    <source type="git">git@github.com:gentoo-audio/audio-overlay.git</source>
+    <feed>https://github.com/gentoo-audio/audio-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>awesome</name>
     <description lang="en">Awesome ebuilds</description>
     <homepage>https://gitlab.awesome-it.de/overlays/awesome</homepage>

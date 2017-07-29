@@ -628,19 +628,6 @@ FIN
     <source type="git">https://gitlab.com/bitcoin/gentoo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>blawheen-overlay</name>
-    <description>Personal overlay for experimenting (read: breaking things)</description>
-    <homepage>https://github.com/blawheen/blawheen-overlay</homepage>
-    <owner type="person">
-      <email>blawheen@gmail.com</email>
-      <name>Bláithín Nic Aoidh</name>
-    </owner>
-    <source type="git">https://github.com/blawheen/blawheen-overlay.git</source>
-    <source type="git">git://github.com/blawheen/blawheen-overlay.git</source>
-    <source type="git">git@github.com:blawheen/blawheen-overlay.git</source>
-    <feed>https://github.com/blawheen/blawheen-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>bleeding-edge</name>
     <description>Gentoo ebuilds for "bleeding edge" versions of packages - newest, untested - running on ~amd64.</description>
     <homepage>http://cgit.gentoo.org/repo/user/bleeding-edge.git/</homepage>
@@ -3211,6 +3198,19 @@ FIN
     </owner>
     <source type="git">https://github.com/Bfgeshka/octopus.git</source>
     <feed>https://github.com/Bfgeshka/octopus/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>oibindnicaoidh-overlay</name>
+    <description>Personal overlay for experimenting (read: breaking things)</description>
+    <homepage>https://github.com/oibindnicaoidh/oibindnicaoidh-overlay</homepage>
+    <owner type="person">
+      <email>blawheen@gmail.com</email>
+      <name>Aoibhinn Nic Aoidh</name>
+    </owner>
+    <source type="git">https://github.com/oibindnicaoidh/oibindnicaoidh-overlay.git</source>
+    <source type="git">git://github.com/oibindnicaoidh/oibindnicaoidh-overlay.git</source>
+    <source type="git">git@github.com:oibindnicaoidh/oibindnicaoidh-overlay.git</source>
+    <feed>https://github.com/oibindnicaoidh/oibindnicaoidh-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>olifre</name>

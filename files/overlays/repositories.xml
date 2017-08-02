@@ -5016,20 +5016,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/xfce.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>xmw</name>
-    <description>Michael Weber developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/xmw.git</homepage>
-    <owner type="person">
-      <email>xmw@gentoo.org</email>
-      <name>Michael Weber</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/xmw.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/xmw.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/xmw.git</source>
-    <feed>https://cgit.gentoo.org/dev/xmw.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/xmw.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>xtreemfs</name>
     <description lang="en">XtreemFS, a cloud filesystem</description>
     <homepage>https://github.com/xtreemfs-gentoo/overlay</homepage>

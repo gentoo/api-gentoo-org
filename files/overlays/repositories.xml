@@ -1787,18 +1787,6 @@ FIN
     <source type="git">git@github.com:sjnewbury/gentoo-gpu.git</source>
     <feed>https://github.com/sjnewbury/gentoo-gpu/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gentoo-htpc</name>
-    <description>viddi87 HTPC overlay</description>
-    <homepage>https://github.com/viddi87/gentoo-htpc</homepage>
-    <owner type="person">
-      <email>viddi@viddi.us</email>
-      <name>Vidar</name>
-    </owner>
-    <source type="git">https://github.com/viddi87/gentoo-htpc.git</source>
-    <source type="git">git://github.com/viddi87/gentoo-htpc.git</source>
-    <feed>https://github.com/viddi87/gentoo-htpc/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>gentoo-mate</name>
     <description lang="en">Gentoo MATE Desktop Project Repo</description>

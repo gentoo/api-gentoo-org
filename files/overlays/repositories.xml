@@ -390,17 +390,6 @@ FIN
     <feed>https://gitlab.com/argent/argent-main/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>argent-server</name>
-    <description>Argent enterprise and servers oriented overlay of ebuilds</description>
-    <homepage>https://gitlab.com/argent/argent-server.git</homepage>
-    <owner type="person">
-      <email>stefan.cristian@rogentos.ro</email>
-      <name>Stefan Cristian Brindusa</name>
-    </owner>
-    <source type="git">https://gitlab.com/argent/argent-server.git</source>
-    <feed>https://gitlab.com/argent/argent-server/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>arx-libertatis</name>
     <description lang="en">Arx Libertatis Overlay</description>
     <homepage>https://github.com/arx/ArxGentoo</homepage>

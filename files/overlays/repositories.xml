@@ -2425,16 +2425,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/user/klondike.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>kolab</name>
-    <description lang="en">Gentoo ebuilds for Kolab</description>
-    <homepage>https://wiki.awesome-it.de/kolab</homepage>
-    <owner type="person">
-      <email>info@awesome-it.de</email>
-      <name>Daniel Morlock</name>
-    </owner>
-    <source type="git">https://gitlab.awesome-it.de/overlays/kolab.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>konsolebox</name>
     <description>konsolebox's overlay</description>
     <homepage>https://github.com/konsolebox/overlay</homepage>

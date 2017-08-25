@@ -2287,6 +2287,19 @@ FIN
     <feed>https://github.com/jokleinn/jokleinn/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>jollheef-overlay</name>
+    <description lang="en">Collection of various ebuilds</description>
+    <homepage>https://github.com/jollheef/jollheef-overlay</homepage>
+    <owner type="person">
+      <email>jollheef@riseup.net</email>
+      <name>Mikhail Klementyev</name>
+    </owner>
+    <source type="git">https://github.com/jollheef/jollheef-overlay.git</source>
+    <source type="git">git://github.com/jollheef/jollheef-overlay.git</source>
+    <source type="git">git@github.com:jollheef/jollheef-overlay.git</source>
+    <feed>https://github.com/jollheef/jollheef-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>jorgicio</name>
     <description lang="en">Gentoo repository made by Jorgicio.</description>
     <homepage>https://github.com/jorgicio/jorgicio-gentoo</homepage>

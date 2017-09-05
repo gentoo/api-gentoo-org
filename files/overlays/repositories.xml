@@ -2585,6 +2585,18 @@ FIN
     <source type="git">git://github.com/linuxunderground/gentoo.overlay.git</source>
     <source type="git">http://github.com/linuxunderground/gentoo.overlay.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>linxon</name>
+    <description>linxon personal overlay</description>
+    <homepage>https://github.com/linxon/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>email@linxon.ru</email>
+      <name>linxon</name>
+    </owner>
+    <source type="git">git://github.com/linxon/gentoo-overlay.git</source>
+    <source type="git">http://github.com/linxon/gentoo-overlay.git</source>
+    <feed>https://github.com/linxon/gentoo-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>lisp</name>
     <description>Common Lisp/Scheme development, recruitment and live overlay.

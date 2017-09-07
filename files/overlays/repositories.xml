@@ -25,7 +25,6 @@ SYN
       <name>XXXXX</name>
     </owner>
     <source type="git">https://anongit.gentoo.org/git/XXXX/xxxx.git</source>
-    <source type="git">git://anongit.gentoo.org/XXXX/xxxx.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/XXXX/xxxx.git</source>
     <feed>https://cgit.gentoo.org/XXXX/xxxx/atom/</feed>
   </repo>
@@ -39,8 +38,7 @@ SYN
       <name>XXXXX</name>
     </owner>
     <source type="git">https://github.com/XXXX/xxxx.git</source>
-    <source type="git">git://github.com/XXXX/xxxx.git</source>
-    <source type="git">git@github.com:XXXX/xxxx.git</source>
+    <source type="git">git+ssh://git@github.com/XXXX/xxxx.git</source>
     <feed>https://github.com/XXXX/xxxx/commits/master.atom</feed>
   </repo>
 * BITBUCKET TEMPLATE

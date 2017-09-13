@@ -1720,6 +1720,17 @@ FIN
     <source type="git">https://github.com/tecknicaltom/gentoo-genealogy-overlay.git</source>
     <feed>https://github.com/tecknicaltom/gentoo-genealogy-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>genthree</name>
+    <description lang="en">Gentoo overlay from the genthree project</description>
+    <homepage>https://genthree.io/overlay</homepage>
+    <owner type="person">
+      <email>nyronium@genthree.io</email>
+      <name>nyronium</name>
+    </owner>
+    <source type="git">https://gitlab.com/genthree/overlay.git</source>
+    <feed>https://gitlab.com/genthree/overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="core" status="official">
     <name>gentoo</name>
     <description>Official Gentoo ebuild repository</description>

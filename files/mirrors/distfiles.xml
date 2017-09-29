@@ -36,26 +36,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.gtlib.gatech.edu/gentoo</uri>
     </mirror>
     <mirror>
-      <name>Sandia National Labs</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.iawnet.sandia.gov/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://mirror.iawnet.sandia.gov/pub/gentoo/</uri>
-    </mirror>
-    <mirror>
       <name>Indiana University</name>
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.ussg.iu.edu/pub/linux/gentoo</uri>
     </mirror>
     <mirror>
       <name>TDS Internet Services</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirrors.tds.net/gentoo</uri>
-    </mirror>
-    <mirror>
-      <name>NetNITCO Internet Services</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.netnitco.net</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.netnitco.net/pub/mirrors/gentoo/source/</uri>
-    </mirror>
-    <mirror>
-      <name>Utah State University</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.usu.edu/mirrors/gentoo/</uri>
     </mirror>
     <mirror>
       <name>Easynews NNTP Hosting</name>
@@ -68,7 +54,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
     <mirror>
       <name>Michigan Tech University</name>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://lug.mtu.edu/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://lug.mtu.edu/gentoo/</uri>
     </mirror>
     <mirror>
@@ -89,15 +74,9 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>Pair Networks</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirrors.pair.com/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.mirrors.pair.com/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="South America" country="BR" countryname="Brazil">
-    <mirror>
-      <name>Laboratory of System Administration</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://www.las.ic.unicamp.br/pub/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.las.ic.unicamp.br/pub/gentoo/</uri>
-    </mirror>
     <mirror>
       <name>C3SL, Federal University of Paraná</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://gentoo.c3sl.ufpr.br/</uri>
@@ -106,31 +85,21 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="AT" countryname="Austria">
-      <!--<mirror>
-      <name>Inode</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.inode.at/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.inode.at/source/</uri>
-    </mirror>-->
     <mirror>
       <name>Vienna Univ. of Technology</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gd.tuwien.ac.at/opsys/linux/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gd.tuwien.ac.at/opsys/linux/gentoo/</uri>
     </mirror>
   </mirrorgroup>
+  <!--
   <mirrorgroup region="Europe" country="BG" countryname="Bulgaria">
-    <mirror>
-      <name>telepoint.bg</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.telepoint.bg/gentoo/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirrors.telepoint.bg/gentoo/</uri>
-    </mirror>
   </mirrorgroup>
+  -->
   <mirrorgroup region="Europe" country="CZ" countryname="Czech Republic">
     <mirror>
       <name>Masaryk University Brno</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://ftp.fi.muni.cz/pub/linux/gentoo/</uri>
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.fi.muni.cz/pub/linux/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://ftp.fi.muni.cz/pub/linux/gentoo/</uri>
-      <uri protocol="rsync" ipv6="y" ipv4="n" partial="n">rsync://ftp6.linux.cz/pub/linux/gentoo/</uri>
     </mirror>
     <mirror>
       <name>Advokatni Kancelar Kindl &amp; Partneri</name>
@@ -162,10 +131,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>OVH</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://gentoo.mirrors.ovh.net/gentoo-distfiles/</uri>
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://gentoo.mirrors.ovh.net/gentoo-distfiles/</uri>
-    </mirror>
-    <mirror>
-      <name>IMJ.fr</name>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.imj.fr/pub/gentoo/</uri>
     </mirror>
     <mirror>
       <name>Free</name>
@@ -224,11 +189,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="GR" countryname="Greece">
-    <mirror>
-      <name>files.gentoo.gr</name>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://files.gentoo.gr</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://files.gentoo.gr</uri>
-    </mirror>
     <mirror>
       <name>National Technical University of Athens</name>
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ftp.ntua.gr/pub/linux/gentoo/</uri>
@@ -324,10 +284,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   </mirrorgroup>
   <mirrorgroup region="Europe" country="ES" countryname="Spain">
     <mirror>
-      <name>Politechnic University of Catalonia</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo-euetib.upc.es/mirror/gentoo/</uri>
-    </mirror>
-    <mirror>
       <name>Evowise.com (Anycast: Madrid)</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.evowise.com/gentoo/</uri>
     </mirror>
@@ -347,12 +303,10 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://ftp.linux.org.tr/gentoo-distfiles/</uri>
     </mirror>
   </mirrorgroup>
+  <!--
   <mirrorgroup region="Europe" country="UA" countryname="Ukraine">
-    <mirror>
-      <name>ITEAM gentoo mirror</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.iteam.net.ua/</uri>
-    </mirror>
   </mirrorgroup>
+  -->
   <mirrorgroup region="Europe" country="UK" countryname="UK">
     <mirror>
       <name>Bytemark Hosting</name>
@@ -383,12 +337,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia" country="CN" countryname="China">
-    <mirror>
-      <name>Xiamen University</name>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirrors.xmu.edu.cn/gentoo</uri>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.xmu.edu.cn/gentoo</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirrors.xmu.edu.cn/gentoo/</uri>
-    </mirror>
     <mirror>
       <name>Netease.com, Inc.</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.163.com/gentoo/</uri>
@@ -443,10 +391,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.bloodhost.ru/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://gentoo.bloodhost.ru/gentoo-distfiles</uri>
     </mirror>
-    <mirror>
-      <name>xeon.gentoo.ru</name>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://xeon.gentoo.ru/mirrors/gentoo/distfiles/</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia" country="TW" countryname="Taiwan">
     <mirror>
@@ -459,7 +403,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>Hamakor FOSS Society</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.isoc.org.il/pub/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://mirror.isoc.org.il/gentoo/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Middle East" country="KZ" countryname="Kazakhstan">

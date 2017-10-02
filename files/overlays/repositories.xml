@@ -2396,6 +2396,18 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/kde.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>keepbot-overlay</name>
+    <description lang="en">keepbot's personal ebuild repository</description>
+    <homepage>https://github.com/keepbot/gentoo-overlay.git</homepage>
+    <owner type="person">
+      <email>d.k.ivanov@live.com</email>
+      <name>Dmitry Ivanov</name>
+    </owner>
+    <source type="git">https://github.com/keepbot/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/keepbot/gentoo-overlay.git</source>
+    <feed>https://github.com/keepbot/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>keruspe</name>
     <description lang="en">Keruspe's overlay</description>
     <homepage>https://cgit.gentoo.org/user/keruspe.git/</homepage>

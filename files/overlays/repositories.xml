@@ -2572,6 +2572,19 @@ FIN
     <source type="git">http://cgit.gentooexperimental.org/user/levenkov.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/levenkov.git</source>
   </repo>
+    <repo quality="experimental" status="unofficial">
+    <name>Librepilot</name>
+    <description lang="en">Librepilot flight control software overlay</description>
+    <homepage>https://github.com/paul-jewell/librepilot-overlay</homepage>
+    <owner type="person">
+      <email>paul@teulu.org</email>
+      <name>Paul Jewell</name>
+    </owner>
+    <source type="git">https://github.com/paul-jewell/librepilot-overlay.git</source>
+    <source type="git">git://github.com/paul-jewell/librepilot-overlay.git</source>
+    <source type="git">git@github.com:paul-jewell/librepilot-overlay.git</source>
+    <feed>https://github.com/paul-jewell/librepilot-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>libressl</name>
     <description lang="en">LibreSSL ebuilds testing repository</description>

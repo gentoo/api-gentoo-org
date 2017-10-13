@@ -2581,8 +2581,7 @@ FIN
       <name>Paul Jewell</name>
     </owner>
     <source type="git">https://github.com/paul-jewell/librepilot-overlay.git</source>
-    <source type="git">git://github.com/paul-jewell/librepilot-overlay.git</source>
-    <source type="git">git+ssh://git@github.com:paul-jewell/librepilot-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/paul-jewell/librepilot-overlay.git</source>
     <feed>https://github.com/paul-jewell/librepilot-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">

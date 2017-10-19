@@ -4541,6 +4541,17 @@ FIN
     <source type="git">https://github.com/Tux1c/tf201-overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>thabairne</name>
+    <description lang="en">ntnn's Overlay</description>
+    <homepage>https://github.com/ntnn/gentoo-thabairne</homepage>
+    <owner type="person">
+      <email>nelo@wallus.de</email>
+      <name>Nelo-Thara Wallus</name>
+    </owner>
+    <source type="git">https://github.com/ntnn/gentoo-thabairne.git</source>
+    <feed>https://github.com/ntnn/gentoo-thabairne/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>timboudreau</name>
     <description lang="en">Tim Boudreau's Overlay</description>
     <homepage>https://github.com/timboudreau/gentoo</homepage>

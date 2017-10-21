@@ -4905,6 +4905,18 @@ FIN
     <feed>https://cafarelli.fr/cgi-bin/cgit.cgi/voyageur-overlay/atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>waebbl</name>
+    <description lang="en">waebbl's overlay</description>
+    <homepage>https://github.com/waebbl/waebbl-gentoo</homepage>
+    <owner type="person">
+      <email>waebbl@gmail.com</email>
+      <name>Bernd Waibel</name>
+    </owner>
+    <source type="git">https://github.com/waebbl/waebbl-gentoo.git</source>
+    <source type="git">git+ssh://git@github.com/waebbl/waebbl-gentoo.git</source>
+    <feed>https://github.com/waebbl/waebbl-gentoo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>wbrana</name>
     <description lang="en">wbrana's overlay</description>
     <homepage>https://cgit.gentoo.org/user/wbrana.git/</homepage>

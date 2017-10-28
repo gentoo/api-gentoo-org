@@ -5210,6 +5210,19 @@ FIN
     <feed>https://github.com/zoobab/overlay4gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>zscheile</name>
+    <description>Zscheile Overlay</description>
+    <homepage>https://github.com/zserik/portage-zscheile</homepage>
+    <owner type="person">
+      <email>erik.zscheile.ytrizja@gmail.com</email>
+      <name>Erik Kai Alain Zscheile</name>
+    </owner>
+    <source type="git">https://github.com/zserik/portage-zscheile.git</source>
+    <source type="git">git://github.com/zserik/portage-zscheile.git</source>
+    <source type="git">git@github.com:zserik/portage-zscheile.git</source>
+    <feed>https://github.com/zserik/portage-zscheile/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>zugaina</name>
     <description>collection of ebuilds by ycarus</description>
     <homepage>http://gpo.zugaina.org/Overlays/zugaina/</homepage>

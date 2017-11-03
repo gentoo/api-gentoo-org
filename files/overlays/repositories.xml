@@ -3395,6 +3395,16 @@ FIN
     <feed>https://github.com/Pinkbyte/pinkbyte-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>pinkpieea</name>
+    <description lang="en">Overlay with games and other packages</description>
+    <homepage>https://notabug.org/soredake/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>fdsfgs@krutt.org</email>
+      <name>soredake</name>
+    </owner>
+    <source type="git">https://notabug.org/soredake/gentoo-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>plab</name>
     <description lang="en">Paul Labedan user overlay</description>
     <homepage>https://cgit.gentoo.org/user/plab.git/</homepage>

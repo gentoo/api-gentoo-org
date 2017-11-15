@@ -3,6 +3,7 @@
 <repositories xmlns="" version="1.0">
 <!--
 SYN
+When adding repositories, please keep this file ordered by repository name.
 * TEMPLATE TO COPY'N'PASTE UNOFFICIAL REPOSITORIES
   <repo quality="experimental" status="unofficial">
     <name>XXXXXX</name>
@@ -3646,6 +3647,18 @@ FIN
     <source type="git">git://github.com/leycec/raiagent.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>rage</name>
+    <description lang="en">Personal Overlay</description>
+    <homepage>https://github.com/lramage94/overlay</homepage>
+    <owner type="person">
+      <email>ramage.lucas@openmailbox.org</email>
+      <name>Lucas Ramage</name>
+    </owner>
+    <source type="git">https://github.com/lramage94/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/lramage94/overlay.git</source>
+    <feed>https://github.com/lramage94/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>rasdark</name>
     <description>rasdark personal overlay</description>
     <homepage>https://github.com/rasdark/overlay</homepage>
@@ -3666,6 +3679,18 @@ FIN
     </owner>
     <source type="git">https://github.com/mahatma-kaganovich/raw.git</source>
     <feed>https://github.com/mahatma-kaganovich/raw/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>rdnetto-overlay</name>
+    <description lang="en">Personal Overlay</description>
+    <homepage>https://github.com/rdnetto/rdnetto-overlay</homepage>
+    <owner type="person">
+      <email>rdnetto@gmail.com</email>
+      <name>Reuben D'Netto</name>
+    </owner>
+    <source type="git">https://github.com/rdnetto/rdnetto-overlay.git</source>
+    <source type="git">git+ssh://git@github.com:rdnetto/rdnetto-overlay.git</source>
+    <feed>https://github.com/rdnetto/rdnetto-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>reagentoo</name>
@@ -5266,18 +5291,6 @@ FIN
     <source type="git">git://github.com/kabili207/zyrenth-overlay.git</source>
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>rage</name>
-    <description lang="en">Personal Overlay</description>
-    <homepage>https://github.com/lramage94/overlay</homepage>
-    <owner type="person">
-      <email>ramage.lucas@openmailbox.org</email>
-      <name>Lucas Ramage</name>
-    </owner>
-    <source type="git">https://github.com/lramage94/overlay.git</source>
-    <source type="git">git+ssh://git@github.com/lramage94/overlay.git</source>
-    <feed>https://github.com/lramage94/overlay/commits/master.atom</feed>
   </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

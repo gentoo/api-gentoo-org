@@ -5279,5 +5279,17 @@ FIN
     <source type="git">git+ssh://git@github.com/lramage94/overlay.git</source>
     <feed>https://github.com/lramage94/overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>rdnetto-overlay</name>
+    <description lang="en">Personal Overlay</description>
+    <homepage>https://github.com/rdnetto/rdnetto-overlay</homepage>
+    <owner type="person">
+      <email>rdnetto@gmail.com</email>
+      <name>Reuben D'Netto</name>
+    </owner>
+    <source type="git">https://github.com/rdnetto/rdnetto-overlay.git</source>
+    <source type="git">git+ssh://git@github.com:rdnetto/rdnetto-overlay.git</source>
+    <feed>https://github.com/rdnetto/rdnetto-overlay/commits/master.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

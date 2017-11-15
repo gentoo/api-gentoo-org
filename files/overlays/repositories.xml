@@ -3635,6 +3635,18 @@ FIN
     <feed>https://github.com/rafaelmartins/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>rage</name>
+    <description lang="en">Personal Overlay</description>
+    <homepage>https://github.com/lramage94/overlay</homepage>
+    <owner type="person">
+      <email>ramage.lucas@openmailbox.org</email>
+      <name>Lucas Ramage</name>
+    </owner>
+    <source type="git">https://github.com/lramage94/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/lramage94/overlay.git</source>
+    <feed>https://github.com/lramage94/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>raiagent</name>
     <description lang="en">Well-documented ebuilds en-route to a bandersnatch near you</description>
     <homepage>https://github.com/leycec/raiagent</homepage>
@@ -5266,18 +5278,6 @@ FIN
     <source type="git">git://github.com/kabili207/zyrenth-overlay.git</source>
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>rage</name>
-    <description lang="en">Personal Overlay</description>
-    <homepage>https://github.com/lramage94/overlay</homepage>
-    <owner type="person">
-      <email>ramage.lucas@openmailbox.org</email>
-      <name>Lucas Ramage</name>
-    </owner>
-    <source type="git">https://github.com/lramage94/overlay.git</source>
-    <source type="git">git+ssh://git@github.com/lramage94/overlay.git</source>
-    <feed>https://github.com/lramage94/overlay/commits/master.atom</feed>
   </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

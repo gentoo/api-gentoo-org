@@ -3658,18 +3658,6 @@ FIN
     <source type="git">git://github.com/leycec/raiagent.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>rage</name>
-    <description lang="en">Personal Overlay</description>
-    <homepage>https://github.com/lramage94/overlay</homepage>
-    <owner type="person">
-      <email>ramage.lucas@openmailbox.org</email>
-      <name>Lucas Ramage</name>
-    </owner>
-    <source type="git">https://github.com/lramage94/overlay.git</source>
-    <source type="git">git+ssh://git@github.com/lramage94/overlay.git</source>
-    <feed>https://github.com/lramage94/overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>rasdark</name>
     <description>rasdark personal overlay</description>
     <homepage>https://github.com/rasdark/overlay</homepage>

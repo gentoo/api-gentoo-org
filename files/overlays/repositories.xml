@@ -5294,7 +5294,7 @@ FIN
     <description lang="en">Stable and upstream FRRouting ebuilds</description>
     <homepage>https://frrouting.org/</homepage>
     <owner type="person">
-      <email>overlays@devilcode.org</email>
+      <email>f0o@devilcode.org</email>
       <name>Daniel 'f0o' Preussker</name>
     </owner>
     <source type="git">https://github.com/f0o/frr-gentoo.git</source>

@@ -5289,5 +5289,15 @@ FIN
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental">
+    <name>Gentoo FRRouting</name>
+    <description>Stable and upstream FRRouting ebuilds</description>
+    <homepage>https://frrouting.org/</homepage>
+    <owner>
+      <email>gentoo-frr@devilcode.org</email>
+      <name>Daniel 'f0o' Preussker</name>
+    </owner>
+    <source type="git">https://github.com/f0o/frr-gentoo.git</source>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

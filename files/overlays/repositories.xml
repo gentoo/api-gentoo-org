@@ -1689,17 +1689,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/gamerlay.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>games-overlay</name>
-    <description lang="en">gentoo overlay containing games ebuilds only</description>
-    <homepage>https://github.com/hasufell/games-overlay</homepage>
-    <owner type="person">
-      <email>hasufell@hasufell.de</email>
-      <name>Julian Ospald</name>
-    </owner>
-    <source type="git">git://github.com/hasufell/games-overlay.git</source>
-    <feed>https://github.com/hasufell/games-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>geki</name>
     <description>The playground of gekis hacking on Gentoo Linux distribution.</description>
     <homepage>https://github.com/geki-yaba/gekis-playground</homepage>

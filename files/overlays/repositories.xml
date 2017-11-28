@@ -1431,20 +1431,6 @@ FIN
     <source type="svn">svn://sidvind.com/overlays/ext-devlibs</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>ezod</name>
-    <description lang="en">Aaron Mavrinac's overlay</description>
-    <homepage>https://cgit.gentoo.org/user/ezod.git/</homepage>
-    <owner type="person">
-      <email>mavrinac@gmail.com</email>
-      <name>Aaron Mavrinac</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/ezod.git</source>
-    <source type="git">git://anongit.gentoo.org/user/ezod.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/ezod.git</source>
-    <feed>https://cgit.gentoo.org/user/ezod.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/ezod.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>farmboy0</name>
     <description lang="en">Personal overlay of Enrico Horn</description>
     <homepage>https://github.com/farmboy0/portage-overlay</homepage>

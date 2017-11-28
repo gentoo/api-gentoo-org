@@ -2164,18 +2164,6 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/java.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>javer</name>
-    <description lang="en">HipHop PHP and misc ebuilds</description>
-    <homepage>https://github.com/javer/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>dev@javer.kiev.ua</email>
-      <name>Vadim Borodavko</name>
-    </owner>
-    <source type="git">https://github.com/javer/gentoo-overlay.git</source>
-    <source type="git">git@github.com:javer/gentoo-overlay.git</source>
-    <feed>https://github.com/javer/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>jboro-overlay</name>
     <description>personal experimental ebuilds</description>
     <homepage>https://github.com/JBoro/portage</homepage>

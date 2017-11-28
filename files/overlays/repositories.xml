@@ -762,7 +762,7 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>canutethegreat-overlay</name>
     <description lang="en">Overlay for personal projects, forks, and customizations</description>
-    <homepage>https://github.com/CanuteTheGreat/canutethegreat-overlay</homepage>
+    <homepage>http://gentoo.canutethegreat.com</homepage>
     <owner type="person">
       <email>canutethegreat@gmail.com</email>
       <name>Ronald Farrer</name>

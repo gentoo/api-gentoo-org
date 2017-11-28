@@ -760,6 +760,17 @@ FIN
     <source type="git">git://git.calculate.ru/calculate/overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>canutethegreat</name>
+    <description lang="en">Overlay for personal projects, forks, and customizations</description>
+    <homepage>http://gentoo.canutethegreat.com</homepage>
+    <owner type="person">
+      <email>canutethegreat@gmail.com</email>
+      <name>Ronald Farrer</name>
+    </owner>
+    <source type="git">https://github.com/CanuteTheGreat/canutethegreat-overlay.git</source>
+    <feed>https://github.com/CanuteTheGreat/canutethegreat-overlay/commits/master</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>carreira</name>
     <description lang="en">Overlay for personal project and forks</description>
     <homepage>https://cgit.gentoo.org/user/carreira.git/</homepage>

@@ -2961,6 +2961,18 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/musl.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>musl-clang</name>
+    <description>musl clang/libc++ overlay</description>
+    <homepage>https://github.com/karlguy/musl-clang/</homepage>
+    <owner type="person">
+      <email>bjornpagen@gmail.com</email>
+      <name>Bjorn Pagen</name>
+    </owner>
+    <source type="git">https://github.com/karlguy/musl-clang</source>
+    <source type="git">git://github.com/karlguy/musl-clang</source>
+    <feed>https://github.com/karlguy/musl-clang/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>mv</name>
     <description>Ebuilds for packages not in the Gentoo tree
         (lack of maintainer or too experimental) and live ebuilds

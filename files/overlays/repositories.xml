@@ -315,6 +315,18 @@ FIN
     </owner>
     <source type="git">https://github.com/andjscott/overlays.git</source>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>andrey_utkin</name>
+    <description lang="en">Developer overlay</description>
+    <homepage>https://github.com/andrey-utkin/gentoo-overlay.git</homepage>
+    <owner type="person">
+      <email>andrey_utkin@gentoo.org</email>
+      <name>andrey_utkin</name>
+    </owner>
+    <source type="git">https://github.com/andrey-utkin/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/andrey-utkin/gentoo-overlay.git</source>
+    <feed>https://github.com/andrey-utkin/gentoo-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>anomen</name>
     <description lang="en">anomen's personal Gentoo overlay</description>

@@ -990,6 +990,18 @@ FIN
     <feed>https://github.com/damex/deadbeef-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>decent-im</name>
+    <description lang="en">XMPP software overlay maintained by decent.im</description>
+    <homepage>https://github.com/decent-im/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>andrey_utkin@gentoo.org</email>
+      <name>Andrey Utkin</name>
+    </owner>
+    <source type="git">https://github.com/decent-im/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/decent-im/gentoo-overlay.git</source>
+    <feed>https://github.com/decent-im/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>deepin</name>
     <description lang="en">Gentoo Overlay for Deepin Desktop Environment</description>
     <homepage>https://github.com/zhtengw/deepin-overlay</homepage>

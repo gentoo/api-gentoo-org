@@ -3207,6 +3207,19 @@ FIN
     <feed>https://github.com/Bfgeshka/octopus/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>oiledmachine</name>
+    <description lang="en">Another ebuild repository containing enhancements,
+    C# bindings, game developer libraries.</description>
+    <homepage>https://github.com/orsonteodoro/oiledmachine-overlay</homepage>
+    <owner type="person">
+      <email>orsonteodoro@yahoo.com</email>
+      <name>Orson Teodoro</name>
+    </owner>
+    <source type="git">https://github.com/orsonteodoro/oiledmachine-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/orsonteodoro/oiledmachine-overlay.git</source>
+    <feed>https://github.com/orsonteodoro/oiledmachine-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>olifre</name>
     <description lang="en">Personal overlay of Oliver Freyermuth.</description>
     <homepage>https://github.com/olifre/olifre-portage</homepage>

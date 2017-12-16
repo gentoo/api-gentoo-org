@@ -387,6 +387,18 @@ FIN
     <feed>https://gitlab.com/argent/argent-main/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>arm_support</name>
+    <description lang="en">Gentoo ARM project overlay</description>
+    <homepage>https://github.com/gentoo/arm</homepage>
+    <owner type="project">
+      <email>arm@gentoo.org</email>
+      <name>ARM Project</name>
+    </owner>
+    <source type="git">https://github.com/gentoo/arm.git</source>
+    <source type="git">git+ssh://git@github.com/gentoo/arm.git</source>
+    <feed>https://github.com/gentoo/arm/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>arx-libertatis</name>
     <description lang="en">Arx Libertatis Overlay</description>
     <homepage>https://github.com/arx/ArxGentoo</homepage>

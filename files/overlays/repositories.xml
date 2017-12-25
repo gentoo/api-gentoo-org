@@ -963,6 +963,18 @@ FIN
     <feed>https://github.com/dannyboy48888/dannyboy48888-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>darkelf</name>
+    <description lang="en">Overlay focusing on improved user experience for working in darkness on Xfce or zsh (including vim)</description>
+    <homepage>https://cgit.gentoo.org/repo/user/darkelf.git</homepage>
+    <owner type="person">
+      <email>sur3@gmx.de</email>
+      <name>Simon</name>
+    </owner>
+    <source type="git">https://anongit.gentoo.org/git/repo/user/darkelf.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/user/darkelf.git</source>
+    <feed>https://cgit.gentoo.org/repo/user/darkelf.git/atom/</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>das-labor</name>
     <description lang="en">Gentoo overlay from Hackerspace Bochum</description>
     <homepage>https://github.com/das-labor/labor-overlay</homepage>

@@ -1629,6 +1629,17 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/dev/fordfrog.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>fowlay</name>
+    <description lang="en">Collection of ebuilds</description>
+    <homepage>https://github.com/fowlay/fowlay-overlay</homepage>
+    <owner type="person">
+      <email>rabbe@bahnhof.se</email>
+      <name>Rabbe Fogelholm</name>
+    </owner>
+    <source type="git">https://github.com/fowlay/fowlay-overlay.git</source>
+    <feed>https://github.com/fowlay/fowlay-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>foxiverlay</name>
     <description lang="en">Personal overlay for unofficial ebuilds</description>
     <homepage>https://github.com/PikkuJose/foxiverlay</homepage>

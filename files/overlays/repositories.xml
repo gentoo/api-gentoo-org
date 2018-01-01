@@ -3453,6 +3453,19 @@ FIN
     <feed>https://cgit.gentoo.org/user/pigfoot.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/pigfoot.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>piniverlay</name>
+    <description lang="en">Various packages and patches for developers</description>
+    <homepage>https://github.com/pinicarus/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>pini@tuxfamily.org</email>
+      <name>Pierre-Nicolas Clauss</name>
+    </owner>
+    <source type="git">https://github.com/pinicarus/gentoo-overlay.git</source>
+    <source type="git">git://github.com/pinicarus/gentoo-overlay.git</source>
+    <source type="git">git@github.com:pinicarus/gentoo-overlay.git</source>
+    <feed>https://github.com/pinicarus/gentoo-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>pinkbyte</name>
     <description lang="en">Pinkbyte's developer overlay</description>

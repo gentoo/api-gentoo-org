@@ -2107,6 +2107,19 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/user/hibiscus.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>hnaparst</name>
+    <description lang="en">Harold Naparst's Gentoo overlay</description>
+    <homepage>https://github.com/hnaparst/overlay</homepage>
+    <owner type="person">
+      <email>harold@alum.mit.edu</email>
+      <name>Harold Naparst</name>
+    </owner>
+    <source type="git">https://github.com/hnaparst/overlay.git</source>
+    <source type="git">git://github.com/hnaparst/overlay.git</source>
+    <source type="git">git@github.com:hnaparst/overlay.git</source>
+    <feed>https://github.com/hnaparst/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>holgersson-overlay</name>
     <description lang="en">Nils "holgersson" Freydank's personal overlay</description>
     <homepage>https://git.holgersson.xyz</homepage>
@@ -5239,19 +5252,6 @@ FIN
     </owner>
     <source type="git">https://github.com/yarikmsu/yarik-overlay.git</source>
     <feed>https://github.com/yarikmsu/yarik-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>ycUygB1</name>
-    <description lang="en">Gentoo user overlay</description>
-    <homepage>https://github.com/ycUygB1/overlay</homepage>
-    <owner type="person">
-      <email>harold@alum.mit.edu</email>
-      <name>Harold Anderson</name>
-    </owner>
-    <source type="git">https://github.com/ycUygB1/overlay.git</source>
-    <source type="git">git://github.com/ycUygB1/overlay.git</source>
-    <source type="git">git@github.com:ycUygB1/overlay.git</source>
-    <feed>https://github.com/ycUygB1/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>yngwin</name>

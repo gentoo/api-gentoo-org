@@ -5242,7 +5242,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ycUygB1</name>
-    <description lang="en">Gentoo user ycUygB1 overlay</description>
+    <description lang="en">Gentoo User ycUygB1 overlay</description>
     <homepage>https://github.com/ycUygB1/overlay</homepage>
     <owner type="person">
       <email>harold@alum.mit.edu</email>

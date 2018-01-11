@@ -3109,19 +3109,6 @@ FIN
     <feed>https://bitbucket.org/neko259/nektoo/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>netcrave</name>
-    <description lang="en">Netcrave Communications Gentoo Overlay</description>
-    <homepage>https://github.com/cloudkitsch/netcrave</homepage>
-    <owner type="person">
-      <email>paigeadele@gmail.com</email>
-      <name>Paige Thompson</name>
-    </owner>
-    <source type="git">https://github.com/cloudkitsch/netcrave.git</source>
-    <source type="git">git://github.com/cloudkitsch/netcrave.git</source>
-    <source type="git">git@github.com:cloudkitsch/netcrave.git</source>
-    <feed>https://github.com/cloudkitsch/netcrave/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>nextoo</name>
     <description lang="en">Nextoo ("Next Gentoo") overlay</description>
     <homepage>https://github.com/nextoo/portage-overlay</homepage>

@@ -4340,18 +4340,6 @@ FIN
     <feed>https://bitbucket.org/sortsmill/sortsmill-gentoo-overlay/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>spike</name>
-    <description lang="en">This repository contains the ebuild used to build spike, a pentesting distro based on Sabayon.</description>
-    <homepage>https://github.com/Spike-Pentesting/spike-overlay</homepage>
-    <owner type="person">
-      <email>mudler@gentoo.org</email>
-    </owner>
-    <owner type="person">
-      <email>skullbocks@sabayon.org</email>
-    </owner>
-    <source type="git">https://github.com/Spike-Pentesting/spike-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>spikyatlinux</name>
     <description>Here are some of my own or modified ebuilds. Also some of them I've found in the web.</description>
     <homepage>https://github.com/spikyatlinux/ebuilds_for_gentoo</homepage>

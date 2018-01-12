@@ -366,16 +366,6 @@ FIN
     <feed>https://github.com/arax-os/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>archenroot</name>
-    <description lang="en">ArchenROOT Gentoo Overlay</description>
-    <homepage>https://github.com/archenroot/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>archenroot@gmail.com</email>
-      <name>Ladislav Jech</name>
-    </owner>
-    <source type="git">https://github.com/archenroot/gentoo-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>argent-main</name>
     <description>Argent Linux</description>
     <homepage>https://gitlab.com/argent/argent-main</homepage>

@@ -2980,18 +2980,6 @@ FIN
     <feed>https://github.com/karlguy/musl-clang/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>muslx32</name>
-    <description lang="en">muslx32 (musl libc + x32 ABI) developers overlay</description>
-    <homepage>https://github.com/orsonteodoro/muslx32</homepage>
-    <owner type="person">
-      <email>orsonteodoro@yahoo.com</email>
-      <name>Orson Teodoro</name>
-    </owner>
-    <source type="git">https://github.com/orsonteodoro/muslx32.git</source>
-    <source type="git">git+ssh://git@github.com/orsonteodoro/muslx32.git</source>
-    <feed>https://github.com/orsonteodoro/muslx32/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>mv</name>
     <description>Ebuilds for packages not in the Gentoo tree
         (lack of maintainer or too experimental) and live ebuilds

@@ -3414,20 +3414,6 @@ FIN
     </owner>
     <source type="git">https://notabug.org/soredake/gentoo-overlay.git</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>plab</name>
-    <description lang="en">Paul Labedan user overlay</description>
-    <homepage>https://cgit.gentoo.org/user/plab.git/</homepage>
-    <owner type="person">
-      <email>plabedan@gmail.com</email>
-      <name>Paul Labedan</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/plab.git</source>
-    <source type="git">git://anongit.gentoo.org/user/plab.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/plab.git</source>
-    <feed>https://cgit.gentoo.org/user/plab.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/plab.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="official">
     <name>poly-c</name>
     <description lang="en">Polynomial-C's overlay</description>

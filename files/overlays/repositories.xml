@@ -2662,20 +2662,6 @@ FIN
     <source type="git">git://anongit.gentoo.org/user/lmiphay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>lootr</name>
-    <description lang="en">dev-python/netzob and maybe some i3 hacks</description>
-    <homepage>https://cgit.gentoo.org/user/lootr.git/</homepage>
-    <owner type="person">
-      <email>alex@freesenses.net</email>
-      <name>Alexandre PIGNÉ</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/lootr.git</source>
-    <source type="git">git://anongit.gentoo.org/user/lootr.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/lootr.git</source>
-    <feed>https://cgit.gentoo.org/user/lootr.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/lootr.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>lorelei</name>
     <description lang="en">Pre-release ebuilds for lorelei's projects</description>
     <homepage>https://github.com/bignaux/lorelei-overlay</homepage>

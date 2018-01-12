@@ -5036,20 +5036,6 @@ FIN
     <source type="git">https://bitbucket.org/wjn/wjn-overlay.git</source>
   </repo>
   <repo quality="experimental" status="official">
-    <name>wschlich</name>
-    <description>A collection of ebuilds from Wolfram Schlich</description>
-    <homepage>https://cgit.gentoo.org/dev/wschlich.git</homepage>
-    <owner type="person">
-      <email>wschlich@gentoo.org</email>
-      <name>Wolfram Schlich</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/wschlich.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/wschlich</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/wschlich.git</source>
-    <feed>https://cgit.gentoo.org/dev/wschlich.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/wschlich.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="official">
     <name>x11</name>
     <description>Gentoo X11 team ebuild repository</description>
     <homepage>https://cgit.gentoo.org/proj/x11.git</homepage>

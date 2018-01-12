@@ -1831,20 +1831,6 @@ FIN
     <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-mate.git</source>
     <feed>https://cgit.gentoo.org/proj/gentoo-mate.git/atom/</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>gentoo-openbsd</name>
-    <description lang="en">Gentoo/OpenBSD Project Overlay</description>
-    <homepage>https://cgit.gentoo.org/proj/gentoo-openbsd.git/</homepage>
-    <owner type="person">
-      <email>blueness@gentoo.org</email>
-      <name>Anthony G. Basile</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/gentoo-openbsd.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/gentoo-openbsd.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-openbsd.git</source>
-    <feed>https://cgit.gentoo.org/proj/gentoo-openbsd.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/gentoo-openbsd.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-playground</name>
     <description lang="en">zeq's Playground for experimental ebuilds and eclasses</description>

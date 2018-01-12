@@ -2102,19 +2102,6 @@ FIN
     <source type="git">https://git.hossie.de/scm/gen/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>humble</name>
-    <description lang="en">Humble Indie Bundle unofficial overlay for Gentoo</description>
-    <homepage>https://github.com/pashazz/humble-overlay</homepage>
-    <owner type="person">
-      <email>pzinin@gmail.com</email>
-      <name> Pavel Borisov</name>
-    </owner>
-    <source type="git">https://github.com/pashazz/humble-overlay.git</source>
-    <source type="git">git://github.com/pashazz/humble-overlay.git</source>
-    <source type="git">git@github.com:pashazz/humble-overlay.git</source>
-    <feed>https://github.com/pashazz/humble-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ikelos</name>
     <description>Ikelos's hospice for broken and damaged ebuilds.</description>
     <homepage>https://cgit.gentoo.org/dev/ikelos.git/</homepage>

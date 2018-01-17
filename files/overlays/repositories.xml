@@ -1806,6 +1806,19 @@ FIN
     <feed>https://cgit.gentoo.org/repo/gentoo.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gentoo-crypto</name>
+    <description>Gentoo overlay for cryptocurrencies</description>
+    <homepage>https://github.com/gentoo-crypto/gentoo-crypto-overlay</homepage>
+    <owner type="person">
+      <email>maneamarius@gmail.com</email>
+      <name>Marius Manea</name>
+    </owner>
+    <source type="git">https://github.com/gentoo-crypto/gentoo-crypto-overlay.git</source>
+    <source type="git">git://github.com/gentoo-crypto/gentoo-crypto-overlay.git</source>
+    <source type="git">git@github.com:gentoo-crypto/gentoo-crypto-overlay.git</source>
+    <feed>https://github.com/gentoo-crypto/gentoo-crypto-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gentoo-gpu</name>
     <description lang="en">Bleeding-edge GPU support for Gentoo - OpenCL, GLVND, Vulkan</description>
     <homepage>https://github.com/sjnewbury/gentoo-gpu</homepage>

@@ -4314,7 +4314,7 @@ FIN
     <feed>https://cgit.gentoo.org/repo/user/ssnb.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>status-check/name>
+    <name>status-check</name>
     <description lang="en">A simple status check and configuration package built for Gentoo</description>
     <homepage>https://github.com/powerhouseofthecell/status-check</homepage>
     <owner type="person">

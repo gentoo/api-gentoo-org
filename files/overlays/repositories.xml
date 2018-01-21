@@ -4490,6 +4490,18 @@ FIN
     <feed>https://github.com/feeds/Sabayon/commits/systemd-love/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>tabinol</name>
+    <description lang="en">Tabinol personal overlay with no special focus</description>
+    <homepage>https://github.com/Tabinol/tabinol-overlay</homepage>
+    <owner type="person">
+      <email>mblanchet@fastmail.com</email>
+      <name>Michel Blanchet</name>
+    </owner>
+    <source type="git">https://github.com/Tabinol/tabinol-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Tabinol/tabinol-overlay.git</source>
+    <feed>https://github.com/Tabinol/tabinol-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>TAJJADA</name>
     <description>Ebuilds for random stuff, including own/personal software, by Jasen Borisov.</description>
     <homepage>https://github.com/tajjada/overlay</homepage>

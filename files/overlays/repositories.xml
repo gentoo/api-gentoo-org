@@ -1597,6 +1597,17 @@ FIN
     <source type="git">https://gitlab.com/Flow/flow-s-ebuilds.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>flussence</name>
+    <description lang="en">Ant P.'s personal overlay</description>
+    <homepage>https://gitlab.com/flussence/overlay</homepage>
+    <owner type="person">
+      <email>ant+gentoo.bugs@flussence.eu</email>
+      <name>Anthony Parsons</name>
+    </owner>
+    <source type="git">https://gitlab.com/flussence/overlay.git</source>
+    <feed>https://gitlab.com/flussence/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>fm</name>
     <description lang="en">Fated Mariner Gentoo Overlay</description>
     <homepage>https://github.com/BlueDragonX/fm-overlay</homepage>

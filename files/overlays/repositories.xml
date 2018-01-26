@@ -3083,6 +3083,18 @@ FIN
     <feed>https://bitbucket.org/neko259/nektoo/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>nest</name>
+    <description lang="en">Personal Gentoo overlay</description>
+    <homepage>https://github.com/SpiderX/portage-overlay</homepage>
+    <owner type="person">
+      <email>spiderx@spiderx.dp.ua</email>
+      <name>Vladimir Pavljuchenkov</name>
+    </owner>
+    <source type="git">https://github.com/SpiderX/portage-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/SpiderX/portage-overlay.git</source>
+    <feed>https://github.com/SpiderX/portage-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>nextoo</name>
     <description lang="en">Nextoo ("Next Gentoo") overlay</description>
     <homepage>https://github.com/nextoo/portage-overlay</homepage>

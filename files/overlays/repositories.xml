@@ -2489,6 +2489,18 @@ FIN
       <feed>http://git.sumptuouscapital.com/?p=portage-overlay.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>khoverlay</name>
+    <description>Khumba's overlay, mainly Haskell packages</description>
+    <homepage>https://gitlab.com/khumba/khoverlay</homepage>
+    <owner type="person">
+      <email>bog@khumba.net</email>
+      <name>Bryan Gardiner</name>
+    </owner>
+    <source type="git">https://gitlab.com/khumba/khoverlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com/khumba/khoverlay.git</source>
+    <feed>https://gitlab.com/khumba/khoverlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>klondike</name>
     <description lang="en">Ebuilds made and modified by klondike, mainly sound and virtualization</description>
     <homepage>https://cgit.gentoo.org/user/klondike.git/</homepage>

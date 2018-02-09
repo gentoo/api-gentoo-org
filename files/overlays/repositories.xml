@@ -389,6 +389,18 @@ FIN
     <source type="git">https://gitlab.com/argent/argent-main.git</source>
     <feed>https://gitlab.com/argent/argent-main/commits/master.atom</feed>
   </repo>
+<repo quality="experimental" status="unofficial">
+    <name>archenroot</name>
+    <description lang="en">GPU, Neural Networks, Big Data, HPC, Java</description>
+    <homepage>https://github.com/archenroot/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>archenroot@gmail.com</email>
+      <name>Ladislav Jech</name>
+    </owner>
+    <source type="git">https://github.com/archenroot/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/archenroot/gentoo-overlay.git</source>
+    <feed>https://github.com/archenroot/gentoo-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>arm_support</name>
     <description lang="en">Gentoo ARM project overlay</description>

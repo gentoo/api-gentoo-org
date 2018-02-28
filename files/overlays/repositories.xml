@@ -5323,5 +5323,18 @@ FIN
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>glicOne</name>
+    <description lang="en">glicOne Overlay with non existing in layman utils</description>
+    <homepage>https://github.com/RomaniukVadim/overlay</homepage>
+    <owner type="person">
+      <email>lavadimka1997@gmail.com</email>
+      <name>Vadim Romaniuk</name>
+    </owner>
+    <source type="git">git://github.com/RomaniukVadim/overlay.git</source>
+    <source type="git">https://github.com/RomaniukVadim/overlay.git</source>
+    <source type="git">git@github.com:RomaniukVadim/overlay.git</source>
+    <feed>http://github.com/RomaniukVadim/overlay/commits/master.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

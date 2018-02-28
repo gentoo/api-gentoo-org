@@ -1902,6 +1902,19 @@ FIN
     </owner>
     <source type="git">https://gitlab.awesome-it.de/overlays/gitlab.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>glicOne</name>
+    <description lang="en">glicOne Overlay with non existing in layman utils</description>
+    <homepage>https://github.com/RomaniukVadim/glicOne</homepage>
+    <owner type="person">
+      <email>lavadimka1997@gmail.com</email>
+      <name>Vadim Romaniuk</name>
+    </owner>
+    <source type="git">git://github.com/RomaniukVadim/glicOne-overlay.git</source>
+    <source type="git">https://github.com/RomaniukVadim/glicOne-overlay.git</source>
+    <source type="git">git@github.com:RomaniukVadim/glicOne-overlay.git</source>
+    <feed>http://github.com/RomaniukVadim/glicOne-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>gnome</name>
     <description>experimental gnome ebuilds</description>

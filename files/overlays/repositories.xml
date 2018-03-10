@@ -1691,6 +1691,19 @@ FIN
     <feed>https://github.com/alphallc/freeswitch/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>fritteli</name>
+    <description lang="en">fritteli's Gentoo Overlay</description>
+    <homepage>https://gittr.ch/linux/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>manuel@fritteli.ch</email>
+      <name>Manuel Friedli</name>
+    </owner>
+    <source type="git">https://gittr.ch/linux/gentoo-overlay.git</source>
+    <source type="git">git://gittr.ch/linux/gentoo-overlay.git</source>
+    <source type="git">git@gittr.ch:linux/gentoo-overlay.git</source>
+    <feed>https://gittr.ch/linux/gentoo-overlay.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>frostyx</name>
     <description lang="en">FrostyX's personal overlay</description>
     <homepage>http://frostyx.cz/</homepage>

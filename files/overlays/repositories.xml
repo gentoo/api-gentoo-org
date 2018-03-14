@@ -402,6 +402,16 @@ FIN
     <feed>https://github.com/gentoo/arm/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ArtSoftware</name>
+    <description lang="en">Art-Software overlay</description>
+    <homepage>http://git.art-software.fr/ArtSoftware/portageLocalRepo</homepage>
+    <owner type="person">
+      <email>adrien.sohier@art-software.fr</email>
+      <name>[Electron]</name>
+    </owner>
+    <source type="git">http://git.art-software.fr/ArtSoftware/portageLocalRepo.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>arx-libertatis</name>
     <description lang="en">Arx Libertatis Overlay</description>
     <homepage>https://github.com/arx/ArxGentoo</homepage>

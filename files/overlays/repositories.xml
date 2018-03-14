@@ -1503,6 +1503,16 @@ FIN
     <feed>https://github.com/farmboy0/portage-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>fem-overlay</name>
+    <description lang="en">FeM Gentoo Overlay</description>
+    <homepage>https://bitbucket.fem.tu-ilmenau.de/projects/GENTOO/repos/fem-overlay/</homepage>
+    <owner type="person">
+      <email>frainz@mailbox.org</email>
+      <name>Paul Michel</name>
+    </owner>
+    <source type="git">https://bitbucket.fem.tu-ilmenau.de/scm/gentoo/fem-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>fidonet</name>
     <description lang="en">Overlay of Benny Pedersen</description>
     <owner type="person">

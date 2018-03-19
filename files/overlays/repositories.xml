@@ -3639,6 +3639,17 @@ FIN
     <source type="git">git+ssh://git@git.gentoo.org/proj/python.git</source>
     <feed>https://cgit.gentoo.org/proj/python.git/atom/</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>pzskc383</name>
+    <description lang="en">maniac's personal overlay</description>
+    <homepage>https://pzskc383.dp.ua/code/overlay</homepage>
+    <owner type="person">
+      <email>maniac@pzskc383.dp.ua</email>
+      <name>Alexander Dyadechko</name>
+    </owner>
+    <source type="git">https://pzskc383.dp.ua/code/overlay</source>
+    <feed>https://pzskc383.dp.ua/code/overlay/atom/?h=master</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>qemu-init</name>
     <description lang="en">qemu init script and tools</description>

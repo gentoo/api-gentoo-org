@@ -4446,6 +4446,19 @@ FIN
     <feed>https://cgit.gentoo.org/repo/user/ssnb.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>sspreitz</name>
+    <description lang="en">My Gentoo repository and ebuilds</description>
+    <homepage>https://github.com/sspreitzer/gentoo-repo</homepage>
+    <owner type="person">
+      <email>sspreitz@redhat.com</email>
+      <name>Sascha Spreitzer</name>
+    </owner>
+    <source type="git">https://github.com/sspreitzer/gentoo-repo.git</source>
+    <source type="git">git+ssh://git@github.com/sspreitzer/gentoo-repo.git</source>
+    <source type="git">git@github.com:sspreitzer/gentoo-repo.git</source>
+    <feed>https://github.com/sspreitzer/gentoo-repo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>status-check</name>
     <description lang="en">A simple status check and configuration package built for Gentoo</description>
     <homepage>https://github.com/powerhouseofthecell/status-check</homepage>

@@ -2756,6 +2756,20 @@ FIN
     <source type="git">git://anongit.gentoo.org/user/lmiphay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>lordvan</name>
+    <description lang="en">LordVan's Developer overlay</description>
+    <homepage>https://cgit.gentoo.org/dev/lordvan.git</homepage>
+    <owner type="person">
+      <email>lordvan@gentoo.org</email>
+      <name>Thomas Raschbacher</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/dev/lordvan.git</source>
+    <source type="git">https://anongit.gentoo.org/git/dev/lordvan.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/dev/lordvan.git</source>
+    <feed>https://cgit.gentoo.org/dev/lordvan.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/dev/lordvan.git/rss/</feed> -->
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>lorelei</name>
     <description lang="en">Pre-release ebuilds for lorelei's projects</description>
     <homepage>https://github.com/bignaux/lorelei-overlay</homepage>

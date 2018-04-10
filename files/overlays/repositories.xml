@@ -1925,6 +1925,18 @@ FIN
     <feed>https://github.com/microcai/gentoo-zh/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>getdns-overlay</name>
+    <description lang="en">Unofficial ebuilds for getdns software.</description>
+    <homepage>https://github.com/CaseOf/getdns-overlay</homepage>
+    <owner type="person">
+      <email>gentoo@retornaz.com</email>
+      <name>Quentin Retornaz</name>
+    </owner>
+    <source type="git">https://github.com/CaseOf/getdns-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/CaseOf/getdns-overlay.git</source>
+    <feed>https://github.com/CaseOf/getdns-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gitlab</name>
     <description lang="en">Unofficial ebuilds for Gitlab</description>
     <homepage>https://gitlab.awesome-it.de/overlays/gitlab</homepage>

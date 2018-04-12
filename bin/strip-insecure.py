@@ -10,7 +10,7 @@
 #
 # Paul Jewell <paul@teulu.org>
 #
-# Copyright 2005-2012 Gentoo Foundation
+# Copyright 2018 Gentoo Foundation
 # Distributed under the terms of the GNU GPL version 2 or later
 
 try:

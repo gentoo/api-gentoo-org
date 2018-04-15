@@ -1275,20 +1275,6 @@ FIN
     <source type="git">https://gitlab.com/dsreyes1014/dsr-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>dswm</name>
-    <description lang="en">Deep Space Window Manager - StumpWM-based windowmanager with better usability</description>
-    <homepage>https://cgit.gentoo.org/user/dswm.git/</homepage>
-    <owner type="person">
-      <email>cosmonaut.ok@gmail.com</email>
-      <name>Alexander aka 'CosmonauT' Vynnyk</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/dswm.git</source>
-    <source type="git">git://anongit.gentoo.org/user/dswm.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/dswm.git</source>
-    <feed>https://cgit.gentoo.org/user/dswm.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/dswm.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>DuPol</name>
     <description lang="en">DuPol's own and modified portage ebuilds.</description>
     <homepage>https://cgit.gentoo.org/user/DuPol.git/</homepage>

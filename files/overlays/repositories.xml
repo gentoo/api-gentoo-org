@@ -5411,7 +5411,7 @@ FIN
     <homepage>https://github.com/kabili207/zyrenth-overlay</homepage>
     <owner type="person">
       <email>kabi-bugz.gentoo@zyrenth.com</email>
-      <name>Andrew Nagle</name>
+      <name>Amy Nagle</name>
     </owner>
     <source type="git">https://github.com/kabili207/zyrenth-overlay.git</source>
     <source type="git">git://github.com/kabili207/zyrenth-overlay.git</source>

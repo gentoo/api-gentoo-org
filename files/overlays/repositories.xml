@@ -3311,6 +3311,18 @@ FIN
     <feed>https://github.com/olifre/olifre-portage/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>openclonk</name>
+    <description lang="en">Overlay for the game OpenClonk</description>
+    <homepage>http://www.openclonk.org/</homepage>
+    <owner type="person">
+      <email>gentoobug@liftm.de</email>
+      <name>Julius Michaelis</name>
+    </owner>
+    <source type="git">https://github.com/jcaesar/openclonk-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/jcaesar/openclonk-overlay.git</source>
+    <feed>https://github.com/jcaesar/openclonk-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>openwrt</name>
     <description>Overlay for network configuration packages found in OpenWRT</description>
     <homepage>https://github.com/pavlix/gentoo-openwrt</homepage>

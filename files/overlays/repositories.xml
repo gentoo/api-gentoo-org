@@ -1732,6 +1732,18 @@ FIN
     <feed>https://github.com/antoligy/furikake/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>fusion809</name>
+    <description lang="en">Brenton's Portage overlay</description>
+    <homepage>https://github.com/fusion809/fusion809-overlay</homepage>
+    <owner type="person">
+      <email>brentonhorne77@gmail.com</email>
+      <name>Brenton Horne</name>
+    </owner>
+    <source type="git">https://github.com/fusion809/fusion809-overlay.git</source>
+    <source type="git">git://github.com/fusion809/fusion809-overlay.git</source>
+    <feed>https://github.com/fusion809/fusion809-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>fuverlay</name>
     <description lang="en">Funkill's overlay</description>
     <homepage>https://github.com/funkill/fuverlay</homepage>
@@ -4057,18 +4069,6 @@ FIN
     </owner>
     <source type="git">git://github.com/Sabayon/sabayon-distro.git</source>
     <feed>https://github.com/feeds/Sabayon/commits/sabayon-distro/master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>sabayon-tools</name>
-    <description lang="en">Brenton's Sabayon Overlay</description>
-    <homepage>https://github.com/fusion809/sabayon-tools</homepage>
-    <owner type="person">
-      <email>brentonhorne77@gmail.com</email>
-      <name>Brenton Horne</name>
-    </owner>
-    <source type="git">https://github.com/fusion809/sabayon-tools.git</source>
-    <source type="git">git://github.com/fusion809/sabayon-tools.git</source>
-    <feed>https://github.com/fusion809/sabayon-tools/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sage-on-gentoo</name>

@@ -2811,7 +2811,7 @@ FIN
     <owner type="person">
       <email>luke-jr+gentoobugs@utopios.org</email>
     </owner>
-    <source type="svn">svn://svn.dashjr.org/luke-portage-overlay/trunk</source>
+    <source type="git">https://scm.dashjr.org/scmroot/git/portage-overlays/luke-jr</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>luman</name>

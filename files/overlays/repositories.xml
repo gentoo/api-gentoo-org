@@ -5201,6 +5201,18 @@ FIN
     </owner>
     <source type="git">https://bitbucket.org/wjn/wjn-overlay.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>wuodan</name>
+    <description lang="en">An experimental portage overlay</description>
+    <homepage>https://github.com/Wuodan/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>stefan.kuhn.zurich@gmail.com</email>
+      <name>Stefan Kuhn</name>
+    </owner>
+    <source type="git">https://github.com/Wuodan/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Wuodan/gentoo-overlay.git</source>
+    <feed>https://github.com/Wuodan/gentoo-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>x11</name>
     <description>Gentoo X11 team ebuild repository</description>

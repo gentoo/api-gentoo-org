@@ -125,6 +125,18 @@ FIN
     <feed>https://cgit.gentoo.org/user/activehome.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/activehome.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>ag-ops</name>
+    <description lang="en">Useful tools for SysAdmins or DevOps</description>
+    <homepage>https://github.com/ILMostro/ag-ops</homepage>
+    <owner type="person">
+      <email>ilmostro7@gmail.com</email>
+      <name>John Johnson</name>
+    </owner>
+    <source type="git">https://github.com/ILMostro/ag-ops.git</source>
+    <source type="git">git+ssh://git@github.com/ILMostro/ag-ops.git</source>
+    <feed>https://github.com/ILMostro/ag-ops/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>ago</name>
     <description lang="en">Developer overlay</description>

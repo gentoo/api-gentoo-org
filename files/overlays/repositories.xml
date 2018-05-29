@@ -2081,6 +2081,18 @@ FIN
     <feed>https://github.com/uleysky/gsview-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gyakovlev</name>
+    <description lang="en">User overlay</description>
+    <homepage>https://github.com/gyakovlev/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>ya@sysdump.net</email>
+      <name>Georgy Yakovlev</name>
+    </owner>
+    <source type="git">https://github.com/gyakovlev/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/gyakovlev/gentoo-overlay.git</source>
+    <feed>https://github.com/gyakovlev/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>haarp</name>
     <description lang="en">misc ebuilds that aren't in the main tree</description>
     <homepage>https://cgit.gentoo.org/user/haarp.git/</homepage>

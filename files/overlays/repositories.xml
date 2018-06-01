@@ -866,6 +866,17 @@ FIN
     <feed>https://github.com/feeds/chaoskagami/commits/chaos-overlay/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>chaoslab</name>
+    <description lang="en">Overlay for apps related to secure communication, cryptography, cryptocurrency, server-side stuff, etc.</description>
+    <homepage>https://gitlab.com/chaoslab/chaoslab-overlay</homepage>
+    <owner type="person">
+      <email>gentoo@chaoslab.org</email>
+      <name>Ian Moone</name>
+    </owner>
+    <source type="git">https://gitlab.com/chaoslab/chaoslab-overlay.git</source>
+    <feed>https://gitlab.com/chaoslab/chaoslab-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>chrisadr</name>
     <description lang="en">ChrisADR's personal overlay</description>
     <homepage>https://github.com/ChrisADR/chrisadr-overlay</homepage>

@@ -3750,7 +3750,7 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>quarks</name>
     <description>Quarks's overlay; needful things around Security, Penetration Testing and gaming</description>
-    <homepage>https://git.zero-downtime.net/quark</homepage>
+    <homepage>https://git.zero-downtime.net/quark/quarks</homepage>
     <owner type="person">
       <email>it@startux.de</email>
       <name>Stefan Reimer</name>

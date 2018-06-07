@@ -3793,15 +3793,15 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>rage</name>
-    <description lang="en">Personal Overlay</description>
-    <homepage>https://github.com/lramage94/overlay</homepage>
+    <description lang="en">rage's personal overlay</description>
+    <homepage>https://gitlab.com/lramage94/overlay</homepage>
     <owner type="person">
       <email>ramage.lucas@openmailbox.org</email>
       <name>Lucas Ramage</name>
     </owner>
-    <source type="git">https://github.com/lramage94/overlay.git</source>
-    <source type="git">git+ssh://git@github.com/lramage94/overlay.git</source>
-    <feed>https://github.com/lramage94/overlay/commits/master.atom</feed>
+    <source type="git">https://gitlab.com/lramage94/overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com/lramage94/overlay.git</source>
+    <feed>https://gitlab.com/lramage94/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>raiagent</name>

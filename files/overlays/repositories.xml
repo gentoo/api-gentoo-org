@@ -3793,7 +3793,7 @@ FIN
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>rage</name>
-    <description lang="en">Personal Overlay</description>
+    <description lang="en">rage's personal overlay</description>
     <homepage>https://gitlab.com/lramage94/overlay</homepage>
     <owner type="person">
       <email>ramage.lucas@openmailbox.org</email>

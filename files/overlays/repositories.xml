@@ -395,7 +395,7 @@ FIN
     <description>Argent Linux</description>
     <homepage>https://gitlab.com/argent/argent-main</homepage>
     <owner type="person">
-      <email>stefan.cristian@rogentos.ro</email>
+      <email>stefan.cristian+gentoo@rogentos.ro</email>
       <name>Stefan Cristian Brindusa</name>
     </owner>
     <source type="git">https://gitlab.com/argent/argent-main.git</source>

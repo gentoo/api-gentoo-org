@@ -740,6 +740,17 @@ FIN
     <feed>https://github.com/l29ah/booboo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>bright</name>
+    <description lang="en">BrightOne's personal overlay</description>
+    <homepage>https://gitlab.com/BrightOne/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>brightone@protonmail.com</email>
+      <name>Oleksii Filonenko</name>
+    </owner>
+    <source type="git">https://gitlab.com/BrightOne/gentoo-overlay.git</source>
+    <feed>https://gitlab.com/BrightOne/gentoo-overlay/commits/master?format=atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>brother-overlay</name>
     <description lang="en">Brother printer and scanner software</description>
     <homepage>https://github.com/stefan-langenmaier/brother-overlay</homepage>
@@ -1941,6 +1952,16 @@ FIN
     </owner>
     <source type="git">git://github.com/microcai/gentoo-zh.git</source>
     <feed>https://github.com/microcai/gentoo-zh/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>gig</name>
+    <description>Gig OS's Overlay</description>
+    <homepage>https://github.com/Gig-OS/gig</homepage>
+    <owner type="person">
+      <email>yangmame@i2pmail.org</email>
+    </owner>
+    <source type="git">git://github.com/Gig-OS/gig.git</source>
+    <feed>https://github.com/Gig-OS/gig/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gitlab</name>

@@ -740,6 +740,17 @@ FIN
     <feed>https://github.com/l29ah/booboo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>bright</name>
+    <description lang="en">BrightOne's personal overlay</description>
+    <homepage>https://gitlab.com/BrightOne/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>brightone@protonmail.com</email>
+      <name>Oleksii Filonenko</name>
+    </owner>
+    <source type="git">https://gitlab.com/BrightOne/gentoo-overlay.git</source>
+    <feed>XXXXXXXXX</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>brother-overlay</name>
     <description lang="en">Brother printer and scanner software</description>
     <homepage>https://github.com/stefan-langenmaier/brother-overlay</homepage>
@@ -750,7 +761,7 @@ FIN
     <source type="git">https://github.com/stefan-langenmaier/brother-overlay.git</source>
     <source type="git">git://github.com/stefan-langenmaier/brother-overlay.git</source>
     <source type="git">git@github.com:stefan-langenmaier/brother-overlay.git</source>
-    <feed>https://github.com/stefan-langenmaier/brother-overlay/commits/master.atom</feed>
+    <feed>https://gitlab.com/BrightOne/gentoo-overlay/commits/master?format=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bubba</name>

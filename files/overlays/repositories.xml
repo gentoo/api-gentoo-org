@@ -748,7 +748,7 @@ FIN
       <name>Oleksii Filonenko</name>
     </owner>
     <source type="git">https://gitlab.com/BrightOne/gentoo-overlay.git</source>
-    <feed>XXXXXXXXX</feed>
+    <feed>https://gitlab.com/BrightOne/gentoo-overlay/commits/master?format=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>brother-overlay</name>

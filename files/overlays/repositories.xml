@@ -761,7 +761,7 @@ FIN
     <source type="git">https://github.com/stefan-langenmaier/brother-overlay.git</source>
     <source type="git">git://github.com/stefan-langenmaier/brother-overlay.git</source>
     <source type="git">git@github.com:stefan-langenmaier/brother-overlay.git</source>
-    <feed>https://gitlab.com/BrightOne/gentoo-overlay/commits/master?format=atom</feed>
+    <feed>https://github.com/stefan-langenmaier/brother-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bubba</name>

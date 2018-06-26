@@ -2945,15 +2945,15 @@ FIN
     <name>matrix</name>
     <description lang="en">Overlay containing clients, servers and services for the Matrix protocol</description>
     <description lang="nl">Overlay met clients, servers en services voor het Matrix protocol</description>
-    <homepage>https://github.com/puretryout/matrix-overlay</homepage>
+    <homepage>https://gitlab.com/PureTryOut/matrix-overlay</homepage>
     <owner type="person">
-      <email>bart.ribbers@openmailbox.org</email>
+      <email>bribbers@disroot.org</email>
       <name>PureTryOut</name>
     </owner>
-    <source type="git">https://github.com/puretryout/matrix-overlay.git</source>
-    <source type="git">git://github.com/puretryout/matrix-overlay.git</source>
-    <source type="git">git@github.com:puretryout/matrix-overlay.git</source>
-    <feed>https://github.com/puretryout/matrix-overlay/commits/master.atom</feed>
+    <source type="git">https://gitlab.com/PureTryOut/matrix-overlay.git</source>
+    <source type="git">git://gitlab.com/PureTryOut/matrix-overlay.git</source>
+    <source type="git">git@gitlab.com:PureTryOut/matrix-overlay.git</source>
+    <feed>https://gitlab.com/PureTryOut/matrix-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>megacoffee</name>

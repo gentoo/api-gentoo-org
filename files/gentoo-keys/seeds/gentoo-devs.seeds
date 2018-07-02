@@ -2403,12 +2403,10 @@
     }, 
     "vdupras": {
         "fingerprint": [
-            "400601D339F49A7E72B3203A0FF891CD9F3A56C4", 
             "CF101AD81FAC68A4D6F277C26E0303256C9ADB8C"
         ], 
         "keydir": "vdupras", 
         "keys": [
-            "400601D339F49A7E72B3203A0FF891CD9F3A56C4", 
             "CF101AD81FAC68A4D6F277C26E0303256C9ADB8C"
         ], 
         "name": "Virgil Dupras", 

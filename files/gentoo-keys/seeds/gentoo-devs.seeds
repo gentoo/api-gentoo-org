@@ -559,11 +559,11 @@
     }, 
     "dabbott": {
         "fingerprint": [
-            "C820FC52BE581AFA4D74EB6B719FB3E2F01C4ACC"
+            "8226A3412E28D1486F81449452117ABC330CF300"
         ], 
         "keydir": "dabbott", 
         "keys": [
-            "C820FC52BE581AFA4D74EB6B719FB3E2F01C4ACC"
+            "8226A3412E28D1486F81449452117ABC330CF300"
         ], 
         "name": "David Abbott", 
         "nick": "dabbott", 
@@ -645,12 +645,10 @@
     }, 
     "dolsen": {
         "fingerprint": [
-            "8688FD1CC71C1C04EAEA42372214D90A014F17CB", 
             "262A829DFEAF9092A42C1C3ED80F5F1E1245142E"
         ], 
         "keydir": "dolsen", 
         "keys": [
-            "8688FD1CC71C1C04EAEA42372214D90A014F17CB", 
             "262A829DFEAF9092A42C1C3ED80F5F1E1245142E"
         ], 
         "name": "Brian Dolbec", 
@@ -859,11 +857,13 @@
     }, 
     "grobian": {
         "fingerprint": [
-            "831C8A4776485F9FD3ED9A1E5F75F607C5C74E89"
+            "831C8A4776485F9FD3ED9A1E5F75F607C5C74E89", 
+            "80C6A09A8D33302C1D2C06A93DC126BC457C8490"
         ], 
         "keydir": "grobian", 
         "keys": [
-            "831C8A4776485F9FD3ED9A1E5F75F607C5C74E89"
+            "831C8A4776485F9FD3ED9A1E5F75F607C5C74E89", 
+            "80C6A09A8D33302C1D2C06A93DC126BC457C8490"
         ], 
         "name": "Fabian Groffen", 
         "nick": "grobian", 
@@ -1089,11 +1089,11 @@
     }, 
     "jmbsvicetto": {
         "fingerprint": [
-            "36F249FCA28074A0677E0EBF69ECE3CBBB0E6E98"
+            "6BFDF304401A4629B88D55FB46FC85C92760C26C"
         ], 
         "keydir": "jmbsvicetto", 
         "keys": [
-            "36F249FCA28074A0677E0EBF69ECE3CBBB0E6E98"
+            "6BFDF304401A4629B88D55FB46FC85C92760C26C"
         ], 
         "name": "Jorge Manuel B. S. Vicetto", 
         "nick": "jmbsvicetto", 
@@ -1159,12 +1159,10 @@
     }, 
     "jstein": {
         "fingerprint": [
-            "04AC7A21E1EBC3661CF5C192270C8757B9FE97FF", 
             "04AC7A21E1EBC3661CF5C192270C8757B9FE97FF"
         ], 
         "keydir": "jstein", 
         "keys": [
-            "04AC7A21E1EBC3661CF5C192270C8757B9FE97FF", 
             "04AC7A21E1EBC3661CF5C192270C8757B9FE97FF"
         ], 
         "name": "Jonas Stein", 
@@ -1739,11 +1737,11 @@
     }, 
     "pacho": {
         "fingerprint": [
-            "3C116691BECBFA0118213BA609A5A940A188FBD4"
+            "41C8AF785915987FF192058399CBDE9602510EB1"
         ], 
         "keydir": "pacho", 
         "keys": [
-            "3C116691BECBFA0118213BA609A5A940A188FBD4"
+            "41C8AF785915987FF192058399CBDE9602510EB1"
         ], 
         "name": "Pacho Ramos", 
         "nick": "pacho", 
@@ -2013,12 +2011,10 @@
     }, 
     "ryao": {
         "fingerprint": [
-            "71ABE84DB60B2007C7F5829FB1404F91668D9B84", 
             "842270AB4A9CABE33D0E57B120EE1199BEE84C64"
         ], 
         "keydir": "ryao", 
         "keys": [
-            "71ABE84DB60B2007C7F5829FB1404F91668D9B84", 
             "842270AB4A9CABE33D0E57B120EE1199BEE84C64"
         ], 
         "name": "Richard Yao", 
@@ -2057,11 +2053,11 @@
     }, 
     "slis": {
         "fingerprint": [
-            "C497E89D2D77BB35B9386432419CC94155265D89"
+            "4C8227973D3D9E814342DC905A970F6D6B0B4E22"
         ], 
         "keydir": "slis", 
         "keys": [
-            "C497E89D2D77BB35B9386432419CC94155265D89"
+            "4C8227973D3D9E814342DC905A970F6D6B0B4E22"
         ], 
         "name": "Slawek Lis", 
         "nick": "slis", 
@@ -2071,11 +2067,13 @@
     }, 
     "slyfox": {
         "fingerprint": [
-            "9929AD151B96AF651958D35871A1EE76611FF3AA"
+            "9929AD151B96AF651958D35871A1EE76611FF3AA", 
+            "62197C11C7C25A61C448E95644FE231F3F3926E4"
         ], 
         "keydir": "slyfox", 
         "keys": [
-            "9929AD151B96AF651958D35871A1EE76611FF3AA"
+            "9929AD151B96AF651958D35871A1EE76611FF3AA", 
+            "62197C11C7C25A61C448E95644FE231F3F3926E4"
         ], 
         "name": "Sergei Trofimovich", 
         "nick": "slyfox", 
@@ -2601,11 +2599,11 @@
     }, 
     "zmedico": {
         "fingerprint": [
-            "86E5135378C81512BB9E7F32FDE8EF85AE5719A3"
+            "4758ACD8DA9AFD46A6A6040AD610CF3721E78ACD"
         ], 
         "keydir": "zmedico", 
         "keys": [
-            "86E5135378C81512BB9E7F32FDE8EF85AE5719A3"
+            "4758ACD8DA9AFD46A6A6040AD610CF3721E78ACD"
         ], 
         "name": "Zac Medico", 
         "nick": "zmedico", 

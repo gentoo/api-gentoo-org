@@ -945,12 +945,10 @@
     }, 
     "haubi": {
         "fingerprint": [
-            "304CB5926F4E1BBFBAA7C8742DCD1358A630CCB8", 
             "A863DD4A661C273CD3786EBB29FB0E9EC719EE20"
         ], 
         "keydir": "haubi", 
         "keys": [
-            "304CB5926F4E1BBFBAA7C8742DCD1358A630CCB8", 
             "A863DD4A661C273CD3786EBB29FB0E9EC719EE20"
         ], 
         "name": "Michael Haubenwallner", 
@@ -1453,11 +1451,11 @@
     }, 
     "mattm": {
         "fingerprint": [
-            "F3DBC3C4E94F0D289E6984A07077A5F71A86EBE4"
+            "23C9E04936B290DC3E00879F2D4B597C786037A7"
         ], 
         "keydir": "mattm", 
         "keys": [
-            "F3DBC3C4E94F0D289E6984A07077A5F71A86EBE4"
+            "23C9E04936B290DC3E00879F2D4B597C786037A7"
         ], 
         "name": "Matthew Marlowe", 
         "nick": "mattm", 
@@ -1666,12 +1664,14 @@
     "nicolasbock": {
         "fingerprint": [
             "E0D8020A7F1FC428ED0980487F5E6D64AC91CA52", 
-            "3AD6D9BE38C5F904B4FF80FA5D70C349F8E1DF4D"
+            "3AD6D9BE38C5F904B4FF80FA5D70C349F8E1DF4D", 
+            "594D59893CED2D74E3892FD3E3667F3F18550E12"
         ], 
         "keydir": "nicolasbock", 
         "keys": [
             "E0D8020A7F1FC428ED0980487F5E6D64AC91CA52", 
-            "3AD6D9BE38C5F904B4FF80FA5D70C349F8E1DF4D"
+            "3AD6D9BE38C5F904B4FF80FA5D70C349F8E1DF4D", 
+            "594D59893CED2D74E3892FD3E3667F3F18550E12"
         ], 
         "name": "Nicolas Bock", 
         "nick": "nicolasbock", 

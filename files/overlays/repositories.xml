@@ -5318,6 +5318,18 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/xfce.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>xoreos</name>
+    <description lang="en">Gentoo overlay for the xoreos project, providing a WIP reimplementation of the BioWare Aurora engine and related modding tools.</description>
+    <homepage>https://github.com/xoreos/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>drmccoy@drmccoy.de</email>
+      <name>Sven "DrMcCoy" Hesse</name>
+    </owner>
+    <source type="git">https://github.com/xoreos/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/xoreos/gentoo-overlay.git</source>
+    <feed>https://github.com/xoreos/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>xtreemfs</name>
     <description lang="en">XtreemFS, a cloud filesystem</description>
     <homepage>https://github.com/xtreemfs-gentoo/overlay</homepage>

@@ -128,14 +128,14 @@ FIN
   <repo quality="experimental" status="unofficial">
     <name>ag-ops</name>
     <description lang="en">Useful tools for SysAdmins or DevOps</description>
-    <homepage>https://github.com/ILMostro/ag-ops</homepage>
+    <homepage>https://gitlab.com/ILMostro/ag-ops</homepage>
     <owner type="person">
       <email>ilmostro7@gmail.com</email>
       <name>John Johnson</name>
     </owner>
-    <source type="git">https://github.com/ILMostro/ag-ops.git</source>
-    <source type="git">git+ssh://git@github.com/ILMostro/ag-ops.git</source>
-    <feed>https://github.com/ILMostro/ag-ops/commits/master.atom</feed>
+    <source type="git">https://gitlab.com/ILMostro/ag-ops.git</source>
+    <source type="git">git+ssh://git@gitlab.com/ILMostro/ag-ops.git</source>
+    <feed>https://gitlab.com/ILMostro/ag-ops/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>ago</name>
@@ -395,7 +395,7 @@ FIN
     <description>Argent Linux</description>
     <homepage>https://gitlab.com/argent/argent-main</homepage>
     <owner type="person">
-      <email>stefan.cristian@rogentos.ro</email>
+      <email>stefan.cristian+gentoo@rogentos.ro</email>
       <name>Stefan Cristian Brindusa</name>
     </owner>
     <source type="git">https://gitlab.com/argent/argent-main.git</source>
@@ -738,6 +738,17 @@ FIN
     </owner>
     <source type="git">https://github.com/l29ah/booboo.git</source>
     <feed>https://github.com/l29ah/booboo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>bright</name>
+    <description lang="en">BrightOne's personal overlay</description>
+    <homepage>https://gitlab.com/BrightOne/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>brightone@protonmail.com</email>
+      <name>Oleksii Filonenko</name>
+    </owner>
+    <source type="git">https://gitlab.com/BrightOne/gentoo-overlay.git</source>
+    <feed>https://gitlab.com/BrightOne/gentoo-overlay/commits/master?format=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>brother-overlay</name>
@@ -1682,17 +1693,6 @@ FIN
     <feed>https://github.com/PikkuJose/foxiverlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>frabjous</name>
-    <description lang="en">Overlay for apps related to secure communication, cryptography, cryptocurrency, server-side stuff, etc.</description>
-    <homepage>https://github.com/csmk/frabjous</homepage>
-    <owner type="person">
-      <email>gentoo@chaoslab.org</email>
-      <name>Ian Moone</name>
-    </owner>
-    <source type="git">https://github.com/csmk/frabjous.git</source>
-    <feed>https://github.com/csmk/frabjous/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>freeswitch</name>
     <description lang="en">Freeswitch Gentoo overlay</description>
     <homepage>https://github.com/alphallc/freeswitch/</homepage>
@@ -1941,6 +1941,16 @@ FIN
     </owner>
     <source type="git">git://github.com/microcai/gentoo-zh.git</source>
     <feed>https://github.com/microcai/gentoo-zh/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>gig</name>
+    <description>Gig OS's Overlay</description>
+    <homepage>https://github.com/Gig-OS/gig</homepage>
+    <owner type="person">
+      <email>yangmame@i2pmail.org</email>
+    </owner>
+    <source type="git">git://github.com/Gig-OS/gig.git</source>
+    <feed>https://github.com/Gig-OS/gig/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gitlab</name>
@@ -2518,8 +2528,8 @@ FIN
       <email>kde@gentoo.org</email>
       <name>KDE Team</name>
     </owner>
-    <source type="git">https://github.com/gentoo/kde.git</source>
     <source type="git">https://anongit.gentoo.org/git/proj/kde.git</source>
+    <source type="git">https://github.com/gentoo/kde.git</source>
     <source type="git">git://anongit.gentoo.org/proj/kde.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/kde.git</source>
     <feed>https://cgit.gentoo.org/proj/kde.git/atom/</feed>
@@ -2923,15 +2933,15 @@ FIN
     <name>matrix</name>
     <description lang="en">Overlay containing clients, servers and services for the Matrix protocol</description>
     <description lang="nl">Overlay met clients, servers en services voor het Matrix protocol</description>
-    <homepage>https://github.com/puretryout/matrix-overlay</homepage>
+    <homepage>https://gitlab.com/PureTryOut/matrix-overlay</homepage>
     <owner type="person">
-      <email>bart.ribbers@openmailbox.org</email>
+      <email>bribbers@disroot.org</email>
       <name>PureTryOut</name>
     </owner>
-    <source type="git">https://github.com/puretryout/matrix-overlay.git</source>
-    <source type="git">git://github.com/puretryout/matrix-overlay.git</source>
-    <source type="git">git@github.com:puretryout/matrix-overlay.git</source>
-    <feed>https://github.com/puretryout/matrix-overlay/commits/master.atom</feed>
+    <source type="git">https://gitlab.com/PureTryOut/matrix-overlay.git</source>
+    <source type="git">git://gitlab.com/PureTryOut/matrix-overlay.git</source>
+    <source type="git">git@gitlab.com:PureTryOut/matrix-overlay.git</source>
+    <feed>https://gitlab.com/PureTryOut/matrix-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>megacoffee</name>
@@ -4400,6 +4410,18 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/repo/user/sogo-connector.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>soltys</name>
+    <description lang="en">tools usefull on CTFs and things that aren't in the portage tristelune</description>
+    <homepage>https://github.com/soltysek/soltys-overlay</homepage>
+    <owner type="person">
+      <email>bgo@soltys.info</email>
+      <name>Krzysztof Korościk</name>
+    </owner>
+    <source type="git">https://github.com/soltysek/soltys-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/soltysek/soltys-overlay.git</source>
+    <feed>https://github.com/soltysek/soltys-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sorinp</name>
     <description lang="en">A collection of ebuilds that are missing or outdated or incomplete on the Gentoo portage official repository..</description>
     <homepage>https://github.com/psihozefir/sorinp-gentoo-overlay</homepage>
@@ -4732,6 +4754,18 @@ FIN
     <source type="git">git://github.com/tarantool/gentoo-overlay.git</source>
     <source type="git">git@github.com:tarantool/gentoo-overlay.git</source>
     <feed>https://github.com/tarantool/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>tastytea</name>
+    <description lang="en">Overlay of tastytea</description>
+    <homepage>https://schlomp.space/tastytea/overlay</homepage>
+    <owner type="person">
+      <email>gentoo@tastytea.de</email>
+      <name>tastytea</name>
+    </owner>
+    <source type="git">https://schlomp.space/tastytea/overlay.git</source>
+    <source type="git">https://git.tastytea.de/repos/overlay-tastytea.git</source>
+    <feed>https://git.tastytea.de/?p=overlay-tastytea.git;a=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>tengine-overlay</name>
@@ -5295,6 +5329,18 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/proj/xfce.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>xoreos</name>
+    <description lang="en">Gentoo overlay for the xoreos project, providing a WIP reimplementation of the BioWare Aurora engine and related modding tools.</description>
+    <homepage>https://github.com/xoreos/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>drmccoy@drmccoy.de</email>
+      <name>Sven "DrMcCoy" Hesse</name>
+    </owner>
+    <source type="git">https://github.com/xoreos/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/xoreos/gentoo-overlay.git</source>
+    <feed>https://github.com/xoreos/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>xtreemfs</name>
     <description lang="en">XtreemFS, a cloud filesystem</description>
     <homepage>https://github.com/xtreemfs-gentoo/overlay</homepage>
@@ -5409,6 +5455,18 @@ FIN
     <source type="git">git://github.com/yurijmikhalevich/yurij-overlay.git</source>
     <source type="git">git@github.com:yurijmikhalevich/yurij-overlay.git</source>
     <feed>https://github.com/yurijmikhalevich/yurij-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>zjpxshade</name>
+    <description lang="en">zjpxshade's ricerlay</description>
+    <homepage>https://github.com/zjpxshade/gentoo-zjpxshade</homepage>
+    <owner type="person">
+      <email>zjpxshade@gmail.com</email>
+      <name>Zach Pearson</name>
+    </owner>
+    <source type="git">https://github.com/zjpxshade/gentoo-zjpxshade.git</source>
+    <source type="git">git@github.com:zjpxshade/gentoo-zjpxshade.git</source>
+    <feed>https://github.com/zjpxshade/gentoo-zjpxshade/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>zoobab</name>

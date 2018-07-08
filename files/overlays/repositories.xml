@@ -4411,6 +4411,18 @@ FIN
     <!-- <feed>https://cgit.gentoo.org/repo/user/sogo-connector.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>soltys</name>
+    <description lang="en">tools usefull on CTFs and things that aren't in the portage tristelune</description>
+    <homepage>https://github.com/soltysek/soltys-overlay</homepage>
+    <owner type="person">
+      <email>bgo@soltys.info</email>
+      <name>Krzysztof Korościk</name>
+    </owner>
+    <source type="git">https://github.com/soltysek/soltys-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/soltysek/soltys-overlay.git</source>
+    <feed>https://github.com/soltysek/soltys-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sorinp</name>
     <description lang="en">A collection of ebuilds that are missing or outdated or incomplete on the Gentoo portage official repository..</description>
     <homepage>https://github.com/psihozefir/sorinp-gentoo-overlay</homepage>

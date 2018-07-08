@@ -1960,7 +1960,6 @@ FIN
       <email>romaniuk.cv@gmail.com</email>
       <name>Vadim Romaniuk</name>
     </owner>
-    <source type="git">git://gitlab.com/glicOne/glicOne-overlay.git</source>
     <source type="git">https://gitlab.com/glicOne/glicOne-overlay.git</source>
     <source type="git">git@gitlab.com:glicOne/glicOne-overlay.git</source>
     <feed>http://github.com/RomaniukVadim/glicOne-overlay/commits/master.atom</feed>

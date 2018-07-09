@@ -115,11 +115,13 @@
     }, 
     "amadio": {
         "fingerprint": [
-            "7B413A847FAF4D43AEF57C3D41F3D401762A0D12"
+            "7B413A847FAF4D43AEF57C3D41F3D401762A0D12", 
+            "46A01151F0F8045775E686FD163F3352A3B4F9FB"
         ], 
         "keydir": "amadio", 
         "keys": [
-            "7B413A847FAF4D43AEF57C3D41F3D401762A0D12"
+            "7B413A847FAF4D43AEF57C3D41F3D401762A0D12", 
+            "46A01151F0F8045775E686FD163F3352A3B4F9FB"
         ], 
         "name": "Guilherme Amadio", 
         "nick": "amadio", 
@@ -413,11 +415,11 @@
     }, 
     "chainsaw": {
         "fingerprint": [
-            "DA33CD48FBF41EE226538BA8A79BD6E2B5058F9A"
+            "CE243B85426767B67786FE23D2259B69BE871606"
         ], 
         "keydir": "chainsaw", 
         "keys": [
-            "DA33CD48FBF41EE226538BA8A79BD6E2B5058F9A"
+            "CE243B85426767B67786FE23D2259B69BE871606"
         ], 
         "name": "Tony Vroon", 
         "nick": "chainsaw", 
@@ -857,12 +859,10 @@
     }, 
     "grobian": {
         "fingerprint": [
-            "831C8A4776485F9FD3ED9A1E5F75F607C5C74E89", 
             "80C6A09A8D33302C1D2C06A93DC126BC457C8490"
         ], 
         "keydir": "grobian", 
         "keys": [
-            "831C8A4776485F9FD3ED9A1E5F75F607C5C74E89", 
             "80C6A09A8D33302C1D2C06A93DC126BC457C8490"
         ], 
         "name": "Fabian Groffen", 
@@ -1663,14 +1663,10 @@
     }, 
     "nicolasbock": {
         "fingerprint": [
-            "E0D8020A7F1FC428ED0980487F5E6D64AC91CA52", 
-            "3AD6D9BE38C5F904B4FF80FA5D70C349F8E1DF4D", 
             "594D59893CED2D74E3892FD3E3667F3F18550E12"
         ], 
         "keydir": "nicolasbock", 
         "keys": [
-            "E0D8020A7F1FC428ED0980487F5E6D64AC91CA52", 
-            "3AD6D9BE38C5F904B4FF80FA5D70C349F8E1DF4D", 
             "594D59893CED2D74E3892FD3E3667F3F18550E12"
         ], 
         "name": "Nicolas Bock", 
@@ -1793,13 +1789,11 @@
     }, 
     "pesa": {
         "fingerprint": [
-            "8E7AC01E36E39F8F972B2896D5CBB31C17A85C72", 
             "394F80215ABF6B7915DFAFF01DDFE604617D1F94", 
             "87F9BB3D803BDFF3179E2528DADED6B2671CB57D"
         ], 
         "keydir": "pesa", 
         "keys": [
-            "8E7AC01E36E39F8F972B2896D5CBB31C17A85C72", 
             "394F80215ABF6B7915DFAFF01DDFE604617D1F94", 
             "87F9BB3D803BDFF3179E2528DADED6B2671CB57D"
         ], 
@@ -2067,12 +2061,10 @@
     }, 
     "slyfox": {
         "fingerprint": [
-            "9929AD151B96AF651958D35871A1EE76611FF3AA", 
             "62197C11C7C25A61C448E95644FE231F3F3926E4"
         ], 
         "keydir": "slyfox", 
         "keys": [
-            "9929AD151B96AF651958D35871A1EE76611FF3AA", 
             "62197C11C7C25A61C448E95644FE231F3F3926E4"
         ], 
         "name": "Sergei Trofimovich", 
@@ -2585,11 +2577,11 @@
     }, 
     "zlogene": {
         "fingerprint": [
-            "3BE50CBFC7DFC748D903B5D31BDC0E5AC42EB5D6"
+            "513C4C1DBBA5EE86B8D943BD3E7E1C21A9D14B97"
         ], 
         "keydir": "zlogene", 
         "keys": [
-            "3BE50CBFC7DFC748D903B5D31BDC0E5AC42EB5D6"
+            "513C4C1DBBA5EE86B8D943BD3E7E1C21A9D14B97"
         ], 
         "name": "Mikle Kolyada", 
         "nick": "zlogene", 

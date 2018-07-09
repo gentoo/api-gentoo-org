@@ -1949,7 +1949,7 @@ FIN
     <owner type="person">
       <email>yangmame@i2pmail.org</email>
     </owner>
-    <source type="git">git://github.com/Gig-OS/gig.git</source>
+    <source type="git">https://github.com/Gig-OS/gig.git</source>
     <feed>https://github.com/Gig-OS/gig/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

@@ -4861,6 +4861,17 @@ FIN
     <feed>https://cgit.gentoo.org/dev/TomWij.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/TomWij.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>trojan-gentoo</name>
+    <description lang="en">Gentoo overlay for trojan.</description>
+    <homepage>https://github.com/trojan-gfw/trojan-gentoo.git/</homepage>
+    <owner type="person">
+      <email>GreaterFire@protonmail.com</email>
+      <name>GreaterFire</name>
+    </owner>
+    <source type="git">https://github.com/trojan-gfw/trojan-gentoo.git</source>
+    <feed>https://github.com/trojan-gfw/trojan-gentoo/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>toolchain</name>
     <description>Toolchain ebuilds that are unsuitable for the tree. Snapshots,

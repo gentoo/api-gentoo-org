@@ -1,20 +1,4 @@
 {
-    "a3li": {
-        "fingerprint": [
-            "53687A1A7BACAA700721F9AB36BA656112EE3000", 
-            "F8983D196A520EF17451C53493EA2A85F3C06469"
-        ], 
-        "keydir": "a3li", 
-        "keys": [
-            "53687A1A7BACAA700721F9AB36BA656112EE3000", 
-            "F8983D196A520EF17451C53493EA2A85F3C06469"
-        ], 
-        "name": "Alex Legler", 
-        "nick": "a3li", 
-        "uid": [
-            "Alex Legler <a3li@gentoo.org>"
-        ]
-    }, 
     "aballier": {
         "fingerprint": [
             "A93B16B16998A428D54D96C60E2548BBC607E5AE"
@@ -1491,20 +1475,6 @@
             "Micha\u0142 G\u00f3rny <mgorny@gentoo.org>"
         ]
     }, 
-    "miska": {
-        "fingerprint": [
-            "E994F4360AB24735B605077A54719857C7F5417F"
-        ], 
-        "keydir": "miska", 
-        "keys": [
-            "E994F4360AB24735B605077A54719857C7F5417F"
-        ], 
-        "name": "Michal Hru\u0161eck\u00fd", 
-        "nick": "miska", 
-        "uid": [
-            "Michal Hru\u0161eck\u00fd <miska@gentoo.org>"
-        ]
-    }, 
     "mjo": {
         "fingerprint": [
             "6B3C93374BBB3F5578FBAC491C49724D229E93A2"
@@ -1927,20 +1897,6 @@
         "nick": "rafaelmartins", 
         "uid": [
             "Rafael Martins <rafaelmartins@gentoo.org>"
-        ]
-    }, 
-    "ramereth": {
-        "fingerprint": [
-            "042392F3544A12825AB14D07416FA15D27F4B742"
-        ], 
-        "keydir": "ramereth", 
-        "keys": [
-            "042392F3544A12825AB14D07416FA15D27F4B742"
-        ], 
-        "name": "Lance Albertson", 
-        "nick": "ramereth", 
-        "uid": [
-            "Lance Albertson <ramereth@gentoo.org>"
         ]
     }, 
     "reavertm": {

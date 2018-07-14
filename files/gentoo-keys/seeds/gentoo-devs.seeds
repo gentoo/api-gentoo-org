@@ -187,11 +187,11 @@
     }, 
     "axs": {
         "fingerprint": [
-            "A2C4D5C5A3D795BF11CB1838DAE81A237F0008F0"
+            "0DBBD5052053DFBA9C90F0305634AD8719450FBA"
         ], 
         "keydir": "axs", 
         "keys": [
-            "A2C4D5C5A3D795BF11CB1838DAE81A237F0008F0"
+            "0DBBD5052053DFBA9C90F0305634AD8719450FBA"
         ], 
         "name": "Ian Stakenvicius", 
         "nick": "axs", 
@@ -687,11 +687,11 @@
     }, 
     "expeditioneer": {
         "fingerprint": [
-            "41A0510B55A4B9823D13A9833B88FD2E13CE979C"
+            "B6D7A797BA59EB6937DB8CF599A1F814E85FF5C4"
         ], 
         "keydir": "expeditioneer", 
         "keys": [
-            "41A0510B55A4B9823D13A9833B88FD2E13CE979C"
+            "B6D7A797BA59EB6937DB8CF599A1F814E85FF5C4"
         ], 
         "name": "Dennis Lamm", 
         "nick": "expeditioneer", 

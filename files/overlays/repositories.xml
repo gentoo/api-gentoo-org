@@ -1943,6 +1943,20 @@ FIN
     <feed>https://github.com/microcai/gentoo-zh/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gerislay</name>
+    <description lang="en">A personal overlay with no specific focus (mainly to
+      test ebuilds). Highly experimental. It is meant as a playground for me,
+      but others might be interested.</description>
+    <homepage>https://cgit.gentoo.org/repo/user/gerislay.git</homepage>
+    <owner type="person">
+      <email>gerion.entrup@flump.de</email>
+      <name>gerion</name>
+    </owner>
+    <source type="git">https://anongit.gentoo.org/git/repo/user/gerislay.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/user/gerislay.git</source>
+    <feed>https://cgit.gentoo.org/repo/user/gerislay.git/atom/</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gig</name>
     <description>Gig OS's Overlay</description>
     <homepage>https://github.com/Gig-OS/gig</homepage>

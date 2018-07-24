@@ -4803,6 +4803,19 @@ FIN
     <source type="git">https://github.com/Tux1c/tf201-overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>tgbugs-overlay</name>
+    <description>tgbugs portage overlay for custom ebuilds</description>
+    <homepage>https://github.com/tgbugs/tgbugs-overlay</homepage>
+    <owner type="person">
+      <email>tgbugs@gmail.com</email>
+      <name>Tom Gillespie</name>
+    </owner>
+    <source type="git">https://github.com/tgbugs/tgbugs-overlay.git</source>
+    <source type="git">git://github.com/tgbugs/tgbugs-overlay.git</source>
+    <source type="git">git@github.com:tgbugs/tgbugs-overlay.git</source>
+    <feed>https://github.com/tgbugs/tgbugs-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>thabairne</name>
     <description lang="en">ntnn's Overlay</description>
     <homepage>https://github.com/ntnn/gentoo-thabairne</homepage>

@@ -85,11 +85,11 @@
     }, 
     "alonbl": {
         "fingerprint": [
-            "8A2FE85CFCA42D74480B4B235D893D18BF20DC51"
+            "80AD55AC723BCA917933FB14ACB9605F4CFE6A57"
         ], 
         "keydir": "alonbl", 
         "keys": [
-            "8A2FE85CFCA42D74480B4B235D893D18BF20DC51"
+            "80AD55AC723BCA917933FB14ACB9605F4CFE6A57"
         ], 
         "name": "Alon Bar-Lev", 
         "nick": "alonbl", 
@@ -211,20 +211,6 @@
         "nick": "beandog", 
         "uid": [
             "Steve Dibb <beandog@gentoo.org>"
-        ]
-    }, 
-    "bernalex": {
-        "fingerprint": [
-            "6F100BDFB3B6A1EA31E854D146D0A5AD705073B5"
-        ], 
-        "keydir": "bernalex", 
-        "keys": [
-            "6F100BDFB3B6A1EA31E854D146D0A5AD705073B5"
-        ], 
-        "name": "Alexander Berntsen", 
-        "nick": "bernalex", 
-        "uid": [
-            "Alexander Berntsen <bernalex@gentoo.org>"
         ]
     }, 
     "billie": {
@@ -659,11 +645,13 @@
     }, 
     "eras": {
         "fingerprint": [
-            "AB956C45C171BE68F984CC0977F1F175586A3B1F"
+            "AB956C45C171BE68F984CC0977F1F175586A3B1F", 
+            "0DA0BA4E41401380DA9D81C7F0F05687079A7DCB"
         ], 
         "keydir": "eras", 
         "keys": [
-            "AB956C45C171BE68F984CC0977F1F175586A3B1F"
+            "AB956C45C171BE68F984CC0977F1F175586A3B1F", 
+            "0DA0BA4E41401380DA9D81C7F0F05687079A7DCB"
         ], 
         "name": "Eray Aslan", 
         "nick": "eras", 
@@ -811,20 +799,6 @@
         "nick": "graaff", 
         "uid": [
             "Hans de Graaff <graaff@gentoo.org>"
-        ]
-    }, 
-    "gregkh": {
-        "fingerprint": [
-            "576B64A97A94564874A25E3286E2343F0E54C55A"
-        ], 
-        "keydir": "gregkh", 
-        "keys": [
-            "576B64A97A94564874A25E3286E2343F0E54C55A"
-        ], 
-        "name": "Greg Kroah-Hartman", 
-        "nick": "gregkh", 
-        "uid": [
-            "Greg Kroah-Hartman <gregkh@gentoo.org>"
         ]
     }, 
     "grknight": {
@@ -1729,20 +1703,6 @@
             "Patrick Lauer <patrick@gentoo.org>"
         ]
     }, 
-    "pchrist": {
-        "fingerprint": [
-            "0A881030CD44FDB2A001E76E3AC579B91BC03656"
-        ], 
-        "keydir": "pchrist", 
-        "keys": [
-            "0A881030CD44FDB2A001E76E3AC579B91BC03656"
-        ], 
-        "name": "Panagiotis Christopoulos", 
-        "nick": "pchrist", 
-        "uid": [
-            "Panagiotis Christopoulos <pchrist@gentoo.org>"
-        ]
-    }, 
     "perfinion": {
         "fingerprint": [
             "63191CE94183098689CAB8DB7EF137EC935B0EAF"
@@ -2315,11 +2275,11 @@
     }, 
     "ultrabug": {
         "fingerprint": [
-            "AAC310CABF9DB5D6A25006222A24124BB658FA13"
+            "F30FAFEE3BD598228B24CB121A3A8C89C56D610B"
         ], 
         "keydir": "ultrabug", 
         "keys": [
-            "AAC310CABF9DB5D6A25006222A24124BB658FA13"
+            "F30FAFEE3BD598228B24CB121A3A8C89C56D610B"
         ], 
         "name": "Alexys Jacob", 
         "nick": "ultrabug", 

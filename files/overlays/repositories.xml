@@ -3520,8 +3520,8 @@ FIN
     <description lang="en">pholthaus' personal overlay</description>
     <homepage>https://github.com/pholthau/pholthaus-overlay</homepage>
     <owner type="person">
-      <email>Patrick Holthaus</email>
-      <name>patrick.holthaus@googlemail.com</name>
+      <email>patrick.holthaus@googlemail.com</email>
+      <name>Patrick Holthaus</name>
     </owner>
     <source type="git">https://github.com/pholthau/pholthaus-overlay.git</source>
     <source type="git">git+ssh://git@github.com/pholthau/pholthaus-overlay.git</source>

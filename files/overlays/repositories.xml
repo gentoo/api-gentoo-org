@@ -3516,6 +3516,18 @@ FIN
     <feed>https://github.com/perfect7gentleman/pg_overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>pholthaus-overlay</name>
+    <description lang="en">pholthaus' personal overlay</description>
+    <homepage>https://github.com/pholthau/pholthaus-overlay</homepage>
+    <owner type="person">
+      <email>Patrick Holthaus</email>
+      <name>patrick.holthaus@googlemail.com</name>
+    </owner>
+    <source type="git">https://github.com/pholthau/pholthaus-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/pholthau/pholthaus-overlay.git</source>
+    <feed>https://github.com//pholthau/pholthaus-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>pica-pica</name>
     <description lang="en">Pica Pica ebuilds</description>
     <homepage>https://github.com/antonsviridenko/pica-pica-gentoo-overlay</homepage>

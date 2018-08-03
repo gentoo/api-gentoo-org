@@ -2163,11 +2163,13 @@
     }, 
     "titanofold": {
         "fingerprint": [
-            "2C0077194F85FB07A49C0E315713AA03D1BBFDA0"
+            "2C0077194F85FB07A49C0E315713AA03D1BBFDA0", 
+            "9B32F2A48C1FF4E01E23CEEA2153C852F779174F"
         ], 
         "keydir": "titanofold", 
         "keys": [
-            "2C0077194F85FB07A49C0E315713AA03D1BBFDA0"
+            "2C0077194F85FB07A49C0E315713AA03D1BBFDA0", 
+            "9B32F2A48C1FF4E01E23CEEA2153C852F779174F"
         ], 
         "name": "Aaron Swenson", 
         "nick": "titanofold", 

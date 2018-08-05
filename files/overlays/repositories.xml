@@ -1485,6 +1485,18 @@ FIN
     <feed>https://cgit.gentoo.org/user/eroen.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/eroen.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>eugene-bright</name>
+    <description lang="en">The personal overlay of Eugene Bright</description>
+    <homepage>https://github.com/eugene-bright/eugene-bright-overlay</homepage>
+    <owner type="person">
+      <email>eugene@bright.gdn</email>
+      <name>Eugene Bright</name>
+    </owner>
+    <source type="git">https://github.com/eugene-bright/eugene-bright-overlay.git</source>
+    <source type="git">git@github.com:eugene-bright/eugene-bright-overlay.git</source>
+    <feed>https://github.com/eugene-bright/eugene-bright-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>eva</name>
     <description lang="en">Developer overlay</description>

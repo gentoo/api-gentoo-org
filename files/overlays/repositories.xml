@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE repositories SYSTEM "http://www.gentoo.org/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
-<!--
-SYN
-When adding repositories, please keep this file ordered by repository name.
-* TEMPLATE TO COPY'N'PASTE UNOFFICIAL REPOSITORIES
-  <repo quality="experimental" status="unofficial">
-    <name>XXXXXX</name>
-    <description lang="en">XXXXXX</description>
-    <homepage>XXXXXX</homepage>
-    <owner type="person">
-      <email>XXXXXX</email>
+  <!--
+  SYN
+  When adding repositories, please keep this file ordered by repository name.
+  * TEMPLATE TO COPY'N'PASTE UNOFFICIAL REPOSITORIES
+    <repo quality="experimental" status="unofficial">
       <name>XXXXXX</name>
-    </owner>
-    <source type="git">XXXXXX</source>
-    <feed>XXXXXXXXX</feed>
-  </repo>
-* GENTOO TEMPLATE
-  <repo quality="experimental" status="unofficial">
-    <name>XXXXX</name>
-    <description lang="en">XXXXXX</description>
-    <homepage>https://cgit.gentoo.org/XXXX/xxxx</homepage>
-    <owner type="person">
-      <email>XXXXX</email>
+      <description lang="en">XXXXXX</description>
+      <homepage>XXXXXX</homepage>
+      <owner type="person">
+        <email>XXXXXX</email>
+        <name>XXXXXX</name>
+      </owner>
+      <source type="git">XXXXXX</source>
+      <feed>XXXXXXXXX</feed>
+    </repo>
+  * GENTOO TEMPLATE
+    <repo quality="experimental" status="unofficial">
       <name>XXXXX</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/XXXX/xxxx.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/XXXX/xxxx.git</source>
-    <feed>https://cgit.gentoo.org/XXXX/xxxx/atom/</feed>
-  </repo>
-* GITHUB TEMPLATE
-  <repo quality="experimental" status="unofficial">
-    <name>XXXXX</name>
-    <description lang="en">XXXXXX</description>
-    <homepage>https://github.com/XXXX/xxxx</homepage>
-    <owner type="person">
-      <email>XXXXX</email>
+      <description lang="en">XXXXXX</description>
+      <homepage>https://cgit.gentoo.org/XXXX/xxxx</homepage>
+      <owner type="person">
+        <email>XXXXX</email>
+        <name>XXXXX</name>
+      </owner>
+      <source type="git">https://anongit.gentoo.org/git/XXXX/xxxx.git</source>
+      <source type="git">git+ssh://git@git.gentoo.org/XXXX/xxxx.git</source>
+      <feed>https://cgit.gentoo.org/XXXX/xxxx/atom/</feed>
+    </repo>
+  * GITHUB TEMPLATE
+    <repo quality="experimental" status="unofficial">
       <name>XXXXX</name>
-    </owner>
-    <source type="git">https://github.com/XXXX/xxxx.git</source>
-    <source type="git">git+ssh://git@github.com/XXXX/xxxx.git</source>
-    <feed>https://github.com/XXXX/xxxx/commits/master.atom</feed>
-  </repo>
-* BITBUCKET TEMPLATE
-  <repo quality="experimental" status="unofficial">
-    <name>XXXX</name>
-    <description lang="en">XXXXXX</description>
-    <homepage>https://bitbucket.org/XXXX/xxxx</homepage>
-    <owner type="person">
-      <email>XXXXX</email>
-      <name>XXXXX</name>
-    </owner>
-    <source type="mercurial">https://bitbucket.org/XXXX/xxxx</source>
-    <source type="mercurial">ssh://hg@bitbucket.org/XXXX/xxxx</source>
-    <feed>https://bitbucket.org/XXXX/xxxx/atom</feed>
-    <feed>https://bitbucket.org/XXXX/xxxx/rss</feed>
-  </repo>
-FIN
--->
+      <description lang="en">XXXXXX</description>
+      <homepage>https://github.com/XXXX/xxxx</homepage>
+      <owner type="person">
+        <email>XXXXX</email>
+        <name>XXXXX</name>
+      </owner>
+      <source type="git">https://github.com/XXXX/xxxx.git</source>
+      <source type="git">git+ssh://git@github.com/XXXX/xxxx.git</source>
+      <feed>https://github.com/XXXX/xxxx/commits/master.atom</feed>
+    </repo>
+  * BITBUCKET TEMPLATE
+    <repo quality="experimental" status="unofficial">
+      <name>XXXX</name>
+      <description lang="en">XXXXXX</description>
+      <homepage>https://bitbucket.org/XXXX/xxxx</homepage>
+      <owner type="person">
+        <email>XXXXX</email>
+        <name>XXXXX</name>
+      </owner>
+      <source type="mercurial">https://bitbucket.org/XXXX/xxxx</source>
+      <source type="mercurial">ssh://hg@bitbucket.org/XXXX/xxxx</source>
+      <feed>https://bitbucket.org/XXXX/xxxx/atom</feed>
+      <feed>https://bitbucket.org/XXXX/xxxx/rss</feed>
+    </repo>
+  FIN
+  -->
   <repo quality="experimental" status="unofficial">
     <name>0x4d4c</name>
     <description lang="en">Personal overlay with no special focus</description>

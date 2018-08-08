@@ -269,20 +269,6 @@
             "Nicholas D. Wolfwood <blackace@gentoo.org>"
         ]
     }, 
-    "blueboar": {
-        "fingerprint": [
-            "3BB7A50384E257904DD41512A8A86345284E7EAC"
-        ], 
-        "keydir": "blueboar", 
-        "keys": [
-            "3BB7A50384E257904DD41512A8A86345284E7EAC"
-        ], 
-        "name": "Vladimir Romanov", 
-        "nick": "blueboar", 
-        "uid": [
-            "Vladimir Romanov <blueboar@gentoo.org>"
-        ]
-    }, 
     "blueknight": {
         "fingerprint": [
             "885889D6C0C475C4D0DDFA00EEAFED89024C043D"
@@ -299,12 +285,10 @@
     }, 
     "blueness": {
         "fingerprint": [
-            "80405A4D870921B11A8833CE979CAF40D0455535", 
             "1FEDFAD9D82C52A53BABDC799384FA6EF52D4BBA"
         ], 
         "keydir": "blueness", 
         "keys": [
-            "80405A4D870921B11A8833CE979CAF40D0455535", 
             "1FEDFAD9D82C52A53BABDC799384FA6EF52D4BBA"
         ], 
         "name": "Anthony G. Basile", 
@@ -515,13 +499,11 @@
     }, 
     "d2_racing": {
         "fingerprint": [
-            "7C412D552561EE865EDCABEE83EE454BCBF52D70", 
-            "2EC6A2FD2E83726EB2480D55D1AABA1DF35C79B9"
+            "7C412D552561EE865EDCABEE83EE454BCBF52D70"
         ], 
         "keydir": "d2_racing", 
         "keys": [
-            "7C412D552561EE865EDCABEE83EE454BCBF52D70", 
-            "2EC6A2FD2E83726EB2480D55D1AABA1DF35C79B9"
+            "7C412D552561EE865EDCABEE83EE454BCBF52D70"
         ], 
         "name": "Sylvain Alain", 
         "nick": "d2_racing", 
@@ -733,11 +715,11 @@
     }, 
     "floppym": {
         "fingerprint": [
-            "52CC9D6D11E5BE792A8EA2A30BBEEA1FEA4843A4"
+            "226DE4AA4B9704A49DEF6B9B1A333AEFBD714C02"
         ], 
         "keydir": "floppym", 
         "keys": [
-            "52CC9D6D11E5BE792A8EA2A30BBEEA1FEA4843A4"
+            "226DE4AA4B9704A49DEF6B9B1A333AEFBD714C02"
         ], 
         "name": "Mike Gilbert", 
         "nick": "floppym", 
@@ -1293,20 +1275,6 @@
         "nick": "lejonet", 
         "uid": [
             "Daniel Kuehn <lejonet@gentoo.org>"
-        ]
-    }, 
-    "lh": {
-        "fingerprint": [
-            "13DA81D8528751FE7B153B7408EB1DC79C49755A"
-        ], 
-        "keydir": "lh", 
-        "keys": [
-            "13DA81D8528751FE7B153B7408EB1DC79C49755A"
-        ], 
-        "name": "Leslie Hawthorn", 
-        "nick": "lh", 
-        "uid": [
-            "Leslie Hawthorn <lh@gentoo.org>"
         ]
     }, 
     "lordvan": {
@@ -2033,20 +2001,6 @@
             "Sebastian Pipping <sping@gentoo.org>"
         ]
     }, 
-    "spiros": {
-        "fingerprint": [
-            "368A3A018CD7FE98BAF7F5E1828FB21C709F4043"
-        ], 
-        "keydir": "spiros", 
-        "keys": [
-            "368A3A018CD7FE98BAF7F5E1828FB21C709F4043"
-        ], 
-        "name": "Andrea Arteaga", 
-        "nick": "spiros", 
-        "uid": [
-            "Andrea Arteaga <spiros@gentoo.org>"
-        ]
-    }, 
     "stasibear": {
         "fingerprint": [
             "C584CB225849EF8065E37F0D6B61E4CCEA210C51"
@@ -2335,20 +2289,6 @@
         "nick": "vikraman", 
         "uid": [
             "Vikraman Choudhury <vikraman@gentoo.org>"
-        ]
-    }, 
-    "vincent": {
-        "fingerprint": [
-            "BBC5025DD7F72B888FA24B935AE9E7B2E9BBCBA8"
-        ], 
-        "keydir": "vincent", 
-        "keys": [
-            "BBC5025DD7F72B888FA24B935AE9E7B2E9BBCBA8"
-        ], 
-        "name": "Vicente Olivert Riera", 
-        "nick": "vincent", 
-        "uid": [
-            "Vicente Olivert Riera <vincent@gentoo.org>"
         ]
     }, 
     "voyageur": {

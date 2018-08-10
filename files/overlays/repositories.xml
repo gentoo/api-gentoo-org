@@ -3729,6 +3729,18 @@
     <feed>https://github.com/Pross/pross-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>prototype99</name>
+    <description lang="en">assorted ebuilds designed to solve bugs, or bring new features</description>
+    <homepage>https://github.com/prototype99/prototype99</homepage>
+    <owner type="person">
+      <email>general@sarifria.x10.bz</email>
+      <name>Seirra Blake</name>
+    </owner>
+    <source type="git">https://github.com/prototype99/prototype99.git</source>
+    <source type="git">git+ssh://git@github.com/prototype99/prototype99.git</source>
+    <feed>https://github.com/prototype99/prototype99/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>psix-overlay</name>
     <description lang="en">zabuldon's personal overlay</description>
     <homepage>https://github.com/zabuldon/psix-overlay</homepage>

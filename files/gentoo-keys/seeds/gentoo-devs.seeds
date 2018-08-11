@@ -2350,12 +2350,14 @@
     "wizardedit": {
         "fingerprint": [
             "6C589DFE65C2111A54B8752514FBD7EAA041937B", 
-            "520FB412FAF5C0D9EC1EF56A00B32957B94BF3E1"
+            "520FB412FAF5C0D9EC1EF56A00B32957B94BF3E1", 
+            "58CCFA69798021925BAA8883AC7D7DF0FAA63919"
         ], 
         "keydir": "wizardedit", 
         "keys": [
             "6C589DFE65C2111A54B8752514FBD7EAA041937B", 
-            "520FB412FAF5C0D9EC1EF56A00B32957B94BF3E1"
+            "520FB412FAF5C0D9EC1EF56A00B32957B94BF3E1", 
+            "58CCFA69798021925BAA8883AC7D7DF0FAA63919"
         ], 
         "name": "Austin English", 
         "nick": "wizardedit", 

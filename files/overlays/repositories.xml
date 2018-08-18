@@ -5605,7 +5605,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>jellybean</name>
-    <description lang="en">My persnol overlay</description>
+    <description lang="en">My personal overlay</description>
     <homepage>https://github.com/qi777xj/jellybean</homepage>
     <owner type="person">
       <email>qi777xj@gmail.com</email>

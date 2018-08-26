@@ -83,12 +83,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://gentoo.c3sl.ufpr.br/gentoo/</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Europe" country="AT" countryname="Austria">
-    <mirror>
-      <name>Vienna Univ. of Technology</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gd.tuwien.ac.at/opsys/linux/gentoo/</uri>
-    </mirror>
-  </mirrorgroup>
   <!--
   <mirrorgroup region="Europe" country="BG" countryname="Bulgaria">
   </mirrorgroup>
@@ -229,11 +223,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.vectranet.pl/gentoo/</uri>
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ftp.vectranet.pl/gentoo/</uri>
     </mirror>
-    <mirror>
-      <name>Rzeszow University of Technology</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://gentoo.prz.rzeszow.pl/gentoo</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.prz.rzeszow.pl</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="PT" countryname="Portugal">
     <mirror>
@@ -285,13 +274,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>Evowise.com (Anycast: Madrid)</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.evowise.com/gentoo/</uri>
-    </mirror>
-  </mirrorgroup>
-  <mirrorgroup region="Europe" country="CH" countryname="Switzerland">
-    <mirror>
-      <name>SWITCHmirror</name>
-      <uri protocol="http" ipv6="y" ipv4="y" partial="n">http://mirror.switch.ch/ftp/mirror/gentoo/</uri>
-      <uri protocol="ftp" ipv6="y" ipv4="y" partial="n">ftp://mirror.switch.ch/mirror/gentoo/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="TR" countryname="Turkey">

@@ -3438,6 +3438,18 @@
     <feed>https://cgit.gentoo.org/user/palmer.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/palmer.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>panther</name>
+    <description lang="en">Fun useful packages not found elsewhere</description>
+    <homepage>https://github.com/orangeturtle739/panther</homepage>
+    <owner type="person">
+      <email>swimgiraffe435@gmail.com</email>
+      <name>Jacob Glueck</name>
+    </owner>
+    <source type="git">https://github.com/orangeturtle739/panther.git</source>
+    <source type="git">git+ssh://git@github.com/orangeturtle739/panther.git</source>
+    <feed>https://github.com/orangeturtle739/panther/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>pchrist</name>
     <description>Panagiotis Christopoulos developer overlay</description>

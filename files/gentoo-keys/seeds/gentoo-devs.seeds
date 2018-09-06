@@ -669,20 +669,6 @@
             "Dennis Lamm <expeditioneer@gentoo.org>"
         ]
     }, 
-    "fearedbliss": {
-        "fingerprint": [
-            "34DA858C1447509EC77AD49FFB8590B7C4CA5279"
-        ], 
-        "keydir": "fearedbliss", 
-        "keys": [
-            "34DA858C1447509EC77AD49FFB8590B7C4CA5279"
-        ], 
-        "name": "Jonathan Vasquez", 
-        "nick": "fearedbliss", 
-        "uid": [
-            "Jonathan Vasquez <fearedbliss@gentoo.org>"
-        ]
-    }, 
     "flameeyes": {
         "fingerprint": [
             "BDAEF3008A1CC62079C2A16847664B94E36B629F", 
@@ -823,20 +809,6 @@
         "nick": "grozin", 
         "uid": [
             "Andrey Grozin <grozin@gentoo.org>"
-        ]
-    }, 
-    "gurligebis": {
-        "fingerprint": [
-            "C3E9529E2623D19A63AE11B44098E52BC835A25A"
-        ], 
-        "keydir": "gurligebis", 
-        "keys": [
-            "C3E9529E2623D19A63AE11B44098E52BC835A25A"
-        ], 
-        "name": "Bjarke Istrup Pedersen", 
-        "nick": "gurligebis", 
-        "uid": [
-            "Bjarke Istrup Pedersen <gurligebis@gentoo.org>"
         ]
     }, 
     "gyakovlev": {
@@ -997,11 +969,11 @@
     }, 
     "jer": {
         "fingerprint": [
-            "C635642FB278E38BD6EF1C18556991B2A792A613"
+            "FC2FC847735B85199274DEB4817C44056D144E3C"
         ], 
         "keydir": "jer", 
         "keys": [
-            "C635642FB278E38BD6EF1C18556991B2A792A613"
+            "FC2FC847735B85199274DEB4817C44056D144E3C"
         ], 
         "name": "Jeroen Roovers", 
         "nick": "jer", 
@@ -1263,20 +1235,6 @@
             "Mart Raudsepp <leio@gentoo.org>"
         ]
     }, 
-    "lejonet": {
-        "fingerprint": [
-            "AD7920A76FAB6482ADD168DED4F46A05270273AF"
-        ], 
-        "keydir": "lejonet", 
-        "keys": [
-            "AD7920A76FAB6482ADD168DED4F46A05270273AF"
-        ], 
-        "name": "Daniel Kuehn", 
-        "nick": "lejonet", 
-        "uid": [
-            "Daniel Kuehn <lejonet@gentoo.org>"
-        ]
-    }, 
     "lordvan": {
         "fingerprint": [
             "1BBA82B22B7F39114AEB58FE3E59FAEF53F400D2"
@@ -1433,12 +1391,10 @@
     }, 
     "monsieurp": {
         "fingerprint": [
-            "F75BDDDB27E3042AF2ADAAE99191A5F193491BB8", 
             "A1F56D3486BF87FC9CA177DC67D7F19D9B191CE8"
         ], 
         "keydir": "monsieurp", 
         "keys": [
-            "F75BDDDB27E3042AF2ADAAE99191A5F193491BB8", 
             "A1F56D3486BF87FC9CA177DC67D7F19D9B191CE8"
         ], 
         "name": "Patrice Clement", 
@@ -1873,12 +1829,10 @@
     }, 
     "robbat2": {
         "fingerprint": [
-            "11ACBA4F4778E3F6E4EDF38EB27B944E34884E85", 
             "7D0B3CEBE9B85B1F825BCECFEE05E6F6A48F6136"
         ], 
         "keydir": "robbat2", 
         "keys": [
-            "11ACBA4F4778E3F6E4EDF38EB27B944E34884E85", 
             "7D0B3CEBE9B85B1F825BCECFEE05E6F6A48F6136"
         ], 
         "name": "Robin H. Johnson", 

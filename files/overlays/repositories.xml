@@ -2636,20 +2636,6 @@
     <feed>https://github.com/konsolebox/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>kork</name>
-    <description lang="en">Cool, new, useful, and unmaintained packages</description>
-    <homepage>https://cgit.gentoo.org/user/kork.git/</homepage>
-    <owner type="person">
-      <email>hsggebhardt@gmail.com</email>
-      <name>Henry Gebhardt</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/kork.git</source>
-    <source type="git">git://anongit.gentoo.org/user/kork.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/kork.git</source>
-    <feed>https://cgit.gentoo.org/user/kork.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/kork.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>Krontage</name>
     <description lang="en">Personal overlay of Kron</description>
     <homepage>https://github.com/undying/krontage</homepage>

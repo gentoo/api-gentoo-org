@@ -2835,18 +2835,6 @@
     <!-- <feed>https://cgit.gentoo.org/dev/lordvan.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>lorelei</name>
-    <description lang="en">Pre-release ebuilds for lorelei's projects</description>
-    <homepage>https://github.com/bignaux/lorelei-overlay</homepage>
-    <owner type="person">
-      <email>ronan@aimao.org</email>
-      <name>Ronan Bignaux</name>
-    </owner>
-    <source type="git">git://github.com/bignaux/lorelei-overlay.git</source>
-    <source type="git">https://github.com/bignaux/lorelei-overlay.git</source>
-    <feed>https://github.com/feeds/bignaux/commits/lorelei-overlay/master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>lto-overlay</name>
     <description lang="en">A Portage configuration for O3, Graphite, and LTO system-wide</description>
     <homepage>https://github.com/InBetweenNames/gentooLTO</homepage>

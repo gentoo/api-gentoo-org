@@ -740,6 +740,17 @@
     <feed>https://github.com/l29ah/booboo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name><![CDATA[brave-overlay]]></name>
+    <description lang="en"><![CDATA[Brave Overlay]]></description>
+    <homepage>https://gitlab.com/jason.oliveira/brave-overlay</homepage>
+    <owner type="person">
+      <email>jason.oliveira@medicalcannab.is</email>
+      <name><![CDATA[Jason Oliveira]]></name>
+    </owner>
+    <source type="git">https://gitlab.com/jason.oliveira/brave-overlay.git</source>
+    <feed>https://gitlab.com/jason.oliveira/brave-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>bright</name>
     <description lang="en">BrightOne's personal overlay</description>
     <homepage>https://gitlab.com/BrightOne/gentoo-overlay</homepage>

@@ -2061,6 +2061,18 @@
     <!-- <feed>https://cgit.gentoo.org/proj/gnustep.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gnux32</name>
+    <description lang="en">A personal overlay with ebuilds for the x32 ABI</description>
+    <homepage>https://github.com/1camper/gnux32</homepage>
+    <owner type="person">
+      <email>theonetruecamper@gmx.de</email>
+      <name>Matthias Räncker</name>
+    </owner>
+    <source type="git">https://github.com/1camper/gnux32.git</source>
+    <source type="git">git://github.com/1camper/gnux32.git</source>
+    <feed>https://github.com/1camper/gnux32/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>go-overlay</name>
     <description lang="en">Golang related ebuilds</description>
     <homepage>https://github.com/Dr-Terrible/go-overlay</homepage>

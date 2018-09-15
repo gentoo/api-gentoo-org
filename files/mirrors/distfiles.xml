@@ -344,6 +344,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ftp.iij.ad.jp/pub/linux/gentoo/</uri>
     </mirror>
   </mirrorgroup>
+  <mirrorgroup region="Asia" country="PH" countryname="Philippines">
+    <mirror>
+      <name>RISE</name>
+      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://mirror.rise.ph/gentoo</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.rise.ph/gentoo</uri>
+    </mirror>
+  </mirrorgroup>
   <mirrorgroup region="Asia" country="KR" countryname="South Korea">
     <mirror>
       <name>KAIST</name>

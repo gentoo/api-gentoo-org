@@ -5624,7 +5624,6 @@
     <source type="git">git+ssh://git@github.com/qi777xj/jellybean.git</source>
     <feed>https://github.com/qi777xj/jellybean/commits/master.atom</feed>
   </repo>
-  </repo>
   <repo quality="experimental" status="official">
   <name>zlogene</name>
    <description lang="en">Developer overlay</description>

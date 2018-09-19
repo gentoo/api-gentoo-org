@@ -128,6 +128,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>Free</name>
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ftp.free.fr/mirrors/ftp.gentoo.org/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.free.fr/mirrors/ftp.gentoo.org/</uri>
     </mirror>
     <mirror>
       <name>soeasyto.com</name>

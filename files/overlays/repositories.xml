@@ -4262,13 +4262,13 @@
   <repo quality="experimental" status="official">
     <name>slyfox</name>
     <description lang="en">slyfox's ebuild den</description>
-    <homepage>http://repo.or.cz/w/slyfox-gentoo.git</homepage>
+    <homepage>https://github.com/trofi/slyfox-gentoo</homepage>
     <owner type="person">
       <email>slyfox@gentoo.org</email>
       <name>Sergei Trofimovich</name>
     </owner>
-    <source type="git">http://repo.or.cz/r/slyfox-gentoo.git</source>
-    <feed>http://repo.or.cz/w/slyfox-gentoo.git?a=rss</feed>
+    <source type="git">https://github.com/trofi/slyfox-gentoo</source>
+    <feed>https://github.com/trofi/slyfox-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>soft</name>

@@ -497,20 +497,6 @@
             "Mikhail Pukhlikov <cynede@gentoo.org>"
         ]
     }, 
-    "d2_racing": {
-        "fingerprint": [
-            "7C412D552561EE865EDCABEE83EE454BCBF52D70"
-        ], 
-        "keydir": "d2_racing", 
-        "keys": [
-            "7C412D552561EE865EDCABEE83EE454BCBF52D70"
-        ], 
-        "name": "Sylvain Alain", 
-        "nick": "d2_racing", 
-        "uid": [
-            "Sylvain Alain <d2_racing@gentoo.org>"
-        ]
-    }, 
     "dabbott": {
         "fingerprint": [
             "8226A3412E28D1486F81449452117ABC330CF300"
@@ -683,20 +669,6 @@
         "nick": "flameeyes", 
         "uid": [
             "Diego Elio Petten\u00f2 <flameeyes@gentoo.org>"
-        ]
-    }, 
-    "flammie": {
-        "fingerprint": [
-            "F42E4D4C544B68C62A6FF93151D1E66D07469AA9"
-        ], 
-        "keydir": "flammie", 
-        "keys": [
-            "F42E4D4C544B68C62A6FF93151D1E66D07469AA9"
-        ], 
-        "name": "Flammie Pirinen", 
-        "nick": "flammie", 
-        "uid": [
-            "Flammie Pirinen <flammie@gentoo.org>"
         ]
     }, 
     "floppym": {
@@ -897,20 +869,6 @@
             "Benda XU <heroxbd@gentoo.org>"
         ]
     }, 
-    "hwoarang": {
-        "fingerprint": [
-            "660A074284EC26F19EDBF00AFA835A15B4AFF2C2"
-        ], 
-        "keydir": "hwoarang", 
-        "keys": [
-            "660A074284EC26F19EDBF00AFA835A15B4AFF2C2"
-        ], 
-        "name": "Markos Chandras", 
-        "nick": "hwoarang", 
-        "uid": [
-            "Markos Chandras <hwoarang@gentoo.org>"
-        ]
-    }, 
     "idl0r": {
         "fingerprint": [
             "EEB1C3417C84B2746C59F2435EAB0C62B427ABC8"
@@ -937,20 +895,6 @@
         "nick": "ikelos", 
         "uid": [
             "Mike Auty <ikelos@gentoo.org>"
-        ]
-    }, 
-    "isaiah": {
-        "fingerprint": [
-            "6E21871AC92A917523773351290678801378AC60"
-        ], 
-        "keydir": "isaiah", 
-        "keys": [
-            "6E21871AC92A917523773351290678801378AC60"
-        ], 
-        "name": "Isaiah Peng", 
-        "nick": "isaiah", 
-        "uid": [
-            "Isaiah Peng <isaiah@gentoo.org>"
         ]
     }, 
     "jcallen": {
@@ -1163,20 +1107,6 @@
         "nick": "keri", 
         "uid": [
             "Keri Harris <keri@gentoo.org>"
-        ]
-    }, 
-    "kernelsensei": {
-        "fingerprint": [
-            "030B919256CE1F4708FACDAB92214333127F04DC"
-        ], 
-        "keydir": "kernelsensei", 
-        "keys": [
-            "030B919256CE1F4708FACDAB92214333127F04DC"
-        ], 
-        "name": "Boris Fersing", 
-        "nick": "kernelsensei", 
-        "uid": [
-            "Boris Fersing <kernelsensei@gentoo.org>"
         ]
     }, 
     "klausman": {
@@ -2055,20 +1985,6 @@
             "Ian Whyman <thev00d00@gentoo.org>"
         ]
     }, 
-    "think4urs11": {
-        "fingerprint": [
-            "9D231E38259FF4B9D10FD8DFF1E4120EAB69D53B"
-        ], 
-        "keydir": "think4urs11", 
-        "keys": [
-            "9D231E38259FF4B9D10FD8DFF1E4120EAB69D53B"
-        ], 
-        "name": "Thomas Scharl", 
-        "nick": "think4urs11", 
-        "uid": [
-            "Thomas Scharl <think4urs11@gentoo.org>"
-        ]
-    }, 
     "titanofold": {
         "fingerprint": [
             "2C0077194F85FB07A49C0E315713AA03D1BBFDA0", 
@@ -2257,20 +2173,6 @@
         "nick": "voyageur", 
         "uid": [
             "Bernard Cafarelli <voyageur@gentoo.org>"
-        ]
-    }, 
-    "vzctl": {
-        "fingerprint": [
-            "E0E1690203795196DC433CAE3FB205B064D24462"
-        ], 
-        "keydir": "vzctl", 
-        "keys": [
-            "E0E1690203795196DC433CAE3FB205B064D24462"
-        ], 
-        "name": "Alexey Lapitsky", 
-        "nick": "vzctl", 
-        "uid": [
-            "Alexey Lapitsky <vzctl@gentoo.org>"
         ]
     }, 
     "whissi": {

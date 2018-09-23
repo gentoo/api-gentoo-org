@@ -4833,6 +4833,15 @@
     <source type="git">https://github.com/fat0troll/trollerlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>tryton</name>
+    <description>Tryton</description>
+    <homepage>http://www.tryton.org/</homepage>
+    <owner type="person">
+      <email>cedk@gentoo.org</email>
+    </owner>
+    <source type="mercurial">https://hg.tryton.org/tryton-overlay</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>twister</name>
     <description lang="en">Unoffical gentoo overlay for twister</description>
     <homepage>https://github.com/ddorian1/gentoo-twister-overlay</homepage>

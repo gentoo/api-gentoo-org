@@ -5442,6 +5442,18 @@
     <source type="git">git+ssh://git@git.gentoo.org/dev/zlogene.git</source>
     <feed>https://cgit.gentoo.org/dev/zlogene.git/atom/</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>0bs1d1an</name>
+    <description lang="en">Personal overlay</description>
+    <homepage>https://gitlab.com/0bs1d1an/0bs1d1an-overlay</homepage>
+    <owner type="person">
+      <email>gkroon@maelstrom.ninja</email>
+      <name>Guido Kroon</name>
+    </owner>
+    <source type="git">https://gitlab.com/0bs1d1an/0bs1d1an-overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com/0bs1d1an/0bs1d1an-overlay.git</source>
+    <feed>https://gitlab.com/0bs1d1an/0bs1d1an-overlay/commits/master.atom</feed>
+  </repo>
 
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

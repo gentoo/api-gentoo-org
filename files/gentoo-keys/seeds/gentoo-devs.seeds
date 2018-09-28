@@ -655,22 +655,6 @@
             "Dennis Lamm <expeditioneer@gentoo.org>"
         ]
     }, 
-    "flameeyes": {
-        "fingerprint": [
-            "BDAEF3008A1CC62079C2A16847664B94E36B629F", 
-            "F204568C03BDFD4960EC2DCC1A82AD57BB592443"
-        ], 
-        "keydir": "flameeyes", 
-        "keys": [
-            "BDAEF3008A1CC62079C2A16847664B94E36B629F", 
-            "F204568C03BDFD4960EC2DCC1A82AD57BB592443"
-        ], 
-        "name": "Diego Elio Petten\u00f2", 
-        "nick": "flameeyes", 
-        "uid": [
-            "Diego Elio Petten\u00f2 <flameeyes@gentoo.org>"
-        ]
-    }, 
     "floppym": {
         "fingerprint": [
             "226DE4AA4B9704A49DEF6B9B1A333AEFBD714C02"
@@ -1223,11 +1207,11 @@
     }, 
     "maksbotan": {
         "fingerprint": [
-            "B9333A89FF111CA6EB5C5031098998C5F8DBDADE"
+            "20479F0E948E5B773C5A3345D591672EDC20D794"
         ], 
         "keydir": "maksbotan", 
         "keys": [
-            "B9333A89FF111CA6EB5C5031098998C5F8DBDADE"
+            "20479F0E948E5B773C5A3345D591672EDC20D794"
         ], 
         "name": "Maxim Koltsov", 
         "nick": "maksbotan", 
@@ -1665,10 +1649,10 @@
         "keys": [
             "14B91CAAF68C4849F90CA41333ED3FD25AFC78BA"
         ], 
-        "name": "Matt Thode", 
+        "name": "Matthew Thode", 
         "nick": "prometheanfire", 
         "uid": [
-            "Matt Thode <prometheanfire@gentoo.org>"
+            "Matthew Thode <prometheanfire@gentoo.org>"
         ]
     }, 
     "quantumsummers": {
@@ -2069,20 +2053,6 @@
         "nick": "tupone", 
         "uid": [
             "Alfredo Tupone <tupone@gentoo.org>"
-        ]
-    }, 
-    "twitch153": {
-        "fingerprint": [
-            "B217EEE3CBADAC1B6B0443E6E7F9794FA8C8FBCF"
-        ], 
-        "keydir": "twitch153", 
-        "keys": [
-            "B217EEE3CBADAC1B6B0443E6E7F9794FA8C8FBCF"
-        ], 
-        "name": "Devan Franchini", 
-        "nick": "twitch153", 
-        "uid": [
-            "Devan Franchini <twitch153@gentoo.org>"
         ]
     }, 
     "ulm": {

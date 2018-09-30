@@ -1328,6 +1328,18 @@
     <source type="git">https://gitlab.com/eigennet/eigenlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ejabberd</name>
+    <description>Fresh ejabberd versions and dependencies</description>
+    <homepage>https://github.com/rion-overlay/ejabberd-overlay</homepage>
+    <owner type="person">
+      <email>rion4ik@gmail.com</email>
+      <name>Sergey Ilinykh</name>
+    </owner>
+    <source type="git">https://github.com/rion-overlay/ejabberd-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/rion-overlay/ejabberd-overlay.git</source>
+    <feed>https://github.com/rion-overlay/ejabberd-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>elementary</name>
     <description lang="en">The elementary OS experience for Gentoo Linux. </description>
     <homepage>https://github.com/pimvullers/elementary</homepage>
@@ -3853,8 +3865,10 @@
     <homepage>https://github.com/rion-overlay</homepage>
     <owner type="person">
       <email>rion4ik@gmail.com</email>
+      <name>Sergey Ilinykh</name>
     </owner>
     <source type="git">https://github.com/rion-overlay/rion-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/rion-overlay/rion-overlay.git</source>
     <feed>https://github.com/rion-overlay/rion-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

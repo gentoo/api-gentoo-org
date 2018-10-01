@@ -549,10 +549,10 @@
             "295EF1B6EB5DC9A6B21D3D4E0B08240A96F66571", 
             "35B17DF5752577CA0C541CEB94BFDF4484AD142F"
         ], 
-        "name": "Andreas H\u00fcttel", 
+        "name": "Andreas K. H\u00fcttel", 
         "nick": "dilfridge", 
         "uid": [
-            "Andreas H\u00fcttel <dilfridge@gentoo.org>"
+            "Andreas K. H\u00fcttel <dilfridge@gentoo.org>"
         ]
     }, 
     "djc": {
@@ -2255,10 +2255,10 @@
         "keys": [
             "537C5937C779CE2772F33029A5DD1427DD11F94A"
         ], 
-        "name": "Richard Farina", 
+        "name": "Rick Farina", 
         "nick": "zerochaos", 
         "uid": [
-            "Richard Farina <zerochaos@gentoo.org>"
+            "Rick Farina <zerochaos@gentoo.org>"
         ]
     }, 
     "zlogene": {
@@ -2311,10 +2311,10 @@
         "keys": [
             "A28BEDE08F1744E16037514806C4536755758000"
         ], 
-        "name": "Jason Donenfeld", 
+        "name": "Jason A. Donenfeld", 
         "nick": "zx2c4", 
         "uid": [
-            "Jason Donenfeld <zx2c4@gentoo.org>"
+            "Jason A. Donenfeld <zx2c4@gentoo.org>"
         ]
     }, 
     "zzam": {

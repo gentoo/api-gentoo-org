@@ -157,12 +157,10 @@
     }, 
     "antarus": {
         "fingerprint": [
-            "E7CF934934825A6BA74713C685499D17EC195701", 
             "F3FD581D6163E66F60A86B44E18ECB5117055ED6"
         ], 
         "keydir": "antarus", 
         "keys": [
-            "E7CF934934825A6BA74713C685499D17EC195701", 
             "F3FD581D6163E66F60A86B44E18ECB5117055ED6"
         ], 
         "name": "Alec Warner", 

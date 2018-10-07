@@ -5500,6 +5500,18 @@
     <source type="git">git+ssh://git@gitlab.com/0bs1d1an/0bs1d1an-overlay.git</source>
     <feed>https://gitlab.com/0bs1d1an/0bs1d1an-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>fol4</name>
+    <description lang="en">fol4 overlay</description>
+    <homepage>https://gitlab.com/madsl/fol4</homepage>
+    <owner type="person">
+      <email>mads@ab3.no</email>
+      <name>Mads</name>
+    </owner>
+    <source type="git">https://gitlab.com/madsl/fol4</source>
+    <source type="git">git+ssh://git@gitlab.com/madsl/fol4.git</source>
+    <feed>https://gitlab.com/madsl/fol4/commits/master.atom</feed>
+  </repo>
 
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

@@ -435,6 +435,20 @@
     <source type="git">git://github.com/arx/ArxGentoo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>AstroFloyd</name>
+    <description lang="en">AstroFloyd's Gentoo overlay</description>
+    <homepage>https://cgit.gentoo.org/user/AstroFloyd.git/</homepage>
+    <owner type="person">
+      <email>AstroFloyd@gmail.com</email>
+      <name>AstroFloyd</name>
+    </owner>
+    <source type="git">https://anongit.gentoo.org/git/user/AstroFloyd.git</source>
+    <source type="git">git://anongit.gentoo.org/user/AstroFloyd.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/user/AstroFloyd.git</source>
+    <feed>https://cgit.gentoo.org/user/AstroFloyd.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/user/AstroFloyd.git/rss/</feed> -->
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>atom</name>
     <description lang="en">Atom Overlay</description>
     <homepage>https://github.com/elprans/atom-overlay</homepage>

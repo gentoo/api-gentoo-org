@@ -59,6 +59,18 @@
   FIN
   -->
   <repo quality="experimental" status="unofficial">
+    <name>0bs1d1an</name>
+    <description lang="en">Personal overlay</description>
+    <homepage>https://gitlab.com/0bs1d1an/0bs1d1an-overlay</homepage>
+    <owner type="person">
+      <email>gkroon@maelstrom.ninja</email>
+      <name>Guido Kroon</name>
+    </owner>
+    <source type="git">https://gitlab.com/0bs1d1an/0bs1d1an-overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com/0bs1d1an/0bs1d1an-overlay.git</source>
+    <feed>https://gitlab.com/0bs1d1an/0bs1d1an-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>0x4d4c</name>
     <description lang="en">Personal overlay with no special focus</description>
     <homepage>https://github.com/0x4d4c/gentoo-overlay</homepage>
@@ -712,12 +724,12 @@
     <feed>https://github.com/l29ah/booboo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name><![CDATA[brave-overlay]]></name>
-    <description lang="en"><![CDATA[Brave Overlay]]></description>
+    <name>brave-overlay</name>
+    <description lang="en">Brave Overlay</description>
     <homepage>https://gitlab.com/jason.oliveira/brave-overlay</homepage>
     <owner type="person">
       <email>jason.oliveira@medicalcannab.is</email>
-      <name><![CDATA[Jason Oliveira]]></name>
+      <name>Jason Oliveira</name>
     </owner>
     <source type="git">https://gitlab.com/jason.oliveira/brave-overlay.git</source>
     <feed>https://gitlab.com/jason.oliveira/brave-overlay/commits/master.atom</feed>
@@ -1599,6 +1611,18 @@
     <source type="git">https://github.com/BlueDragonX/fm-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>fol4</name>
+    <description lang="en">fol4 overlay</description>
+    <homepage>https://gitlab.com/madsl/fol4</homepage>
+    <owner type="person">
+      <email>mads@ab3.no</email>
+      <name>Mads</name>
+    </owner>
+    <source type="git">https://gitlab.com/madsl/fol4</source>
+    <source type="git">git+ssh://git@gitlab.com/madsl/fol4.git</source>
+    <feed>https://gitlab.com/madsl/fol4/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>foo-overlay</name>
     <description>Piotr's fixes and new packages</description>
     <homepage>https://github.com/slashbeast/foo-overlay</homepage>
@@ -2285,6 +2309,18 @@
       <name>justin borodinsky</name>
     </owner>
     <source type="git">https://github.com/JBoro/portage.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>jellybean</name>
+    <description lang="en">My personal overlay</description>
+    <homepage>https://github.com/qi777xj/jellybean</homepage>
+    <owner type="person">
+      <email>qi777xj@gmail.com</email>
+      <name>Hyogeon Gi</name>
+    </owner>
+    <source type="git">https://github.com/qi777xj/jellybean.git</source>
+    <source type="git">git+ssh://git@github.com/qi777xj/jellybean.git</source>
+    <feed>https://github.com/qi777xj/jellybean/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>jkolo</name>
@@ -5134,16 +5170,6 @@
     <feed>https://github.com/Weuxel/portage-weuxel/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>whiledev</name>
-    <description>Collection of ebuilds with experimental features</description>
-    <homepage>https://github.com/whiledev/whiledev-overlay</homepage>
-    <owner type="person">
-      <email>me@felixsanz.com</email>
-      <name>Felix Sanz</name>
-    </owner>
-    <source type="git">https://github.com/whiledev/whiledev-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>what4-java</name>
     <description>Incubator for dev-java updates that the Gentoo Java team has no time for</description>
     <homepage>https://github.com/kwhat/gentoo-what4-java-overlay</homepage>
@@ -5152,6 +5178,16 @@
       <name>Alex Barker</name>
     </owner>
     <source type="git">https://github.com/kwhat/gentoo-what4-java-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>whiledev</name>
+    <description>Collection of ebuilds with experimental features</description>
+    <homepage>https://github.com/whiledev/whiledev-overlay</homepage>
+    <owner type="person">
+      <email>me@felixsanz.com</email>
+      <name>Felix Sanz</name>
+    </owner>
+    <source type="git">https://github.com/whiledev/whiledev-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>wichtounet</name>
@@ -5402,6 +5438,19 @@
     <source type="git">git@github.com:zjpxshade/gentoo-zjpxshade.git</source>
     <feed>https://github.com/zjpxshade/gentoo-zjpxshade/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>zlogene</name>
+    <description lang="en">Developer overlay</description>
+    <homepage>https://cgit.gentoo.org/dev/zlogene.git/</homepage>
+    <owner type="person">
+      <email>zlogene@gentoo.org</email>
+      <name>Mikle Kolyada</name>
+    </owner>
+    <source type="git">git://anongit.gentoo.org/dev/zlogene.git</source>
+    <source type="git">https://anongit.gentoo.org/git/dev/zlogene.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/dev/zlogene.git</source>
+    <feed>https://cgit.gentoo.org/dev/zlogene.git/atom/</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>zoobab</name>
     <description lang="en">Personal overlay of Benjamin Henrion</description>
@@ -5463,55 +5512,5 @@
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>jellybean</name>
-    <description lang="en">My personal overlay</description>
-    <homepage>https://github.com/qi777xj/jellybean</homepage>
-    <owner type="person">
-      <email>qi777xj@gmail.com</email>
-      <name>Hyogeon Gi</name>
-    </owner>
-    <source type="git">https://github.com/qi777xj/jellybean.git</source>
-    <source type="git">git+ssh://git@github.com/qi777xj/jellybean.git</source>
-    <feed>https://github.com/qi777xj/jellybean/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="official">
-  <name>zlogene</name>
-   <description lang="en">Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/zlogene.git/</homepage>
-    <owner type="person">
-      <email>zlogene@gentoo.org</email>
-      <name>Mikle Kolyada</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/dev/zlogene.git</source>
-    <source type="git">https://anongit.gentoo.org/git/dev/zlogene.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/zlogene.git</source>
-    <feed>https://cgit.gentoo.org/dev/zlogene.git/atom/</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>0bs1d1an</name>
-    <description lang="en">Personal overlay</description>
-    <homepage>https://gitlab.com/0bs1d1an/0bs1d1an-overlay</homepage>
-    <owner type="person">
-      <email>gkroon@maelstrom.ninja</email>
-      <name>Guido Kroon</name>
-    </owner>
-    <source type="git">https://gitlab.com/0bs1d1an/0bs1d1an-overlay.git</source>
-    <source type="git">git+ssh://git@gitlab.com/0bs1d1an/0bs1d1an-overlay.git</source>
-    <feed>https://gitlab.com/0bs1d1an/0bs1d1an-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>fol4</name>
-    <description lang="en">fol4 overlay</description>
-    <homepage>https://gitlab.com/madsl/fol4</homepage>
-    <owner type="person">
-      <email>mads@ab3.no</email>
-      <name>Mads</name>
-    </owner>
-    <source type="git">https://gitlab.com/madsl/fol4</source>
-    <source type="git">git+ssh://git@gitlab.com/madsl/fol4.git</source>
-    <feed>https://gitlab.com/madsl/fol4/commits/master.atom</feed>
-  </repo>
-
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

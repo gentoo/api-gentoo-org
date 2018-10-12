@@ -111,14 +111,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.dkm.cz/gentoo/</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Europe" country="FI" countryname="Finland">
-    <mirror>
-      <name>tut.fi</name>
-      <uri protocol="http" ipv6="y" ipv4="y" partial="n">http://trumpetti.atm.tut.fi/gentoo/</uri>
-      <uri protocol="ftp" ipv6="y" ipv4="y" partial="n">ftp://trumpetti.atm.tut.fi/gentoo/</uri>
-      <uri protocol="rsync" ipv6="y" ipv4="y" partial="n">rsync://trumpetti.atm.tut.fi/gentoo/</uri>
-    </mirror>
-  </mirrorgroup>
   <mirrorgroup region="Europe" country="FR" countryname="France">
     <mirror>
       <name>OVH</name>

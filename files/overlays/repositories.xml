@@ -5427,6 +5427,16 @@
     <feed>https://github.com/yurijmikhalevich/yurij-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>zerodaysfordays</name>
+    <description>Jakob L. Kreuze's personal overlay.</description>
+    <homepage>https://github.com/tsarfox/zerodaysfordays</homepage>
+    <owner type="person">
+      <email>zerodaysfordays@sdf.lonestar.org</email>
+      <name>Jakob L. Kreuze</name>
+    </owner>
+    <source type="git">https://github.com/tsarfox/zerodaysfordays</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>zjpxshade</name>
     <description lang="en">zjpxshade's ricerlay</description>
     <homepage>https://github.com/zjpxshade/gentoo-zjpxshade</homepage>

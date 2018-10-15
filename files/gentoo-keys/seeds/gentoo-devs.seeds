@@ -483,11 +483,11 @@
     }, 
     "cynede": {
         "fingerprint": [
-            "09AFB4E5EA8657BC1831AE4F3CBB2D437397A384"
+            "A5708AF73E16FF10AEEAE5829101803069807D35"
         ], 
         "keydir": "cynede", 
         "keys": [
-            "09AFB4E5EA8657BC1831AE4F3CBB2D437397A384"
+            "A5708AF73E16FF10AEEAE5829101803069807D35"
         ], 
         "name": "Mikhail Pukhlikov", 
         "nick": "cynede", 
@@ -641,11 +641,11 @@
     }, 
     "expeditioneer": {
         "fingerprint": [
-            "B6D7A797BA59EB6937DB8CF599A1F814E85FF5C4"
+            "C2EC42012BA825F13030B556D39C7B0122696620"
         ], 
         "keydir": "expeditioneer", 
         "keys": [
-            "B6D7A797BA59EB6937DB8CF599A1F814E85FF5C4"
+            "C2EC42012BA825F13030B556D39C7B0122696620"
         ], 
         "name": "Dennis Lamm", 
         "nick": "expeditioneer", 
@@ -1711,13 +1711,11 @@
     }, 
     "remi": {
         "fingerprint": [
-            "91472E8B8C895ADEFEC0B7E47D453F23901AB08A", 
-            "D06729B2DFB4CA427DDD25B0E0663D48103108F8"
+            "EF3DBBA8590B6DE89B120B46E4ADD485703CEAFD"
         ], 
         "keydir": "remi", 
         "keys": [
-            "91472E8B8C895ADEFEC0B7E47D453F23901AB08A", 
-            "D06729B2DFB4CA427DDD25B0E0663D48103108F8"
+            "EF3DBBA8590B6DE89B120B46E4ADD485703CEAFD"
         ], 
         "name": "Remi Cardona", 
         "nick": "remi", 

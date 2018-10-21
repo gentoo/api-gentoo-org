@@ -2351,7 +2351,7 @@
     <description lang="en">Personal overlay with more or less random ebuilds</description>
     <homepage>https://github.com/Jannis234/jm-overlay</homepage>
     <owner type="person">
-      <email>jannism234@gmail.com</email>
+      <email>jannis@ctrl-c.xyz</email>
       <name>Jannis234</name>
     </owner>
     <source type="git">https://github.com/Jannis234/jm-overlay.git</source>

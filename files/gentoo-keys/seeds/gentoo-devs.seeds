@@ -909,12 +909,10 @@
     }, 
     "jlec": {
         "fingerprint": [
-            "914B84822B362B84BF9642DE5F4673C782105C98", 
             "8F917515875271458497730EE07B64B02DB28E13"
         ], 
         "keydir": "jlec", 
         "keys": [
-            "914B84822B362B84BF9642DE5F4673C782105C98", 
             "8F917515875271458497730EE07B64B02DB28E13"
         ], 
         "name": "Justin Lecher", 

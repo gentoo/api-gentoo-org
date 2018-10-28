@@ -4901,17 +4901,6 @@
     <source type="git">https://github.com/tristelune1/tristelune-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>trojan-gentoo</name>
-    <description lang="en">Gentoo overlay for trojan.</description>
-    <homepage>https://github.com/trojan-gfw/trojan-gentoo/</homepage>
-    <owner type="person">
-      <email>GreaterFire@protonmail.com</email>
-      <name>GreaterFire</name>
-    </owner>
-    <source type="git">https://github.com/trojan-gfw/trojan-gentoo.git</source>
-    <feed>https://github.com/trojan-gfw/trojan-gentoo/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>trollerlay</name>
     <description>Overlay for packages that I use, which doesn't exist in main tree or layman's overlays</description>
     <homepage>https://github.com/fat0troll/trollerlay</homepage>

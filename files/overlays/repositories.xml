@@ -1807,15 +1807,6 @@
     <!-- <feed>https://cgit.gentoo.org/proj/gamerlay.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>geki</name>
-    <description>The playground of gekis hacking on Gentoo Linux distribution.</description>
-    <homepage>https://github.com/geki-yaba/gekis-playground</homepage>
-    <owner type="person">
-      <email>h.mth@web.de</email>
-    </owner>
-    <source type="git">https://github.com/geki-yaba/gekis-playground.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>genealogy</name>
     <description>Gentoo overlay for Gramps and other packages related to genealogy</description>
     <homepage>https://github.com/tecknicaltom/gentoo-genealogy-overlay</homepage>
@@ -3671,18 +3662,6 @@
     <source type="git">git+ssh://git@github.com/prototype99/prototype99.git</source>
     <feed>https://github.com/prototype99/prototype99/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>psix-overlay</name>
-    <description lang="en">zabuldon's personal overlay</description>
-    <homepage>https://github.com/zabuldon/psix-overlay</homepage>
-    <owner type="person">
-      <email>vortexius@gmail.com</email>
-      <name>Sergey Isachenko</name>
-    </owner>
-    <source type="git">https://github.com/zabuldon/psix-overlay.git</source>
-    <source type="git">git://github.com/zabuldon/psix-overlay.git</source>
-    <feed>https://github.com/zabuldon/psix-overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>python</name>
     <description lang="en">Python project repository</description>
@@ -4042,19 +4021,6 @@
     <source type="git">git://github.com/Atoms/rukruk.git</source>
     <source type="git">git@github.com:Atoms/rukruk.git</source>
     <feed>https://github.com/Atoms/rukruk/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>rust</name>
-    <description lang="en">rust modules and tools</description>
-    <homepage>https://github.com/gentoo/gentoo-rust</homepage>
-    <owner type="person">
-      <email>cynede@gentoo.org</email>
-      <name>Mikhail Pukhlikov</name>
-    </owner>
-    <source type="git">https://github.com/gentoo/gentoo-rust.git</source>
-    <source type="git">git://github.com/gentoo/gentoo-rust.git</source>
-    <source type="git">git@github.com:gentoo/gentoo-rust.git</source>
-    <feed>https://github.com/gentoo/gentoo-rust/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>rwald</name>

@@ -2076,6 +2076,17 @@
     <feed>https://github.com/gentoo/grub2-themes-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>grumpytetra</name>
+    <description lang="en">grumpytetra's overlay</description>
+    <owner type="person">
+      <email>grumpytetra@teknik.io</email>
+      <name>grumpytetra</name>
+    </owner>
+    <source type="git">https://git.teknik.io/grumpytetra/overlay.git</source>
+    <source type="git">https://gitlab.com/grumpytetra/overlay.git</source>
+    <feed>https://gitlab.com/grumpytetra/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gsview-overlay</name>
     <description lang="en">Overlay for the gsview and some other plotting/scientific soft</description>
     <homepage>https://github.com/uleysky/gsview-overlay</homepage>

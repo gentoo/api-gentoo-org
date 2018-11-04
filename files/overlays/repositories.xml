@@ -4382,6 +4382,18 @@
     <source type="git">https://github.com/psihozefir/sorinp-gentoo-overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>sorrow</name>
+    <description lang="en">Ebuilds for some wayland-related software and some other stuff</description>
+    <homepage>https://gitlab.com/eternal-sorrow/gentoo-local</homepage>
+    <owner type="person">
+      <email>sergamena@inbox.ru</email>
+      <name>sorrow</name>
+    </owner>
+    <source type="git">https://gitlab.com/eternal-sorrow/gentoo-local.git</source>
+    <source type="git">git+ssh://git@gitlab.com:eternal-sorrow/gentoo-local.git</source>
+    <feed>https://gitlab.com/eternal-sorrow/gentoo-local/commits/master?format=atom</feed>
+   </repo>
+   <repo quality="experimental" status="unofficial">
     <name>sortsmill</name>
     <description lang="en">Personal overlay of Barry Schwartz for font projects</description>
     <homepage>https://bitbucket.org/sortsmill/sortsmill-gentoo-overlay</homepage>

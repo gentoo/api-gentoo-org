@@ -2933,16 +2933,15 @@
   <repo quality="experimental" status="official">
     <name>mgorny</name>
     <description>Michał Górny developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/mgorny.git</homepage>
+    <homepage>https://cgit.gentoo.org/repo/dev/mgorny.git</homepage>
     <owner type="person">
       <email>mgorny@gentoo.org</email>
       <name>Michał Górny</name>
     </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/mgorny.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/mgorny.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/mgorny.git</source>
-    <feed>https://cgit.gentoo.org/dev/mgorny.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/mgorny.git/rss/</feed> -->
+    <source type="git">https://anongit.gentoo.org/git/repo/dev/mgorny.git</source>
+    <source type="git">git://anongit.gentoo.org/repo/dev/mgorny.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/dev/mgorny.git</source>
+    <feed>https://cgit.gentoo.org/repo/dev/mgorny.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>miramir</name>

@@ -303,6 +303,10 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>Netease.com, Inc.</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.163.com/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>Tsinghua University</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirrors.tuna.tsinghua.edu.cn/gentoo</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia" country="HK" countryname="Hong Kong">
     <mirror>

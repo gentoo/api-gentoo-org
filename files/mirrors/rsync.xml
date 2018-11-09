@@ -267,14 +267,16 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.au.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <!--
   <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="CN" countryname="China">
     <mirror>
       <name>Any available mirror - rsync.cn.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.cn.gentoo.org</uri>
     </mirror>
+    <mirror>
+      <name>Tsinghua University</name>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync1.cn.gentoo.org</uri>
+    </mirror>
   </mirrorgroup>
-  -->
   <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="JP" countryname="Japan">
     <mirror>
       <name>Any available mirror - rsync.jp.gentoo.org</name>

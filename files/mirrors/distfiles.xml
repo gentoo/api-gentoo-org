@@ -69,6 +69,10 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>Pair Networks</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirrors.pair.com/</uri>
     </mirror>
+    <mirror>
+      <name>Silicon Valley Web Hosting</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.sjc02.svwh.net/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="South America" country="BR" countryname="Brazil">
     <mirror>

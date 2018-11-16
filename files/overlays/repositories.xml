@@ -4285,20 +4285,6 @@
     <feed>https://github.com/optiz0r/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>silmano</name>
-    <description lang="en">Peter's personal overlay</description>
-    <homepage>https://cgit.gentoo.org/user/silmano.git/</homepage>
-    <owner type="person">
-      <email>silmano@gmail.com</email>
-      <name>Pedro Arizmendi</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/silmano.git</source>
-    <source type="git">git://anongit.gentoo.org/user/silmano.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/silmano.git</source>
-    <feed>https://cgit.gentoo.org/user/silmano.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/silmano.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>simonvanderveldt</name>
     <description lang="en">Personal Gentoo overlay focused on music production and engineering applications</description>
     <homepage>https://github.com/simonvanderveldt/simonvanderveldt-overlay</homepage>

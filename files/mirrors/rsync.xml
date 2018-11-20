@@ -249,10 +249,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.uk.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>Qube Managed Services - rsync1.uk.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.uk.gentoo.org</uri>
-    </mirror>
-    <mirror>
       <name>Bytemark Hosting - rsync2.uk.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync2.uk.gentoo.org</uri>
     </mirror>

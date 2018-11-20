@@ -273,7 +273,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.cn.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>Tsinghua University</name>
+      <name>Tsinghua University - rsync1.cn.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync1.cn.gentoo.org</uri>
     </mirror>
   </mirrorgroup>

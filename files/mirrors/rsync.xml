@@ -38,10 +38,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync5.us.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>University of Northern Iowa - rsync6.us.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync6.us.gentoo.org</uri>
-    </mirror>
-    <mirror>
       <name>Steadfast Networks - rsync11.us.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync11.us.gentoo.org</uri>
     </mirror>
@@ -62,10 +58,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>Any available mirror - rsync.br.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.br.gentoo.org</uri>
-    </mirror>
-    <mirror>
-      <name>Laboratory of System Administration - rsync1.br.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.br.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="AT" countryname="Austria">
@@ -90,10 +82,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>UPC Česká republika, a.s - rsync1.cz.gentoo.org.</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.cz.gentoo.org</uri>
-    </mirror>
-    <mirror>
-      <name>Advokatni Kancelar Kindl &amp; Partneri - rsync2.cz.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync2.cz.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="DE" countryname="Germany">
@@ -299,10 +287,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="KZ" countryname="Kazakhstan">
-    <mirror>
-      <name>Any available mirror - rsync.kz.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.kz.gentoo.org</uri>
-    </mirror>
     <mirror>
       <name>Neo Lab's - rsync1.kz.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.kz.gentoo.org</uri>

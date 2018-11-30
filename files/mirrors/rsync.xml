@@ -286,12 +286,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.kr.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="KZ" countryname="Kazakhstan">
-    <mirror>
-      <name>Neo Lab's - rsync1.kz.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.kz.gentoo.org</uri>
-    </mirror>
-  </mirrorgroup>
   <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="RU" countryname="Russia">
     <mirror>
       <name>Any available mirror - rsync.ru.gentoo.org</name>

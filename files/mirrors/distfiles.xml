@@ -94,10 +94,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://ftp.fi.muni.cz/pub/linux/gentoo/</uri>
     </mirror>
     <mirror>
-      <name>Advokatni Kancelar Kindl &amp; Partneri</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.supp.name/</uri>
-    </mirror>
-    <mirror>
       <name>Web4U Mirror</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirror.web4u.cz/</uri>
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.mirror.web4u.cz/</uri>
@@ -114,7 +110,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>OVH</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://gentoo.mirrors.ovh.net/gentoo-distfiles/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://gentoo.mirrors.ovh.net/gentoo-distfiles/</uri>
     </mirror>
     <mirror>
       <name>Free</name>
@@ -132,10 +127,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="DE" countryname="Germany">
-    <mirror>
-      <name>rwth-aachen.de</name>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://sunsite.informatik.rwth-aachen.de/pub/Linux/gentoo</uri>
-    </mirror>
     <mirror>
       <name>Ruhr-Universität Bochum</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/</uri>

@@ -2988,6 +2988,19 @@
     </owner>
     <source type="git">https://github.com/moaxcp/moaxcp-gentoo-overlay.git</source>
   </repo>
+  <repo quality="testing" status="unofficial">
+    <name>moexiami</name>
+    <description lang="en">Contains updated ebuilds (w/ more feature/control)
+      for packages in the Gentoo tree, latest version ebuilds and newpackages
+      not yet in the tree. Targeting high-quality for production use.</description>
+    <homepage>https://github.com/Xiami2012/moexiami-ovl-dev</homepage>
+    <owner type="person">
+      <email>i@f2light.com</email>
+      <name>Xiami</name>
+    </owner>
+    <source type="git">https://github.com/Xiami2012/moexiami-ovl-sync.git</source>
+    <source type="git">git+ssh://git@github.com/Xiami2012/moexiami-ovl-sync.git</source>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>moltonel</name>
     <description lang="en">Vincent de Phily's private overlay</description>

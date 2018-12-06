@@ -2220,6 +2220,16 @@
     <source type="git">https://git.hossie.de/scm/gen/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>HomeAssistantRepository</name>
+    <description lang="en">Overlay for setting up Home Assistant on Gentoo Linux with (most) needed newer Python libraries.</description>
+    <homepage>https://git.edevau.net/onkelbeh/HomeAssistantRepository</homepage>
+    <owner type="person">
+      <email>b@edevau.net</email>
+      <name>Andreas Billmeier</name>
+    </owner>
+    <source type="git">https://git.edevau.net/onkelbeh/HomeAssistantRepository.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ikelos</name>
     <description>Ikelos's hospice for broken and damaged ebuilds.</description>
     <homepage>https://cgit.gentoo.org/dev/ikelos.git/</homepage>

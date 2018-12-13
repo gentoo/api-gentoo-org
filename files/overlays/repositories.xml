@@ -485,6 +485,18 @@
     <feed>https://github.com/gentoo-audio/audio-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>average</name>
+    <description lang="en">Personal playground for some ebuilds not found elsewhere</description>
+    <homepage>https://github.com/AnAverageHuman/average</homepage>
+    <owner type="person">
+      <email>jeffrey@icurse.nl</email>
+      <name>Jeffrey Lin</name>
+    </owner>
+    <source type="git">https://github.com/AnAverageHuman/average.git</source>
+    <source type="git">git+ssh://git@github.com/AnAverageHuman/average.git</source>
+    <feed>https://github.com/AnAverageHuman/average/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>awesome</name>
     <description lang="en">Awesome ebuilds</description>
     <homepage>https://gitlab.awesome-it.de/overlays/awesome</homepage>

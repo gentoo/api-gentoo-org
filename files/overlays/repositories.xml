@@ -3365,6 +3365,18 @@
     <source type="git">https://github.com/pavlix/gentoo-openwrt</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>oubliette</name>
+     <description lang="en">personal overlay of forgotten ebuilds</description>
+     <homepage>https://github.com/nabbi/oubliette-overlay</homepage>
+     <owner type="person">
+       <email>nic@boet.cc</email>
+       <name>nic</name>
+     </owner>
+     <source type="git">https://github.com/nabbi/oubliette-overlay.git</source>
+     <source type="git">git+ssh://git@github.com/nabbi/oubliette-overlay.git</source>
+     <feed>https://github.com/nabbi/oubliette-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>palemoon</name>
     <description lang="en">Unofficial Gentoo overlay for the Pale Moon (http://www.palemoon.org/) web browser.</description>
     <homepage>https://github.com/deu/palemoon-overlay</homepage>

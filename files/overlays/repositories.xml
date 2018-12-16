@@ -3353,7 +3353,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>oubliette</name>
-     <description lang="en">forgotten ebuilds</description>
+     <description lang="en">personal overlay of forgotten ebuilds</description>
      <homepage>https://github.com/nabbi/oubliette-overlay</homepage>
      <owner type="person">
        <email>nic@boet.cc</email>

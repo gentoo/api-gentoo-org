@@ -853,6 +853,18 @@
     <feed>https://github.com/CanuteTheGreat/canutethegreat-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>Case_Of</name>
+    <description lang="en">Personal overlay</description>
+    <homepage>https://framagit.org/Case_Of/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>gentoo@retornaz.com</email>
+      <name>Quentin Retornaz</name>
+    </owner>
+    <source type="git">https://framagit.org/Case_Of/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@framagit.org/Case_Of/gentoo-overlay.git</source>
+    <feed>https://framagit.org/Case_Of/gentoo-overlay/commits/master?format=atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>causelay</name>
     <description>Ari Malinen's personal overlay</description>
     <homepage>https://github.com/causes-/causelay</homepage>

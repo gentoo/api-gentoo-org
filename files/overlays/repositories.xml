@@ -3062,21 +3062,6 @@
     <source type="git">git://anongit.gentoo.org/proj/mozilla.git</source>
     <feed>https://cgit.gentoo.org/proj/mozilla.git/atom/</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>mrueg</name>
-    <description lang="en">User overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/mrueg.git/</homepage>
-    <owner type="person">
-      <email>mrueg@gentoo.org</email>
-      <name>Manuel Rüger (mrueg)</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/mrueg.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/mrueg.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/mrueg.git</source>
-    <source type="git">https://github.com/mrueg/mrueg-overlay.git</source>
-    <feed>https://cgit.gentoo.org/dev/mrueg.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/mrueg.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="official">
     <name>mschiff</name>
     <description lang="en">Developer overlay</description>

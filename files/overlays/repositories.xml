@@ -610,20 +610,6 @@
     <!-- <feed>https://cgit.gentoo.org/user/bibletime.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
-    <name>bicatali</name>
-    <description lang="en">Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/bicatali.git/</homepage>
-    <owner type="person">
-      <email>bicatali@gentoo.org</email>
-      <name>Sébastien Fabbro</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/bicatali.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/bicatali.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/bicatali.git</source>
-    <feed>https://cgit.gentoo.org/dev/bicatali.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/bicatali.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="official">
     <name>bircoph</name>
     <description lang="en">Developer overlay</description>
     <homepage>https://cgit.gentoo.org/dev/bircoph.git/</homepage>

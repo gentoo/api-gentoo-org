@@ -5427,20 +5427,6 @@
     <source type="git">git@github.com:ycUygB1/overlay.git</source>
     <feed>https://github.com/ycUygB1/overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>yngwin</name>
-    <description lang="en">Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/yngwin.git/</homepage>
-    <owner type="person">
-      <email>yngwin@gentoo.org</email>
-      <name>Ben de Groot</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/yngwin.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/yngwin.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/yngwin.git</source>
-    <feed>https://cgit.gentoo.org/dev/yngwin.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/yngwin.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>yoreek</name>
     <description lang="en">Ebuilds related to nginx webserver modules</description>

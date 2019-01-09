@@ -2238,6 +2238,7 @@
       <name>Andreas Billmeier</name>
     </owner>
     <source type="git">https://git.edevau.net/onkelbeh/HomeAssistantRepository.git</source>
+    <source type="git">https://github.com/onkelbeh/HomeAssistantRepository.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ikelos</name>

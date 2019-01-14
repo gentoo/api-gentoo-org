@@ -1103,7 +1103,7 @@
     <description>Some ebuilds that might work</description>
     <homepage>https://github.com/lucianposton/didactic-duck</homepage>
     <owner type="person">
-      <email>lucian.poston@gmail.com</email>
+      <email>lucianposton@pm.me</email>
       <name>Lucian Poston</name>
     </owner>
     <source type="git">https://github.com/lucianposton/didactic-duck.git</source>

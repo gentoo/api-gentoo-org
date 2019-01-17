@@ -3796,14 +3796,14 @@
   <repo quality="experimental" status="unofficial">
     <name>rage</name>
     <description lang="en">rage's personal overlay</description>
-    <homepage>https://gitlab.com/lramage94/overlay</homepage>
+    <homepage>https://gitlab.com/oxr463/overlay</homepage>
     <owner type="person">
-      <email>ramage.lucas@openmailbox.org</email>
+      <email>ramage.lucas@protonmail.com</email>
       <name>Lucas Ramage</name>
     </owner>
-    <source type="git">https://gitlab.com/lramage94/overlay.git</source>
-    <source type="git">git+ssh://git@gitlab.com/lramage94/overlay.git</source>
-    <feed>https://gitlab.com/lramage94/overlay/commits/master.atom</feed>
+    <source type="git">https://gitlab.com/oxr463/overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com/oxr463/overlay.git</source>
+    <feed>https://gitlab.com/oxr463/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>raiagent</name>

@@ -1089,6 +1089,16 @@
     <feed>https://github.com/deterenkelt/deter/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>dev1990-overlay</name>
+    <description lang="en">Personal overlay focused on Qt application development and 3d-printing.</description>
+    <homepage>https://github.com/dev-0x7C6/dev1990-overlay.git</homepage>
+    <owner type="person">
+      <email>dev.strikeu@gmail.com</email>
+      <name>Bartlomiej Burdukiewicz</name>
+    </owner>
+      <source type="git">https://github.com/dev-0x7C6/dev1990-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>devpump-gor</name>
     <description lang="en">DevPump Gentoo Overlay</description>
     <homepage>https://github.com/DevPump/gentoo-overlay</homepage>

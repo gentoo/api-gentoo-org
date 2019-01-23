@@ -4935,6 +4935,18 @@
     <source type="git">https://github.com/fat0troll/trollerlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>trolltoo</name>
+    <description lang="en">An ebuild overlay for Gentoo.</description>
+    <homepage>https://github.com/dallenwilson/trolltoo</homepage>
+    <owner type="person">
+      <email>dallen.wilson@gmail.com</email>
+      <name>Dallen Wilson</name>
+    </owner>
+    <source type="git">https://github.com/dallenwilson/trolltoo.git</source>
+    <source type="git">git+ssh://git@github.com/dallenwilson/trolltoo.git</source>
+    <feed>https://github.com/dallenwilson/trolltoo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>tryton</name>
     <description>Tryton</description>
     <homepage>http://www.tryton.org/</homepage>

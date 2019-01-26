@@ -5454,12 +5454,12 @@
   <repo quality="experimental" status="unofficial">
     <name>zerodaysfordays</name>
     <description>Jakob L. Kreuze's personal overlay.</description>
-    <homepage>https://github.com/tsarfox/zerodaysfordays</homepage>
+    <homepage>https://git.sr.ht/~jakob/zerodaysfordays</homepage>
     <owner type="person">
       <email>zerodaysfordays@sdf.lonestar.org</email>
       <name>Jakob L. Kreuze</name>
     </owner>
-    <source type="git">https://github.com/tsarfox/zerodaysfordays</source>
+    <source type="git">https://git.sr.ht/~jakob/zerodaysfordays</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>zjpxshade</name>

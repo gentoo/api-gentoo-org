@@ -3240,20 +3240,6 @@
     <feed>https://bitbucket.org/danysk/nirvana-overlay/atom</feed>
     <feed>https://bitbucket.org/danysk/nirvana-overlay/rss</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>nixphoeni</name>
-    <description lang="en">Joe Sapp's overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/nixphoeni.git/</homepage>
-    <owner type="person">
-      <email>nixphoeni@gentoo.org</email>
-      <name>Joe Sapp</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/nixphoeni.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/nixphoeni.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/nixphoeni.git</source>
-    <feed>https://cgit.gentoo.org/dev/nixphoeni.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/nixphoeni.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>np-hardass-overlay</name>
     <description lang="en">NP-Hardass's Personal Overlay</description>
@@ -3408,20 +3394,6 @@
     <source type="git">https://github.com/orangeturtle739/panther.git</source>
     <source type="git">git+ssh://git@github.com/orangeturtle739/panther.git</source>
     <feed>https://github.com/orangeturtle739/panther/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>pchrist</name>
-    <description>Panagiotis Christopoulos developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/pchrist.git</homepage>
-    <owner type="person">
-      <email>pchrist@gentoo.org</email>
-      <name>Panagiotis Christopoulos</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/pchrist.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/pchrist.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/pchrist.git</source>
-    <feed>https://cgit.gentoo.org/dev/pchrist.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/pchrist.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pdilung</name>
@@ -4847,20 +4819,6 @@
     <!-- <feed>https://cgit.gentoo.org/user/tocaro.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
-    <name>TomWij</name>
-    <description lang="en">New, staging and experimental ebuilds</description>
-    <homepage>https://cgit.gentoo.org/dev/TomWij.git/</homepage>
-    <owner type="person">
-      <email>tomwij@gentoo.org</email>
-      <name>Tom Wijsman</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/TomWij.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/TomWij.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/TomWij.git</source>
-    <feed>https://cgit.gentoo.org/dev/TomWij.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/TomWij.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="official">
     <name>toolchain</name>
     <description>Toolchain ebuilds that are unsuitable for the tree. Snapshots,
     unstable versions, etc...</description>
@@ -5310,20 +5268,6 @@
     <source type="git">git+ssh://git@git.gentoo.org/proj/x11.git</source>
     <feed>https://cgit.gentoo.org/proj/x11.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/x11.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>xarthisius</name>
-    <description lang="en">Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/xarthisius.git/</homepage>
-    <owner type="person">
-      <email>xarthisius@gentoo.org</email>
-      <name>Kacper Kowalik</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/xarthisius.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/xarthisius.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/xarthisius.git</source>
-    <feed>https://cgit.gentoo.org/dev/xarthisius.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/xarthisius.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>xelnor</name>

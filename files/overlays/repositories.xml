@@ -5074,20 +5074,6 @@
     <feed>https://cgit.gentoo.org/user/vmacs.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/vmacs.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="official">
-    <name>vmware</name>
-    <description>VMware desktop ebuilds</description>
-    <homepage>https://bugs.gentoo.org/show_bug.cgi?id=122500</homepage>
-    <owner type="project">
-      <email>vmware@gentoo.org</email>
-      <name>Gentoo VMware team</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/vmware.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/vmware.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/vmware.git</source>
-    <feed>https://cgit.gentoo.org/proj/vmware.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/vmware.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>vortex</name>
     <description lang="en">Personal overlay</description>

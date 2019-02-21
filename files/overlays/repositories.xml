@@ -2753,13 +2753,13 @@
   <repo quality="experimental" status="official">
     <name>libressl</name>
     <description lang="en">LibreSSL ebuilds testing repository</description>
-    <homepage>https://github.com/gentoo/libressl</homepage>
+    <homepage>https://wiki.gentoo.org/wiki/Project:LibreSSL</homepage>
     <owner type="project">
       <email>libressl@gentoo.org</email>
     </owner>
-    <source type="git">https://github.com/gentoo/libressl.git</source>
-    <source type="git">git@github.com:gentoo/libressl.git</source>
-    <feed>https://github.com/feeds/gentoo/commits/libressl/master</feed>
+    <source type="git">https://anongit.gentoo.org/git/repo/proj/libressl.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/proj/libressl.git</source>
+    <feed>https://cgit.gentoo.org/repo/proj/libressl.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>linuxunderground-overlay</name>

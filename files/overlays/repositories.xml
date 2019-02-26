@@ -5263,6 +5263,17 @@
     </owner>
     <source type="git">git://overlay.xelnor.net/overlay.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>xdch47</name>
+    <description lang="en">Gentoo portage overlay of xdch47</description>
+    <homepage>https://github.com/xdch47/gpo-xdch47</homepage>
+    <owner type="person">
+      <email>xdch47@posteo.de</email>
+      <name>Felix Neumärker</name>
+    </owner>
+    <source type="git">https://github.com/xdch47/gpo-xdch47.git</source>
+    <source type="git">git+ssh://git@github.com/xdch47/gpo-xdch47.git</source>
+  </repo>
   <repo quality="experimental" status="official">
     <name>xfce-dev</name>
     <description>Experimental ebuilds for the Xfce4 Desktop

@@ -1177,6 +1177,17 @@
     <!-- <feed>https://cgit.gentoo.org/user/displacer.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>alesharik</name>
+    <description lang="en">Gentoo portage overlay of alesharik</description>
+    <homepage>https://github.com/alesharik/alesharik-overlay</homepage>
+    <owner type="person">
+      <email>alesharik4@gmail.com</email>
+      <name>Aleksei Arsenev</name>
+    </owner>
+    <source type="git">https://github.com/alesharik/alesharik-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/alesharik/alesharik-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>distros</name>
     <description>Calculate Linux Profiles</description>
     <homepage>http://www.calculate-linux.org</homepage>

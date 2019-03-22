@@ -1288,16 +1288,6 @@
     <feed>https://github.com/drdim/layman/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>dsr</name>
-    <description>Andrew Reyes' personal overlay</description>
-    <homepage>https://gitlab.com/dsreyes1014/dsr-overlay</homepage>
-    <owner type="person">
-      <email>dsreyes1014@gmail.com</email>
-      <name>Andrew Reyes</name>
-    </owner>
-    <source type="git">https://gitlab.com/dsreyes1014/dsr-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>DuPol</name>
     <description lang="en">DuPol's own and modified portage ebuilds.</description>
     <homepage>https://cgit.gentoo.org/user/DuPol.git/</homepage>
@@ -2126,16 +2116,6 @@
       <name>haarp</name>
     </owner>
     <source type="git">git://anongit.gentoo.org/user/haarp.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>hacking-gentoo</name>
-    <description lang="en">Ebuilds of Hacking Network Solutions Ltd</description>
-    <homepage>http://www.mad-hacking.net/software/linux/gentoo/gentoo-overlay/index.xml</homepage>
-    <owner type="person">
-      <email>overlay-maintainer@mad-hacking.net</email>
-      <name>Max Hacking</name>
-    </owner>
-    <source type="rsync">rsync://rsync.mad-hacking.net/hacking-gentoo-overlay/</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>hamper-overlay</name>
@@ -5400,18 +5380,6 @@
       <name>Jakob L. Kreuze</name>
     </owner>
     <source type="git">https://git.sr.ht/~jakob/zerodaysfordays</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>zjpxshade</name>
-    <description lang="en">zjpxshade's ricerlay</description>
-    <homepage>https://github.com/zjpxshade/gentoo-zjpxshade</homepage>
-    <owner type="person">
-      <email>zjpxshade@gmail.com</email>
-      <name>Zach Pearson</name>
-    </owner>
-    <source type="git">https://github.com/zjpxshade/gentoo-zjpxshade.git</source>
-    <source type="git">git@github.com:zjpxshade/gentoo-zjpxshade.git</source>
-    <feed>https://github.com/zjpxshade/gentoo-zjpxshade/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>zlogene</name>

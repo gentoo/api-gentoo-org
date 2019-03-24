@@ -1660,7 +1660,7 @@
     <description>Piotr's fixes and new packages</description>
     <homepage>https://github.com/slashbeast/foo-overlay</homepage>
     <owner type="person">
-      <email>piotr.karbowski@gmail.com</email>
+      <email>slashbeast@gentoo.org</email>
       <name>Piotr Karbowski</name>
     </owner>
     <source type="git">git://github.com/slashbeast/foo-overlay.git</source>

@@ -2172,7 +2172,7 @@
       <email>hexedit@ifproject.ru</email>
       <name>Timofey Negrebetsky</name>
     </owner>
-    <source type="svn">https://svn.ifproject.ru/gentoo-overlay/</source>
+    <source type="git">https://git.ifproject.ru/hexedit/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>hhvm</name>

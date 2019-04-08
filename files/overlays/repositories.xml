@@ -2108,6 +2108,18 @@
     <feed>https://github.com/uleysky/gsview-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>guru</name>
+    <description lang="en">GURU: Ebuild repository entirely maintained by Gentoo users</description>
+    <homepage>https://wiki.gentoo.org/wiki/Project:GURU</homepage>
+    <owner type="project">
+      <email>guru@gentoo.org</email>
+      <name>GURU</name>
+    </owner>
+    <source type="git">https://anongit.gentoo.org/git/repo/proj/guru.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/proj/guru.git</source>
+    <feed>https://cgit.gentoo.org/repo/proj/guru.git/atom/</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>haarp</name>
     <description lang="en">misc ebuilds that aren't in the main tree</description>
     <homepage>https://cgit.gentoo.org/user/haarp.git/</homepage>

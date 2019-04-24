@@ -267,19 +267,6 @@
     <!-- <feed>https://cgit.gentoo.org/user/aluco.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
-    <name>alunduil</name>
-    <description lang="en">alunduil's personal overlay</description>
-    <homepage>https://github.com/alunduil/alunduil-overlay</homepage>
-    <owner type="person">
-      <email>alunduil@gentoo.org</email>
-      <name>Alex Brandt</name>
-    </owner>
-    <source type="git">https://github.com/alunduil/alunduil-overlay.git</source>
-    <source type="git">git://github.com/alunduil/alunduil-overlay.git</source>
-    <source type="git">git@github.com:alunduil/alunduil-overlay.git</source>
-    <feed>https://github.com/alunduil/alunduil-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="official">
     <name>anarchy</name>
     <description>Testing/Bug fixes, new ebuilds</description>
     <homepage>https://cgit.gentoo.org/dev/anarchy.git/</homepage>

@@ -3740,19 +3740,6 @@
     <source type="git">https://git.zero-downtime.net/quark/quarks.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>qutebrowser</name>
-    <description lang="en">Overlay providing qutebrowser ebuilds</description>
-    <homepage>https://github.com/posativ/qutebrowser-overlay</homepage>
-    <owner type="person">
-      <email>info@posativ.org</email>
-      <name>Martin Zimmermann</name>
-    </owner>
-    <source type="git">https://github.com/posativ/qutebrowser-overlay.git</source>
-    <source type="git">git://github.com/posativ/qutebrowser-overlay.git</source>
-    <source type="git">git@github.com:posativ/qutebrowser-overlay.git</source>
-    <feed>https://github.com/posativ/qutebrowser-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>qwin-overlay</name>
     <description>Gentoo overlay with some patched packages.</description>
     <homepage>https://github.com/Flex1911/</homepage>

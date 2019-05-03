@@ -2741,6 +2741,22 @@
     <feed>https://cgit.gentoo.org/repo/proj/libressl.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>linux-be</name>
+    <description lang="en">Port of Boot Environments for GNU/Linux</description>
+    <homepage>https://gitlab.com/linux-be</homepage>
+    <owner type="person">
+      <email>vitaut.bayaryn@gmail.com</email>
+      <name>Witaut Bajaryn</name>
+    </owner>
+    <owner type="person">
+      <email>a.mistewicz@gmail.com</email>
+      <name>Aleksander Mistewicz</name>
+    </owner>
+    <source type="git">https://gitlab.com/linux-be/overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com/linux-be/overlay.git</source>
+    <feed>https://gitlab.com/linux-be/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>linuxunderground-overlay</name>
     <description>experimental ebuilds from linuxunderground.be</description>
     <homepage>https://github.com/linuxunderground/gentoo.overlay</homepage>

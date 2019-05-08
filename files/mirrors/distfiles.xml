@@ -87,7 +87,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>C3SL, Federal University of Paraná</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://gentoo.c3sl.ufpr.br/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://gentoo.c3sl.ufpr.br/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://gentoo.c3sl.ufpr.br/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://gentoo.c3sl.ufpr.br/gentoo/</uri>
     </mirror>
   </mirrorgroup>

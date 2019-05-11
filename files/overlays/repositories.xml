@@ -850,6 +850,18 @@
     <feed>https://github.com/causes-/causelay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ceamac</name>
+    <description lang="en">This is a small Gentoo overlay with ebuilds that I could not find elsewhere or that I had to modify for some reason.</description>
+    <homepage>https://github.com/ceamac/overlay</homepage>
+    <owner type="person">
+      <email>ceamac.paragon@gmail.com</email>
+      <name>Viorel Munteanu</name>
+    </owner>
+    <source type="git">https://github.com/ceamac/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/ceamac/overlay.git</source>
+    <feed>https://github.com/ceamac/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>cg</name>
     <description>Computer graphics ebuilds for gentoo</description>
     <homepage>https://github.com/brothermechanic/cg</homepage>

@@ -3725,6 +3725,18 @@
     <source type="git">git+ssh://git@github.com/prototype99/prototype99.git</source>
     <feed>https://github.com/prototype99/prototype99/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>pyfa</name>
+    <description lang="en">Newest versions of Pyfa (Python fitting assistant for EVE Online)</description>
+    <homepage>https://github.com/ZeroPointEnergy/gentoo-pyfa-overlay</homepage>
+    <owner type="person">
+      <email>a.zuber@gmx.ch</email>
+      <name>Andreas Zuber</name>
+    </owner>
+    <source type="git">https://github.com/ZeroPointEnergy/gentoo-pyfa-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/ZeroPointEnergy/gentoo-pyfa-overlay.git</source>
+    <feed>https://github.com/ZeroPointEnergy/gentoo-pyfa-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>python</name>
     <description lang="en">Python project repository</description>

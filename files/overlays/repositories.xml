@@ -1025,20 +1025,6 @@
     <feed>https://cgit.gentoo.org/repo/user/darkelf.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>das-labor</name>
-    <description lang="en">Gentoo overlay from Hackerspace Bochum</description>
-    <homepage>https://github.com/das-labor/labor-overlay</homepage>
-    <owner type="person">
-      <email>zaolin@das-labor.org</email>
-      <name>Philipp Deppenwiese</name>
-    </owner>
-    <owner type="person">
-      <email>kai@gnupg.org</email>
-      <name>Kai Michaelis</name>
-    </owner>
-    <source type="git">https://github.com/das-labor/labor-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>deadbeef-overlay</name>
     <description lang="en">DeaDBeeF player overlay for Gentoo Linux</description>
     <homepage>https://github.com/damex/deadbeef-overlay</homepage>
@@ -1447,20 +1433,6 @@
     <feed>https://github.com/rafspiny/enlightenment-live/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>enlightenment-niifaq</name>
-    <description lang="en">FAQ RI: E17+ overlay</description>
-    <description lang="ru">НИИ ЧаВО: Оверлей с E17+</description>
-    <homepage>https://github.com/niifaq/enlightenment.overlay</homepage>
-    <owner type="person">
-      <email>gentoo@mva.name</email>
-      <name>Vadim A. Misbakh-Soloviov</name>
-    </owner>
-    <source type="git">https://github.com/niifaq/enlightenment.overlay.git</source>
-    <source type="git">git://github.com/niifaq/enlightenment.overlay.git</source>
-    <source type="git">git@github.com:niifaq/enlightenment.overlay.git</source>
-    <feed>https://github.com/niifaq/enlightenment.overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ennui</name>
     <description>Facilitate running hardened-desktop hybrid system</description>
     <homepage>https://gitweb.gentoo.org/user/ennui.git/</homepage>
@@ -1847,17 +1819,6 @@
     <source type="git">git+ssh://git@git.gentoo.org/proj/gamerlay.git</source>
     <feed>https://cgit.gentoo.org/proj/gamerlay.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/gamerlay.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>genealogy</name>
-    <description>Gentoo overlay for Gramps and other packages related to genealogy</description>
-    <homepage>https://github.com/tecknicaltom/gentoo-genealogy-overlay</homepage>
-    <owner type="person">
-      <email>gentoo@modtwo.com</email>
-      <name>tecknicaltom</name>
-    </owner>
-    <source type="git">https://github.com/tecknicaltom/gentoo-genealogy-overlay.git</source>
-    <feed>https://github.com/tecknicaltom/gentoo-genealogy-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>genthree</name>
@@ -4912,16 +4873,6 @@
     <source type="git">git+ssh://git@git.gentoo.org/user/triquetra.git</source>
     <feed>https://cgit.gentoo.org/user/triquetra.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/triquetra.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>tristelune</name>
-    <description>Cédric's user overlay</description>
-    <homepage>https://github.com/tristelune1/tristelune-overlay</homepage>
-    <owner type="person">
-      <email>cmacquat@mykolab.com</email>
-      <name>Cédric</name>
-    </owner>
-    <source type="git">https://github.com/tristelune1/tristelune-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>trollerlay</name>

@@ -748,13 +748,13 @@
   <repo quality="experimental" status="unofficial">
     <name>bright</name>
     <description lang="en">BrightOne's personal overlay</description>
-    <homepage>https://gitlab.com/BrightOne/gentoo-overlay</homepage>
+    <homepage>https://github.com/filalex77/bright</homepage>
     <owner type="person">
       <email>brightone@protonmail.com</email>
       <name>Oleksii Filonenko</name>
     </owner>
-    <source type="git">https://gitlab.com/BrightOne/gentoo-overlay.git</source>
-    <feed>https://gitlab.com/BrightOne/gentoo-overlay/commits/master?format=atom</feed>
+    <source type="git">https://github.com/filalex77/bright.git</source>
+    <feed>https://github.com/filalex77/bright/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>brother-overlay</name>

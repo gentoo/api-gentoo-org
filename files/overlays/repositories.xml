@@ -5200,18 +5200,6 @@
     <source type="git">git://anongit.gentoo.org/repo/proj/wine.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>wizard</name>
-    <description lang="en">A Gentoo Overlay maintained by m31271n.</description>
-    <homepage>https://github.com/m31271n/wizard</homepage>
-    <owner type="person">
-      <email>m31271n@gmail.com</email>
-      <name>m31271n</name>
-    </owner>
-    <source type="git">https://github.com/m31271n/wizard.git</source>
-    <source type="git">git://github.com/m31271n/wizard.git</source>
-    <source type="git">git@github.com:m31271n/wizard.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>wjn-overlay</name>
     <description>wjn's overlay for Gentoo Linux</description>
     <homepage>https://bitbucket.org/wjn/wjn-overlay</homepage>

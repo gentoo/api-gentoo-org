@@ -572,6 +572,25 @@
     <feed>https://github.com/barzog/barzog-gentoo-overlay/commits/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>beatussum-overlay</name>
+    <description lang="en">Beatussum's overlay</description>
+    <description lang="fr">Overlay de Beatussum</description>
+    <longdescription lang="en">
+        My Gentoo overlay aims to provide some packages that are not (yet) in the main Gentoo tree.
+    </longdescription>
+    <longdescription lang="fr">
+        Mon overlay a pour but de fournir certains paquets qui ne sont pas (encore) disponibles dans l'arbre principal.
+    </longdescription>
+    <homepage>https://github.com/beatussum/beatussum-overlay</homepage>
+    <owner type="person">
+      <email>beatussum@protonmail.com</email>
+      <name>Mattéo Rossillol--Laruelle</name>
+    </owner>
+    <source type="git">https://github.com/beatussum/beatussum-overlay.git</source>
+    <source type="git">ssh://git@github.com/beatussum/beatussum-overlay.git</source>
+    <feed>https://github.com/beatussum/beatussum-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>bes</name>
     <description lang="en">bes' personal overlay</description>
     <homepage>https://github.com/bes-internal/gentoo-overlay-bes</homepage>

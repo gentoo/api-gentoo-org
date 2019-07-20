@@ -5284,21 +5284,6 @@
     <source type="git">https://github.com/xdch47/gpo-xdch47.git</source>
     <source type="git">git+ssh://git@github.com/xdch47/gpo-xdch47.git</source>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>xfce-dev</name>
-    <description>Experimental ebuilds for the Xfce4 Desktop
-    Environment</description>
-    <homepage>https://cgit.gentoo.org/proj/xfce.git/</homepage>
-    <owner type="project">
-      <email>xfce@gentoo.org</email>
-      <name>XFCE team</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/xfce.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/xfce.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/xfce.git</source>
-    <feed>https://cgit.gentoo.org/proj/xfce.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/xfce.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>xoreos</name>
     <description lang="en">Gentoo overlay for the xoreos project, providing a WIP reimplementation of the BioWare Aurora engine and related modding tools.</description>

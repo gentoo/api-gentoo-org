@@ -2235,7 +2235,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>HomeAssistantRepository</name>
-    <description lang="en">Overlay for setting up Home Assistant on Gentoo Linux with (most) needed newer Python libraries.</description>
+    <description lang="en">Home Assistant on Gentoo Linux without virtualenv or docker.</description>
     <homepage>https://git.edevau.net/onkelbeh/HomeAssistantRepository</homepage>
     <owner type="person">
       <email>b@edevau.net</email>

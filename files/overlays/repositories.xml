@@ -194,7 +194,7 @@
       <email>aidecoe@gentoo.org</email>
       <name>Amadeusz Żołnowski</name>
     </owner>
-    <source type="git">git://github.com/aidecoe/aidecoe-overlay.git</source>
+    <source type="git">https://github.com/aidecoe/aidecoe-overlay.git</source>
     <feed>https://github.com/feeds/aidecoe/commits/aidecoe-overlay/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

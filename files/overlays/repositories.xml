@@ -4514,18 +4514,6 @@
     <feed>https://github.com/sspreitzer/gentoo-repo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>status-check</name>
-    <description lang="en">A simple status check and configuration package built for Gentoo</description>
-    <homepage>https://github.com/powerhouseofthecell/status-check</homepage>
-    <owner type="person">
-      <email>nicholasfwong@gmail.com</email>
-      <name>Nicholas Wong</name>
-    </owner>
-    <source type="git">https://github.com/powerhouseofthecell/status-check.git</source>
-    <source type="git">git+ssh://git@github.com/powerhouseofthecell/status-check.git</source>
-    <feed>https://github.com/powerhouseofthecell/status-check/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>steam-overlay</name>
     <description lang="en">Gentoo overlay for Valve's Steam client and Steam-based games</description>
     <homepage>https://github.com/anyc/steam-overlay</homepage>

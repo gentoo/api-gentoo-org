@@ -58,17 +58,6 @@
     </repo>
   FIN
   -->
-   <repo quality="experimental" status="unofficial">
-      <name>Picarica</name>
-      <description lang="en">Gentoo overlay for apps that dont exist anymore or are unmaintaned</description>
-      <homepage>https://gitlab.com/picarica/picarica-overlay.git</homepage>
-      <owner type="person">
-        <email>dohaje@azet.sk</email>
-        <name>George Bucek</name>
-      </owner>
-      <source type="git">https://gitlab.com/picarica/picarica-overlay.git</source>
-      <feed>https://gitlab.com/picarica/picarica-overlay/commits/master</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>0bs1d1an</name>
     <description lang="en">Personal overlay</description>
@@ -3514,6 +3503,17 @@
     <source type="git">git+ssh://git@github.com/pholthau/pholthaus-overlay.git</source>
     <feed>https://github.com//pholthau/pholthaus-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+     <name>Picarica</name>
+     <description lang="en">Gentoo overlay for apps that dont exist anymore or are unmaintaned</description>
+     <homepage>https://gitlab.com/picarica/picarica-overlay.git</homepage>
+     <owner type="person">
+       <email>dohaje@azet.sk</email>
+       <name>George Bucek</name>
+     </owner>
+     <source type="git">https://gitlab.com/picarica/picarica-overlay.git</source>
+     <feed>https://gitlab.com/picarica/picarica-overlay/commits/master</feed>
+ </repo>
   <repo quality="experimental" status="unofficial">
     <name>pica-pica</name>
     <description lang="en">Pica Pica ebuilds</description>

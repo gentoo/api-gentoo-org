@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE repositories SYSTEM "http://www.gentoo.org/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
-<!--
+  <!--
   SYN
   When adding repositories, please keep this file ordered by repository name.
   * TEMPLATE TO COPY'N'PASTE UNOFFICIAL REPOSITORIES
@@ -81,8 +81,7 @@
     <source type="git">git+ssh://git@gitlab.com/0bs1d1an/0bs1d1an-overlay.git</source>
     <feed>https://gitlab.com/0bs1d1an/0bs1d1an-overlay/commits/master.atom</feed>
   </repo>
-<repo quality="experimental" status="unofficial">
-
+  <repo quality="experimental" status="unofficial">
     <name>0x4d4c</name>
     <description lang="en">Personal overlay with no special focus</description>
     <homepage>https://github.com/0x4d4c/gentoo-overlay</homepage>

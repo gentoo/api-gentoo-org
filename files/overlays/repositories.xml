@@ -3504,7 +3504,7 @@
     <feed>https://github.com//pholthau/pholthaus-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-     <name>Picarica</name>
+     <name>picarica</name>
      <description lang="en">Gentoo overlay for apps that dont exist or are unmaintaned</description>
      <homepage>https://gitlab.com/picarica/picarica-overlay</homepage>
      <owner type="person">
@@ -3512,6 +3512,7 @@
        <name>George Bucek</name>
      </owner>
      <source type="git">https://gitlab.com/picarica/picarica-overlay.git</source>
+     <source type="git">git+ssh://git@gitlab.com/picarica/picarica-overlay.git</source>
     <!-- <feed>https://gitlab.com/picarica/picarica-overlay/commits/master</feed> -->
  </repo>
   <repo quality="experimental" status="unofficial">

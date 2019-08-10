@@ -3506,7 +3506,7 @@
   <repo quality="experimental" status="unofficial">
      <name>Picarica</name>
      <description lang="en">Gentoo overlay for apps that dont exist anymore or are unmaintaned</description>
-     <homepage>https://gitlab.com/picarica/picarica-overlay.git</homepage>
+     <homepage>https://gitlab.com/picarica/picarica-overlay</homepage>
      <owner type="person">
        <email>dohaje@azet.sk</email>
        <name>George Bucek</name>

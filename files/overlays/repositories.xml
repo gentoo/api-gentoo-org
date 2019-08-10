@@ -3512,7 +3512,7 @@
        <name>George Bucek</name>
      </owner>
      <source type="git">https://gitlab.com/picarica/picarica-overlay.git</source>
-     <feed>https://gitlab.com/picarica/picarica-overlay/commits/master</feed>
+    <!-- <feed>https://gitlab.com/picarica/picarica-overlay/commits/master</feed> -->
  </repo>
   <repo quality="experimental" status="unofficial">
     <name>pica-pica</name>

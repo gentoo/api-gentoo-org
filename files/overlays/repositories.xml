@@ -3504,7 +3504,7 @@
     <feed>https://github.com//pholthau/pholthaus-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-     <name>picarica</name>
+     <name>picarica-overlay</name>
      <description lang="en">Gentoo overlay for apps that dont exist or are unmaintaned</description>
      <homepage>https://gitlab.com/picarica/picarica-overlay</homepage>
      <owner type="person">

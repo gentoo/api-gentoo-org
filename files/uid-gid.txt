@@ -1,0 +1,215 @@
+# Copyright 2019 Gentoo Authors
+# Distributed under the terms of the GNU General Public License v2
+
+# This file provides a registry of active, requested and historical UID
+# and GID assignments in the Gentoo repository.  Each line represents
+# a single record, with the '#!' line providing field headers.  Empty
+# lines and comments are ignored.  Fields are separated by whitespace,
+# with the last (note) field extending to end of line.  Note that
+# additional fields may be added in the future.
+#
+# A single record can represent a user, a group or a combination of both
+# using the same name.  Same user/group/UID/GID can be repeated
+# in mutiple records to reflect reality.  If you can't express something
+# with a single record, split it.
+#
+# NAME: user/group name
+# UID: UID assigned to the user, or '-' if only group is defined
+# GID: GID assigned to the group, or '-' if only user is defined
+# PROVIDER: keyword identifying provider of user/group, see below
+# NOTES: human-readable notes about the assignment, optional, can use
+#        Markdown syntax
+#
+# Valid values for PROVIDER are:
+# - acct: acct-user/${NAME} and/or acct-group/${NAME} packages
+# - baselayout: user/group defined in passwd/group files from baselayout
+# - baselayout-fbsd: same as baselayout but on FreeBSD system
+# - historical: historical UID/GID assignment, no longer used nowadays
+# - requested: assignment requested on the ml, not yet pushed
+# - reserved: special reserved range
+# - user.eclass: user/group created via user.eclass directly in package
+#
+# Use PROVIDERs that apply best at the moment.  For example, if user
+# was migrated from user.eclass to acct-user/ with the same UID, just
+# list the latter.
+#
+# Please keep the list sorted by UID, GID, PROVIDER, NAME (in order).
+
+#!NAME			UID	GID	PROVIDER	NOTES
+root			0	0	baselayout
+root			0	-	baselayout-fbsd
+toor			0	-	baselayout-fbsd
+wheel			-	0	baselayout-fbsd
+bin			1	1	baselayout
+daemon			1	1	baselayout-fbsd
+daemon			2	2	baselayout
+operator		2	5	baselayout-fbsd
+adm			3	4	baselayout
+bin			3	7	baselayout-fbsd
+sys			-	3	baselayout
+sys			-	3	baselayout-fbsd
+lp			4	7	baselayout
+tty			4	4	baselayout-fbsd
+adm			-	4	acct
+sync			5	-	baselayout
+kmem			5	2	baselayout-fbsd
+tty			-	5	baselayout
+tty			-	5	acct
+shutdown		6	-	baselayout
+mail			6	6	baselayout-fbsd
+disk			-	6	acct
+disk			-	6	baselayout
+halt			7	-	baselayout
+games			7	-	baselayout-fbsd
+lp			-	7	acct
+news			8	8	baselayout-fbsd
+mail			8	12	acct		mail user and group removed from baselayout on Linux in [r3093](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2547&r2=3093)
+mem			-	8	baselayout
+man			9	-	baselayout-fbsd
+news			9	13	baselayout
+kmem			-	9	acct
+kmem			-	9	baselayout
+man			-	9	historical	man group removed from baselayout on BSD in [r2528](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.BSD/group?limit_changes=0&r1=2322&r2=2528&pathrev=2545), now on GID 15.
+uucp			10	14	baselayout
+wheel			-	10	acct
+wheel			-	10	baselayout
+operator		11	-	baselayout
+floppy			-	11	baselayout
+man			13	15	acct		Moved out of baselayout in [r2528] and before in [https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1397&r2=1474&pathrev=2545 r1474](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2446&r2=2528&pathrev=2545)
+postmaster		14	-	acct		Removed from baselayout in [r3093](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2547&r2=3093)
+cron			16	16	user.eclass	Removed from baselayout in [r1476](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1475&r2=1476&pathrev=2545)
+console			-	17	baselayout
+audio			-	18	acct		Duplicated in media-sound/{pulseaudio,timidity}.
+audio			-	18	baselayout
+cdrom			-	19	acct
+cdrom			-	19	baselayout
+dialout			-	20	acct
+dialout			-	20	baselayout	Historically removed from baselayout in [r2444](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2310&r2=2444&pathrev=2545), then reintroduced
+ftp			21	21	acct		Removed from baselayout in [r1475](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1474&r2=1475&pathrev=2545)
+sshd			22	22	user.eclass	Removed from baselayout in [r1476](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1475&r2=1476&pathrev=2545)
+smmsp			25	-	baselayout-fbsd
+at			25	25	user.eclass	Removed from baselayout in [r1479](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1478&r2=1479&pathrev=2545)
+smtpd			25	25	user.eclass
+smmsp			-	25	historical	Removed from baselayout in [r2528](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.BSD/group?limit_changes=0&r1=2322&r2=2528&pathrev=2545)
+tape			-	26	acct
+tape			-	26	baselayout
+video			-	27	acct
+video			-	27	baselayout
+render			-	28	acct
+squid			31	31	historical	Removed from baselayout in [r1477](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1476&r2=1477&pathrev=2545)
+guest			-	31	baselayout-fbsd
+gdm			32	32	historical	Removed from baselayout in [r1571](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1479&r2=1571&pathrev=2545)
+xfs			33	33	historical	X Font Server, removed from baselayout in [r1572](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1571&r2=1572&pathrev=2545)
+games			35	-	historical	Removed from baselayout in [r1478](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1477&r2=1478&pathrev=2545)
+games			36	35	user.eclass	Names configurable via eclass; group: deprecated by Council decision, removed from baselayout in [r1478](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1477&r2=1478&pathrev=2545)
+gamestat		-	36	acct
+named			40	40	user.eclass	Removed from baselayout in [r1369](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1335&r2=1369&pathrev=2545)
+knot			53	53	user.eclass
+mysql			60	60	acct		Removed from baselayout in [r1335](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1326&r2=1335&pathrev=2545)
+authpf			-	63	user.eclass
+uucp			66	65	baselayout-fbsd
+duende			66	-	user.eclass
+dialer			-	68	baselayout-fbsd
+network			-	69	baselayout-fbsd
+postgres		70	70	user.eclass	Moved out of baselayout in [r1861](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1572&r2=1861&pathrev=2545)
+dovenull		74	74	requested
+redis			75	75	user.eclass
+dovecot			76	76	requested
+qemu			77	77	acct
+kvm			-	78	acct
+libvirt			-	79	acct
+cdrw			-	80	baselayout
+apache			81	81	user.eclass	Removed from baselayout in [r916](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=906&r2=916&pathrev=2545)
+nut			84	84	user.eclass	Removed from baselayout in [r1862](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1861&r2=1862&pathrev=2545)
+cyrus			85	-	historical	Removed from baselayout in [r1326](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1319&r2=1326&pathrev=2545)
+usb			-	85	baselayout
+nullmail		88	88	user.eclass
+vpopmail		89	89	user.eclass	Removed from baselayout in [r1319](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=916&r2=1319&pathrev=2545)
+partimag		91	91	user.eclass
+dovecot			97	97	user.eclass
+input			-	97	acct
+input			-	97	baselayout
+maradns			99	99	user.eclass
+users			-	100	baselayout
+users			-	100	baselayout-fbsd
+messagebus		101	101	acct
+polkitd			102	102	acct
+lpadmin			-	106	user.eclass
+rpc			111	111	historical	Used by net-nds/portmap, removed in [36e60cce](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=36e60cce11d780582196c42d6b692897455d7a27)
+unifi			113	113	requested
+murmurd			122	122	requested
+ntp			-	123	user.eclass
+rtkit			133	133	acct
+owfs			150	150	user.eclass	Ebuild allows overriding username.
+stapusr			-	156	user.eclass
+stapsys			-	157	user.eclass
+stapdev			-	158	user.eclass
+transmission		169	169	acct
+munin			177	-	user.eclass
+pdnsd			184	184	requested
+systemd-journal		-	190	acct
+systemd-journal-remote	191	191	acct
+systemd-network		192	192	acct
+systemd-resolve		193	193	acct
+systemd-coredump	194	194	acct
+systemd-timesync	195	195	acct
+alias			200	-	user.eclass	Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+nofiles			-	200	user.eclass	Removed from baselayout in [r2445](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2444&r2=2445&pathrev=2545)
+qmaild			201	-	user.eclass	Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmail			-	201	user.eclass	Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmaill			202	-	user.eclass	Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmailp			203	-	user.eclass	Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmailq			204	-	user.eclass	Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmailr			205	-	user.eclass	Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmails			206	-	user.eclass	Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+postfix			207	207	user.eclass	Removed from baselayout in [r1863](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1862&r2=1863&pathrev=2545)
+postdrop		-	208	user.eclass	Removed from baselayout in [r1863](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1862&r2=1863&pathrev=2545)
+smmsp			209	209	user.eclass	user removed out of baselayout in [r2446](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2310&r2=2446&pathrev=2545); group in [r2445](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2444&r2=2445&pathrev=2545)
+cmd5checkpw		212	-	user.eclass
+uptimed			220	220	requested
+gkrellmd		221	221	requested
+msmtpd			222	222	requested
+nsd			223	223	requested
+distcc			240	-	user.eclass
+slocate			-	245	historical	Removed from baselayout in [r1328](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1319&r2=1328&pathrev=2545)
+portage			250	250	baselayout
+portage			250	250	baselayout-fbsd
+smtpq			252	252	user.eclass
+tomcat			265	265	user.eclass
+logstash		270	270	acct
+amavis			333	333	requested
+dnscrypt-proxy		353	353	acct
+guest			405	-	historical	Removed from baselayout in [r889](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=286&r2=889&pathrev=2545)
+utmp			-	406	acct
+utmp			-	406	baselayout
+ldap			439	439	user.eclass
+firebird		450	450	user.eclass
+mogilefs		460	-	user.eclass
+i2pd			470	470	acct
+bedrock			485	485	requested
+spectrum		486	486	requested
+ddclient		487	487	requested
+teamspeak		488	488	requested
+steamcmd		489	489	requested
+minecraft		490	490	requested
+fhem			491	491	requested
+unrealircd		494	494	acct
+gvm			495	495	requested
+strelaysrv		496	496	acct
+stdiscosrv		497	497	acct
+burp			498	498	acct
+syncthing		499	499	acct
+slurm			500	500	user.eclass
+-			500–999	500–999	reserved
+-			1000–60000		1000–60000		reserved	`UID_MIN`–`UID_MAX` / `GID_MIN`–`GID_MAX` in login.defs
+ventrilo		3784	3784	historical
+-			60001–65533		60001–65532		reserved
+nogroup			-	65533	baselayout
+nogroup			-	65533	baselayout-fbsd
+nobody			65534	65534	baselayout
+nobody			65534	65534	baselayout-fbsd
+-			65535	65535	reserved	−1 on systems with 16 bit uid_t
+-			61184–65519		61184–65519		reserved	Used by systemd DynamicUser feature
+-			524288–1878982656	524288–1878982656	reserved	Used by systemd for containers
+
+# vim:se ts=8 sts=0 tw=0 :

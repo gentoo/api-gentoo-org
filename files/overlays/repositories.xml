@@ -2968,6 +2968,18 @@
     <source type="mercurial">http://rhodecode.megacoffee.net/gentoo-overlay/main</source>
     <feed>https://rhodecode.megacoffee.net/gentoo-overlay/main/feed/atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>menelkir</name>
+    <description lang="en">Various ebuilds from different sources</description>
+    <homepage>https://gitlab.com/menelkir/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>menelkir@itroll.org</email>
+      <name>Daniel Menelkir</name>
+    </owner>
+    <source type="git">https://gitlab.com/menelkir/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com/menelkir/gentoo-overlay.git</source>
+    <feed>https://gitlab.com/menelkir/gentoo-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>mgorny</name>
     <description>Michał Górny developer overlay</description>

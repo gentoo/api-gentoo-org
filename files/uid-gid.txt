@@ -135,7 +135,7 @@ users			-	100	baselayout-fbsd
 messagebus		101	101	acct
 polkitd			102	102	acct
 lpadmin			-	106	user.eclass
-rpc			111	111	historical	Used by net-nds/portmap, removed in [36e60cce](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=36e60cce11d780582196c42d6b692897455d7a27)
+rpc			111	111	historical	Used by net-nds/portmap, removed in [36e60cce11d7](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=36e60cce11d780582196c42d6b692897455d7a27)
 unifi			113	113	requested
 mythtv			117	117	requested
 murmur			122	122	acct
@@ -204,7 +204,7 @@ syncthing		499	499	acct
 slurm			500	500	user.eclass
 -			500..999	500..999	reserved
 -			1000..60000		1000..60000		reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs
-ventrilo		3784	3784	historical	Used by media-sound/ventrilo-server-bin, removed in [15c6a556](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=15c6a556cef202a72f7226648ebea19fcffe834d)
+ventrilo		3784	3784	historical	Used by media-sound/ventrilo-server-bin, removed in [15c6a556cef2](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=15c6a556cef202a72f7226648ebea19fcffe834d)
 -			60001..65533		60001..65532		reserved
 nogroup			-	65533	baselayout
 nogroup			-	65533	baselayout-fbsd

@@ -3161,6 +3161,18 @@
     <source type="git">git://github.com/msva/mva-overlay</source>
     <feed>https://github.com/msva/mva-overlay/commits/master.atom</feed>
   </repo>
+    <repo quality="experimental" status="unofficial">
+    <name>myov</name>
+    <description lang="en">My Overlay - custom Gentoo overlay from XGQT</description>
+    <homepage>https://gitlab.com/xgqt/myov.git</homepage>
+    <owner type="person">
+      <name>XGQT</name>
+      <email>xgqt@protonmail.com</email>
+    </owner>
+    <source type="git">https://gitlab.com/xgqt/myov.git</source>
+    <source type="git">git+ssh://git@gitlab.com/xgqt/myov.git</source>
+    <feed>https://gitlab.com/xgqt/myov/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>mysql</name>
     <description lang="en">Gentoo MySQL overlay</description>

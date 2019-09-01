@@ -145,6 +145,7 @@ owfs			150	150	user.eclass	Ebuild allows overriding username.
 stapusr			-	156	user.eclass
 stapsys			-	157	user.eclass
 stapdev			-	158	user.eclass
+inspircd		167	167	acct
 transmission		169	169	acct
 munin			177	-	user.eclass
 pdnsd			184	184	acct

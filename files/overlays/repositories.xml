@@ -3457,6 +3457,18 @@
     <feed>https://github.com/jcpetkovich/overlay-petkovich/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>pf4public</name>
+    <description lang="en">Personal overlay</description>
+    <homepage>https://github.com/PF4Public/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>PF4Public@mail.ru</email>
+      <name>PF4Public</name>
+    </owner>
+    <source type="git">https://github.com/PF4Public/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/PF4Public/gentoo-overlay.git</source>
+    <feed>https://github.com/PF4Public/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>pg_overlay</name>
     <description lang="en">User overlay</description>
     <homepage>https://github.com/perfect7gentleman/pg_overlay</homepage>

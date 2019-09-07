@@ -1212,20 +1212,6 @@
     <feed>https://github.com/dmchurch/portage-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>dmol</name>
-    <description lang="en">Overlay to store java-related ebuilds, for further reviewing</description>
-    <homepage>https://cgit.gentoo.org/user/dmol.git/</homepage>
-    <owner type="person">
-      <email>the.dmol@gmail.com</email>
-      <name>Ivan Baidakou</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/dmol.git</source>
-    <source type="git">git://anongit.gentoo.org/user/dmol.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/dmol.git</source>
-    <feed>https://cgit.gentoo.org/user/dmol.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/dmol.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>docker</name>
     <description>Overlay for docker by dotCloud</description>
     <homepage>https://github.com/tianon/docker-overlay</homepage>
@@ -2436,20 +2422,6 @@
     <feed>https://github.com/juippis/jps-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>jranvier</name>
-    <description lang="en">Experimental cryptoanarchism-related ebuilds</description>
-    <homepage>https://cgit.gentoo.org/user/jranvier.git/</homepage>
-    <owner type="person">
-      <email>justusranvier@tormail.org</email>
-      <name>Justus Ranvier</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/jranvier.git</source>
-    <source type="git">git://anongit.gentoo.org/user/jranvier.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/jranvier.git</source>
-    <feed>https://cgit.gentoo.org/user/jranvier.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/jranvier.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>JRG</name>
     <description lang="en">John's Collaboration Overlay</description>
     <homepage>https://github.com/john-r-graham/jrg-overlay</homepage>
@@ -3588,17 +3560,6 @@
     <source type="rsync">rsync://rsync.gentoofan.org/poly-c</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>portage-backup</name>
-    <description lang="en">Backup-related ebuilds</description>
-    <homepage>https://github.com/lnagel/portage-backup/tree/master</homepage>
-    <owner type="person">
-      <email>lenno@nagel.ee</email>
-      <name>Lenno Nagel</name>
-    </owner>
-    <source type="git">git://github.com/lnagel/portage-backup.git</source>
-    <feed>https://github.com/lnagel/portage-backup/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>posativ</name>
     <description lang="en">Overlay of Martin Zimmermann</description>
     <homepage>https://github.com/posativ/overlay</homepage>
@@ -3666,20 +3627,6 @@
       <name>Arfrever Frehtes Taifersar Arahesis</name>
     </owner>
     <source type="svn">https://svn.code.sf.net/p/gentoo-progress/code</source>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>prometheanfire</name>
-    <description lang="en">Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/prometheanfire.git/</homepage>
-    <owner type="person">
-      <email>prometheanfire@gentoo.org</email>
-      <name>Matthew Thode</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/prometheanfire.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/prometheanfire.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/prometheanfire.git</source>
-    <feed>https://cgit.gentoo.org/dev/prometheanfire.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/prometheanfire.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pross</name>
@@ -4463,20 +4410,6 @@
     <source type="git">git://github.com/anyc/steam-overlay.git</source>
     <source type="git">git@github.com:anyc/steam-overlay.git</source>
     <feed>https://github.com/anyc/steam-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="testing" status="official">
-    <name>steev</name>
-    <description>Steev Klimaszewski's Overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/steev.git/</homepage>
-    <owner type="person">
-      <email>steev@gentoo.org</email>
-      <name>Stephen Klimaszewski</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/steev.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/steev.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/steev.git</source>
-    <feed>https://cgit.gentoo.org/dev/steev.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/steev.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>stefantalpalaru</name>

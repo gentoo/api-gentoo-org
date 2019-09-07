@@ -4191,7 +4191,7 @@
       <description lang="en">ebuilds for canaonicals snapd</description>
       <homepage>https://github.com/zigford/snapd</homepage>
       <owner type="person">
-        <email>jesse@zigford.org</email>
+        <email>zigford@gmail.com</email>
         <name>Jesse Harris</name>
       </owner>
       <source type="git">https://github.com/zigford/snapd.git</source>

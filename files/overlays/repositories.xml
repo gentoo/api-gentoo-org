@@ -4187,6 +4187,17 @@
     <feed>https://github.com/trofi/slyfox-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>snapd</name>
+    <description lang="en">ebuilds for canaonicals snapd</description>
+    <homepage>https://github.com/zigford/snapd</homepage>
+    <owner type="person">
+      <email>zigford@gmail.com</email>
+      <name>Jesse Harris</name>
+    </owner>
+    <source type="git">https://github.com/zigford/snapd.git</source>
+    <feed>https://github.com/zigford/snapd/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>soft</name>
     <description>Soft's personal overlay for miscellaneous ebuilds</description>
     <homepage>https://bitbucket.org/Soft/overlay</homepage>

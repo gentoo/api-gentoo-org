@@ -984,17 +984,6 @@
     <feed>https://github.com/Heather/gentoo-cynede/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>damex-overlay</name>
-    <description lang="en">damex's personal overlay</description>
-    <homepage>https://github.com/damex/damex-overlay</homepage>
-    <owner type="person">
-      <email>damex.pp@gmail.com</email>
-      <name>Roman Kuzmitsky</name>
-    </owner>
-    <source type="git">https://github.com/damex/damex-overlay.git</source>
-    <feed>https://github.com/feeds/damex/commits/damex-overlay/master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>darkelf</name>
     <description lang="en">Overlay focusing on improved user experience for working in darkness on Xfce or zsh (including vim)</description>
     <homepage>https://cgit.gentoo.org/repo/user/darkelf.git</homepage>
@@ -1423,17 +1412,6 @@
     <source type="git">git://github.com/erayd/overlay.git</source>
     <source type="git">git@github.com:erayd/overlay.git</source>
     <feed>https://github.com/erayd/overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>erikmack</name>
-    <description lang="en">Erik Mackdanz' overlay</description>
-    <homepage>https://github.com/erikmack/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>erikmack@gmail.com</email>
-      <name>Erik Mackdanz</name>
-    </owner>
-    <source type="git">git://github.com/erikmack/gentoo-overlay.git</source>
-    <feed>https://github.com/feeds/erikmack/commits/gentoo-overlay/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>eroen</name>
@@ -2490,20 +2468,6 @@
     <source type="git">https://github.com/d-k-ivanov/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/d-k-ivanov/gentoo-overlay.git</source>
     <feed>https://github.com/d-k-ivanov/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>keruspe</name>
-    <description lang="en">Keruspe's overlay</description>
-    <homepage>https://cgit.gentoo.org/user/keruspe.git/</homepage>
-    <owner type="person">
-      <email>Marc-Antoine@Perennou.com</email>
-      <name>Marc-Antoine Perennou</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/keruspe.git</source>
-    <source type="git">git://anongit.gentoo.org/user/keruspe.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/keruspe.git</source>
-    <feed>https://cgit.gentoo.org/user/keruspe.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/keruspe.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>khoverlay</name>
@@ -4032,20 +3996,6 @@
       <name>Scott Alfter</name>
     </owner>
     <source type="git">https://gitlab.com/salfter/portage.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>sardemff7</name>
-    <description lang="en">Sardem FF7's overlay</description>
-    <homepage>https://cgit.gentoo.org/user/sardemff7.git/</homepage>
-    <owner type="person">
-      <email>sardemff7+gentoo@sardemff7.net</email>
-      <name>Sardem FF7</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/sardemff7.git</source>
-    <source type="git">git://anongit.gentoo.org/user/sardemff7.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/sardemff7.git</source>
-    <feed>https://cgit.gentoo.org/user/sardemff7.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/sardemff7.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sarnex-overlay</name>

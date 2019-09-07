@@ -690,20 +690,6 @@
     <source type="git">git@github.com:bloodywing/bloody.git</source>
     <feed>https://github.com/bloodywing/bloody/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>blueness</name>
-    <description>Developer Overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/blueness.git/</homepage>
-    <owner type="person">
-      <email>blueness@gentoo.org</email>
-      <name>Anthony G. Basile</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/blueness.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/blueness</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/blueness.git</source>
-    <feed>https://cgit.gentoo.org/dev/blueness.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/blueness.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>bobwya</name>
     <description lang="en">Miscellaneous Gentoo ebuilds</description>

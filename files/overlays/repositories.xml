@@ -2361,17 +2361,6 @@
     <feed>https://github.com/jorgicio/jorgicio-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>jps-gentoo</name>
-    <description lang="en">Random set of ebuilds, focus on Finnish software.</description>
-    <homepage>https://github.com/juippis/jps-gentoo</homepage>
-    <owner type="person">
-      <email>juippis@gmail.com</email>
-      <name>juippis</name>
-    </owner>
-    <source type="git">https://github.com/juippis/jps-gentoo.git</source>
-    <feed>https://github.com/juippis/jps-gentoo/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>JRG</name>
     <description lang="en">John's Collaboration Overlay</description>
     <homepage>https://github.com/john-r-graham/jrg-overlay</homepage>

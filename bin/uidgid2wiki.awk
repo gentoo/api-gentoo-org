@@ -1,6 +1,7 @@
 #!/usr/bin/awk -f
 
 BEGIN {
+	print "<!-- DO NOT EDIT, generated automatically by uidgid2iki.awk -->"
 	print "{|class=\"wikitable sortable\""
 	print "! Name"
 	print "! data-sort-type=\"number\" | UID"

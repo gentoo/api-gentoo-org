@@ -196,7 +196,7 @@ firebird		450	450	user.eclass
 mogilefs		460	-	user.eclass
 i2pd			470	470	acct
 bedrock			485	485	requested
-spectrum		486	486	requested
+spectrum		486	486	acct
 ddclient		487	487	requested
 teamspeak		488	488	requested
 steamcmd		489	489	requested

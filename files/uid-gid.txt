@@ -180,6 +180,7 @@ portage			250	250	baselayout
 portage			250	250	baselayout-fbsd
 smtpq			252	252	user.eclass
 tomcat			265	265	user.eclass
+kibana			269	269	acct
 logstash		270	270	acct
 spire			271	271	acct
 plugdev			-	272	acct

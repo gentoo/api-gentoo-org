@@ -4010,6 +4010,30 @@
     <feed>https://cgit.gentoo.org/user/sattvik.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/sattvik.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="official">
+    <name>science</name>
+    <description>The Gentoo Science Overlay is intended as a place to work
+    outside of the main portage tree on experimental ebuilds. Our aim is to
+    increase the rate of development of scientific packages for Gentoo, but
+    ebuilds in this repository are by their very nature more experimental. If
+    you wish to use them you should be willing to help test and report
+    bugs. For contribution read https://wiki.gentoo.org/wiki/Project:Science/Contributing
+    </description>
+    <homepage>https://wiki.gentoo.org/wiki/Project:Science</homepage>
+    <owner type="project">
+      <email>sci@gentoo.org</email>
+      <name>sci</name>
+    </owner>
+    <source type="git">https://anongit.gentoo.org/git/proj/sci.git</source>
+    <source type="git">git://anongit.gentoo.org/proj/sci.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/proj/sci.git</source>
+    <source type="git">https://github.com/gentoo-science/sci.git</source>
+    <source type="git">git://github.com/gentoo-science/sci.git</source>
+    <source type="git">git@github.com:gentoo-science/sci.git</source>
+    <feed>https://cgit.gentoo.org/proj/sci.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/proj/sci.git/rss/</feed> -->
+    <feed>https://github.com/gentoo-science/sci/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>scrill</name>
     <description lang="en">Some admin tools</description>

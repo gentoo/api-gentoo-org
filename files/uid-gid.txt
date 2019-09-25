@@ -222,4 +222,9 @@ nobody			65534	65534	baselayout-fbsd
 -			61184..65519		61184..65519		reserved	Used by systemd DynamicUser feature
 -			524288..1878982656	524288..1878982656	reserved	Used by systemd for containers
 
+# Local Variables:
+# mode: conf-space
+# tab-width: 8
+# End:
+
 # vim:se ts=8 sts=0 tw=0 nowrap :

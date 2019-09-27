@@ -196,6 +196,7 @@ ldap			439	439	user.eclass
 firebird		450	450	user.eclass
 mogilefs		460	-	user.eclass
 i2pd			470	470	acct
+bitcoin			483	483	acct
 ipfs			484	484	requested
 bedrock			485	485	requested
 spectrum		486	486	acct

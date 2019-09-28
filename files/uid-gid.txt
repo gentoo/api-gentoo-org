@@ -198,7 +198,7 @@ mogilefs		460	-	user.eclass
 i2pd			470	470	acct
 mosquitto		482	482	acct
 bitcoin			483	483	acct
-ipfs			484	484	requested
+ipfs			484	484	acct
 bedrock			485	485	requested
 spectrum		486	486	acct
 ddclient		487	487	requested

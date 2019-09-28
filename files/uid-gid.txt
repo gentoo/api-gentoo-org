@@ -124,8 +124,7 @@ nut			84	84	user.eclass	Removed from baselayout in [r1862](https://sources.gento
 cyrus			85	-	historical	Removed from baselayout in [r1326](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1319&r2=1326&pathrev=2545)
 usb			-	85	baselayout
 nullmail		88	88	user.eclass
-vpopmail		89	-	user.eclass	Removed from baselayout in [r1319](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=916&r2=1319&pathrev=2545)
-vpopmail		-	89	acct
+vpopmail		89	89	acct		Removed from baselayout in [r1319](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=916&r2=1319&pathrev=2545)
 partimag		91	91	user.eclass
 dovecot			97	97	user.eclass
 input			-	97	acct

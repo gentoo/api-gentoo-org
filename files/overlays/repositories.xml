@@ -1515,6 +1515,17 @@
     <feed>https://github.com/flammie/flammie-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>flatpak-overlay</name>
+    <description lang="en">Unofficial portage overlay for Gentoo Linux providing ebuilds for the Flatpak application distribution system.</description>
+    <homepage>https://github.com/fosero/flatpak-overlay</homepage>
+    <owner type="person">
+      <email>N/A</email>
+      <name>fosero</name>
+    </owner>
+    <source type="git">https://github.com/fosero/flatpak-overlay.git</source>
+    <feed>https://github.com/fosero/flatpak-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>flavour</name>
     <description lang="en">Personal overlay of Wim Muskee</description>
     <homepage>https://github.com/wimmuskee/flavour</homepage>

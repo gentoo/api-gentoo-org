@@ -203,7 +203,7 @@ bitcoin			483	483	acct
 ipfs			484	484	acct
 bedrock			485	485	requested
 spectrum		486	486	acct
-ddclient		487	487	requested
+ddclient		487	487	acct
 teamspeak		488	488	requested
 steamcmd		489	489	requested
 minecraft		490	490	acct

@@ -207,7 +207,7 @@ ddclient		487	487	acct
 teamspeak		488	488	requested
 steamcmd		489	489	acct
 minecraft		490	490	acct
-fhem			491	491	requested
+fhem			491	491	acct
 unrealircd		494	494	acct
 gvm			495	495	requested
 strelaysrv		496	496	acct

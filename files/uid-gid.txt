@@ -205,7 +205,7 @@ bedrock			485	485	requested
 spectrum		486	486	acct
 ddclient		487	487	acct
 teamspeak		488	488	requested
-steamcmd		489	489	requested
+steamcmd		489	489	acct
 minecraft		490	490	acct
 fhem			491	491	requested
 unrealircd		494	494	acct

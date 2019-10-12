@@ -112,9 +112,9 @@ duende			66	-	user.eclass
 dialer			-	68	baselayout-fbsd
 network			-	69	baselayout-fbsd
 postgres		70	70	user.eclass	Moved out of baselayout in [r1861](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1572&r2=1861&pathrev=2545)
-dovenull		74	74	requested
+dovenull		74	74	acct
 redis			75	75	user.eclass
-dovecot			76	76	requested
+dovecot			76	76	acct
 qemu			77	77	acct
 kvm			-	78	acct
 libvirt			-	79	acct
@@ -185,6 +185,7 @@ logstash		270	270	acct
 spire			271	271	acct
 plugdev			-	272	acct
 bacula			273	273	requested
+netdata			290	290	acct
 openntpd		321	321	requested
 amavis			333	333	requested
 opendkim		334	334	acct
@@ -196,6 +197,7 @@ utmp			-	406	acct
 utmp			-	406	baselayout
 ldap			439	439	user.eclass
 firebird		450	450	user.eclass
+deluge			454	454	acct
 mogilefs		460	-	user.eclass
 i2pd			470	470	acct
 mosquitto		482	482	acct

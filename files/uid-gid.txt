@@ -187,7 +187,7 @@ plugdev			-	272	acct
 bacula			273	273	requested
 openntpd		321	321	requested
 amavis			333	333	requested
-opendkim		334	334	requested
+opendkim		334	334	acct
 epmd			335	335	acct
 dnscrypt-proxy		353	353	acct
 slurm			400	400	acct

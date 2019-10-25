@@ -184,7 +184,8 @@ kibana			269	269	acct
 logstash		270	270	acct
 spire			271	271	acct
 plugdev			-	272	acct
-bacula			273	273	requested
+bacula			273	273	acct
+dnsmasq_exporter	274	274	acct
 netdata			290	290	acct
 openntpd		321	321	requested
 amavis			333	333	requested

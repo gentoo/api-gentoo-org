@@ -4974,16 +4974,6 @@
     <source type="git">https://github.com/kwhat/gentoo-what4-java-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>whiledev</name>
-    <description>Collection of ebuilds with experimental features</description>
-    <homepage>https://github.com/whiledev/whiledev-overlay</homepage>
-    <owner type="person">
-      <email>me@felixsanz.com</email>
-      <name>Felix Sanz</name>
-    </owner>
-    <source type="git">https://github.com/whiledev/whiledev-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>wichtounet</name>
     <description lang="en">Personal overlay of Baptiste Wicht</description>
     <homepage>https://github.com/wichtounet/wichtounet-overlay</homepage>

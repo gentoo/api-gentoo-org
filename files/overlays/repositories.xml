@@ -390,6 +390,16 @@
     <feed>https://github.com/anyc/anyc-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>apurkrt</name>
+    <description lang="en">Xfce development ebuilds and other stuff</description>
+    <homepage>https://gitlab.com/apurkrt/apurkrt</homepage>
+    <owner type="person">
+      <email>adam@purkrt.net</email>
+      <name>Adam Purkrt</name>
+    </owner>
+    <source type="git">https://gitlab.com/apurkrt/apurkrt.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>arax-os-overlay</name>
     <description lang="en">Arax OS overlay</description>
     <homepage>https://github.com/arax-os/overlay</homepage>

@@ -5294,6 +5294,18 @@
     <source type="git">git+ssh://git@github.com/xartin/gentoo-overlay.git</source>
     <feed>https://github.com/xartin/gentoo-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>nelson-graca</name>
+    <description lang="en">Nelson Graça personal Overlay</description>
+    <homepage>https://github.com/nelsongraca/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>graca.nelson@gmail.com</email>
+      <name>Nelson Graça</name>
+    </owner>
+    <source type="git">https://github.com/nelsongraca/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/nelsongraca/gentoo-overlay.git</source>
+    <feed>https://github.com/nelsongraca/gentoo-overlay/commits/master.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>
 

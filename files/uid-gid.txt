@@ -214,7 +214,7 @@ ipfs			484	484	acct
 bedrock			485	485	requested
 spectrum		486	486	acct
 ddclient		487	487	acct
-teamspeak		488	488	requested
+teamspeak		488	488	acct
 steamcmd		489	489	acct
 minecraft		490	490	acct
 fhem			491	491	acct

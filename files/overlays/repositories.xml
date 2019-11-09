@@ -1573,13 +1573,15 @@
   <repo quality="experimental" status="unofficial">
     <name>flussence</name>
     <description lang="en">Ant P.'s personal overlay</description>
-    <homepage>https://gitlab.com/flussence/overlay</homepage>
+    <homepage>https://repo.or.cz/flussence-overlay.git</homepage>
     <owner type="person">
       <email>ant+gentoo.bugs@flussence.eu</email>
       <name>Anthony Parsons</name>
     </owner>
-    <source type="git">https://gitlab.com/flussence/overlay.git</source>
-    <feed>https://gitlab.com/flussence/overlay/commits/master.atom</feed>
+    <source type="git">https://repo.or.cz/flussence-overlay.git</source>
+    <source type="git">git://repo.or.cz/flussence-overlay.git</source>
+    <source type="git">ssh://git@repo.or.cz/flussence-overlay.git</source>
+    <feed>https://repo.or.cz/flussence-overlay.git/atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>fm</name>

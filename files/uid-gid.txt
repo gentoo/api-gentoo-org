@@ -208,7 +208,7 @@ deluge			454	454	acct
 mogilefs		460	-	user.eclass
 i2pd			470	470	acct
 i2p			471	471	acct
-minetest		480	480	requested
+minetest		480	480	acct
 mongodb			481	481	acct
 mosquitto		482	482	acct
 bitcoin			483	483	acct

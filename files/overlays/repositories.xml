@@ -5318,6 +5318,17 @@
       <source type="git">git+ssh://git@github.com/ppfeufer/gentoo-overlay.git</source>
       <feed>https://github.com/ppfeufer/gentoo-overlay/commits/master.atom</feed>
     </repo>
+  <repo quality="experimental" status="official">
+    <name>nix-guix</name>
+    <description lang="en">Overlay for nix anf guix functional package managers</description>
+    <homepage>https://github.com/trofi/nix-guix-gentoo</homepage>
+    <owner type="person">
+      <email>slyfox@gentoo.org</email>
+      <name>Sergei Trofimovich</name>
+    </owner>
+    <source type="git">https://github.com/trofi/nix-guix-gentoo.git</source>
+    <feed>https://github.com/trofi/nix-guix-gentoo/commits/master.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>
 

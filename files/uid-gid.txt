@@ -202,6 +202,7 @@ guest			405	-	historical	Removed from baselayout in [r889](https://sources.gento
 utmp			-	406	acct
 utmp			-	406	baselayout
 ldap			439	439	user.eclass
+collectd		440	440	requested
 firebird		450	450	user.eclass
 redmine			451	451	requested
 vdr			452	452	requested

@@ -106,6 +106,7 @@ gamestat		-	36	acct
 named			40	40	user.eclass	Removed from baselayout in [r1369](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1335&r2=1369&pathrev=2545)
 mpd			45	-	acct
 knot			53	53	acct
+unbound			59	59	requested
 mysql			60	60	acct		Removed from baselayout in [r1335](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1326&r2=1335&pathrev=2545)
 authpf			-	63	user.eclass
 uucp			66	65	baselayout-fbsd

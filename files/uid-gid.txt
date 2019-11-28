@@ -104,6 +104,7 @@ games			35	-	historical	Removed from baselayout in [r1478](https://sources.gento
 games			36	35	user.eclass	Names configurable via eclass; group: deprecated by Council decision, removed from baselayout in [r1478](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1477&r2=1478&pathrev=2545)
 gamestat		-	36	acct
 named			40	40	user.eclass	Removed from baselayout in [r1369](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1335&r2=1369&pathrev=2545)
+tor			43	43	requested
 mpd			45	-	acct
 knot			53	53	acct
 unbound			59	59	requested

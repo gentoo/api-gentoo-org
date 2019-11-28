@@ -109,7 +109,10 @@ mpd			45	-	acct
 knot			53	53	acct
 unbound			59	59	requested
 mysql			60	60	acct		Removed from baselayout in [r1335](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1326&r2=1335&pathrev=2545)
+avahi			61	61	requested
+avahi-autoipd		62	62	requested
 authpf			-	63	user.eclass
+netdev			-	64	requested
 uucp			66	65	baselayout-fbsd
 duende			66	-	user.eclass
 dialer			-	68	baselayout-fbsd

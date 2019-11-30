@@ -183,6 +183,7 @@ msmtpd			222	222	acct
 nsd			223	223	acct
 tox			236	236	acct
 distcc			240	-	user.eclass
+asterisk		242	242	acct
 slocate			-	245	historical	Removed from baselayout in [r1328](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1319&r2=1328&pathrev=2545)
 portage			250	250	baselayout
 portage			250	250	baselayout-fbsd

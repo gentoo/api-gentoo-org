@@ -217,7 +217,7 @@ deluge			454	454	acct
 mogilefs		460	-	user.eclass
 i2pd			470	470	acct
 i2p			471	471	acct
-stunnel			478	478	requested
+graylog			478	478	acct
 openrct2		479	479	requested
 minetest		480	480	acct
 mongodb			481	481	acct

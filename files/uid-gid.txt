@@ -219,7 +219,7 @@ mogilefs		460	-	user.eclass
 i2pd			470	470	acct
 i2p			471	471	acct
 graylog			478	478	acct
-openrct2		479	479	requested
+openrct2		479	479	acct
 minetest		480	480	acct
 mongodb			481	481	acct
 mosquitto		482	482	acct

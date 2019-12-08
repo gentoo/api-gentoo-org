@@ -53,7 +53,7 @@ function md2wiki(str) {
 	}
 	# notes
 	$1=$2=$3=$4=""
-	print "| " md2wiki(substr($0, 5))
+	print gensub(/[ \t]+$/, "", 1, "| " md2wiki(substr($0, 5)))
 }
 
 END {

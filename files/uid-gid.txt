@@ -198,7 +198,7 @@ plugdev			-	272	acct
 bacula			273	273	acct
 dnsmasq_exporter	274	274	acct
 netdata			290	290	acct
-openntpd		321	321	requested
+openntpd		321	321	acct
 amavis			333	333	requested
 opendkim		334	334	acct
 epmd			335	335	acct

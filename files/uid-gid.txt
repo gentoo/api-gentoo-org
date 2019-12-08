@@ -211,7 +211,7 @@ utmp			-	406	baselayout
 ldap			439	439	user.eclass
 collectd		440	440	requested
 firebird		450	450	user.eclass
-redmine			451	451	requested
+redmine			451	451	acct
 vdr			452	452	requested
 vdradmin		453	453	requested
 deluge			454	454	acct

@@ -233,6 +233,7 @@ teamspeak		488	488	acct
 steamcmd		489	489	acct
 minecraft		490	490	acct
 fhem			491	491	acct
+stunnel			492	492	requested
 oidentd			493	493	requested
 unrealircd		494	494	acct
 gvm			495	495	acct

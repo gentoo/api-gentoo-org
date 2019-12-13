@@ -235,7 +235,7 @@ steamcmd		489	489	acct
 minecraft		490	490	acct
 fhem			491	491	acct
 oprofile		492	492	requested	provisional, same id as archlinux
-oidentd			493	493	requested
+oidentd			493	493	acct
 unrealircd		494	494	acct
 gvm			495	495	acct
 strelaysrv		496	496	acct

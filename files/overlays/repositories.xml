@@ -97,19 +97,6 @@
     <feed>https://github.com/4nykey/4nykey/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>abendbrot</name>
-    <description lang="en">Desktop oriented overlay for various ebuilds and the occasional gamer</description>
-    <homepage>https://github.com/stefan-gr/abendbrot</homepage>
-    <owner type="person">
-      <email>stefan.gert.r@gmail.com</email>
-      <name>Stefan Reuter</name>
-    </owner>
-    <source type="git">https://github.com/stefan-gr/abendbrot.git</source>
-    <source type="git">git://github.com/stefan-gr/abendbrot.git</source>
-    <source type="git">git@github.com:stefan-gr/abendbrot.git</source>
-    <feed>https://github.com/stefan-gr/abendbrot/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ace</name>
     <description lang="en">Personal overlay with ebuilds that were missing at one point or another</description>
     <homepage>https://github.com/ananace/overlay</homepage>
@@ -1822,19 +1809,6 @@
     <source type="git">git@github.com:BilyakA/gentoo-clang.git</source>
     <feed>https://github.com/BilyakA/gentoo-clang/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gentoo-crypto</name>
-    <description>Gentoo overlay for cryptocurrencies</description>
-    <homepage>https://github.com/gentoo-crypto/gentoo-crypto-overlay</homepage>
-    <owner type="person">
-      <email>maneamarius@gmail.com</email>
-      <name>Marius Manea</name>
-    </owner>
-    <source type="git">https://github.com/gentoo-crypto/gentoo-crypto-overlay.git</source>
-    <source type="git">git://github.com/gentoo-crypto/gentoo-crypto-overlay.git</source>
-    <source type="git">git@github.com:gentoo-crypto/gentoo-crypto-overlay.git</source>
-    <feed>https://github.com/gentoo-crypto/gentoo-crypto-overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>gentoo-mate</name>
     <description lang="en">Gentoo MATE Desktop Project Repo</description>
@@ -2564,18 +2538,6 @@
     <source type="git">git://hacktivis.me/git/overlay.git</source>
     <source type="git">git://gitlab.com/lanodan/overlay.git</source>
     <feed>https://hacktivis.me/git/overlay/atom.xml</feed>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>last-hope</name>
-    <description>A gentoo portage overlay with a set of too exotic, or unusal ebuilds for the sunrise overlay or the main tree.</description>
-    <homepage>https://ercpe.de/projects/last-hope-gentoo-portage-overlay</homepage>
-    <owner type="person">
-      <email>ercpe@gentoo.org</email>
-      <name>Johann Schmitz</name>
-    </owner>
-    <source type="git">https://github.com/ercpe/lh-overlay.git</source>
-    <source type="git">git://github.com/ercpe/lh-overlay.git</source>
-    <feed>https://github.com/ercpe/lh-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>laurentb</name>
@@ -3484,16 +3446,6 @@
     <feed>https://github.com/Pinkbyte/pinkbyte-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>pinkpieea</name>
-    <description lang="en">Overlay with games and other packages</description>
-    <homepage>https://notabug.org/soredake/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>fdsfgs@krutt.org</email>
-      <name>soredake</name>
-    </owner>
-    <source type="git">https://notabug.org/soredake/gentoo-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>pixlra</name>
     <description lang="en">Pixlra collaborative overlay</description>
     <homepage>https://cgit.gentoo.org/user/carreira.git/</homepage>
@@ -3549,19 +3501,6 @@
       <name>donat-b</name>
     </owner>
     <source type="git">https://github.com/donat-b/procyon.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>programmador</name>
-    <description lang="en">Programmador overlay</description>
-    <homepage>https://bitbucket.org/programmador/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>alexander.konotop@gmail.com</email>
-      <name>Alexander Konotop</name>
-    </owner>
-    <source type="mercurial">https://bitbucket.org/programmador/gentoo-overlay</source>
-    <source type="mercurial">ssh://hg@bitbucket.org/programmador/gentoo-overlay</source>
-    <feed>https://bitbucket.org/programmador/gentoo-overlay/atom</feed>
-    <feed>https://bitbucket.org/programmador/gentoo-overlay/rss</feed>
   </repo>
   <repo quality="testing" status="unofficial">
     <name>progress</name>
@@ -3957,20 +3896,6 @@
     <source type="git">git://github.com/gentoo/gentoo-rust.git</source>
     <source type="git">git@github.com:gentoo/gentoo-rust.git</source>
     <feed>https://github.com/gentoo/gentoo-rust/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>sabayon</name>
-    <description>Sabayon ebuilds that could be upstreamed to
-    Gentoo (or just being useful for Gentoo users as well):
-    hot fixes, ebuild updates, etc.
-    For Sabayon-only ebuilds, please use the sabayon-distro overlay.
-    Bugs to http://bugs.sabayon.org</description>
-    <homepage>http://sabayon.org</homepage>
-    <owner type="person">
-      <email>lxnay@gentoo.org</email>
-    </owner>
-    <source type="git">git://github.com/Sabayon/for-gentoo.git</source>
-    <feed>https://github.com/feeds/Sabayon/commits/for-gentoo/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sabayon-distro</name>
@@ -4691,16 +4616,6 @@
     <source type="git">git+ssh://git@git.gentoo.org/user/triquetra.git</source>
     <feed>https://cgit.gentoo.org/user/triquetra.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/triquetra.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>trollerlay</name>
-    <description>Overlay for packages that I use, which doesn't exist in main tree or layman's overlays</description>
-    <homepage>https://github.com/fat0troll/trollerlay</homepage>
-    <owner type="person">
-      <email>iam@toofat.ru</email>
-      <name>Vladimir "fat0troll" Kozlov</name>
-    </owner>
-    <source type="git">https://github.com/fat0troll/trollerlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>trolltoo</name>

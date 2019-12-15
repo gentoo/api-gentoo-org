@@ -387,18 +387,6 @@
     <source type="git">https://gitlab.com/apurkrt/apurkrt.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>arax-os-overlay</name>
-    <description lang="en">Arax OS overlay</description>
-    <homepage>https://github.com/arax-os/overlay</homepage>
-    <owner type="person">
-      <email>arax@arnet.am</email>
-    </owner>
-    <source type="git">https://github.com/arax-os/overlay.git</source>
-    <source type="git">git://github.com/arax-os/overlay.git</source>
-    <source type="git">git@github.com:arax-os/overlay.git</source>
-    <feed>https://github.com/arax-os/overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>argent-main</name>
     <description>Argent Linux</description>
     <homepage>https://gitlab.com/argent/argent-main</homepage>
@@ -3094,16 +3082,6 @@
     <source type="git">git+ssh://git@git.gentoo.org/user/nico.git</source>
     <feed>https://cgit.gentoo.org/user/nico.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/nico.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>nightmare</name>
-    <description lang="en">nightmare is a gentoo overlay with some stuff</description>
-    <homepage>https://gitlab.com/r3lgar/nightmare</homepage>
-    <owner type="person">
-      <email>r3lgar@openmailbox.org</email>
-      <name>r3lgar</name>
-    </owner>
-    <source type="git">https://gitlab.com/r3lgar/nightmare.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>nirvana</name>

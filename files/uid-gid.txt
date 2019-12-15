@@ -155,7 +155,8 @@ stapsys			-	157	user.eclass
 stapdev			-	158	user.eclass
 inspircd		167	167	acct
 transmission		169	169	acct
-munin			177	-	user.eclass
+munin			177	177	user.eclass
+munin-async             178     -       user.eclass
 elasticsearch		183	183	acct
 pdnsd			184	184	acct
 systemd-journal		-	190	acct

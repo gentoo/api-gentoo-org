@@ -205,7 +205,7 @@ amavis			333	333	requested
 opendkim		334	334	acct
 epmd			335	335	acct
 sqlgrey			336	336	requested
-stunnel			341	341	requested
+stunnel			341	341	acct
 dnscrypt-proxy		353	353	acct
 slurm			400	400	acct
 guest			405	-	historical	Removed from baselayout in [r889](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=286&r2=889&pathrev=2545)

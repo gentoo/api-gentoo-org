@@ -3876,13 +3876,27 @@
     <feed>https://github.com/gentoo/gentoo-rust/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>sabayon</name>
+    <description>Sabayon ebuilds that could be upstreamed to
+    Gentoo (or just being useful for Gentoo users as well):
+    hot fixes, ebuild updates, etc.
+    For Sabayon-only ebuilds, please use the sabayon-distro overlay.
+    Bugs to http://bugs.sabayon.org</description>
+    <homepage>http://sabayon.org</homepage>
+    <owner type="person">
+      <email>slawomir.nizio@sabayon.org</email>
+    </owner>
+    <source type="git">git://github.com/Sabayon/for-gentoo.git</source>
+    <feed>https://github.com/feeds/Sabayon/commits/for-gentoo/master</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sabayon-distro</name>
     <description>Sabayon related ebuilds such as artwork, kernel binaries,
     split packages, etc.
     Bugs to http://bugs.sabayon.org</description>
     <homepage>http://sabayon.org</homepage>
     <owner type="person">
-      <email>lxnay@gentoo.org</email>
+      <email>slawomir.nizio@sabayon.org</email>
     </owner>
     <source type="git">git://github.com/Sabayon/sabayon-distro.git</source>
     <feed>https://github.com/feeds/Sabayon/commits/sabayon-distro/master</feed>

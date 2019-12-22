@@ -219,7 +219,7 @@ ldap			439	439	user.eclass
 collectd		440	440	requested
 firebird		450	450	user.eclass
 redmine			451	451	acct
-vdr			452	452	requested
+vdr				452	452	acct
 vdradmin		453	453	requested
 deluge			454	454	acct
 mogilefs		460	-	user.eclass

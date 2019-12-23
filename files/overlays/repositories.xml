@@ -1260,19 +1260,6 @@
     <!-- <feed>https://cgit.gentoo.org/user/DuPol.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>dustin</name>
-    <description lang="en">Overlay of Dustin C. Hatch</description>
-    <homepage>http://bitbucket.org/AdmiralNemo/overlay</homepage>
-    <owner type="person">
-      <email>admiralnemo@gmail.com</email>
-      <name>Dustin C. Hatch</name>
-    </owner>
-    <source type="mercurial">https://bitbucket.org/AdmiralNemo/overlay</source>
-    <source type="mercurial">ssh://hg@bitbucket.org/AdmiralNemo/overlay</source>
-    <feed>https://bitbucket.org/AdmiralNemo/overlay/atom</feed>
-    <feed>https://bitbucket.org/AdmiralNemo/overlay/rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>dwfreed</name>
     <description lang="en">My random Gentoo packages</description>
     <homepage>https://bitbucket.org/dwfreed/dwfreed.gentoo/</homepage>

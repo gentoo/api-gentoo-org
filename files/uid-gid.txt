@@ -231,7 +231,7 @@ xrootd			469	469	requested
 i2pd			470	470	acct
 i2p			471	471	acct
 jenkins			473	473	requested
-varnish			474	474	requested
+varnish			474	474	acct
 sogo			475	475	acct
 stubby			476	476	requested	Used by net-dns/getdns
 suricata		477	477	acct

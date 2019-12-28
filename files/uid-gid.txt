@@ -119,7 +119,7 @@ dialer			-	68	baselayout-fbsd
 network			-	69	baselayout-fbsd
 postgres		70	70	user.eclass	Moved out of baselayout in [r1861](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1572&r2=1861&pathrev=2545)
 dovenull		74	74	acct
-redis			75	75	user.eclass
+redis			75	75	acct
 dovecot			76	76	acct
 qemu			77	77	acct
 kvm			-	78	acct
@@ -157,8 +157,8 @@ stapsys			-	157	user.eclass
 stapdev			-	158	user.eclass
 inspircd		167	167	acct
 transmission		169	169	acct
-munin			177	177	user.eclass
-munin-async             178     -       user.eclass
+munin			177	177	acct
+munin-async		178	-	acct
 elasticsearch		183	183	acct
 pdnsd			184	184	acct
 systemd-journal		-	190	acct
@@ -222,7 +222,7 @@ ldap			439	439	user.eclass
 collectd		440	440	requested
 firebird		450	450	user.eclass
 redmine			451	451	acct
-vdr				452	452	acct
+vdr				452	452	requested
 vdradmin		453	453	requested
 deluge			454	454	acct
 mogilefs		460	-	user.eclass

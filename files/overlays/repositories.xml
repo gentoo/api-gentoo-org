@@ -115,7 +115,7 @@
     <description lang="ru">Оверлей для ebuild'ов связанных созданием самодельного умного дома</description>
     <homepage>https://cgit.gentoo.org/user/activehome.git/</homepage>
     <owner type="person">
-      <email>gentoo@mva.name</email>
+      <email>mva@gentoo.org</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">https://anongit.gentoo.org/git/user/activehome.git</source>
@@ -772,7 +772,7 @@
     <description lang="en">Packages related to the bumblebee project</description>
     <homepage>https://github.com/Bumblebee-Project/bumblebee-gentoo/</homepage>
     <owner type="person">
-      <email>gentoo@mva.name</email>
+      <email>mva@gentoo.org</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://github.com/Bumblebee-Project/bumblebee-gentoo</source>
@@ -958,7 +958,7 @@
     <description lang="ru">Пакеты для встраиваемых систем</description>
     <homepage>https://github.com/alphallc/crossdev/</homepage>
     <owner type="person">
-      <email>gentoo@mva.name</email>
+      <email>mva@gentoo.org</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://github.com/alphallc/crossdev</source>
@@ -1644,7 +1644,7 @@
     <description lang="en">Freeswitch Gentoo overlay</description>
     <homepage>https://github.com/alphallc/freeswitch/</homepage>
     <owner type="person">
-      <email>gentoo@mva.name</email>
+      <email>mva@gentoo.org</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">git://github.com/alphallc/freeswitch</source>
@@ -1750,7 +1750,7 @@
     </description>
     <homepage>https://cgit.gentoo.org/proj/gamerlay.git</homepage>
     <owner type="person">
-      <email>gentoo@mva.name</email>
+      <email>mva@gentoo.org</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">https://anongit.gentoo.org/git/proj/gamerlay.git</source>
@@ -2984,9 +2984,9 @@
   <repo quality="experimental" status="unofficial">
     <name>mva</name>
     <description lang="en">mva's sandbox overlay</description>
-    <homepage>https://github.com/msva/mva-overlay/  </homepage>
+    <homepage>https://github.com/msva/mva-overlay/</homepage>
     <owner type="person">
-      <email>gentoo@mva.name</email>
+      <email>mva@gentoo.org</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">https://github.com/msva/mva-overlay</source>
@@ -5047,7 +5047,7 @@
     <description lang="ru">Оверлей с софтом, выпущенным Яндексом</description>
     <homepage>https://github.com/yandex-gentoo/overlay</homepage>
     <owner type="person">
-      <email>gentoo@mva.name</email>
+      <email>mva@gentoo.org</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">https://github.com/yandex-gentoo/overlay.git</source>

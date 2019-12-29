@@ -562,6 +562,18 @@
     <source type="git">ssh://git@github.com/beatussum/beatussum-overlay.git</source>
     <feed>https://github.com/beatussum/beatussum-overlay/commits/master.atom</feed>
   </repo>
+    <repo quality="experimental" status="unofficial">
+      <name>benzene-overlay</name>
+      <description lang="en">Universebenzene's personal Gentoo overlay</description>
+      <homepage>https://github.com/Universebenzene/benzene-overlay</homepage>
+      <owner type="person">
+        <email>universebenzene@sina.com</email>
+        <name>Universebenzene</name>
+      </owner>
+      <source type="git">https://github.com/Universebenzene/benzene-overlay.git</source>
+      <source type="git">git+ssh://git@github.com/Universebenzene/benzene-overlay.git</source>
+      <feed>https://github.com/Universebenzene/benzene-overlay/commits/master.atom</feed>
+    </repo>
   <repo quality="experimental" status="unofficial">
     <name>bes</name>
     <description lang="en">bes' personal overlay</description>

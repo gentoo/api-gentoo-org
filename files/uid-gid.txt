@@ -226,6 +226,7 @@ vdr				452	452	requested
 vdradmin		453	453	requested
 deluge			454	454	acct
 mogilefs		460	-	user.eclass
+geneweb                 467     467     acct
 amule			468	468	requested
 xrootd			469	469	acct
 i2pd			470	470	acct

@@ -149,6 +149,7 @@ unifi			113	113	acct
 mythtv			117	117	acct
 murmur			122	122	acct
 ntp			123	123	acct
+fetchmail		124	124	acct
 rtkit			133	133	acct
 shellinaboxd		139	139	acct
 owfs			150	150	user.eclass	Ebuild allows overriding username.

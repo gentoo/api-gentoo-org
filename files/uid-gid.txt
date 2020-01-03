@@ -186,6 +186,7 @@ uptimed			220	220	acct
 gkrellmd		221	221	acct
 msmtpd			222	222	acct
 nsd			223	223	acct
+turnserver		235	235	acct
 tox			236	236	acct
 rspamd			237	237	acct
 scponly			239	239	requested

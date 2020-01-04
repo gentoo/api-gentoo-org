@@ -1,4 +1,4 @@
-# Copyright 2019 Gentoo Authors
+# Copyright 2019-2020 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 # This file provides a registry of active, requested and historical UID
@@ -106,6 +106,8 @@ gamestat		-	36	acct
 named			40	40	user.eclass	Removed from baselayout in [r1369](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1335&r2=1369&pathrev=2545)
 tor			43	43	acct
 mpd			45	-	acct
+openct			-	46	acct
+pcscd			47	47	acct
 knot			53	53	acct
 tss			59	59	acct
 mysql			60	60	acct		Removed from baselayout in [r1335](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1326&r2=1335&pathrev=2545)

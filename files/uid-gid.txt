@@ -235,6 +235,7 @@ amule			468	468	requested
 xrootd			469	469	acct
 i2pd			470	470	acct
 i2p			471	471	acct
+quassel			472	472	acct
 jenkins			473	473	requested
 varnish			474	474	acct
 sogo			475	475	acct

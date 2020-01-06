@@ -230,6 +230,7 @@ vdr				452	452	requested
 vdradmin		453	453	requested
 deluge			454	454	acct
 mogilefs		460	-	user.eclass
+rstudio-server		466	466	acct		Used by sci-mathematics/rstudio
 geneweb                 467     467     acct
 amule			468	468	requested
 xrootd			469	469	acct

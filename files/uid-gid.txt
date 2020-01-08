@@ -213,7 +213,7 @@ openntpd		321	321	acct
 amavis			333	333	requested
 opendkim		334	334	acct
 epmd			335	335	acct
-sqlgrey			336	336	requested
+sqlgrey			336	336	acct
 stunnel			341	341	acct
 dnscrypt-proxy		353	353	acct
 slurm			400	400	acct

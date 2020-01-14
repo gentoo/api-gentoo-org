@@ -149,6 +149,8 @@ plex			103	103	acct
 lpadmin			-	106	user.eclass
 rpc			111	111	historical	Used by net-nds/portmap, removed in [36e60cce11d7](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=36e60cce11d780582196c42d6b692897455d7a27)
 unifi			113	113	acct
+snapserver		114	114	requested
+snapclient		115	115	requested
 mythtv			117	117	acct
 murmur			122	122	acct
 ntp			123	123	acct

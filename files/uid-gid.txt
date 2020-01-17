@@ -230,7 +230,7 @@ ldap			439	439	user.eclass
 collectd		440	440	requested
 firebird		450	450	user.eclass
 redmine			451	451	acct
-vdr				452	452	requested
+vdr			452	452	requested
 vdradmin		453	453	requested
 deluge			454	454	acct
 mogilefs		460	-	user.eclass
@@ -244,7 +244,7 @@ quassel			472	472	acct
 jenkins			473	473	requested
 varnish			474	474	acct
 sogo			475	475	acct
-stubby			476	476	acct	Used by net-dns/getdns
+stubby			476	476	acct		Used by net-dns/getdns
 suricata		477	477	acct
 graylog			478	478	acct
 openrct2		479	479	acct

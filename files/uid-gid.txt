@@ -229,6 +229,14 @@ automx2			437	437	acct
 milter-regex		438	438	acct
 ldap			439	439	user.eclass
 collectd		440	440	requested
+cinder                  442     442     acct
+glance                  443     443     acct
+heat                    444     444     acct
+keystone                445     445     acct
+neutron                 446     446     acct
+nova                    447     447     acct
+placement               448     448     acct
+swift                   449     449     acct
 firebird		450	450	user.eclass
 redmine			451	451	acct
 vdr			452	452	requested

@@ -1407,20 +1407,6 @@
     <feed>https://github.com/erayd/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>eroen</name>
-    <description lang="en">Personal overlay of Erik Moen</description>
-    <homepage>https://cgit.gentoo.org/user/eroen.git/</homepage>
-    <owner type="person">
-      <email>gentoo@eroen.eu</email>
-      <name>Erik Moen</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/eroen.git</source>
-    <source type="git">git://anongit.gentoo.org/user/eroen.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/eroen.git</source>
-    <feed>https://cgit.gentoo.org/user/eroen.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/eroen.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ethereum</name>
     <description lang="en">The Ethereum blockchain-based distributed computing platform</description>
     <homepage>https://github.com/coolparadox/ethereum-gentoo-overlay</homepage>
@@ -1591,15 +1577,6 @@
     <source type="git">git://repo.or.cz/flussence-overlay.git</source>
     <source type="git">ssh://git@repo.or.cz/flussence-overlay.git</source>
     <feed>https://repo.or.cz/flussence-overlay.git/atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>fm</name>
-    <description lang="en">Fated Mariner Gentoo Overlay</description>
-    <homepage>https://github.com/BlueDragonX/fm-overlay</homepage>
-    <owner type="person">
-      <email>bluedragonx@gmail.com</email>
-    </owner>
-    <source type="git">https://github.com/BlueDragonX/fm-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>fol4</name>
@@ -3492,15 +3469,6 @@
     </owner>
     <source type="git">https://github.com/powerman/powerman-overlay.git</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>procyon</name>
-    <description>Procyon Overlay</description>
-    <owner type="person">
-      <email>donat@opmbx.org</email>
-      <name>donat-b</name>
-    </owner>
-    <source type="git">https://github.com/donat-b/procyon.git</source>
-  </repo>
   <repo quality="testing" status="unofficial">
     <name>progress</name>
     <description>Progress Overlay: Python packages (including Pyramid, Zope) and other packages</description>
@@ -3969,30 +3937,6 @@
     <source type="git">git+ssh://git@git.gentoo.org/user/sattvik.git</source>
     <feed>https://cgit.gentoo.org/user/sattvik.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/sattvik.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>science</name>
-    <description>The Gentoo Science Overlay is intended as a place to work
-    outside of the main portage tree on experimental ebuilds. Our aim is to
-    increase the rate of development of scientific packages for Gentoo, but
-    ebuilds in this repository are by their very nature more experimental. If
-    you wish to use them you should be willing to help test and report
-    bugs. For contribution read https://wiki.gentoo.org/wiki/Project:Science/Contributing
-    </description>
-    <homepage>https://wiki.gentoo.org/wiki/Project:Science</homepage>
-    <owner type="project">
-      <email>sci@gentoo.org</email>
-      <name>sci</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/sci.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/sci.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/sci.git</source>
-    <source type="git">https://github.com/gentoo-science/sci.git</source>
-    <source type="git">git://github.com/gentoo-science/sci.git</source>
-    <source type="git">git@github.com:gentoo-science/sci.git</source>
-    <feed>https://cgit.gentoo.org/proj/sci.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/sci.git/rss/</feed> -->
-    <feed>https://github.com/gentoo-science/sci/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>scrill</name>
@@ -4552,17 +4496,6 @@
     <source type="git">git://github.com/timboudreau/gentoo.git</source>
     <source type="git">git@github.com:timboudreau/gentoo.git</source>
     <feed>https://github.com/timboudreau/gentoo/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>tmacedo</name>
-    <description>User Overlay</description>
-    <homepage>https://github.com/tmacedo/portage</homepage>
-    <owner type="person">
-      <email>tftfmacedo@gmail.com</email>
-      <name>Tiago Macedo</name>
-    </owner>
-    <source type="git">git://github.com/tmacedo/portage.git</source>
-    <feed>https://github.com/tmacedo/portage/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>tocaro</name>

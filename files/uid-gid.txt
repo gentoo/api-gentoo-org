@@ -229,7 +229,7 @@ automx2			437	437	acct
 milter-regex		438	438	acct
 ldap			439	439	user.eclass
 collectd		440	440	requested
-memcached               441     -       acct
+memcached               441     441     acct
 cinder                  442     442     acct
 glance                  443     443     acct
 heat                    444     444     acct

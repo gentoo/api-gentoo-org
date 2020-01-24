@@ -223,6 +223,9 @@ slurm			400	400	acct
 guest			405	-	historical	Removed from baselayout in [r889](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=286&r2=889&pathrev=2545)
 utmp			-	406	acct
 utmp			-	406	baselayout
+kube-apiserver	432	432	acct
+kube-controller-manager	433	433	acct
+kube-scheduler	434	434	acct
 clamav			435	435	acct
 nagios			436	436	acct
 automx2			437	437	acct

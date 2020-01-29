@@ -2924,7 +2924,9 @@
     <owner type="project">
       <email>mozilla@gentoo.org</email>
     </owner>
+    <source type="git">https://anongit.gentoo.org/git/proj/mozilla.git</source>
     <source type="git">git://anongit.gentoo.org/proj/mozilla.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/proj/mozilla.git</source>
     <feed>https://cgit.gentoo.org/proj/mozilla.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="official">

@@ -1330,6 +1330,18 @@
     <source type="git">https://gitlab.com/eigennet/eigenlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>einflay</name>
+      <description lang="en">Personal overlay</description>
+      <homepage>https://github.com/EinstokFair/einflay</homepage>
+      <owner type="person">
+        <email>einfair@zoho.eu</email>
+        <name>Einstok Fair</name>
+      </owner>
+      <source type="git">https://github.com/EinstokFair/einflay.git</source>
+      <source type="git">git+ssh://git@github.com/EinstokFair/einflay.git</source>
+    <feed>https://github.com/EinstokFair/einflay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ejabberd</name>
     <description>Fresh ejabberd versions and dependencies</description>
     <homepage>https://github.com/rion-overlay/ejabberd-overlay</homepage>

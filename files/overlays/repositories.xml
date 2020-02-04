@@ -611,6 +611,19 @@
     <feed>https://cgit.gentoo.org/user/bibletime.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/bibletime.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>binaryden</name>
+    <description lang="en">Overlay for Cinnamon and other Gentoo packages</description>
+    <homepage>https://github.com/tkemmer/binaryden</homepage>
+    <owner type="person">
+      <email>thomas@binaryden.de</email>
+      <name>Thomas Kemmer</name>
+    </owner>
+    <source type="git">https://github.com/tkemmer/binaryden.git</source>
+    <source type="git">git://github.com/tkemmer/binaryden.git</source>
+    <source type="git">git+ssh://git@github.com/tkemmer/binaryden.git</source>
+    <feed>https://github.com/tkemmer/binaryden/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>bircoph</name>
     <description lang="en">Developer overlay</description>

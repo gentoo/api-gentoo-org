@@ -3568,6 +3568,18 @@
     <source type="git">git+ssh://git@github.com:qgp/gentoo-qgp.git</source>
     <feed>https://github.com/qgp/gentoo-qgp/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>qsx</name>
+    <description lang="en">qsx’ ebuilds</description>
+    <homepage>https://github.com/qsuscs/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>qsx@chaotikum.eu</email>
+      <name>Thomas Schneider</name>
+    </owner>
+    <source type="git">https://github.com/qsuscs/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/qsuscs/gentoo-overlay.git</source>
+    <feed>https://github.com/qsuscs/gentoo-overlay/commits/main.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>qt</name>
     <description>Official testing overlay for Qt and related packages, provided

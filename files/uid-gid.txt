@@ -227,6 +227,7 @@ guest			405	-	historical	Removed from baselayout in [r889](https://sources.gento
 utmp			-	406	acct
 utmp			-	406	baselayout
 davfs2			420	420	acct	Used by net-fs/davfs2
+telegraf			428 428 acct
 gerbera			429 429 acct
 prometheus	430	430	acct
 netbox	431	431	acct

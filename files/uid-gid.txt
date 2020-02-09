@@ -216,6 +216,7 @@ x2gouser		291	291	acct
 x2goprint		292	292	acct
 dhcp			300	300	acct
 squid			301	301	acct
+lighttpd		302	302	acct
 openntpd		321	321	acct
 amavis			333	333	requested
 opendkim		334	334	acct

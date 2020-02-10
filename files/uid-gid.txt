@@ -258,6 +258,7 @@ vdr			452	452	requested
 vdradmin		453	453	requested
 deluge			454	454	acct
 mogilefs		460	-	user.eclass
+supervisor		-	463	requested
 airdcppd		464	464	requested
 ippl		465	-	acct		Used by net-analyzer/ippl
 rstudio-server		466	466	acct		Used by sci-mathematics/rstudio

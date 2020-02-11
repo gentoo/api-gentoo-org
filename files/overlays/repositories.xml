@@ -3109,19 +3109,6 @@
     <!-- <feed>https://cgit.gentoo.org/user/nico.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>nirvana</name>
-    <description lang="en">Ebuilds not good enough to make it to Sabayon's for-gentoo.</description>
-    <homepage>https://bitbucket.org/danysk/nirvana-overlay</homepage>
-    <owner type="person">
-      <email>danilo.pianini@gmail.com</email>
-      <name>Danilo Pianini</name>
-    </owner>
-    <source type="mercurial">https://bitbucket.org/danysk/nirvana-overlay</source>
-    <source type="mercurial">ssh://hg@bitbucket.org/danysk/nirvana-overlay</source>
-    <feed>https://bitbucket.org/danysk/nirvana-overlay/atom</feed>
-    <feed>https://bitbucket.org/danysk/nirvana-overlay/rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>np-hardass-overlay</name>
     <description lang="en">NP-Hardass's Personal Overlay</description>
     <homepage>https://github.com/np-hardass/np-hardass-overlay</homepage>

@@ -4547,6 +4547,17 @@
     <source type="git">git@github.com:timboudreau/gentoo.git</source>
     <feed>https://github.com/timboudreau/gentoo/commits/master.atom</feed>
   </repo>
+    <repo quality="experimental" status="unofficial">
+    <name>tmacedo</name>
+    <description>User Overlay</description>
+    <homepage>https://github.com/tmacedo/portage</homepage>
+    <owner type="person">
+      <email>tftfmacedo@gmail.com</email>
+      <name>Tiago Macedo</name>
+    </owner>
+    <source type="git">git://github.com/tmacedo/portage.git</source>
+    <feed>https://github.com/tmacedo/portage/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>tocaro</name>
     <description lang="en">tocaro personnal o.g.o</description>

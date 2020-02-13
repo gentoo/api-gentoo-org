@@ -219,7 +219,7 @@ squid			301	301	acct
 lighttpd		302	302	acct
 dhcpcd			303	303	acct
 openntpd		321	321	acct
-amavis			333	333	requested
+amavis			333	333	acct
 opendkim		334	334	acct
 epmd			335	335	acct
 sqlgrey			336	336	acct

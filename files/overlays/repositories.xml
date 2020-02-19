@@ -4849,8 +4849,8 @@
     <description lang="en">gentoo, wayland overlay for wayfire ebuilds and other wayfire apps</description>
     <homepage>https://github.com/epsilon-0/wayfire-desktop</homepage>
     <owner type="person">
-      <email>mathgeniusabhinav@gmail.com</email>
-      <name>Abhinav Tamaskar</name>
+      <email>gentoo@aisha.cc</email>
+      <name>Aisha Tammy</name>
     </owner>
     <source type="git">https://github.com/epsilon-0/wayfire-desktop.git</source>
     <source type="git">git+ssh://git@github.com/epsilon-0/wayfire-desktop.git</source>

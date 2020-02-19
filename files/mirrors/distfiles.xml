@@ -56,11 +56,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirrors.easynews.com/linux/gentoo/</uri>
     </mirror>
     <mirror>
-      <name>Michigan Tech University</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirrors.lug.mtu.edu/gentoo/</uri>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.lug.mtu.edu/gentoo/</uri>
-    </mirror>
-    <mirror>
       <name>University of Delaware, Delaware Linux Users Group</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.lug.udel.edu/pub/gentoo/</uri>
     </mirror>
@@ -250,7 +245,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>mdfnet.se</name>
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirror.mdfnet.se/gentoo</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirror.mdfnet.se/gentoo</uri>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.mdfnet.se/gentoo</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="SK" countryname="Slovakia">

@@ -4140,6 +4140,17 @@
     <source type="git">git@github.com:scriptkitties/overlay.git</source>
     <feed>https://github.com/scriptkitties/overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>slonko</name>
+    <description lang="en">Personal portage overlay</description>
+    <homepage>https://slonko.net/portage</homepage>
+    <owner type="person">
+      <email>marcin.deranek@slonko.net</email>
+      <name>Marcin Deranek</name>
+    </owner>
+    <source type="git">https://slonko.net/git/portage</source>
+    <feed>https://slonko.net/git/portage/atom/</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>slyfox</name>
     <description lang="en">slyfox's ebuild den</description>

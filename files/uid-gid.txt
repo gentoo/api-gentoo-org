@@ -231,42 +231,42 @@ slurm			400	400	acct
 guest			405	-	historical	Removed from baselayout in [r889](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=286&r2=889&pathrev=2545)
 utmp			-	406	acct
 utmp			-	406	baselayout
-davfs2			420	420	acct	Used by net-fs/davfs2
-telegraf			428 428 acct
-gerbera			429 429 acct
-prometheus	430	430	acct
-netbox	431	431	acct
-kube-apiserver	432	432	acct
+davfs2			420	420	acct		Used by net-fs/davfs2
+telegraf		428	428	acct
+gerbera			429	429	acct
+prometheus		430	430	acct
+netbox			431	431	acct
+kube-apiserver		432	432	acct
 kube-controller-manager	433	433	acct
-kube-scheduler	434	434	acct
+kube-scheduler		434	434	acct
 clamav			435	435	acct
 nagios			436	436	acct
 automx2			437	437	acct
 milter-regex		438	438	acct
 ldap			439	439	user.eclass
 collectd		440	440	requested
-memcached               441     441     acct
-cinder                  442     442     acct
-glance                  443     443     acct
-heat                    444     444     acct
-keystone                445     445     acct
-neutron                 446     446     acct
-nova                    447     447     acct
-placement               448     448     acct
-swift                   449     449     acct
+memcached		441	441	acct
+cinder			442	442	acct
+glance			443	443	acct
+heat			444	444	acct
+keystone		445	445	acct
+neutron			446	446	acct
+nova			447	447	acct
+placement		448	448	acct
+swift			449	449	acct
 firebird		450	450	user.eclass
 redmine			451	451	acct
 vdr			452	452	requested
 vdradmin		453	453	requested
 deluge			454	454	acct
-puppet                  455     455     acct
-puppetdb                456     456     acct
+puppet			455	455	acct
+puppetdb		456	456	acct
 mogilefs		460	-	user.eclass
 supervisor		-	463	requested
 airdcppd		464	464	requested
-ippl		465	-	acct		Used by net-analyzer/ippl
+ippl			465	-	acct		Used by net-analyzer/ippl
 rstudio-server		466	466	acct		Used by sci-mathematics/rstudio
-geneweb                 467     467     acct
+geneweb			467	467	acct
 amule			468	468	acct
 xrootd			469	469	acct
 i2pd			470	470	acct

@@ -169,6 +169,7 @@ munin			177	177	acct
 munin-async		178	-	acct
 elasticsearch		183	183	acct
 pdnsd			184	184	acct
+haproxy			188	188	acct
 systemd-journal		-	190	acct
 systemd-journal-remote	191	191	acct
 systemd-network		192	192	acct

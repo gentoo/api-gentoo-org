@@ -223,6 +223,9 @@ vboxusers		-	304	acct
 vboxguest		305	305	acct
 vboxsf			-	306	acct
 openntpd		321	321	acct
+ossec			330	330	requested
+ossecm			331	330	requested
+ossecr			332	330	requested
 amavis			333	333	acct
 opendkim		334	334	acct
 epmd			335	335	acct

@@ -220,6 +220,9 @@ squid			301	301	acct
 lighttpd		302	302	acct
 dhcpcd			303	303	acct
 openntpd		321	321	acct
+ossec			330	330	requested
+ossecm			331	330	requested
+ossecr			332	330	requested
 amavis			333	333	acct
 opendkim		334	334	acct
 epmd			335	335	acct

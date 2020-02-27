@@ -1786,6 +1786,18 @@
     <!-- <feed>https://cgit.gentoo.org/proj/gamerlay.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gcarq</name>
+    <description lang="en">Personal overlay</description>
+    <homepage>https://github.com/gcarq/gcarq-overlay</homepage>
+    <owner type="person">
+      <email>michael.egger@tsn.at</email>
+      <name>Michael Egger</name>
+    </owner>
+    <source type="git">https://github.com/gcarq/gcarq-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/gcarq/gcarq-overlay.git</source>
+    <feed>https://github.com/gcarq/gcarq-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>genthree</name>
     <description lang="en">Gentoo overlay from the genthree project</description>
     <homepage>https://genthree.io/overlay</homepage>

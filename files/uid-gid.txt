@@ -267,7 +267,7 @@ deluge			454	454	acct
 puppet			455	455	acct
 puppetdb		456	456	acct
 mogilefs		460	-	user.eclass
-supervisor		-	463	requested
+supervisor		-	463	acct
 airdcppd		464	464	requested
 ippl			465	-	acct		Used by net-analyzer/ippl
 rstudio-server		466	466	acct		Used by sci-mathematics/rstudio

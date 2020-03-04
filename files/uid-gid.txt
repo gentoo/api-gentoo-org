@@ -266,6 +266,8 @@ vdradmin		453	453	acct		Used by www-misc/vdradmin-am
 deluge			454	454	acct
 puppet			455	455	acct
 puppetdb		456	456	acct
+icinga			457	457	acct
+icingacmd		-	458	acct
 mogilefs		460	-	user.eclass
 supervisor		-	463	acct
 airdcppd		464	464	requested

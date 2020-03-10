@@ -38,10 +38,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync11.us.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>Indiana University, Unix Systems Support Group - rsync25.us.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync25.us.gentoo.org</uri>
-    </mirror>
-    <mirror>
       <name>TDS Internet Services - rsync26.us.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync26.us.gentoo.org</uri>
     </mirror>

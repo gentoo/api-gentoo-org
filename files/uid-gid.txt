@@ -235,6 +235,7 @@ guest			405	-	historical	Removed from baselayout in [r889](https://sources.gento
 utmp			-	406	acct
 utmp			-	406	baselayout
 davfs2			420	420	acct		Used by net-fs/davfs2
+pdns			423	423	acct		Used by net-dns/pdns
 quagga			424	424	acct
 kafka			425	425	acct
 etcd		426	426	acct

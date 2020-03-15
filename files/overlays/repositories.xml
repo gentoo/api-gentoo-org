@@ -5312,5 +5312,18 @@
     <source type="git">git+ssh://git@github.com/heindsight/gentoo_overlay.git</source>
     <feed>https://github.com/heindsight/gentoo_overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>chymeric</name>
+    <description lang="en">Overlay for scientific software and other utilities</description>
+    <homepage>https://github.com/TheChymera/overlay</homepage>
+    <owner type="person">
+      <email>chr@chymera.eu</email>
+      <name>Horea Christian</name>
+    </owner>
+    <source type="git">https://github.com/TheChymera/overlay.git</source>
+    <source type="git">git://github.com/TheChymera/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/TheChymera/overlay.git</source>
+    <feed>https://github.com/TheChymera/overlay/commits/master.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

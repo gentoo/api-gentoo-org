@@ -2450,6 +2450,18 @@
     </owner>
     <source type="git">https://github.com/Oleh-Kravchenko/kaa-layman.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>KBrown-pub</name>
+    <description lang="en">KBrown's public overlay</description>
+    <homepage>http://sandino.araico.net/</homepage>
+    <owner type="person">
+      <email>sandino@sandino.net</email>
+      <name>Sandino Araico Sanchez</name>
+    </owner>
+    <source type="git">https://git.softwarelibre.mx/KBrown/gentoo-overlay.git</source>
+    <source type="git">https://github.com/KenjiBrown/gentoo-overlay.git</source>
+    <feed>https://git.softwarelibre.mx/KBrown/gentoo-overlay/-/commits/KBrown-pub?format=atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>kde</name>
     <description>Official KDE team's testing overlay.</description>

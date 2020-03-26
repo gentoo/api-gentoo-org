@@ -1333,6 +1333,18 @@
     <feed>https://github.com/gentoo/eclipse-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>edgets</name>
+    <description lang="en">Gentoo overlay that brings you the newest versions of modern software.</description>
+    <homepage>https://github.com/BlueManCZ/edgets</homepage>
+    <owner type="person">
+      <email>ivo97@centrum.cz</email>
+      <name>Ivo Šmerek</name>
+    </owner>
+    <source type="git">https://github.com/BlueManCZ/edgets.git</source>
+    <source type="git">git+ssh://git@github.com/BlueManCZ/edgets.git</source>
+    <feed>https://github.com/BlueManCZ/edgets/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>eigenlay</name>
     <description lang="en">Eigenlab Gentoo overlay</description>
     <homepage>https://gitlab.com/eigennet/eigenlay</homepage>
@@ -5302,4 +5314,3 @@
   </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>
-

@@ -1583,14 +1583,12 @@
   <repo quality="experimental" status="unofficial">
     <name>floppym</name>
     <description>floppym's personal overlay</description>
-    <homepage>http://bitbucket.org/floppym/floppym-overlay</homepage>
+    <homepage>https://github.com/floppym/floppym</homepage>
     <owner type="person">
       <email>floppym@gentoo.org</email>
       <name>Mike Gilbert</name>
     </owner>
-    <source type="git">https://bitbucket.org/floppym/floppym-overlay</source>
-    <feed>http://bitbucket.org/floppym/floppym-overlay/atom</feed>
-    <feed>http://bitbucket.org/floppym/floppym-overlay/rss</feed>
+    <source type="git">https://github.com/floppym/floppym</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>flow</name>

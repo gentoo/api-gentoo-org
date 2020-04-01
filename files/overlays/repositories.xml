@@ -5334,6 +5334,6 @@
     <source type="git">https://github.com/apriluwu/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/apriluwu/gentoo-overlay.git</source>
     <feed>https://github.com/apriluwu/gentoo-overlay/commits/master.atom</feed>
-  </repo>
+  </repo> 
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

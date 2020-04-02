@@ -3385,6 +3385,17 @@
     <feed>https://github.com/perfect7gentleman/pg_overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>phackerlay</name>
+    <description lang="en">Overlay for phackers</description>
+    <homepage>https://gitlab.phys-el.ru/ustinov/phackerlay</homepage>
+    <owner type="person">
+      <email>ustinov@phys-el.ru</email>
+      <name>Alexander B. Ustinov</name>
+    </owner>
+    <source type="git">https://gitlab.phys-el.ru/ustinov/phackerlay.git</source>
+    <feed>https://gitlab.phys-el.ru/ustinov/phackerlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>pholthaus-overlay</name>
     <description lang="en">pholthaus' personal overlay</description>
     <homepage>https://github.com/pholthau/pholthaus-overlay</homepage>

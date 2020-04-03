@@ -239,6 +239,7 @@ guest			405	-	historical	Removed from baselayout in [r889](https://sources.gento
 utmp			-	406	acct
 utmp			-	406	baselayout
 cyrus			415	-	acct
+gluster			416	416	acct
 anope			417	417	acct
 usbmux			418	-	acct
 wesnoth			419	419	acct

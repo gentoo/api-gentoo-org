@@ -2844,9 +2844,8 @@
       <email>gentoo-overlay@megacoffee.net</email>
       <name>MegaCoffee</name>
     </owner>
-    <source type="mercurial">https://rhodecode.megacoffee.net/gentoo-overlay/main</source>
-    <source type="mercurial">http://rhodecode.megacoffee.net/gentoo-overlay/main</source>
-    <feed>https://rhodecode.megacoffee.net/gentoo-overlay/main/feed/atom</feed>
+    <source type="git">https://gitlab.megacoffee.net/gentoo-overlay/megacoffee-overlay.git</source>
+    <feed>https://gitlab.megacoffee.net/gentoo-overlay/megacoffee-overlay/-/commits/master?format=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>menelkir</name>

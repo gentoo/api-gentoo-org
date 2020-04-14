@@ -3983,6 +3983,18 @@
     <feed>https://github.com/sarnex/sarnex-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>sam_c</name>
+    <description lang="en">sam_c's personal overlay</description>
+    <homepage>https://github.com/thesamesam/overlay</homepage>
+    <owner type="person">
+      <email>sam@cmpct.info</email>
+      <name>Sam James</name>
+    </owner>
+    <source type="git">https://github.com/thesamesam/overlay</source>
+    <source type="git">git+ssh://git@github.com/thesamesam/overlay.git</source>
+    <feed>https://github.com/thesamesam/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sattvik</name>
     <description lang="en">sattvik's overlay with personalized bug fixes and tweaks</description>
     <homepage>https://cgit.gentoo.org/user/sattvik.git/</homepage>

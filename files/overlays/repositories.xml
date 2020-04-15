@@ -420,6 +420,18 @@
     <source type="git">http://git.art-software.fr/ArtSoftware/portageLocalRepo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ArchFeh</name>
+    <description lang="en">ArchFeh's personal overlay</description>
+    <homepage>https://github.com/ArchFeh/ArchFeh-overlay</homepage>
+    <owner type="person">
+      <email>guyu2876@gmail.com</email>
+      <name>ArchFeh</name>
+    </owner>
+    <source type="git">https://github.com/ArchFeh/ArchFeh-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/ArchFeh/ArchFeh-overlay.git</source>
+    <feed>https://github.com/ArchFeh/ArchFeh-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>arx-libertatis</name>
     <description lang="en">Arx Libertatis Overlay</description>
     <homepage>https://github.com/arx/ArxGentoo</homepage>

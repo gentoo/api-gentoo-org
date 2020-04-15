@@ -3943,7 +3943,7 @@
     Bugs to http://bugs.sabayon.org</description>
     <homepage>http://sabayon.org</homepage>
     <owner type="person">
-      <email>slawomir.nizio@sabayon.org</email>
+      <email>joost.ruis@sabayonlinux.org</email>
     </owner>
     <source type="git">git://github.com/Sabayon/for-gentoo.git</source>
     <feed>https://github.com/feeds/Sabayon/commits/for-gentoo/master</feed>
@@ -3955,7 +3955,7 @@
     Bugs to http://bugs.sabayon.org</description>
     <homepage>http://sabayon.org</homepage>
     <owner type="person">
-      <email>slawomir.nizio@sabayon.org</email>
+      <email>joost.ruis@sabayonlinux.org</email>
     </owner>
     <source type="git">git://github.com/Sabayon/sabayon-distro.git</source>
     <feed>https://github.com/feeds/Sabayon/commits/sabayon-distro/master</feed>

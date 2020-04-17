@@ -265,6 +265,18 @@
     <feed>https://cgit.gentoo.org/user/aluco.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/aluco.git/rss/</feed> -->
   </repo>
+    <repo quality="experimental" status="unofficial">
+    <name>amedeos</name>
+    <description lang="en">amedeos's personal overlay</description>
+    <homepage>https://github.com/amedeos/amedeos-overlay</homepage>
+    <owner type="person">
+      <email>amedeo@linux.com</email>
+      <name>Amedeo Salvati</name>
+    </owner>
+    <source type="git">https://github.com/amedeos/amedeos-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/amedeos/amedeos-overlay.git</source>
+    <feed>https://github.com/amedeos/amedeos-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>anarchy</name>
     <description>Testing/Bug fixes, new ebuilds</description>
@@ -5282,18 +5294,6 @@
     <source type="git">https://github.com/heindsight/gentoo_overlay.git</source>
     <source type="git">git+ssh://git@github.com/heindsight/gentoo_overlay.git</source>
     <feed>https://github.com/heindsight/gentoo_overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>amedeos</name>
-    <description lang="en">amedeos's personal overlay</description>
-    <homepage>https://github.com/amedeos/amedeos-overlay</homepage>
-    <owner type="person">
-      <email>amedeo@linux.com</email>
-      <name>Amedeo Salvati</name>
-    </owner>
-    <source type="git">https://github.com/amedeos/amedeos-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/amedeos/amedeos-overlay.git</source>
-    <feed>https://github.com/amedeos/amedeos-overlay/commits/master.atom</feed>
   </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

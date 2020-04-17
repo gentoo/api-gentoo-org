@@ -3855,7 +3855,7 @@
     <description lang="en">personal overlay of robert7k</description>
     <homepage>https://github.com/robert7k/gentoo-overlay</homepage>
     <owner type="person">
-      <email>gentoo.bugzilla.2012@r123.de</email>
+      <email>gentoo.2019@r123.de</email>
     </owner>
     <source type="git">https://github.com/robert7k/gentoo-overlay.git</source>
     <feed>https://github.com/robert7k/gentoo-overlay/commits/master.atom</feed>

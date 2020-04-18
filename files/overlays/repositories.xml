@@ -1075,6 +1075,18 @@
     <feed>https://cgit.gentoo.org/repo/user/darkelf.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>darthgandalf-overlay</name>
+    <description lang="en">Personal overlay</description>
+    <homepage>https://github.com/DarthGandalf/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>alexey+gentoo@asokolov.org</email>
+      <name>Alexey Sokolov</name>
+    </owner>
+    <source type="git">https://github.com/DarthGandalf/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/DarthGandalf/gentoo-overlay.git</source>
+    <feed>https://github.com/DarthGandalf/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>deadbeef-overlay</name>
     <description lang="en">DeaDBeeF player overlay for Gentoo Linux</description>
     <homepage>https://github.com/damex/deadbeef-overlay</homepage>

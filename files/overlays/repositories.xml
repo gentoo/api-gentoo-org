@@ -4545,19 +4545,6 @@
     <feed>https://github.com/stefantalpalaru/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>steveeJ</name>
-    <description lang="en">Personal overlay of Stefan Junker</description>
-    <homepage>https://github.com/steveeJ/personal-portage-overlay</homepage>
-    <owner type="person">
-      <email>mail@stefanjunker.de</email>
-      <name>Stefan Junker</name>
-    </owner>
-    <source type="git">https://github.com/steveeJ/personal-portage-overlay.git</source>
-    <source type="git">git://github.com/steveeJ/personal-portage-overlay.git</source>
-    <source type="git">git@github.com:steveeJ/personal-portage-overlay.git</source>
-    <feed>https://github.com/steveeJ/personal-portage-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>stowe-verlay</name>
     <description>Few things that have either broken elsewhere or fallen unmaintained, such as winexe, a source-based version of logitech media server, a patched version of dansguardian</description>
     <homepage>https://github.com/mwstowe/stowe-verlay</homepage>

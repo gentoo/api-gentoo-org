@@ -290,7 +290,7 @@ puppet			455	455	acct
 puppetdb		456	456	acct
 icinga			457	457	acct
 icingacmd		-	458	acct
-node_exporter           459     459     acct
+node_exporter		459	459	acct
 mogilefs		460	-	user.eclass
 ttrssd			461	461	acct
 tvheadend		462	-	acct

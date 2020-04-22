@@ -4732,6 +4732,18 @@
     <feed>https://github.com/ntnn/gentoo-thabairne/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>thegreatmcpain</name>
+    <description lang="en">TheGreatMcPain's personal ebuild overlay</description>
+    <homepage>https://gitlab.com/TheGreatMcPain/thegreatmcpain-overlay</homepage>
+    <owner type="person">
+      <email>sixsupersonic@gmail.com</email>
+      <name>James McClain</name>
+    </owner>
+    <source type="git">https://gitlab.com/TheGreatMcPain/thegreatmcpain-overlay.git</source>
+    <source type="git">git@gitlab.com:TheGreatMcPain/thegreatmcpain-overlay.git</source>
+    <feed>https://gitlab.com/TheGreatMcPain/thegreatmcpain-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>timboudreau</name>
     <description lang="en">Tim Boudreau's Overlay</description>
     <homepage>https://github.com/timboudreau/gentoo</homepage>

@@ -349,4 +349,4 @@ nobody			65534	65534	baselayout-fbsd
 # tab-width: 8
 # End:
 
-# vim:se ts=8 sts=0 tw=0 nowrap :
+# vim:se ts=8 sts=0 tw=0 nowrap noexpandtab:

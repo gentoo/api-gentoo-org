@@ -252,6 +252,7 @@ anope			417	417	acct
 usbmux			418	-	acct
 wesnoth			419	419	acct
 davfs2			420	420	acct		Used by net-fs/davfs2
+znc			421	421	requested
 abrt			422	422	acct
 pdns			423	423	acct		Used by net-dns/pdns
 quagga			424	424	acct

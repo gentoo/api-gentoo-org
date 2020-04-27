@@ -224,6 +224,7 @@ dhcpcd			303	303	acct
 vboxusers		-	304	acct
 vboxguest		305	305	acct
 vboxsf			-	306	acct
+lldpd			315	315	acct
 openntpd		321	321	acct
 ossec			330	330	acct
 ossecm			331	330	acct

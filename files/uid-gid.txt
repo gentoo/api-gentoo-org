@@ -147,7 +147,7 @@ users			-	100	baselayout-fbsd
 messagebus		101	101	acct
 polkitd			102	102	acct
 plex			103	103	acct
-lpadmin			-	106	user.eclass
+lpadmin			-	106	acct
 rpc			111	111	historical	Used by net-nds/portmap, removed in [36e60cce11d7](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=36e60cce11d780582196c42d6b692897455d7a27)
 unifi			113	113	acct
 snapserver		114	114	requested

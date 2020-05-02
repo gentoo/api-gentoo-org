@@ -214,6 +214,7 @@ plugdev			-	272	acct
 bacula			273	273	acct
 dnsmasq_exporter	274	274	acct
 dnsmasq			275	275	acct
+bind_exporter			276	276	acct
 netdata			290	290	acct
 x2gouser		291	291	acct
 x2goprint		292	292	acct

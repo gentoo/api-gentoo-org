@@ -5066,15 +5066,15 @@
     <feed>https://github.com/waebbl/waebbl-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>wayfire-desktop</name>
-    <description lang="en">gentoo, wayland overlay for wayfire ebuilds and other wayfire apps</description>
-    <homepage>https://github.com/epsilon-0/wayfire-desktop</homepage>
+    <name>wayland-desktop</name>
+    <description lang="en">gentoo overlay for wayland related ebuilds</description>
+    <homepage>https://github.com/epsilon-0/wayland-desktop</homepage>
     <owner type="person">
       <email>gentoo@aisha.cc</email>
       <name>Aisha Tammy</name>
     </owner>
-    <source type="git">https://github.com/epsilon-0/wayfire-desktop.git</source>
-    <source type="git">git+ssh://git@github.com/epsilon-0/wayfire-desktop.git</source>
+    <source type="git">https://github.com/epsilon-0/wayland-desktop.git</source>
+    <source type="git">git+ssh://git@github.com/epsilon-0/wayland-desktop.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>wbrana</name>

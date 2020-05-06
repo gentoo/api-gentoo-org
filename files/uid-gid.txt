@@ -301,6 +301,7 @@ ttrssd			461	461	acct
 tvheadend		462	-	acct
 supervisor		-	463	acct
 airdcppd		464	464	requested
+tsm			-	465	acct		Used by app-backup/tsm
 ippl			465	-	acct		Used by net-analyzer/ippl
 rstudio-server		466	466	acct		Used by sci-mathematics/rstudio
 geneweb			467	467	acct

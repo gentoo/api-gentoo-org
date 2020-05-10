@@ -173,17 +173,6 @@
     <source type="git">https://github.com/ahyangyi/ahyangyi-overlay.git</source>
     <feed>https://github.com/ahyangyi/ahyangyi-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>aidecoe</name>
-    <description>aidecoe's experimental overlay</description>
-    <homepage>https://github.com/aidecoe/aidecoe-overlay/tree/master</homepage>
-    <owner type="person">
-      <email>aidecoe@gentoo.org</email>
-      <name>Amadeusz Żołnowski</name>
-    </owner>
-    <source type="git">https://github.com/aidecoe/aidecoe-overlay.git</source>
-    <feed>https://github.com/feeds/aidecoe/commits/aidecoe-overlay/master</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>alatar-lay</name>
     <description lang="en">Alatar`s personal ebuilds</description>

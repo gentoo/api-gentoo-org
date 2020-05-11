@@ -214,7 +214,7 @@ plugdev			-	272	acct
 bacula			273	273	acct
 dnsmasq_exporter	274	274	acct
 dnsmasq			275	275	acct
-bind_exporter			276	276	acct
+bind_exporter		276	276	acct
 netdata			290	290	acct
 x2gouser		291	291	acct
 x2goprint		292	292	acct
@@ -238,7 +238,7 @@ spamd			337	337	acct
 stunnel			341	341	acct
 dnscrypt-proxy		353	353	acct
 octoprint		368	368	acct
-openvpn		394	394	acct
+openvpn			394	394	acct
 slurm			400	400	acct
 monitorix		401	401	acct
 bareos			403	403	acct
@@ -249,8 +249,8 @@ utmp			-	406	baselayout
 bitlbee			407	407	acct
 consul-template		408	408	acct
 gpib			-	409	acct		Used by sci-libs/linux-gpib
-vault		410	410	acct
-consul		411	411	acct
+vault			410	410	acct
+consul			411	411	acct
 atheme-services		412	412	acct
 ngircd			413	413	acct
 dnsdist			414	414	acct

@@ -3659,7 +3659,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pross</name>
-    <description lang="en">User overlay</description>
+    <description lang="en">Up to date ck-sources</description>
     <homepage>https://github.com/Pross/pross-overlay</homepage>
     <owner type="person">
       <email>pross@pross.org.uk</email>

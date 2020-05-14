@@ -4214,6 +4214,18 @@
     <feed>ttps://github.com/vonavi/seeds/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>setkeh</name>
+    <description lang="en">setkeh maintained ebuilds</description>
+    <homepage>https://github.com/setkeh/Portage-Overlay</homepage>
+    <owner type="person">
+      <email>setkeh@gmail.com</email>
+      <name>James (setkeh) Griffis</name>
+    </owner>
+    <source type="git">https://github.com/setkeh/Portage-Overlay.git</source>
+    <source type="git">git+ssh://git@github.com:setkeh/Portage-Overlay.git</source>
+    <feed>https://github.com/setkeh/Portage-Overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sevcsik</name>
     <description lang="en">Mainly cryptocurrency/blockchain related ebuilds</description>
     <homepage>https://github.com/sevcsik/overlay</homepage>

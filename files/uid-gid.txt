@@ -242,6 +242,7 @@ buildbot		393	393	acct		Used by dev-util/buildbot, dev-util/buildbot-worker
 openvpn			394	394	acct
 slurm			400	400	acct
 monitorix		401	401	acct
+lxd			-	402	acct
 bareos			403	403	acct
 simplevirt		-	404	acct
 guest			405	-	historical	Removed from baselayout in [r889](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=286&r2=889&pathrev=2545)

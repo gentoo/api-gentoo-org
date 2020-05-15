@@ -240,6 +240,8 @@ dnscrypt-proxy		353	353	acct
 octoprint		368	368	acct
 buildbot		393	393	acct		Used by dev-util/buildbot, dev-util/buildbot-worker
 openvpn			394	394	acct
+svn			399	-	acct		Used by dev-vcs/subversion[-apache2]
+svnusers		-	399	acct		Used by dev-vcs/subversion[-apache2]
 slurm			400	400	acct
 monitorix		401	401	acct
 lxd			-	402	acct

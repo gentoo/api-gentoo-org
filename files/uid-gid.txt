@@ -142,6 +142,7 @@ dovecot			97	97	user.eclass
 input			-	97	acct
 input			-	97	baselayout
 maradns			99	99	user.eclass
+sndiod			100	-	acct
 users			-	100	baselayout
 users			-	100	baselayout-fbsd
 messagebus		101	101	acct

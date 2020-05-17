@@ -2149,6 +2149,18 @@
     <feed>https://github.com/hamper/hamper-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>han</name>
+    <description lang="en">Han's personal ebuild repository</description>
+    <homepage>https://github.com/hanmertens/han-overlay</homepage>
+    <owner type="person">
+      <email>hanmertens@outlook.com</email>
+      <name>Han Mertens</name>
+    </owner>
+    <source type="git">https://github.com/hanmertens/han-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/hanmertens/han-overlay.git</source>
+    <feed>https://github.com/hanmertens/han-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>hangul-typing</name>
     <description lang="en">It contains hangul-typing tutors.</description>
     <homepage>https://gitlab.com/espresso.tiger/hangul-typing</homepage>

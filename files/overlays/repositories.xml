@@ -2907,19 +2907,18 @@
     </owner>
     <source type="git">https://github.com/oz123/mate-de-gentoo.git</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
+  <repo quality="experimental" status="official">
     <name>matrix</name>
     <description lang="en">Overlay containing clients, servers and services for the Matrix protocol</description>
     <description lang="nl">Overlay met clients, servers en services voor het Matrix protocol</description>
-    <homepage>https://gitlab.com/PureTryOut/matrix-overlay</homepage>
+    <homepage>https://gitlab.com/steils/matrix-overlay</homepage>
     <owner type="person">
-      <email>bribbers@disroot.org</email>
-      <name>PureTryOut</name>
+      <email>steils@gentoo.org</email>
+      <name>Stefan Strogin</name>
     </owner>
-    <source type="git">https://gitlab.com/PureTryOut/matrix-overlay.git</source>
-    <source type="git">git://gitlab.com/PureTryOut/matrix-overlay.git</source>
-    <source type="git">git@gitlab.com:PureTryOut/matrix-overlay.git</source>
-    <feed>https://gitlab.com/PureTryOut/matrix-overlay/commits/master.atom</feed>
+    <source type="git">https://gitlab.com/steils/matrix-overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com/steils/matrix-overlay.git</source>
+    <feed>https://gitlab.com/steils/matrix-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>megacoffee</name>

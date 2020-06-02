@@ -1966,6 +1966,18 @@
     <source type="git">https://gitlab.awesome-it.de/overlays/gitlab.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>glarbs-overlay</name>
+    <description lang="en">A Gentoo overlay used by GLARBS.</description>
+    <description lang="sv">Ett Gentoo överlägg som används av GLARBS.</description>
+    <homepage>https://wiki.gentoo.org/wiki/User:Et-8/GLARBS</homepage>
+    <owner type="person">
+      <email>et-8@emiliatrollros.se</email>
+      <name>Emilia Trollros</name>
+    </owner>
+    <source type="git">https://gitlab.com/et-8/glarbs-overlay.git</source>
+    <feed>https://gitlab.com/et-8/glarbs-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>glicOne</name>
     <description lang="en">glicOne Overlay with non existing in layman utils</description>
     <homepage>https://gitlab.com/glicOne/glicOne-overlay</homepage>

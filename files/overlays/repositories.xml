@@ -3063,6 +3063,19 @@
     <source type="git">git://github.com/vincentdephily/moltonel-ebuilds.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>monero</name>
+    <description lang="en">Ebuilds for the Monero cryptocurrency and
+      related software.</description>
+    <homepage>https://github.com/gentoo-monero/gentoo-monero</homepage>
+    <owner type="person">
+      <email>matt@offtopica.uk</email>
+      <name>Matt Smith</name>
+    </owner>
+    <source type="git">https://github.com/gentoo-monero/gentoo-monero.git</source>
+    <source type="git">git+ssh://git@github.com/gentoo-monero/gentoo-monero.git</source>
+    <feed>https://github.com/gentoo-monero/gentoo-monero/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>mooyooma</name>
     <description lang="en">mooyooma's personal overlay</description>
     <homepage>https://gitlab.com/mooyooma-overlay/mooyooma-overlay</homepage>

@@ -244,6 +244,7 @@ octoprint		368	368	acct
 buildbot		393	393	acct		Used by dev-util/buildbot, dev-util/buildbot-worker
 openvpn			394	394	acct
 motion			395	395	acct
+airdcppd		398	398	acct
 svn			399	-	acct		Used by dev-vcs/subversion[-apache2]
 svnusers		-	399	acct		Used by dev-vcs/subversion[-apache2]
 slurm			400	400	acct

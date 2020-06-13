@@ -28,6 +28,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.osuosl.org/</uri>
     </mirror>
     <mirror>
+      <name>LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirror.leaseweb.com/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.leaseweb.com/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.leaseweb.com/gentoo/</uri>
+    </mirror>
+    <mirror>
       <name>Evowise.com (Anycast: Los Angeles, New York)</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.evowise.com/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirrors.evowise.com/gentoo/</uri>
@@ -127,6 +133,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   </mirrorgroup>
   <mirrorgroup region="Europe" country="DE" countryname="Germany">
     <mirror>
+      <name>LeaseWeb (Anycast: Frankfurt)</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirror.leaseweb.com/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.leaseweb.com/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.leaseweb.com/gentoo/</uri>
+    </mirror>
+    <mirror>
       <name>Ruhr-Universität Bochum</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/</uri>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/</uri>
@@ -193,7 +205,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://ftp.snt.utwente.nl/gentoo</uri>
     </mirror>
     <mirror>
-      <name>LeaseWeb</name>
+      <name>LeaseWeb (Anycast: Amsterdam)</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirror.leaseweb.com/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.leaseweb.com/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.leaseweb.com/gentoo/</uri>

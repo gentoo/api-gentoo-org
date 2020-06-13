@@ -23,7 +23,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   </mirrorgroup>
   <mirrorgroup region="North America" country="US" countryname="USA">
     <mirror>
-      <name>OSU Open Source Lab</name>
+      <name>OSU Open Source Lab (Corvallis; New York; Chicago)</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://gentoo.osuosl.org/</uri>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.osuosl.org/</uri>
     </mirror>

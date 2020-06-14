@@ -240,7 +240,7 @@ sqlgrey			336	336	acct
 spamd			337	337	acct
 stunnel			341	341	acct
 dnscrypt-proxy		353	353	acct
-octoprint		368	368	acct
+octoprint		368	368	historical
 buildbot		393	393	acct		Used by dev-util/buildbot, dev-util/buildbot-worker
 openvpn			394	394	acct
 motion			395	395	acct

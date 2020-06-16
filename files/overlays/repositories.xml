@@ -2699,6 +2699,18 @@
     <!-- <feed>https://cgit.gentoo.org/dev/leio.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>leonardohn</name>
+    <description lang="en">leonardohn personal overlay</description>
+    <homepage>https://github.com/leonardohn/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>leonardohn@null.net</email>
+      <name>Leonardo Neumann</name>
+    </owner>
+    <source type="git">https://github.com/leonardohn/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/leonardohn/gentoo-overlay.git</source>
+    <feed>https://github.com/leonardohn/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>levenkov</name>
     <description>levenkov personal overlay</description>
     <homepage>https://cgit.gentoo.org/user/levenkov.git</homepage>

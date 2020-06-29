@@ -3793,7 +3793,7 @@
     <feed>https://github.com/qgp/gentoo-qgp/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>qownnotes</name>
+    <name>qownnotes-overlay</name>
     <description lang="en">QOwnNotes overlay</description>
     <homepage>http://www.qownnotes.org</homepage>
     <owner type="person">

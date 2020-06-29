@@ -3356,6 +3356,18 @@
     <feed>https://github.com/Bfgeshka/octopus/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>oddlama</name>
+    <description lang="en">oddlama's gentoo overlay</description>
+    <homepage>https://github.com/oddlama/overlay</homepage>
+    <owner type="person">
+      <email>overlay@oddlama.org</email>
+      <name>oddlama</name>
+    </owner>
+    <source type="git">https://github.com/oddlama/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/oddlama/overlay.git</source>
+    <feed>https://github.com/oddlama/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>olifre</name>
     <description lang="en">Personal overlay of Oliver Freyermuth.</description>
     <homepage>https://github.com/olifre/olifre-portage</homepage>

@@ -3793,6 +3793,18 @@
     <feed>https://github.com/qgp/gentoo-qgp/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>qownnotes</name>
+    <description lang="en">QOwnNotes overlay</description>
+    <homepage>http://www.qownnotes.org</homepage>
+    <owner type="person">
+      <email>patrizio@bekerle.com</email>
+      <name>Patrizio Bekerle</name>
+    </owner>
+    <source type="git">https://github.com/qownnotes/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/qownnotes/gentoo-overlay.git</source>
+    <feed>https://github.com/qownnotes/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>qsx</name>
     <description lang="en">qsx’ ebuilds</description>
     <homepage>https://github.com/qsuscs/gentoo-overlay</homepage>

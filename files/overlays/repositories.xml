@@ -3042,6 +3042,18 @@
     <feed>https://github.com/MalakymR/mkr-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ml-overlay</name>
+    <description lang="en">Unofficial portage overlay for Gentoo Linux providing ebuilds for the ML.</description>
+    <homepage>https://github.com/aballier/ml-overlay</homepage>
+    <owner type="person">
+      <email>aballier@gentoo.org</email>
+      <name>aballier</name>
+    </owner>
+    <source type="git">https://github.com/aballier/ml-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/aballier/ml-overlay.git</source>
+    <feed>https://github.com/aballier/ml-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>moaxcp</name>
     <description lang="en">gentoo overlay for packages</description>
     <homepage>https://github.com/moaxcp/moaxcp-gentoo-overlay</homepage>

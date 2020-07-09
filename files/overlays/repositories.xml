@@ -4760,6 +4760,17 @@
     <source type="git">https://schlomp.space/tastytea/overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>telans</name>
+    <description lang="en">Overlay from telans - gaming/misc</description>
+    <homepage>https://github.com/telans/EBUILDS</homepage>
+    <owner type="person">
+      <email>telans@posteo.de</email>
+      <name>telans</name>
+    </owner>
+    <source type="git">https://github.com/telans/EBUILDS.git</source>
+    <feed>https://github.com/telans/EBUILDS/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>tengine-overlay</name>
     <description lang="en">Tengine overlay for Gentoo Linux</description>
     <homepage>https://github.com/damex/tengine-overlay</homepage>

@@ -242,6 +242,7 @@ sqlgrey			336	336	acct
 spamd			337	337	acct
 stunnel			341	341	acct
 influxdb			342	342	acct
+kapacitor			343	343	acct
 dnscrypt-proxy		353	353	acct
 octoprint		368	368	historical
 privoxy 		392	392	acct

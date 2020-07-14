@@ -1481,6 +1481,18 @@
     <feed>https://gitweb.gentoo.org/user/ennui.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>equaeghe</name>
+    <description lang="en">Erik Quaeghebeur's personal Gentoo overlay</description>
+    <homepage>https://github.com/equaeghe/gentoo-overlay/</homepage>
+    <owner type="person">
+      <email>gentoo@e3q.eu</email>
+      <name>Erik Quaeghebeur</name>
+    </owner>
+    <source type="git">https://github.com/equaeghe/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/equaeghe/gentoo-overlay.git</source>
+    <feed>https://github.com/equaeghe/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>erayd</name>
     <description lang="en">Various personal ebuilds</description>
     <homepage>https://github.com/erayd/overlay</homepage>

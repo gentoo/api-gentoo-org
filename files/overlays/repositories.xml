@@ -401,16 +401,6 @@
     <feed>https://github.com/apriluwu/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>apurkrt</name>
-    <description lang="en">Xfce development ebuilds and other stuff</description>
-    <homepage>https://gitlab.com/apurkrt/apurkrt</homepage>
-    <owner type="person">
-      <email>adam@purkrt.net</email>
-      <name>Adam Purkrt</name>
-    </owner>
-    <source type="git">https://gitlab.com/apurkrt/apurkrt.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>archenroot</name>
     <description lang="en">GPU, Neural Networks, Big Data, HPC, Java</description>
     <homepage>https://github.com/archenroot/gentoo-overlay</homepage>

@@ -3642,6 +3642,18 @@
     <!-- <feed>https://cgit.gentoo.org/user/carreira.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>pkalin</name>
+    <description lang="en">My Gentoo overlay, somewhat regularly maintained</description>
+    <homepage>https://github.com/thinrope/pkalin</homepage>
+    <owner type="person">
+      <email>kalin@ThinRope.net</email>
+      <name>Kalin KOZHUHAROV</name>
+    </owner>
+    <source type="git">https://github.com/thinrope/pkalin.git</source>
+    <source type="git">git+ssh://git@github.com/thinrope/pkalin.git</source>
+    <feed>https://github.com/thinrope/pkalin/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>plex-overlay</name>
     <description lang="en">Personal overlay of comio containing Plex related ebuilds</description>
     <homepage>https://github.com/comio/plex-overlay</homepage>

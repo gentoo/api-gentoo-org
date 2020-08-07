@@ -44,12 +44,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.gtlib.gatech.edu/gentoo</uri>
     </mirror>
     <mirror>
-      <name>Indiana University</name>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.ussg.iu.edu/pub/linux/gentoo</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://gentoo.ussg.indiana.edu/</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.ussg.indiana.edu/</uri>
-    </mirror>
-    <mirror>
       <name>TDS Internet Services</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirrors.tds.net/gentoo</uri>
     </mirror>

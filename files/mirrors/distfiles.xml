@@ -333,13 +333,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   </mirrorgroup>
   <mirrorgroup region="Asia" country="JP" countryname="Japan">
     <mirror>
-      <name>Japan Advanced Institute of Science and Technology</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://ftp.jaist.ac.jp/pub/Linux/Gentoo/</uri>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.jaist.ac.jp/pub/Linux/Gentoo/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://ftp.jaist.ac.jp/pub/Linux/Gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ftp.jaist.ac.jp/pub/Linux/Gentoo/</uri>
-    </mirror>
-    <mirror>
       <name>Internet Initiative Japan</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://ftp.iij.ad.jp/pub/linux/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.iij.ad.jp/pub/linux/gentoo/</uri>

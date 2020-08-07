@@ -33,7 +33,8 @@
 # was migrated from user.eclass to acct-user/ with the same UID, just
 # list the latter.
 #
-# Please keep the list sorted by UID, GID, PROVIDER, NAME (in order).
+# Please keep the list sorted by UID, GID, PROVIDER, NAME (in order),
+# and keep columns aligned (tab stops every 8 positions).
 
 #!NAME			UID	GID	PROVIDER	NOTES
 root			0	0	baselayout
@@ -242,17 +243,17 @@ epmd			335	335	acct
 sqlgrey			336	336	acct
 spamd			337	337	acct
 stunnel			341	341	acct
-influxdb			342	342	acct
-kapacitor			343	343	acct
-chronograf			344	344	acct
-docker_auth			345	345	acct
+influxdb		342	342	acct
+kapacitor		343	343	acct
+chronograf		344	344	acct
+docker_auth		345	345	acct
 dnscrypt-proxy		353	353	acct
-nginx-vts-exporter		354	354	acct
-openvpn_exporter		355	355	acct
-postfix_exporter		356	356	acct
+nginx-vts-exporter	354	354	acct
+openvpn_exporter	355	355	acct
+postfix_exporter	356	356	acct
 octoprint		368	368	historical
 unbound			391	391	acct
-privoxy 		392	392	acct
+privoxy			392	392	acct
 buildbot		393	393	acct		Used by dev-util/buildbot, dev-util/buildbot-worker
 openvpn			394	394	acct
 motion			395	395	acct

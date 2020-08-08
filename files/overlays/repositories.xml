@@ -1430,6 +1430,18 @@
     <source type="git">git://github.com/pimvullers/elementary.git</source>
     <feed>https://github.com/pimvullers/elementary/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>elopez-r-overlay</name>
+    <description>My Gentoo overlay for Ebuilds</description>
+    <homepage>https://gitlab.com/libre_hackerman/elopez-r-overlay</homepage>
+    <owner type="person">
+      <email>gnu_stallman@protonmail.ch</email>
+      <name>Esteban López Rodríguez</name>
+    </owner>
+    <source type="git">https://gitlab.com/libre_hackerman/elopez-r-overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com:libre_hackerman/elopez-r-overlay.git</source>
+    <feed>https://gitlab.com/libre_hackerman/elopez-r-overlay/-/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>emacs</name>
     <description>Provide Emacs and XEmacs related ebuilds which are

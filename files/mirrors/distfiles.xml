@@ -232,9 +232,8 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   <mirrorgroup region="Europe" country="SK" countryname="Slovakia">
     <mirror>
       <name>Wheel.sk</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://gentoo.wheel.sk/</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.wheel.sk/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.wheel.sk/pub/linux/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://mirror.wheel.sk/gentoo</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.wheel.sk/gentoo</uri>
     </mirror>
     <mirror>
       <name>Rainside.sk</name>

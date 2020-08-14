@@ -1632,6 +1632,16 @@
     <source type="git">git://github.com/wimmuskee/flavour.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>flewkey-overlay</name>
+    <description lang="en">Personal Gentoo overlay for flewkey</description>
+    <homepage>https://git.sdf.org/flewkey/flewkey-overlay</homepage>
+    <owner type="person">
+      <email>flewkey@2a03.party</email>
+      <name>Ryan Fox</name>
+    </owner>
+    <source type="git">https://git.sdf.org/flewkey/flewkey-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>flightsim</name>
     <description lang="en">Overlay with packages for flight simulation, mainly related to X-Plane</description>
     <homepage>https://github.com/rafaelmartins/flightsim-overlay</homepage>

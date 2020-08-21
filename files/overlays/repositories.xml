@@ -306,19 +306,6 @@
     <!-- <feed>https://cgit.gentoo.org/user/anaximander.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>and3k-sunrise</name>
-    <description>and3ks unstable ebuilds</description>
-    <homepage>https://github.com/and3k/and3k-sunrise</homepage>
-    <owner type="person">
-      <email>post@belahausmann.name</email>
-      <name>Bela Hausmann</name>
-    </owner>
-    <source type="git">https://github.com/and3k/and3k-sunrise.git</source>
-    <source type="git">git://github.com/and3k/and3k-sunrise.git</source>
-    <source type="git">git@github.com:and3k/and3k-sunrise.git</source>
-    <feed>https://github.com/and3k/and3k-sunrise/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>anders-larsson</name>
     <description>A few packages that are not hosted elsewhere.</description>
     <homepage>https://github.com/anders-larsson/gentoo-overlay</homepage>
@@ -434,16 +421,6 @@
     </owner>
     <source type="git">https://gitlab.com/argent/argent-main.git</source>
     <feed>https://gitlab.com/argent/argent-main/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>ArtSoftware</name>
-    <description lang="en">Art-Software overlay</description>
-    <homepage>http://git.art-software.fr/ArtSoftware/portageLocalRepo</homepage>
-    <owner type="person">
-      <email>adrien.sohier@art-software.fr</email>
-      <name>[Electron]</name>
-    </owner>
-    <source type="git">http://git.art-software.fr/ArtSoftware/portageLocalRepo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>arx-libertatis</name>
@@ -920,17 +897,6 @@
       <email>brothermechanic@gmail.com</email>
     </owner>
     <source type="git">https://github.com/brothermechanic/cg.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>chaoslab</name>
-    <description lang="en">Overlay for apps related to secure communication, cryptography, cryptocurrency, server-side stuff, etc.</description>
-    <homepage>https://gitlab.com/chaoslab/chaoslab-overlay</homepage>
-    <owner type="person">
-      <email>gentoo@chaoslab.org</email>
-      <name>Ian Moone</name>
-    </owner>
-    <source type="git">https://gitlab.com/chaoslab/chaoslab-overlay.git</source>
-    <feed>https://gitlab.com/chaoslab/chaoslab-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>chrisadr</name>
@@ -1796,18 +1762,6 @@
     <source type="git">https://github.com/FRRouting/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com:FRRouting/gentoo-overlay.git</source>
     <feed>https://github.com/FRRouting/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>furikake</name>
-    <description lang="en">Gentoo overlay of Alex Wilson</description>
-    <homepage>https://github.com/antoligy/furikake</homepage>
-    <owner type="person">
-      <email>alex.w@antoligy.com</email>
-      <name>Alex Wilson (antoligy)</name>
-    </owner>
-    <source type="git">https://github.com/antoligy/furikake.git</source>
-    <source type="git">git@github.com:antoligy/furikake.git</source>
-    <feed>https://github.com/antoligy/furikake/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>fusion809</name>
@@ -2870,20 +2824,6 @@
     <source type="git">https://scm.dashjr.org/scmroot/git/portage-overlays/luke-jr</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>luman</name>
-    <description lang="en">ccube's overlay</description>
-    <homepage>https://cgit.gentoo.org/user/luman.git/</homepage>
-    <owner type="person">
-      <email>gentoobugzilla@ccube.de</email>
-      <name>Lukas Elsner</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/luman.git</source>
-    <source type="git">git://anongit.gentoo.org/user/luman.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/luman.git</source>
-    <feed>https://cgit.gentoo.org/user/luman.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/luman.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>luxifer</name>
     <description lang="en">Personal Overlay, contains stoken ebuilds</description>
     <homepage>https://github.com/luxifr/olgentoo</homepage>
@@ -3099,16 +3039,6 @@
     <source type="git">git+ssh://git@github.com/gentoo-monero/gentoo-monero.git</source>
     <feed>https://github.com/gentoo-monero/gentoo-monero/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>mooyooma</name>
-    <description lang="en">mooyooma's personal overlay</description>
-    <homepage>https://gitlab.com/mooyooma-overlay/mooyooma-overlay</homepage>
-    <owner type="person">
-      <email>mooyooma@openmailbox.org</email>
-      <name>mooyooma</name>
-    </owner>
-    <source type="git">https://gitlab.com/mooyooma-overlay/mooyooma-overlay.git</source>
-  </repo>
   <repo quality="experimental" status="official">
     <name>mozilla</name>
     <description>New mozilla development that is not yet in tree</description>
@@ -3224,17 +3154,6 @@
     <source type="git">git+ssh://git@git.gentoo.org/proj/mysql.git</source>
     <feed>https://cgit.gentoo.org/proj/mysql.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/mysql.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>nashedelo</name>
-    <description lang="en">Experimental ebuilds</description>
-    <homepage>https://bitbucket.org/angry_elf/nashedelo</homepage>
-    <owner type="person">
-      <email>egurevich@smscoin.com</email>
-      <name>Evgeniy Gurevich</name>
-    </owner>
-    <source type="mercurial">https://bitbucket.org/angry_elf/nashedelo</source>
-    <feed>https://bitbucket.org/angry_elf/nashedelo/rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>nelson-graca</name>

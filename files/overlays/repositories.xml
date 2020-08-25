@@ -5373,6 +5373,19 @@
     <feed>https://github.com/yurijmikhalevich/yurij-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>yuzu-overlay</name>
+    <description lang="en">Provides the Yuzu Switch Emulator and required dependencies.</description>
+    <homepage>https://github.com/Alex-Aralis/yuzu-overlay</homepage>
+    <owner type="person">
+      <email>alex.aralis@gmail.com</email>
+      <name>Alex Aralis</name>
+    </owner>
+    <source type="git">https://github.com/Alex-Aralis/yuzu-overlay.git</source>
+    <source type="git">git://github.com/Alex-Aralis/yuzu-overlay.git</source>
+    <source type="git">git@github.com:Alex-Aralis/yuzu-overlay.git</source>
+    <feed>https://github.com/Alex-Aralis/yuzu-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>zerodaysfordays</name>
     <description>Jakob L. Kreuze's personal overlay.</description>
     <homepage>https://git.sr.ht/~jakob/zerodaysfordays</homepage>

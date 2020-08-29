@@ -200,7 +200,7 @@ tox			236	236	acct
 rspamd			237	237	acct
 scponly			239	239	requested
 distcc			240	-	user.eclass
-icingaweb2              -       241     acct
+icingaweb2		-	241	acct
 asterisk		242	242	acct
 locate			-	245	acct
 slocate			-	245	historical	Removed from baselayout in [r1328](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1319&r2=1328&pathrev=2545)

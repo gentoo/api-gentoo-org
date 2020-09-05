@@ -256,6 +256,7 @@ postfix_exporter	356	356	acct
 nslcd			357	357	acct
 octoprint		368	368	historical
 ultimaker		369 369 acct
+sobexsrv		387	387	acct
 kismet			388	388	acct
 grafana			389	389	acct
 monkeysphere		390	390	acct

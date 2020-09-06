@@ -4823,6 +4823,15 @@
     <!-- <feed>https://cgit.gentoo.org/proj/toolchain.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>toniz4</name>
+    <description>Useful packages for your person use</description>
+    <owner>
+      <email>cassioavila@yandex.com</email>
+      <name>Cássio Ribeiro Alves de Ávila</name>
+    </owner>
+    <source type="git">https://github.com/toniz4/toniz4-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>torbrowser</name>
     <description lang="en">Tor Browser related ebuilds</description>
     <homepage>https://github.com/MeisterP/torbrowser-overlay</homepage>

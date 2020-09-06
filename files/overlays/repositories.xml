@@ -4823,9 +4823,9 @@
     <!-- <feed>https://cgit.gentoo.org/proj/toolchain.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>toniz4</name>
+    <name>toniz4-overlay</name>
     <description>Useful packages for your person use</description>
-    <owner>
+    <owner type="person">
       <email>cassioavila@yandex.com</email>
       <name>Cássio Ribeiro Alves de Ávila</name>
     </owner>

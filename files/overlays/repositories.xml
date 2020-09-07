@@ -3269,7 +3269,7 @@
     <homepage>https://github.com/rafaelmartins/octave-overlay</homepage>
     <owner type="person">
       <email>rafaelmartins@gentoo.org</email>
-      <name> Rafael G. Martins</name>
+      <name>Rafael G. Martins</name>
     </owner>
     <source type="git">https://github.com/rafaelmartins/octave-overlay.git</source>
     <source type="git">git://github.com/rafaelmartins/octave-overlay.git</source>
@@ -5081,8 +5081,7 @@
   <repo quality="experimental" status="official">
     <name>voyageur</name>
     <description>Voyageur's random ebuilds stuff</description>
-    <homepage>
-    https://cafarelli.fr/cgi-bin/cgit.cgi/voyageur-overlay/</homepage>
+    <homepage>https://cafarelli.fr/cgi-bin/cgit.cgi/voyageur-overlay/</homepage>
     <owner type="person">
       <email>voyageur@gentoo.org</email>
     </owner>

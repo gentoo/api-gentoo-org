@@ -1786,15 +1786,15 @@
     <source type="git">https://github.com/funkill/fuverlay.git</source>
     <feed>https://github.com/funkill/fuverlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
+  <repo quality="experimental" status="unofficial">
     <name>gamarouns</name>
     <description>Bits and pieces missing in gentoo or layman repos I need</description>
-    <homepage>https://bitbucket.org/amaroun/gamarouns</homepage>
+    <homepage>https://github.com/Amaroun/gamarouns</homepage>
     <owner type="person">
       <email>vit.kasal@gmail.com</email>
       <name>amaroun</name>
     </owner>
-    <source type="mercurial">https://bitbucket.org/amaroun/gamarouns</source>
+    <source type="git">https://github.com/Amaroun/gamarouns.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gambas-overlay</name>

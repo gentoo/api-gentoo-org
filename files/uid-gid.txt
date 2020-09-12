@@ -104,7 +104,7 @@ xfs			33	33	historical	X Font Server, removed from baselayout in [r1572](https:/
 games			35	-	historical	Removed from baselayout in [r1478](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1477&r2=1478&pathrev=2545)
 games			36	35	user.eclass	Names configurable via eclass; group: deprecated by Council decision, removed from baselayout in [r1478](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1477&r2=1478&pathrev=2545)
 gamestat		-	36	acct
-named			40	40	user.eclass	Removed from baselayout in [r1369](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1335&r2=1369&pathrev=2545)
+named			40	40	acct		Removed from baselayout in [r1369](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1335&r2=1369&pathrev=2545)
 tor			43	43	acct
 mpd			45	-	acct
 openct			-	46	acct
@@ -118,10 +118,10 @@ avahi-autoipd		62	62	acct
 authpf			-	63	user.eclass
 netdev			-	64	acct
 uucp			66	65	baselayout-fbsd
-duende			66	-	user.eclass
+duende			66	-	acct
 dialer			-	68	baselayout-fbsd
 network			-	69	baselayout-fbsd
-postgres		70	70	user.eclass	Moved out of baselayout in [r1861](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1572&r2=1861&pathrev=2545)
+postgres		70	70	acct		Moved out of baselayout in [r1861](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1572&r2=1861&pathrev=2545)
 dovenull		74	74	acct
 redis			75	75	acct
 dovecot			76	76	acct
@@ -129,7 +129,7 @@ qemu			77	77	acct
 kvm			-	78	acct
 libvirt			-	79	acct
 cdrw			-	80	baselayout
-apache			81	81	user.eclass	Removed from baselayout in [r916](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=906&r2=916&pathrev=2545)
+apache			81	81	acct		Removed from baselayout in [r916](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=906&r2=916&pathrev=2545)
 nginx			82	82	requested
 nut			84	84	user.eclass	Removed from baselayout in [r1862](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1861&r2=1862&pathrev=2545)
 cyrus			85	-	historical	Removed from baselayout in [r1326](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1319&r2=1326&pathrev=2545)
@@ -142,7 +142,7 @@ radius			95	95	acct
 dovecot			97	97	user.eclass
 input			-	97	acct
 input			-	97	baselayout
-maradns			99	99	user.eclass
+maradns			99	99	acct
 users			-	100	baselayout
 users			-	100	baselayout-fbsd
 messagebus		101	101	acct
@@ -189,16 +189,18 @@ qmailr			205	-	acct		Removed from baselayout in [r1397](https://sources.gentoo.o
 qmails			206	-	acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
 postfix			207	207	acct		Removed from baselayout in [r1863](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1862&r2=1863&pathrev=2545)
 postdrop		-	208	acct		Removed from baselayout in [r1863](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1862&r2=1863&pathrev=2545)
-smmsp			209	209	user.eclass	user removed out of baselayout in [r2446](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2310&r2=2446&pathrev=2545); group in [r2445](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2444&r2=2445&pathrev=2545)
+smmsp			209	209	acct		user removed out of baselayout in [r2446](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2310&r2=2446&pathrev=2545); group in [r2445](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2444&r2=2445&pathrev=2545)
 cmd5checkpw		212	212	acct
 uptimed			220	220	acct
 gkrellmd		221	221	acct
 msmtpd			222	222	acct
 nsd			223	223	acct
+carbon			230	230	acct
+fvwm-crystal		-	232	acct
 turnserver		235	235	acct
 tox			236	236	acct
 rspamd			237	237	acct
-scponly			239	239	requested
+scponly			239	239	acct
 distcc			240	-	user.eclass
 icingaweb2		-	241	acct
 asterisk		242	242	acct
@@ -209,9 +211,9 @@ portage			250	250	baselayout
 portage			250	250	baselayout-fbsd
 smtpq			252	252	acct
 tomcat			265	265	user.eclass
-kibana			269	269	acct
 ceph			267	267	acct
 cvmfs			268	268	acct
+kibana			269	269	acct
 logstash		270	270	acct
 spire			271	271	acct
 plugdev			-	272	acct
@@ -237,8 +239,8 @@ lldpd			315	315	acct
 exabgp			316	316	acct
 openntpd		321	321	acct
 ossec			330	330	acct
-ossecm			331	330	acct
-ossecr			332	330	acct
+ossecm			331	-	acct
+ossecr			332	-	acct
 amavis			333	333	acct
 opendkim		334	334	acct
 epmd			335	335	acct
@@ -257,6 +259,7 @@ postfix_exporter	356	356	acct
 nslcd			357	357	acct
 octoprint		368	368	historical
 ultimaker		369	369	acct
+ttrssd			386	386	requested
 sobexsrv		387	387	acct
 kismet			388	388	acct
 grafana			389	389	acct
@@ -268,7 +271,7 @@ openvpn			394	394	acct
 motion			395	395	acct
 greetd			396	396	acct
 sabnzbd			397	397	acct
-nzbget			398	398	acct
+nzbget			398	398	requested
 svn			399	-	acct		Used by dev-vcs/subversion[-apache2]
 svnusers		-	399	acct		Used by dev-vcs/subversion[-apache2]
 slurm			400	400	acct
@@ -333,7 +336,7 @@ icinga			457	457	acct
 icingacmd		-	458	acct
 node_exporter		459	459	acct
 mogilefs		460	-	user.eclass
-ttrssd			461	461	acct
+ubridge			-	461	acct
 tvheadend		462	-	acct
 supervisor		-	463	acct
 airdcppd		464	464	acct

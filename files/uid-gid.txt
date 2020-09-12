@@ -373,17 +373,17 @@ strelaysrv		496	496	acct
 stdiscosrv		497	497	acct
 burp			498	498	acct
 syncthing		499	499	acct
-slurm			500	500	historical	Moved to 400
 -			500..999		500..999		reserved	Dynamic allocation by user.eclass. Do not use!
+slurm			500	500	historical	Moved to 400
 -			1000..60000		1000..60000		reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs
 ventrilo		3784	3784	historical	Used by media-sound/ventrilo-server-bin, removed in [15c6a556cef2](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=15c6a556cef202a72f7226648ebea19fcffe834d)
 -			60001..65533		60001..65532		reserved
+-			61184..65519		61184..65519		reserved	Used by systemd DynamicUser feature
 nogroup			-	65533	baselayout
 nogroup			-	65533	baselayout-fbsd
 nobody			65534	65534	baselayout
 nobody			65534	65534	baselayout-fbsd
 -			65535	65535	reserved	-1 on systems with 16 bit uid_t
--			61184..65519		61184..65519		reserved	Used by systemd DynamicUser feature
 -			524288..1878982656	524288..1878982656	reserved	Used by systemd for containers
 
 # Local Variables:

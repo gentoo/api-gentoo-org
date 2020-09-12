@@ -219,7 +219,7 @@ bacula			273	273	acct
 dnsmasq_exporter	274	274	acct
 dnsmasq			275	275	acct
 bind_exporter		276	276	acct
-mongodb_exporter		277	277	acct
+mongodb_exporter	277	277	acct
 netdata			290	290	acct
 x2gouser		291	291	acct
 x2goprint		292	292	acct
@@ -256,7 +256,7 @@ openvpn_exporter	355	355	acct
 postfix_exporter	356	356	acct
 nslcd			357	357	acct
 octoprint		368	368	historical
-ultimaker		369 369 acct
+ultimaker		369	369	acct
 sobexsrv		387	387	acct
 kismet			388	388	acct
 grafana			389	389	acct

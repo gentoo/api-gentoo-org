@@ -4561,6 +4561,19 @@
     <feed>https://github.com/stefantalpalaru/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>stha09</name>
+    <description lang="en">stha09's personal overlay</description>
+    <homepage>https://github.com/stha09/gpo-stha09</homepage>
+    <owner type="person">
+      <email>sultan@gentoo.org</email>
+      <name>Stephan Hartmann</name>
+    </owner>
+    <source type="git">https://github.com/stha09/gpo-stha09.git</source>
+    <source type="git">git://github.com:stha09/gpo-stha09.git</source>
+    <source type="git">git@github.com:stha09/gpo-stha09.git</source>
+    <feed>https://github.com/stha09/gpo-stha09/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>stowe-verlay</name>
     <description>Few things that have either broken elsewhere or fallen unmaintained, such as winexe, a source-based version of logitech media server, a patched version of dansguardian</description>
     <homepage>https://github.com/mwstowe/stowe-verlay</homepage>

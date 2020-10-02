@@ -839,7 +839,7 @@
     <owner type="person">
       <email>at@calculate.ru</email>
     </owner>
-    <source type="git">git://git.calculate.ru/calculate/overlay.git</source>
+    <source type="git">git://git.calculate-linux.org/calculate/calculate-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>canutethegreat-overlay</name>

@@ -279,7 +279,7 @@ openvpn			394	394	acct
 motion			395	395	acct
 greetd			396	396	acct
 sabnzbd			397	397	acct
-nzbget			398	398	requested
+nzbget			398	398	acct
 svn			399	-	acct		Used by dev-vcs/subversion[-apache2]
 svnusers		-	399	acct		Used by dev-vcs/subversion[-apache2]
 slurm			400	400	acct

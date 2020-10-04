@@ -1170,7 +1170,7 @@
     <owner type="person">
       <email>at@calculate.ru</email>
     </owner>
-    <source type="git">git://git.calculate.ru/calculate/distros.git</source>
+    <source type="git">git://git.calculate-linux.org/calculate/distros-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>djc</name>

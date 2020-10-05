@@ -262,6 +262,7 @@ postfix_exporter	356	356	acct
 nslcd			357	357	acct
 octoprint		368	368	historical
 ultimaker		369	369	acct
+pgbouncer		379	-	requested       For dev-db/pgbouncer
 darkstat		380	-	acct
 dictd			381	381	acct
 sancp			382	382	acct
@@ -347,6 +348,7 @@ node_exporter		459	459	acct
 mogilefs		460	-	user.eclass
 ubridge			-	461	acct
 tvheadend		462	-	acct
+pgbouncer		463	-	requested       For dev-db/pgbouncer
 supervisor		-	463	acct
 airdcppd		464	464	acct
 tsm			-	465	acct		Used by app-backup/tsm

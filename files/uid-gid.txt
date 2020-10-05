@@ -237,6 +237,7 @@ vboxguest		305	305	acct
 vboxsf			-	306	acct
 clair			307	307	acct
 mysqld_exporter		308	308	acct
+croc			310	310	acct
 lldpd			315	315	acct
 exabgp			316	316	acct
 openntpd		321	321	acct

@@ -1705,15 +1705,15 @@
   <repo quality="experimental" status="unofficial">
     <name>foxiverlay</name>
     <description lang="en">Personal overlay for unofficial ebuilds</description>
-    <homepage>https://github.com/PikkuJose/foxiverlay</homepage>
+    <homepage>https://github.com/Pekkari/foxiverlay</homepage>
     <owner type="person">
       <email>koalinux@gmail.com</email>
       <name>José Pekkarinen</name>
     </owner>
-    <source type="git">https://github.com/PikkuJose/foxiverlay.git</source>
-    <source type="git">git://github.com/PikkuJose/foxiverlay.git</source>
-    <source type="git">git@github.com:PikkuJose/foxiverlay.git</source>
-    <feed>https://github.com/PikkuJose/foxiverlay/commits/master.atom</feed>
+    <source type="git">https://github.com/Pekkari/foxiverlay.git</source>
+    <source type="git">git://github.com/Pekkari/foxiverlay.git</source>
+    <source type="git">git@github.com:Pekkari/foxiverlay.git</source>
+    <feed>https://github.com/Pekkari/foxiverlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>freeswitch</name>

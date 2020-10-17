@@ -5065,6 +5065,18 @@
     <source type="git">git@github.com:vifino/vifino-overlay.git</source>
     <feed>https://github.com/vifino/vifino-overlay/commits/master.atom</feed>
   </repo>
+    <repo quality="experimental" status="unofficial">
+    <name>vklimovs</name>
+    <description lang="en">vklimovs' personal portage overlay</description>
+    <homepage>https://github.com/vklimovs/portage-overlay</homepage>
+    <owner type="person">
+      <email>vklimovs@gmail.com</email>
+      <name>Vjaceslavs Klimovs</name>
+    </owner>
+    <source type="git">https://github.com/vklimovs/portage-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/vklimovs/portage-overlay.git</source>
+    <feed>https://github.com/vklimovs/portage-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>vmacs</name>
     <description lang="en">VMACS Personal Gentoo Overlay</description>

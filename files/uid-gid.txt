@@ -192,6 +192,7 @@ postfix			207	207	acct		Removed from baselayout in [r1863](https://sources.gento
 postdrop		-	208	acct		Removed from baselayout in [r1863](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1862&r2=1863&pathrev=2545)
 smmsp			209	209	acct		user removed out of baselayout in [r2446](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2310&r2=2446&pathrev=2545); group in [r2445](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2444&r2=2445&pathrev=2545)
 cmd5checkpw		212	212	acct
+sddm			219	219	requested
 uptimed			220	220	acct
 gkrellmd		221	221	acct
 msmtpd			222	222	acct

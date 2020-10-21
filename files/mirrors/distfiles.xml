@@ -270,10 +270,10 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
     <mirror>
       <name>The UK Mirror Service</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://www.mirrorservice.org/sites/distfiles.gentoo.org/</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://www.mirrorservice.org/sites/distfiles.gentoo.org/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.mirrorservice.org/sites/distfiles.gentoo.org/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.mirrorservice.org/distfiles.gentoo.org/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://www.mirrorservice.org/sites/distfiles.gentoo.org/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://www.mirrorservice.org/sites/distfiles.gentoo.org/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ftp.mirrorservice.org/sites/distfiles.gentoo.org/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.mirrorservice.org/distfiles.gentoo.org/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Australia" country="AU" countryname="Australia">

@@ -162,6 +162,8 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>Ruhr-Universität Bochum</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://linux.rz.ruhr-uni-bochum.de/gentoo-mirror/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://linux.rz.ruhr-uni-bochum.de/gentoo</uri>
     </mirror>
     <mirror>
       <name>Uni Erlangen-Nürnberg</name>

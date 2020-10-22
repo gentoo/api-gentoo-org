@@ -475,8 +475,8 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   <mirrorgroup region="Middle East" country="IL" countryname="Israel">
     <mirror>
       <name>Hamakor FOSS Society</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://mirror.isoc.org.il/pub/gentoo/</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.isoc.org.il/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirror.isoc.org.il/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.isoc.org.il/pub/gentoo/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Middle East" country="KZ" countryname="Kazakhstan">

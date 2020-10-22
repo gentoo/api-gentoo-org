@@ -104,8 +104,8 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
     <mirror>
       <name>Web4U Mirror</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirror.web4u.cz/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://gentoo.mirror.web4u.cz/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://gentoo.mirror.web4u.cz/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://gentoo.mirror.web4u.cz/</uri>
     </mirror>
     <mirror>
       <name>UPC Česká republika, a.s.</name>

@@ -51,8 +51,8 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>Rochester Institute of Technology</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirrors.rit.edu/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.rit.edu/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://mirrors.rit.edu/gentoo/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://mirrors.rit.edu/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirrors.rit.edu/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirrors.rit.edu/gentoo/</uri>
     </mirror>
     <mirror>
       <name>Pair Networks</name>

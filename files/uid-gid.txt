@@ -264,6 +264,7 @@ nslcd			357	357	acct
 octoprint		368	368	historical
 ultimaker		369	369	acct
 sks			370	370	acct
+mgraph			376	376	acct		Used by net-mail/mailgraph
 pcap			377	377	acct		Used by net-analyzer/tcpdump and net-analyzer/wireshark
 p2p			378	378	acct		Used by net-im/mldonkey
 jabber			379	379	acct		Used by net-im/jabber-base

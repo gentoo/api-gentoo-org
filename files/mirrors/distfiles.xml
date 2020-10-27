@@ -182,6 +182,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.halifax.rwth-aachen.de/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://ftp.halifax.rwth-aachen.de/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://ftp.gwdg.de/pub/linux/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.gwdg.de/pub/linux/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ftp.gwdg.de/pub/linux/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://ftp.gwdg.de/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="GR" countryname="Greece">
     <mirror>

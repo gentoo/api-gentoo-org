@@ -78,6 +78,14 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   <mirrorgroup region="Europe" country="BG" countryname="Bulgaria">
   </mirrorgroup>
   -->
+  <mirrorgroup region="Europe" country="CH" countryname="Switzerland">
+    <mirror>
+      <name>Init7</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirror.init7.net/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.init7.net/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.init7.net/gentoo/</uri>
+    </mirror>
+  </mirrorgroup>
   <mirrorgroup region="Europe" country="CZ" countryname="Czech Republic">
     <mirror>
       <name>Masaryk University Brno</name>

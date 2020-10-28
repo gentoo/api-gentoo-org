@@ -105,6 +105,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.free.fr/mirrors/ftp.gentoo.org/</uri>
     </mirror>
     <mirror>
+      <name>Ircam</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirrors.ircam.fr/pub/gentoo-distfiles/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirrors.ircam.fr/pub/gentoo-distfiles/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftps://mirrors.ircam.fr/pub/gentoo-distfiles/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirrors.ircam.fr/pub/gentoo-distfiles/</uri>
+    </mirror>
+    <mirror>
       <name>soeasyto.com</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirrors.soeasyto.com/distfiles.gentoo.org/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.soeasyto.com/distfiles.gentoo.org/</uri>

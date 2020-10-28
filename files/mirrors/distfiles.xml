@@ -66,6 +66,14 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://gentoo.c3sl.ufpr.br/gentoo/</uri>
     </mirror>
   </mirrorgroup>
+  <mirrorgroup region="South America" country="CL" countryname="Chile">
+    <mirror>
+      <name>Universidad de La Frontera</name>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://mirror.ufro.cl/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.ufro.cl/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://gentoo.ufro.cl/gentoo/</uri>
+    </mirror>
+  </mirrorgroup>
   <mirrorgroup region="Europe" country="BE" countryname="Belgium">
     <mirror>
       <name>Belnet</name>

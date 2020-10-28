@@ -405,6 +405,14 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://gentoo.bloodhost.ru/gentoo-distfiles</uri>
     </mirror>
   </mirrorgroup>
+  <mirrorgroup region="Asia" country="SG" countryname="Singapore">
+    <mirror>
+      <name>National University of Singapore</name>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://download.nus.edu.sg/mirror/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://download.nus.edu.sg/mirror/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://download.nus.edu.sg/gentoo/</uri>
+    </mirror>
+  </mirrorgroup>
   <mirrorgroup region="Asia" country="TW" countryname="Taiwan">
     <mirror>
       <name>National Center for High-Performance Computing</name>

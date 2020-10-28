@@ -285,6 +285,11 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   </mirrorgroup>
   <mirrorgroup region="Asia" country="CN" countryname="China">
     <mirror>
+      <name>Alibaba Cloud Computing</name>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://mirrors.aliyun.com/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.aliyun.com/gentoo/</uri>
+    </mirror>
+    <mirror>
       <name>Netease.com, Inc.</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://mirrors.163.com/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.163.com/gentoo/</uri>

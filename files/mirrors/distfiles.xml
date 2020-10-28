@@ -466,4 +466,10 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://mirror.ps.kz/gentoo</uri>
     </mirror>
   </mirrorgroup>
+  <mirrorgroup region="Africa" country="NA" countryname="Namibia">
+    <mirror>
+      <name>Namibia University of Science and Technology</name>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://download.nust.na/pub/gentoo/</uri>
+    </mirror>
+  </mirrorgroup>
 </mirrors>

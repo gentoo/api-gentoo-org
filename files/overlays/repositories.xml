@@ -1213,6 +1213,16 @@
     <!-- <feed>https://cgit.gentoo.org/user/dMaggot.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>dm9pZCAq</name>
+    <description lang="en">personal overlay with different packages, mainly with packages with KISS mindset</description>
+    <homepage>https://notabug.org/dm9pZCAq/dm9pZCAq-overlay</homepage>
+    <owner type="person">
+      <email>v@0x0c.xyz</email>
+      <name>dm9pZCAq</name>
+    </owner>
+    <source type="git">https://notabug.org/dm9pZCAq/dm9pZCAq-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>dmchurch</name>
     <description lang="en">Danielle Church's Portage overlay</description>
     <homepage>https://github.com/dmchurch/portage-overlay</homepage>

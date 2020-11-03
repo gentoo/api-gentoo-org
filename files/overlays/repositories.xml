@@ -5502,17 +5502,16 @@
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-  <name>beepboop</name>
-  <description lang="en">beepboop - some useless gentoo voerlay</description>
-  <homepage>https://gitlab.com/igordrozniak/beepboop.git</homepage>
-  <owner type="person">
-    <name>Igor Drożniak</name>
-    <email>igordrozniak@disroot.org</email>
-  </owner>
-  <source type="git">https://gitlab.com/igordrozniak/beepboop.git</source>
-  <source type="git">git+ssh://git@gitlab.com/igordrozniak/beepboop.git</source>
-  <feed>https://gitlab.com/igordrozniak/beepboop/commits/master.atom</feed>
+    <name>beepboop</name>
+    <description lang="en">beepboop - some useless gentoo overlay</description>
+    <homepage>https://gitlab.com/igordrozniak/beepboop</homepage>
+    <owner type="person">
+      <name>Igor Drożniak</name>
+      <email>igordrozniak@disroot.org</email>
+    </owner>
+    <source type="git">https://gitlab.com/igordrozniak/beepboop.git</source>
+    <source type="git">git+ssh://git@gitlab.com/igordrozniak/beepboop.git</source>
+    <feed>https://gitlab.com/igordrozniak/beepboop/commits/master.atom</feed>
 </repo>
-
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

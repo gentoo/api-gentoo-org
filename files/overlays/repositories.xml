@@ -3073,6 +3073,18 @@
     <source type="git">git+ssh://git@git.gentoo.org/proj/mozilla.git</source>
     <feed>https://cgit.gentoo.org/proj/mozilla.git/atom/</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>mrhappyhof-gentoo</name>
+    <description lang="en">mr_happy_hof's personal Overlay</description>
+    <homepage>https://github.com/mrhappyhof/mrhappyhof-gentoo</homepage>
+    <owner type="person">
+      <email>mrhappyhof@gmail.com</email>
+      <name>mr_happy_hof</name>
+    </owner>
+    <source type="git">https://github.com/mrhappyhof/mrhappyhof-gentoo.git</source>
+    <source type="git">git+ssh://git@github.com/mrhappyhof/mrhappyhof-gentoo.git</source>
+    <feed>https://github.com/mrhappyhof/mrhappyhof-gentoo/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>mschiff</name>
     <description lang="en">Developer overlay</description>

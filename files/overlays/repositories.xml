@@ -84,6 +84,18 @@
     <feed>https://github.com/0x4d4c/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>2xsaiko</name>
+    <description lang="en">Personal overlay with no special focus</description>
+    <homepage>https://git.sr.ht/~dblsaiko/ebuilds</homepage>
+    <owner type="person">
+      <email>gentoo@dblsaiko.net</email>
+      <name>2xsaiko</name>
+    </owner>
+    <source type="git">https://git.sr.ht/~dblsaiko/ebuilds</source>
+    <source type="git">git@git.sr.ht:~dblsaiko/ebuilds</source>
+    <feed>https://git.sr.ht/~dblsaiko/ebuilds/log/rss.xml</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>4nykey</name>
     <description lang="en">An experimental portage overlay</description>
     <homepage>https://github.com/4nykey/4nykey</homepage>

@@ -5171,6 +5171,18 @@
     <feed>https://github.com/waebbl/waebbl-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>waffle-builds</name>
+    <description lang="en">FlyingWaffle's personal ebuild overlay.</description>
+    <homepage>https://github.com/FlyingWaffleDev/waffle-builds</homepage>
+    <owner type="person">
+      <email>flyingwaffle@pm.me</email>
+      <name>FlyingWaffle</name>
+    </owner>
+    <source type="git">https://github.com/FlyingWaffleDev/waffle-builds.git</source>
+    <source type="git">git+ssh://git@github.com/FlyingWaffleDev/waffle-builds.git</source>
+    <feed>https://github.com/FlyingWaffleDev/waffle-builds/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>wayland-desktop</name>
     <description lang="en">gentoo overlay for wayland related ebuilds</description>
     <homepage>https://github.com/epsilon-0/wayland-desktop</homepage>

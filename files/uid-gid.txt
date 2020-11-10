@@ -266,6 +266,7 @@ nslcd			357	357	acct
 octoprint		368	368	historical
 ultimaker		369	369	acct
 sks			370	370	acct
+snapserver		374	374	acct
 popa3d			375	375	acct		Used by net-mail/popa3d
 mgraph			376	376	acct		Used by net-mail/mailgraph
 pcap			377	377	acct		Used by net-analyzer/tcpdump and net-analyzer/wireshark

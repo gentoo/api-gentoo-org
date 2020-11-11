@@ -4423,6 +4423,18 @@
     <feed>https://github.com/trofi/slyfox-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>smaeul</name>
+    <description lang="en">Personal overlay, mainly packages patched for musl compatibility</description>
+    <homepage>https://github.com/smaeul/portage-overlay</homepage>
+    <owner type="person">
+      <email>samuel@sholland.org</email>
+      <name>Samuel Holland</name>
+    </owner>
+    <source type="git">https://github.com/smaeul/portage-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/smaeul/portage-overlay.git</source>
+    <feed>https://github.com/smaeul/portage-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>snapd</name>
     <description lang="en">ebuilds for canaonicals snapd</description>
     <homepage>https://github.com/zigford/snapd</homepage>

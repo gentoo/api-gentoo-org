@@ -5184,13 +5184,13 @@
   <repo quality="experimental" status="unofficial">
     <name>wayland-desktop</name>
     <description lang="en">gentoo overlay for wayland related ebuilds</description>
-    <homepage>https://github.com/epsilon-0/wayland-desktop</homepage>
+    <homepage>https://github.com/bsd-ac/wayland-desktop</homepage>
     <owner type="person">
       <email>gentoo@aisha.cc</email>
       <name>Aisha Tammy</name>
     </owner>
-    <source type="git">https://github.com/epsilon-0/wayland-desktop.git</source>
-    <source type="git">git+ssh://git@github.com/epsilon-0/wayland-desktop.git</source>
+    <source type="git">https://github.com/bsd-ac/wayland-desktop.git</source>
+    <source type="git">git+ssh://git@github.com/bsd-ac/wayland-desktop.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>wbrana</name>

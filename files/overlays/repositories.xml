@@ -1104,6 +1104,18 @@
     <feed>https://github.com/paraenggu/delicious-absurdities-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>dequbed</name>
+    <description>Personal overlay containing mostly small utilities and less stable package versions</description>
+    <homepage>https://github.com/dequbed/overlay.git</homepage>
+    <owner type="person">
+      <email>me@dequbed.space</email>
+    </owner>
+    <source type="git">https://github.com/dequbed/overlay.git</source>
+    <source type="git">git://github.com/dequbed/overlay.git</source>
+    <source type="git">git@github.com:dequbed/overlay.git</source>
+    <feed>https://github.com/dequbed/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>deter</name>
     <description lang="en">Custom stuff from deterenkelt.</description>
     <homepage>https://github.com/deterenkelt/deter</homepage>

@@ -460,17 +460,6 @@
     <!-- <feed>https://cgit.gentoo.org/user/AstroFloyd.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>atom</name>
-    <description lang="en">Electron Overlay</description>
-    <homepage>https://github.com/elprans/electron-overlay</homepage>
-    <owner type="person">
-      <email>elvis@magic.io</email>
-      <name>Elvis Pranskevichus</name>
-    </owner>
-    <source type="git">https://github.com/elprans/electron-overlay.git</source>
-    <feed>https://github.com/elprans/electron-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>audio-overlay</name>
     <description lang="en">Pro audio overlay. Please file bugs or package suggestions at https://github.com/gentoo-audio/audio-overlay/issues/new</description>
     <homepage>https://github.com/gentoo-audio/audio-overlay</homepage>
@@ -1417,6 +1406,17 @@
     <source type="git">https://github.com/rion-overlay/ejabberd-overlay.git</source>
     <source type="git">git+ssh://git@github.com/rion-overlay/ejabberd-overlay.git</source>
     <feed>https://github.com/rion-overlay/ejabberd-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>electron</name>
+    <description lang="en">Electron Overlay</description>
+    <homepage>https://github.com/elprans/electron-overlay</homepage>
+    <owner type="person">
+      <email>elvis@magic.io</email>
+      <name>Elvis Pranskevichus</name>
+    </owner>
+    <source type="git">https://github.com/elprans/electron-overlay.git</source>
+    <feed>https://github.com/elprans/electron-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>elementary</name>

@@ -461,14 +461,14 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>atom</name>
-    <description lang="en">Atom Overlay</description>
-    <homepage>https://github.com/elprans/atom-overlay</homepage>
+    <description lang="en">Electron Overlay</description>
+    <homepage>https://github.com/elprans/electron-overlay</homepage>
     <owner type="person">
       <email>elvis@magic.io</email>
       <name>Elvis Pranskevichus</name>
     </owner>
-    <source type="git">https://github.com/elprans/atom-overlay.git</source>
-    <feed>https://github.com/elprans/atom-overlay/commits/master.atom</feed>
+    <source type="git">https://github.com/elprans/electron-overlay.git</source>
+    <feed>https://github.com/elprans/electron-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>audio-overlay</name>

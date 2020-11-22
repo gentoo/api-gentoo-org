@@ -267,7 +267,6 @@ nslcd			357	357	acct
 octoprint		368	368	historical
 ultimaker		369	369	acct
 sks			370	370	acct
-sddm			371	371	requested
 upmpdcli		372	372	acct
 snapclient		373	-	acct
 snapserver		374	374	acct

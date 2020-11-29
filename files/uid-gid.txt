@@ -266,6 +266,7 @@ nginx-vts-exporter	354	354	acct
 openvpn_exporter	355	355	acct
 postfix_exporter	356	356	acct
 nslcd			357	357	acct
+dbmail  		365	365	acct
 sniproxy		366	366	acct
 ziproxy 		367	367	acct
 octoprint		368	368	historical

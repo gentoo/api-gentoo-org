@@ -304,6 +304,18 @@
     <!-- <feed>https://cgit.gentoo.org/dev/anarchy.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>anard</name>
+    <description lang="en">Anard's personnal repository, for dpluzz-cli</description>
+    <homepage>https://github.com/Anard/anard-overlay</homepage>
+    <owner type="person">
+      <email>anard@free.fr</email>
+      <name>Anard</name>
+    </owner>
+    <source type="git">https://github.com/Anard/anard-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Anard/anard-overlay.git</source>
+    <feed>https://github.com/Anard/anard-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>anaximander</name>
     <description lang="en">anaximander's user overlay</description>
     <homepage>https://cgit.gentoo.org/user/anaximander.git/</homepage>

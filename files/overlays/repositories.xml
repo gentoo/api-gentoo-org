@@ -304,7 +304,7 @@
     <!-- <feed>https://cgit.gentoo.org/dev/anarchy.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>Anard</name>
+    <name>anard</name>
     <description lang="en">Anard's personnal repository, for dpluzz-cli</description>
     <homepage>https://github.com/Anard/anard-overlay</homepage>
     <owner type="person">

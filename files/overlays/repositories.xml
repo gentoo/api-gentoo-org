@@ -278,6 +278,17 @@
     <!-- <feed>https://cgit.gentoo.org/user/aluco.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>alxu</name>
+    <description lang="en">Alex Xu (Hello71) personal overlay</description>
+    <homepage>https://cgit.alxu.ca/gentoo-overlay.git/</homepage>
+    <owner type="person">
+      <email>alex_y_xu@yahoo.ca</email>
+      <name>Alex Xu (Hello71)</name>
+    </owner>
+    <source type="git">https://git.alxu.ca/gentoo-overlay.git</source>
+    <feed>https://cgit.alxu.ca/gentoo-overlay.git/atom/</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>amedeos</name>
     <description lang="en">amedeos's personal overlay</description>
     <homepage>https://github.com/amedeos/amedeos-overlay</homepage>

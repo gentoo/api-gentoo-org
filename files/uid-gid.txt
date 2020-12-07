@@ -209,6 +209,9 @@ uptimed			220	220	acct
 gkrellmd		221	221	acct
 msmtpd			222	222	acct
 nsd			223	223	acct
+gpio			-	225	acct
+i2c			-	226	acct
+spi			-	227	acct
 carbon			230	230	acct
 fvwm-crystal		-	232	acct
 turnserver		235	235	acct

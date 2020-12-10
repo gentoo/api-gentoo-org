@@ -4807,6 +4807,18 @@
     <source type="git">https://schlomp.space/tastytea/overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+      <name>tatsh-overlay</name>
+      <description lang="en">Overlay from Tatsh - emulators/fonts/game/misc</description>
+      <homepage>https://github.com/Tatsh/tatsh-overlay</homepage>
+      <owner type="person">
+          <email>audvare+overlay@gmail.com</email>
+          <name>Andrew Udvare</name>
+      </owner>
+      <source type="git">https://github.com/Tatsh/tatsh-overlay.git</source>
+      <source type="git">git+ssh://git@github.com/Tatsh/tatsh-overlay.git</source>
+      <feed>https://github.com/Tatsh/tatsh-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>telans</name>
     <description lang="en">Overlay from telans - gaming/misc</description>
     <homepage>https://github.com/telans/EBUILDS</homepage>

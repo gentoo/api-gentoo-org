@@ -1773,17 +1773,6 @@
     <feed>https://github.com/Pekkari/foxiverlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>freeswitch</name>
-    <description lang="en">Freeswitch Gentoo overlay</description>
-    <homepage>https://github.com/alphallc/freeswitch/</homepage>
-    <owner type="person">
-      <email>mva@gentoo.org</email>
-      <name>Vadim A. Misbakh-Soloviov</name>
-    </owner>
-    <source type="git">git://github.com/alphallc/freeswitch</source>
-    <feed>https://github.com/alphallc/freeswitch/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>fritteli</name>
     <description lang="en">fritteli's Gentoo Overlay</description>
     <homepage>https://github.com/fritteli/gentoo-overlay</homepage>

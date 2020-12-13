@@ -2097,6 +2097,19 @@
     <feed>https://github.com/Godin/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>goduck777</name>
+    <description lang="en">Personal overlay containing some not-so-popular apps</description>
+    <homepage>https://github.com/goduck777/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>goduck777@gmail.com</email>
+      <name>Chang Liu</name>
+    </owner>
+    <source type="git">https://github.com/goduck777/gentoo-overlay.git</source>
+    <source type="git">git://github.com/goduck777/gentoo-overlay.git</source>
+    <source type="git">git@github.com:goduck777/gentoo-overlay.git</source>
+    <feed>https://github.com/Godin/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>goris</name>
     <description lang="en">Goris overlay</description>
     <homepage>https://cgit.gentoo.org/repo/user/goris.git/</homepage>

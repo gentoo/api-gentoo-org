@@ -517,20 +517,6 @@
     </owner>
     <source type="git">https://gitlab.awesome-it.de/overlays/awesome.git</source>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>axs</name>
-    <description lang="en">Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/axs.git/</homepage>
-    <owner type="person">
-      <email>axs@gentoo.org</email>
-      <name>Ian Stakenvicius</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/axs.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/axs.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/axs.git</source>
-    <feed>https://cgit.gentoo.org/dev/axs.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/axs.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>AzP</name>
     <description lang="en">Peter's own software playground</description>

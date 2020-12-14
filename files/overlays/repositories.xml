@@ -3953,20 +3953,6 @@
     <feed>https://gitlab.com/reagentoo/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>rebutia</name>
-    <description lang="en">Rebutia overlay</description>
-    <homepage>https://cgit.gentoo.org/user/rebutia.git/</homepage>
-    <owner type="person">
-      <email>ps@twin.jikos.cz</email>
-      <name>Pavel Sanda</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/rebutia.git</source>
-    <source type="git">git://anongit.gentoo.org/user/rebutia.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/rebutia.git</source>
-    <feed>https://cgit.gentoo.org/user/rebutia.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/rebutia.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>regina-gentoo</name>
     <description lang="en">Regina packages for Gentoo</description>
     <homepage>https://github.com/WPettersson/regina-gentoo/</homepage>

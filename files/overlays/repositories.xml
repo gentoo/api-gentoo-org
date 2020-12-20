@@ -3224,6 +3224,18 @@
     <!-- <feed>https://cgit.gentoo.org/proj/mysql.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>natinst</name>
+    <description lang="en">VISA and National Instruments drivers</description>
+    <homepage>https://github.com/AndrewAmmerlaan/natinst</homepage>
+    <owner type="person">
+      <email>andrewammerlaan@riseup.net</email>
+      <name>Andrew Ammerlaan</name>
+    </owner>
+    <source type="git">https://github.com/AndrewAmmerlaan/natinst.git</source>
+    <source type="git">git+ssh://git@github.com/AndrewAmmerlaan/natinst.git</source>
+    <feed>https://github.com/AndrewAmmerlaan/natinst/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>nelson-graca</name>
     <description lang="en">Nelson Graça personal Overlay</description>
     <homepage>https://github.com/nelsongraca/gentoo-overlay</homepage>

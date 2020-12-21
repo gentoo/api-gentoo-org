@@ -4900,7 +4900,7 @@
   <repo quality="experimental" status="unofficial">
     <name>toniz4-overlay</name>
     <description>Useful packages for your person use</description>
-    <homepage>github.com/toniz4/toniz4-overlay.git/</homepage>
+    <homepage>https://github.com/toniz4/toniz4-overlay.git/</homepage>
     <owner type="person">
       <email>cassioavila@yandex.com</email>
       <name>Cássio Ribeiro Alves de Ávila</name>

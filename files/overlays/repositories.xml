@@ -1114,19 +1114,6 @@
     <feed>https://github.com/dequbed/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>deter</name>
-    <description lang="en">Custom stuff from deterenkelt.</description>
-    <homepage>https://github.com/deterenkelt/deter</homepage>
-    <owner type="person">
-      <email>deterenkelt.github@gmail.com</email>
-      <name>Deter Enkelt</name>
-    </owner>
-    <source type="git">https://github.com/deterenkelt/deter.git</source>
-    <source type="git">git://github.com/deterenkelt/deter.git</source>
-    <source type="git">git@github.com:deterenkelt/deter.git</source>
-    <feed>https://github.com/deterenkelt/deter/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>dev1990-overlay</name>
     <description lang="en">Personal overlay focused on Qt application development and 3d-printing.</description>
     <homepage>https://github.com/dev-0x7C6/dev1990-overlay.git</homepage>

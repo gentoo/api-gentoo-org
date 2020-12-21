@@ -4900,11 +4900,15 @@
   <repo quality="experimental" status="unofficial">
     <name>toniz4-overlay</name>
     <description>Useful packages for your person use</description>
+    <homepage>https://github.com/toniz4/toniz4-overlay.git/</homepage>
     <owner type="person">
       <email>cassioavila@yandex.com</email>
       <name>Cássio Ribeiro Alves de Ávila</name>
     </owner>
     <source type="git">https://github.com/toniz4/toniz4-overlay.git</source>
+    <source type="git">git://github.com/toniz4/toniz4-overlay.git</source>
+    <source type="git">git+ssh://git@github.com:toniz4/toniz4-overlay.git</source>
+    <feed>https://github.com/toniz4/toniz4-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>torbrowser</name>

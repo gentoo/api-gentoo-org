@@ -2858,20 +2858,6 @@
     <source type="git">git+ssh://git@github.com:InBetweenNames/gentooLTO.git</source>
     <feed>https://github.com/InBetweenNames/gentooLTO/commits/master</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>lua</name>
-    <description lang="en">Lua development overlay</description>
-    <homepage>https://cgit.gentoo.org/proj/lua.git/</homepage>
-    <owner type="person">
-      <email>rafaelmartins@gentoo.org</email>
-      <name>Rafael G. Martins</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/lua.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/lua.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/lua.git</source>
-    <feed>https://cgit.gentoo.org/proj/lua.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/lua.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>luke-jr</name>
     <description>Misc ebuilds by Luke-Jr</description>
@@ -3354,18 +3340,6 @@
       <name>Chen Meng</name>
     </owner>
     <source type="git">https://github.com/meng89/observer.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>octave</name>
-    <description lang="en">octave-forge packages</description>
-    <homepage>https://github.com/rafaelmartins/octave-overlay</homepage>
-    <owner type="person">
-      <email>rafaelmartins@gentoo.org</email>
-      <name>Rafael G. Martins</name>
-    </owner>
-    <source type="git">https://github.com/rafaelmartins/octave-overlay.git</source>
-    <source type="git">git://github.com/rafaelmartins/octave-overlay.git</source>
-    <feed>https://github.com/rafaelmartins/octave-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>octopus</name>

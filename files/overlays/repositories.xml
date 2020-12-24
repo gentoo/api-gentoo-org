@@ -1208,6 +1208,16 @@
     <feed>https://github.com/gentoo/dlang/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>dm9pZCAq</name>
+    <description lang="en">personal overlay with different packages, mainly with packages with KISS mindset</description>
+    <homepage>https://notabug.org/dm9pZCAq/dm9pZCAq-overlay</homepage>
+    <owner type="person">
+      <email>v@0x0c.xyz</email>
+      <name>dm9pZCAq</name>
+    </owner>
+    <source type="git">https://notabug.org/dm9pZCAq/dm9pZCAq-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>dMaggot</name>
     <description lang="en">Overlay of David E. Narváez</description>
     <homepage>https://cgit.gentoo.org/user/dMaggot.git/</homepage>
@@ -1220,16 +1230,6 @@
     <source type="git">git+ssh://git@git.gentoo.org/user/dMaggot.git</source>
     <feed>https://cgit.gentoo.org/user/dMaggot.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/dMaggot.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>dm9pZCAq</name>
-    <description lang="en">personal overlay with different packages, mainly with packages with KISS mindset</description>
-    <homepage>https://notabug.org/dm9pZCAq/dm9pZCAq-overlay</homepage>
-    <owner type="person">
-      <email>v@0x0c.xyz</email>
-      <name>dm9pZCAq</name>
-    </owner>
-    <source type="git">https://notabug.org/dm9pZCAq/dm9pZCAq-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dmchurch</name>
@@ -4783,16 +4783,16 @@
     <source type="git">https://schlomp.space/tastytea/overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-      <name>tatsh-overlay</name>
-      <description lang="en">Overlay from Tatsh - emulators/fonts/game/misc</description>
-      <homepage>https://github.com/Tatsh/tatsh-overlay</homepage>
-      <owner type="person">
-          <email>audvare+overlay@gmail.com</email>
-          <name>Andrew Udvare</name>
-      </owner>
-      <source type="git">https://github.com/Tatsh/tatsh-overlay.git</source>
-      <source type="git">git+ssh://git@github.com/Tatsh/tatsh-overlay.git</source>
-      <feed>https://github.com/Tatsh/tatsh-overlay/commits/master.atom</feed>
+    <name>tatsh-overlay</name>
+    <description lang="en">Overlay from Tatsh - emulators/fonts/game/misc</description>
+    <homepage>https://github.com/Tatsh/tatsh-overlay</homepage>
+    <owner type="person">
+      <email>audvare+overlay@gmail.com</email>
+      <name>Andrew Udvare</name>
+    </owner>
+    <source type="git">https://github.com/Tatsh/tatsh-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Tatsh/tatsh-overlay.git</source>
+    <feed>https://github.com/Tatsh/tatsh-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>telans</name>
@@ -4900,6 +4900,19 @@
     <feed>https://cgit.gentoo.org/user/tocaro.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/tocaro.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>toniz4-overlay</name>
+    <description>Useful packages for your person use</description>
+    <homepage>https://github.com/toniz4/toniz4-overlay.git/</homepage>
+    <owner type="person">
+      <email>cassioavila@yandex.com</email>
+      <name>Cássio Ribeiro Alves de Ávila</name>
+    </owner>
+    <source type="git">https://github.com/toniz4/toniz4-overlay.git</source>
+    <source type="git">git://github.com/toniz4/toniz4-overlay.git</source>
+    <source type="git">git+ssh://git@github.com:toniz4/toniz4-overlay.git</source>
+    <feed>https://github.com/toniz4/toniz4-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>toolchain</name>
     <description>Toolchain ebuilds that are unsuitable for the tree. Snapshots,
@@ -4913,19 +4926,6 @@
     <source type="git">git+ssh://git@git.gentoo.org/proj/toolchain.git</source>
     <feed>https://cgit.gentoo.org/proj/toolchain.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/toolchain.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>toniz4-overlay</name>
-    <description>Useful packages for your person use</description>
-    <homepage>https://github.com/toniz4/toniz4-overlay.git/</homepage>
-    <owner type="person">
-      <email>cassioavila@yandex.com</email>
-      <name>Cássio Ribeiro Alves de Ávila</name>
-    </owner>
-    <source type="git">https://github.com/toniz4/toniz4-overlay.git</source>
-    <source type="git">git://github.com/toniz4/toniz4-overlay.git</source>
-    <source type="git">git+ssh://git@github.com:toniz4/toniz4-overlay.git</source>
-    <feed>https://github.com/toniz4/toniz4-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>torbrowser</name>
@@ -5136,7 +5136,7 @@
     <source type="git">git@github.com:vifino/vifino-overlay.git</source>
     <feed>https://github.com/vifino/vifino-overlay/commits/master.atom</feed>
   </repo>
-    <repo quality="experimental" status="unofficial">
+  <repo quality="experimental" status="unofficial">
     <name>vklimovs</name>
     <description lang="en">vklimovs' personal portage overlay</description>
     <homepage>https://github.com/vklimovs/portage-overlay</homepage>

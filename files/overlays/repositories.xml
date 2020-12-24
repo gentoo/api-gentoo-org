@@ -1929,6 +1929,23 @@
     <feed>https://github.com/microcai/gentoo-zh/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gentoobr</name>
+    <description lang="en">Overlay containing experimental packages developed
+      by the brazilian community, with focus on providing programs useful to
+      portuguese speaking users and introducing new people to contribute.</description>
+    <description lang="pt">Overlay contendo pacotes experimentais desenvolvidos
+      pela comunidade brasileira, com foco em oferecer programas úteis à falantes
+      da língua portuguesa e em introduzir novas pessoas a contribuir.</description>
+    <homepage>https://github.com/gentoobr/overlay</homepage>
+    <owner type="person">
+      <email>leonardohn@null.net</email>
+      <name>Leonardo Henrique Neumann</name>
+    </owner>
+    <source type="git">https://github.com/gentoobr/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/gentoobr/overlay.git</source>
+    <feed>https://github.com/gentoobr/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gerislay</name>
     <description lang="en">A personal overlay with no specific focus (mainly to
       test ebuilds). Highly experimental. It is meant as a playground for me,

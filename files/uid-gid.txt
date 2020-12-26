@@ -262,6 +262,7 @@ influxdb		342	342	acct
 kapacitor		343	343	acct
 chronograf		344	344	acct
 docker_auth		345	345	acct
+colord			350	350	reserved
 dnscrypt-proxy		353	353	acct
 nginx-vts-exporter	354	354	acct
 openvpn_exporter	355	355	acct

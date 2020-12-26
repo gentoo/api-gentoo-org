@@ -264,7 +264,7 @@ docker_auth		345	345	acct
 unifi-video		348	348	acct
 ushare			349	349	acct
 colord			350	350	requested
-geoclue			351	351	requested
+geoclue			351	351	acct
 dnscrypt-proxy		353	353	acct
 nginx-vts-exporter	354	354	acct
 openvpn_exporter	355	355	acct

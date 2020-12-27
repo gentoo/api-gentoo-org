@@ -255,7 +255,7 @@ opendkim		334	334	acct
 epmd			335	335	acct
 sqlgrey			336	336	acct
 spamd			337	337	acct
-minidlna		339	339	acc
+minidlna		339	339	acct
 sanlock			340	340	acct
 stunnel			341	341	acct
 influxdb		342	342	acct

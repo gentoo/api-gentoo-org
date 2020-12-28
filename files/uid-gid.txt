@@ -37,7 +37,7 @@
 # and keep columns aligned (tab stops every 8 positions).
 
 #!NAME			UID	GID	PROVIDER	NOTES
-root			0	0	baselayout
+root			0	0	acct
 root			0	-	baselayout-fbsd
 toor			0	-	baselayout-fbsd
 wheel			-	0	baselayout-fbsd
@@ -143,8 +143,7 @@ dovecot			97	97	user.eclass
 input			-	97	acct
 input			-	97	baselayout
 maradns			99	99	acct
-users			-	100	baselayout
-users			-	100	baselayout-fbsd
+users			-	100	acct
 messagebus		101	101	acct
 polkitd			102	102	acct
 plex			103	103	acct
@@ -214,8 +213,7 @@ asterisk		242	242	acct
 fingerprint		-	243	acct
 locate			-	245	acct
 slocate			-	245	historical	Removed from baselayout in [r1328](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1319&r2=1328&pathrev=2545)
-portage			250	250	baselayout
-portage			250	250	baselayout-fbsd
+portage			250	250	acct
 smtpq			252	252	acct
 tomcat			265	265	user.eclass
 ceph			267	267	acct
@@ -422,8 +420,7 @@ ventrilo		3784	3784	historical	Used by media-sound/ventrilo-server-bin, removed 
 -			61184..65519		61184..65519		reserved	Used by systemd DynamicUser feature
 nogroup			-	65533	baselayout
 nogroup			-	65533	baselayout-fbsd
-nobody			65534	65534	baselayout
-nobody			65534	65534	baselayout-fbsd
+nobody			65534	65534	acct
 -			65535	65535	reserved	-1 on systems with 16 bit uid_t
 -			524288..1878982656	524288..1878982656	reserved	Used by systemd for containers
 

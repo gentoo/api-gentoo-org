@@ -261,7 +261,7 @@ kapacitor		343	343	acct
 chronograf		344	344	acct
 docker_auth		345	345	acct
 unifi-video		348	348	acct
-ushare			349	-	acct
+ushare			349	349	acct
 colord			350	350	requested
 geoclue			351	351	requested
 dnscrypt-proxy		353	353	acct

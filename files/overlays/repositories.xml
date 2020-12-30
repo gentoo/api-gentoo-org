@@ -4125,6 +4125,18 @@
     <feed>https://github.com/gentoo/gentoo-rust/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ryans</name>
+    <description lang="en">Personal ebuild repository.</description>
+    <homepage>https://github.com/bekcpear/ryans-repos</homepage>
+    <owner type="person">
+      <email>i@bitbili.net</email>
+      <name>Ryan Qian</name>
+    </owner>
+    <source type="git">https://github.com/bekcpear/ryans-repos.git</source>
+    <source type="git">git@github.com:bekcpear/ryans-repos.git</source>
+    <feed>https://github.com/bekcpear/ryans-repos/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sabayon</name>
     <description>Sabayon ebuilds that could be upstreamed to
     Gentoo (or just being useful for Gentoo users as well):

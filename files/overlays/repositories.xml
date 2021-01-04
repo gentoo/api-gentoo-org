@@ -316,7 +316,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>anard</name>
-    <description lang="en">Anard's personnal repository, for dpluzz-cli</description>
+    <description lang="en">Anard's personnal repository, with some new ebuilds</description>
     <homepage>https://github.com/Anard/anard-overlay</homepage>
     <owner type="person">
       <email>anard@free.fr</email>

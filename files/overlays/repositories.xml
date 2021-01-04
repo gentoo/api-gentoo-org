@@ -3464,6 +3464,18 @@
     <feed>https://github.com/nabbi/oubliette-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+      <name>overseerr-overlay</name>
+      <description lang="en">third party overlay to install overseerr</description>
+      <homepage>https://github.com/chriscpritchard/overseerr-overlay</homepage>
+      <owner type="person">
+        <email>chris@christopherpritchard.co.uk</email>
+        <name>Chris Pritchard</name>
+      </owner>
+      <source type="git">https://github.com/chriscpritchard/overseerr-overlay.git</source>
+      <source type="git">git+ssh://git@github.com:chriscpritchard/overseerr-overlay.git</source>
+      <feed>https://github.com/chriscpritchard/overseerr-overlay/commits/main.atom</feed>
+    </repo>
+  <repo quality="experimental" status="unofficial">
     <name>palemoon</name>
     <description lang="en">Unofficial Gentoo overlay for the Pale Moon (http://www.palemoon.org/) web browser.</description>
     <homepage>https://github.com/deu/palemoon-overlay</homepage>

@@ -207,7 +207,7 @@ turnserver		235	235	acct
 tox			236	236	acct
 rspamd			237	237	acct
 scponly			239	239	acct
-distcc			240	-	user.eclass
+distcc			240	240	acct
 icingaweb2		-	241	acct
 asterisk		242	242	acct
 fingerprint		-	243	acct
@@ -270,7 +270,6 @@ nginx-vts-exporter	354	354	acct
 openvpn_exporter	355	355	acct
 postfix_exporter	356	356	acct
 nslcd			357	357	acct
-distcc			358	358	acct
 smsd			359	-	acct
 sms			-	359	acct
 postgrey		360	360	acct

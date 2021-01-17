@@ -900,6 +900,18 @@
     <feed>https://github.com/ceamac/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>certbot-dns-plugins</name>
+    <description lang="en">Overlay for the DNS plugins of the ACME client certbot</description>
+    <homepage>https://github.com/osirisinferi/certbot-dns-plugins-overlay</homepage>
+    <owner type="person">
+      <email>gentoo@flut.demon.nl</email>
+      <name>Osiris Inferi</name>
+    </owner>
+    <source type="git">https://github.com/osirisinferi/certbot-dns-plugins-overlay.git</source>
+    <source type="git">git@github.com:osirisinferi/certbot-dns-plugins-overlay.git</source>
+    <feed>https://github.com/osirisinferi/certbot-dns-plugins-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>cg</name>
     <description>Computer graphics ebuilds for gentoo</description>
     <homepage>https://github.com/brothermechanic/cg</homepage>

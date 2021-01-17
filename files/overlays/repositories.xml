@@ -1891,6 +1891,17 @@
     <feed>https://cgit.gentoo.org/repo/gentoo.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gentoo-bootstrap</name>
+    <description lang="en">Overlay providing packages to bootstrap OpenJDK and Rust</description>
+    <homepage>https://gitlab.com/stikonas/gentoo-bootstrap</homepage>
+    <owner type="person">
+      <email>andrius@stikonas.eu</email>
+      <name>Andrius Štikonas</name>
+    </owner>
+    <source type="git">https://gitlab.com/stikonas/gentoo-bootstrap.git</source>
+    <source type="git">git+ssh://git@gitlab.com:stikonas/gentoo-bootstrap.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gentoo-clang</name>
     <description lang="en">Gentoo overlay providing patches to build entire system with clang</description>
     <homepage>https://github.com/BilyakA/gentoo-clang</homepage>

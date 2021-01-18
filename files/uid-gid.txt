@@ -99,7 +99,7 @@ video			-	27	baselayout
 render			-	28	acct
 squid			31	31	historical	Removed from baselayout in [r1477](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1476&r2=1477&pathrev=2545)
 guest			-	31	baselayout-fbsd
-gdm			32	32	historical	Removed from baselayout in [r1571](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1479&r2=1571&pathrev=2545)
+gdm			32	32	acct
 xfs			33	33	historical	X Font Server, removed from baselayout in [r1572](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1571&r2=1572&pathrev=2545)
 games			35	-	historical	Removed from baselayout in [r1478](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1477&r2=1478&pathrev=2545)
 games			36	35	user.eclass	Names configurable via eclass; group: deprecated by Council decision, removed from baselayout in [r1478](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1477&r2=1478&pathrev=2545)

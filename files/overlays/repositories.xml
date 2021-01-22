@@ -5644,5 +5644,17 @@
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>robertgzr</name>
+    <description lang="en">robertgzr's personal overlay.</description>
+    <homepage>https://git.sr.ht/~robertgzr/portage</homepage>
+    <owner type="person">
+      <email>robert@gnzler.io</email>
+      <name>Robert Günzler</name>
+    </owner>
+    <source type="git">https://git.sr.ht/~robertgzr/portage</source>
+    <source type="git">ssh://git@git.sr.ht:~robertgzr/portage</source>
+    <feed>https://git.sr.ht/~robertgzr/portage/log/rss.xml</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

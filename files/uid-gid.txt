@@ -381,6 +381,7 @@ icingacmd		-	458	acct
 node_exporter		459	459	acct
 mogilefs		460	-	user.eclass
 ubridge			-	461	acct
+sndiod			461	-	acct
 tvheadend		462	-	acct
 xpra			-	462	acct		Used by x11-wm/xpra
 pgbouncer		463	-	acct

@@ -262,6 +262,7 @@ influxdb		342	342	acct
 kapacitor		343	343	acct
 chronograf		344	344	acct
 docker_auth		345	345	acct
+dirsrv			346	346	acct
 tpm			347	347	acct
 unifi-video		348	348	acct
 ushare			349	349	acct

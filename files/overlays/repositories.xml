@@ -1030,6 +1030,18 @@
     <feed>https://github.com/Heather/gentoo-cynede/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>dargor</name>
+    <description lang="en">Personal overlay for packages I care of</description>
+    <homepage>https://github.com/dargor/dargor_gentoo_overlay</homepage>
+    <owner type="person">
+      <email>linder.gabriel@gmail.com</email>
+      <name>Gabriel Linder</name>
+    </owner>
+    <source type="git">https://github.com/dargor/dargor_gentoo_overlay.git</source>
+    <source type="git">git@github.com:dargor/dargor_gentoo_overlay.git</source>
+    <feed>https://github.com/dargor/dargor_gentoo_overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>darkelf</name>
     <description lang="en">Overlay focusing on improved user experience for working in darkness on Xfce or zsh (including vim)</description>
     <homepage>https://cgit.gentoo.org/repo/user/darkelf.git</homepage>

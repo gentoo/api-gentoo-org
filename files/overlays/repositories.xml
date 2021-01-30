@@ -2163,6 +2163,18 @@
     <feed>https://cgit.gentoo.org/dev/graaff.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/graaff.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>griffon_overlay</name>
+    <description lang="en">Personal overlay of GriffOn Yi</description>
+    <homepage>https://github.com/windfail/griffon_overlay</homepage>
+    <owner type="person">
+      <email>yily_101@163.com</email>
+      <name>GriffOn Yi</name>
+    </owner>
+    <source type="git">https://github.com/windfail/griffon_overlay.git</source>
+    <source type="git">git+ssh://git@github.com/windfail/griffon_overlay.git</source>
+    <feed>https://github.com/windfail/griffon_overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>grub2-themes</name>
     <description lang="en">Overlay dedicated to Grub2 themes (of any distribution)</description>

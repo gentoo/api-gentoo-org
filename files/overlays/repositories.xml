@@ -1554,12 +1554,14 @@
   <repo quality="experimental" status="unofficial">
     <name>ext-devlibs</name>
     <description lang="en">Mostly c/c++ and python libraries</description>
-    <homepage>http://sidvind.com/wiki/Main_Page</homepage>
+    <homepage>https://gitlab.com/extsidvind/ext-devlibs</homepage>
     <owner type="person">
       <email>ext@sidvind.com</email>
       <name>David Sveningsson</name>
     </owner>
-    <source type="svn">svn://sidvind.com/overlays/ext-devlibs</source>
+    <source type="git">https://gitlab.com/extsidvind/ext-devlibs.git</source>
+    <source type="git">git@gitlab.com:extsidvind/ext-devlibs.git</source>
+    <feed>https://gitlab.com/extsidvind/ext-devlibs/-/commits/master?format=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>farmboy0</name>

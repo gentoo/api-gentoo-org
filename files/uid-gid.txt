@@ -246,6 +246,7 @@ croc			310	310	acct
 lldpd			315	315	acct
 exabgp			316	316	acct
 openntpd		321	321	acct
+radicale		328	328	acct
 zabbix			329	329	acct
 ossec			330	330	acct
 ossecm			331	-	acct

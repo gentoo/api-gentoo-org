@@ -1,4 +1,4 @@
-# Copyright 2019-2020 Gentoo Authors
+# Copyright 2019-2021 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 # This file provides a registry of active, requested and historical UID
@@ -361,7 +361,7 @@ nagios			436	436	acct
 automx2			437	437	acct
 milter-regex		438	438	acct
 ldap			439	439	user.eclass
-collectd		440	440	requested
+collectd		440	440	acct
 memcached		441	441	acct
 cinder			442	442	acct
 glance			443	443	acct

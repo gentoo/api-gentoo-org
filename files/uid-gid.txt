@@ -247,6 +247,7 @@ lldpd			315	315	acct
 exabgp			316	316	acct
 apt-cacher-ng		319	319	acct
 openntpd		321	321	acct
+sobby			322	322	acct
 trojan			326	326	acct
 radicale		327	327	acct
 snort			328	328	acct

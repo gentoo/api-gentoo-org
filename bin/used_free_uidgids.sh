@@ -92,7 +92,7 @@ consume()
 
 			if [[ ${range_end} -lt ${ranges[k]} ]]; then
 				ranges[range_end+1]=${ranges[k]}
-				reasons{range_end+1]=${reasons[k]}
+				reasons[range_end+1]=${reasons[k]}
 			fi
 			[[ ${range_start} -gt ${k} ]] && ranges[k]=$(( range_start - 1 ))
 			break

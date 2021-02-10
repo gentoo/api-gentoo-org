@@ -257,7 +257,7 @@ done
 
 echo "Recommended GID only: ${gidonly:-${uidgidboth:-none}}"
 echo "Recommended UID only: ${uidonly:=${uidgidboth:-none}}"
-echo "Recommended UID+GID both: ${uidgidboth:-none}"
+echo "Recommended UID+GID pair: ${uidgidboth:-none}"
 echo "Free UIDs: ${freeuid}"
 echo "Free GIDs: ${freegid}"
 echo "Free UID+GID pairs: ${freepair}"

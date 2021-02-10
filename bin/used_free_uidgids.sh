@@ -174,6 +174,7 @@ gi=0 # index into gids array.
 idbase=0 # "start" of range about to be output.
 freeuid=0 # count number of free UIDs
 freegid=0 # count number of free GIDs
+freepair=0 # count number of free UID+GID pairs.
 
 printf "%-*s%10s%10s\n" $(( ${#max} * 2 + 5 )) "#ID" UID GID
 
@@ -238,6 +239,7 @@ while [[ ${idbase} -le ${max} ]]; do
 	if [[ "${gidstate}" == FREE ]]; then
 		if [[ "${uidstate}" == FREE ]]; then
 			uidgidboth=${re}
+			freepair=$(( freepair + re - idbase + 1 ))
 		else
 			gidonly=${re}
 		fi
@@ -258,3 +260,4 @@ echo "Recommended UID only: ${uidonly:=${uidgidboth:-none}}"
 echo "Recommended UID+GID both: ${uidgidboth:-none}"
 echo "Free UIDs: ${freeuid}"
 echo "Free GIDs: ${freegid}"
+echo "Free UID+GID pairs: ${freepair}"

@@ -245,6 +245,7 @@ minion			309	309	acct
 croc			310	310	acct
 lldpd			315	315	acct
 exabgp			316	316	acct
+apt-cacher-ng		319	319	acct
 openntpd		321	321	acct
 radicale		327	327	acct
 snort			328	328	acct

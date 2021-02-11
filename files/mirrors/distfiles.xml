@@ -206,7 +206,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://ftp.halifax.rwth-aachen.de/gentoo/</uri>
     </mirror>
     <mirror>
-<<<<<<< HEAD
       <name>Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://ftp.gwdg.de/pub/linux/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.gwdg.de/pub/linux/gentoo/</uri>

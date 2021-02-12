@@ -346,7 +346,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   <mirrorgroup region="Oceania" country="AU" countryname="Australia">
     <mirror>
       <name>AARnet</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">httos://mirror.aarnet.edu.au/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirror.aarnet.edu.au/pub/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.aarnet.edu.au/pub/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.aarnet.edu.au/pub/gentoo/</uri>
     </mirror>

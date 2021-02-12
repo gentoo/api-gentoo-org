@@ -294,8 +294,8 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.romnet.org/gentoo/</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Europe" country="SE" countryname="Sweden">
-  </mirrorgroup>
+  <!-- <mirrorgroup region="Europe" country="SE" countryname="Sweden">
+  </mirrorgroup> -->
   <mirrorgroup region="Europe" country="SK" countryname="Slovakia">
     <mirror>
       <name>Wheel.sk</name>

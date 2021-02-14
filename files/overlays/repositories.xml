@@ -2823,6 +2823,17 @@
     <feed>https://cgit.gentoo.org/repo/proj/libressl.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>liftm</name>
+    <description lang="en">Personal Overlay</description>
+    <owner type="person">
+      <email>gentoobug@liftm.de</email>
+      <name>Julius Michaelis</name>
+    </owner>
+    <source type="git">https://github.com/jcaesar/liftm-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/jcaesar/liftm-overlay.git</source>
+    <feed>https://github.com/jcaesar/liftm-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>linux-be</name>
     <description lang="en">Port of Boot Environments for GNU/Linux</description>
     <homepage>https://gitlab.com/linux-be</homepage>

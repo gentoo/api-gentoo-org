@@ -5683,5 +5683,16 @@
     <source type="git">ssh://git@git.sr.ht:~robertgzr/portage</source>
     <feed>https://git.sr.ht/~robertgzr/portage/log/rss.xml</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>escpr2</name>
+    <description lang="en">EPSON ESCPR2 inkjet printer repository</description>
+    <homepage>https://gitlab.com/at.gentoo.repo/epson-inkjet-printer-escpr2</homepage>
+    <owner type="person">
+      <email>andreas.thalhammer@linux.com</email>
+      <name>Andreas Thalhammer</name>
+    </owner>
+    <source type="git">https://gitlab.com/at.gentoo.repo/epson-inkjet-printer-escpr2.git</source>
+    <feed>https://gitlab.com/at.gentoo.repo/epson-inkjet-printer-escpr2/commits/master.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

@@ -11,7 +11,7 @@
 #	from.  Can be set to - to go maximum possible 32-bit value.
 # debug => if non-zero outputs some cryptic debug output (will inherit from environment).
 #
-max=500
+max=499
 debug=${debug:+1} # set non-zero to enable debug output.
 
 #

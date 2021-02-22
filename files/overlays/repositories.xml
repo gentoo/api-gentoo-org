@@ -5128,6 +5128,17 @@
     <!-- <feed>https://cgit.gentoo.org/dev/ultrabug.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>unc3nsored</name>
+    <description lang="en">Overlay for software I didn't find in the main tree</description>
+    <homepage>https://github.com/xxc3nsoredxx/unc3nsored</homepage>
+    <owner type="person">
+      <email>xxc3ncoredxx@gmail.com</email>
+      <name>Oskari Pirhonen</name>
+    </owner>
+    <source type="git">https://github.com/xxc3nsoredxx/unc3nsored.git</source>
+    <feed>https://github.com/xxc3nsoredxx/unc3nsored/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>unity-gentoo</name>
     <description lang="en">Overlay to install the Unity desktop</description>
     <homepage>https://github.com/shiznix/unity-gentoo</homepage>

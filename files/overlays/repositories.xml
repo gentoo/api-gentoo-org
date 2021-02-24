@@ -2723,6 +2723,17 @@
     <feed>https://github.com/undying/krontage/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>kske</name>
+    <description lang="en">Kai S. K. Engelbart's personal overlay</description>
+    <homepage>https://git.kske.dev/kske/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>kai@kske.dev</email>
+      <name>Kai S. K. Engelbart</name>
+    </owner>
+    <source type="git">https://git.kske.dev/kske/gentoo-overlay.git</source>
+    <source type="git">ssh://git@git.kske.dev:420/kske/gentoo-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>lacimarsik-overlay</name>
     <description>Various patches and improvements on Gentoo Linux ebuilds</description>
     <homepage>https://github.com/lacimarsik/lacimarsik-overlay</homepage>

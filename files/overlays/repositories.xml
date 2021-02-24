@@ -1528,6 +1528,17 @@
     <feed>https://github.com/erayd/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>escpr2</name>
+    <description lang="en">EPSON ESCPR2 inkjet printer repository</description>
+    <homepage>https://gitlab.com/at.gentoo.repo/epson-inkjet-printer-escpr2</homepage>
+    <owner type="person">
+      <email>andreas.thalhammer@linux.com</email>
+      <name>Andreas Thalhammer</name>
+    </owner>
+    <source type="git">https://gitlab.com/at.gentoo.repo/epson-inkjet-printer-escpr2.git</source>
+    <feed>https://gitlab.com/at.gentoo.repo/epson-inkjet-printer-escpr2/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ethereum</name>
     <description lang="en">The Ethereum blockchain-based distributed computing platform</description>
     <homepage>https://github.com/coolparadox/ethereum-gentoo-overlay</homepage>
@@ -3259,6 +3270,19 @@
     <source type="git">git+ssh://git@gitlab.com/xgqt/myov.git</source>
     <feed>https://gitlab.com/xgqt/myov/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>myrvolay</name>
+    <description lang="en">myrvogna's personal Gentoo overlay</description>
+    <homepage>https://github.com/myrvogna/myrvolay</homepage>
+    <owner type="person">
+      <email>octiabrina@myrvogna.net</email>
+      <name>Octiabrina Terrien-Puig</name>
+    </owner>
+    <source type="git">https://github.com/myrvogna/myrvolay.git</source>
+    <source type="git">git://github.com/myrvogna/myrvolay.git</source>
+    <source type="git">git@github.com:myrvogna/myrvolay.git</source>
+    <feed>https://github.com/myrvogna/myrvolay/commits/main.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>mysql</name>
     <description lang="en">Gentoo MySQL overlay</description>
@@ -3383,19 +3407,6 @@
     <!-- <feed>https://cgit.gentoo.org/proj/nx.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>myrvolay</name>
-    <description lang="en">myrvogna's personal Gentoo overlay</description>
-    <homepage>https://github.com/myrvogna/myrvolay</homepage>
-    <owner type="person">
-      <email>octiabrina@myrvogna.net</email>
-      <name>Octiabrina Terrien-Puig</name>
-    </owner>
-    <source type="git">https://github.com/myrvogna/myrvolay.git</source>
-    <source type="git">git://github.com/myrvogna/myrvolay.git</source>
-    <source type="git">git@github.com:myrvogna/myrvolay.git</source>
-    <feed>https://github.com/myrvogna/myrvolay/commits/main.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>oboeverlay</name>
     <description lang="en">ChrisOboe's overlay</description>
     <homepage>https://github.com/ChrisOboe/oboeverlay</homepage>
@@ -3491,17 +3502,17 @@
     <feed>https://github.com/nabbi/oubliette-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-      <name>overseerr-overlay</name>
-      <description lang="en">third party overlay to install overseerr</description>
-      <homepage>https://github.com/chriscpritchard/overseerr-overlay</homepage>
-      <owner type="person">
-        <email>chris@christopherpritchard.co.uk</email>
-        <name>Chris Pritchard</name>
-      </owner>
-      <source type="git">https://github.com/chriscpritchard/overseerr-overlay.git</source>
-      <source type="git">git+ssh://git@github.com:chriscpritchard/overseerr-overlay.git</source>
-      <feed>https://github.com/chriscpritchard/overseerr-overlay/commits/main.atom</feed>
-    </repo>
+    <name>overseerr-overlay</name>
+    <description lang="en">third party overlay to install overseerr</description>
+    <homepage>https://github.com/chriscpritchard/overseerr-overlay</homepage>
+    <owner type="person">
+      <email>chris@christopherpritchard.co.uk</email>
+      <name>Chris Pritchard</name>
+    </owner>
+    <source type="git">https://github.com/chriscpritchard/overseerr-overlay.git</source>
+    <source type="git">git+ssh://git@github.com:chriscpritchard/overseerr-overlay.git</source>
+    <feed>https://github.com/chriscpritchard/overseerr-overlay/commits/main.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>palemoon</name>
     <description lang="en">Unofficial Gentoo overlay for the Pale Moon (http://www.palemoon.org/) web browser.</description>
@@ -4112,6 +4123,18 @@
     </owner>
     <source type="git">https://github.com/robert7k/gentoo-overlay.git</source>
     <feed>https://github.com/robert7k/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>robertgzr</name>
+    <description lang="en">robertgzr's personal overlay.</description>
+    <homepage>https://git.sr.ht/~robertgzr/portage</homepage>
+    <owner type="person">
+      <email>robert@gnzler.io</email>
+      <name>Robert Günzler</name>
+    </owner>
+    <source type="git">https://git.sr.ht/~robertgzr/portage</source>
+    <source type="git">ssh://git@git.sr.ht:~robertgzr/portage</source>
+    <feed>https://git.sr.ht/~robertgzr/portage/log/rss.xml</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ROKO__</name>
@@ -5681,29 +5704,6 @@
     <source type="git">git://github.com/kabili207/zyrenth-overlay.git</source>
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>robertgzr</name>
-    <description lang="en">robertgzr's personal overlay.</description>
-    <homepage>https://git.sr.ht/~robertgzr/portage</homepage>
-    <owner type="person">
-      <email>robert@gnzler.io</email>
-      <name>Robert Günzler</name>
-    </owner>
-    <source type="git">https://git.sr.ht/~robertgzr/portage</source>
-    <source type="git">ssh://git@git.sr.ht:~robertgzr/portage</source>
-    <feed>https://git.sr.ht/~robertgzr/portage/log/rss.xml</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>escpr2</name>
-    <description lang="en">EPSON ESCPR2 inkjet printer repository</description>
-    <homepage>https://gitlab.com/at.gentoo.repo/epson-inkjet-printer-escpr2</homepage>
-    <owner type="person">
-      <email>andreas.thalhammer@linux.com</email>
-      <name>Andreas Thalhammer</name>
-    </owner>
-    <source type="git">https://gitlab.com/at.gentoo.repo/epson-inkjet-printer-escpr2.git</source>
-    <feed>https://gitlab.com/at.gentoo.repo/epson-inkjet-printer-escpr2/commits/master.atom</feed>
   </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

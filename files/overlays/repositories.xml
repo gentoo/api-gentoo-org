@@ -700,18 +700,6 @@
     <feed>https://gitweb.gentoo.org/repo/proj/blender-gentoo-logo.git/atom/?h=master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>bliss-overlay</name>
-    <description>FearedBliss's Gentoo Overlay</description>
-    <homepage>https://github.com/fearedbliss</homepage>
-    <owner type="person">
-      <email>jvasquez1011@gmail.com</email>
-    </owner>
-    <source type="git">https://github.com/fearedbliss/bliss-overlay.git</source>
-    <source type="git">git://github.com:fearedbliss/bliss-overlay.git</source>
-    <source type="git">git@github.com:fearedbliss/bliss-overlay.git</source>
-    <feed>https://github.com/fearedbliss/bliss-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>bloody</name>
     <description lang="en">krita bleeding edge and artists tools/resources</description>
     <homepage>https://github.com/bloodywing/bloody</homepage>
@@ -828,19 +816,6 @@
     <source type="git">git://github.com/buzden/buzden-overlay.git</source>
     <source type="git">git@github.com:buzden/buzden-overlay.git</source>
     <feed>https://github.com/buzden/buzden-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>c2p-overlay</name>
-    <description>Personal overlay of Karol Grudziński</description>
-    <homepage>https://github.com/karolgrudzinski/c2p-overlay</homepage>
-    <owner type="person">
-      <email>krlgrudzinski+gentoo@gmail.com</email>
-      <name>Karol Grudziński</name>
-    </owner>
-    <source type="git">https://github.com/karolgrudzinski/c2p-overlay.git</source>
-    <source type="git">git://github.com/karolgrudzinski/c2p-overlay.git</source>
-    <source type="git">git+ssh://git@github.com:karolgrudzinski/c2p-overlay.git</source>
-    <feed>https://github.com/karolgrudzinski/c2p-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>calculate</name>
@@ -3489,18 +3464,6 @@
     <source type="git">https://github.com/pavlix/gentoo-openwrt</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>optmzr</name>
-    <description lang="en">Overlay with some goodies not found elsewhere</description>
-    <homepage>https://github.com/optmzr/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>william@optmzr.se</email>
-      <name>William Wennerström</name>
-    </owner>
-    <source type="git">https://github.com/optmzr/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/optmzr/gentoo-overlay.git</source>
-    <feed>https://github.com/optmzr/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>oubliette</name>
     <description lang="en">personal overlay of forgotten ebuilds</description>
     <homepage>https://github.com/nabbi/oubliette-overlay</homepage>
@@ -5529,19 +5492,6 @@
     <source type="git">https://github.com/xoreos/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/xoreos/gentoo-overlay.git</source>
     <feed>https://github.com/xoreos/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>xtreemfs</name>
-    <description lang="en">XtreemFS, a cloud filesystem</description>
-    <homepage>https://github.com/xtreemfs-gentoo/overlay</homepage>
-    <owner type="person">
-      <email>p@trickhieber.de</email>
-      <name>Patrick Hieber</name>
-    </owner>
-    <source type="git">https://github.com/xtreemfs-gentoo/overlay.git</source>
-    <source type="git">git://github.com/xtreemfs-gentoo/overlay.git</source>
-    <source type="git">git@github.com:xtreemfs-gentoo/overlay.git</source>
-    <feed>https://github.com/xtreemfs-gentoo/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>xwing</name>

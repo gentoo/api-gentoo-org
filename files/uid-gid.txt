@@ -35,6 +35,10 @@
 #
 # Please keep the list sorted by UID, GID, PROVIDER, NAME (in order),
 # and keep columns aligned (tab stops every 8 positions).
+#
+# The wiki page at https://wiki.gentoo.org/wiki/UID_GID_Assignment_Table
+# should be kept in sync with this file.  The bin/update-wiki-table.py
+# helper script can be used for this.
 
 #!NAME			UID	GID	PROVIDER	NOTES
 root			0	0	acct

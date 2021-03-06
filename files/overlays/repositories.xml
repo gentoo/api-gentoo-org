@@ -3625,6 +3625,18 @@
     <feed>https://gitlab.phys-el.ru/ustinov/phackerlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+      <name>phoenix591</name>
+      <description lang="en">My personal overlay with a few random packages</description>
+      <homepage>https://github.com/Phoenix591/gentoo-overlay</homepage>
+      <owner type="person">
+        <email>kcelbert@gmail.com</email>
+        <name>Kyle Elbert</name>
+      </owner>
+      <source type="git">https://github.com/Phoenix591/gentoo-overlay.git</source>
+      <source type="git">git+ssh://git@github.com/Phoenix591/gentoo-overlay.git</source>
+      <feed>https://github.com/Phoenix591/gentoo-overlay/commits/master.atom</feed>
+    </repo>
+  <repo quality="experimental" status="unofficial">
     <name>pholthaus-overlay</name>
     <description lang="en">pholthaus' personal overlay</description>
     <homepage>https://github.com/pholthau/pholthaus-overlay</homepage>

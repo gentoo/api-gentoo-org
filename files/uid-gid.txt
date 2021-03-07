@@ -253,6 +253,7 @@ apt-cacher-ng		319	319	acct
 fax			320	320	acct
 openntpd		321	321	acct
 sobby			322	322	acct
+vault_exporter		323	323	acct
 oragono			324	324	acct
 err			325	325	acct
 trojan			326	326	acct

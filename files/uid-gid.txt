@@ -390,6 +390,7 @@ deluge			454	454	acct
 puppet			455	455	acct
 puppetdb		456	456	acct
 icinga			457	457	acct
+nvpd			458	-	acct
 icingacmd		-	458	acct
 node_exporter		459	459	acct
 mogilefs		460	-	user.eclass

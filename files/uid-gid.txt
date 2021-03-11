@@ -249,7 +249,7 @@ minion			309	309	acct
 croc			310	310	acct
 lldpd			315	315	acct
 exabgp			316	316	acct
-fp-multiuser	318	318	acct
+fp-multiuser		318	318	acct
 apt-cacher-ng		319	319	acct
 fax			320	320	acct
 openntpd		321	321	acct

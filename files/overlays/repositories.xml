@@ -2198,6 +2198,18 @@
     <source type="git">https://git.hossie.de/scm/gen/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>hotstoast</name>
+    <description lang="en">Tom Hotston's personal overlay</description>
+    <homepage>https://github.com/TomHotston/hotstoast-overlay</homepage>
+    <owner type="person">
+      <email>hotston.tom@gmail.com</email>
+      <name>Tom Hotston</name>
+    </owner>
+    <source type="git">https://github.com/TomHotston/hotstoast-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/TomHotston/hotstoast-overlay.git</source>
+    <feed>https://github.com/TomHotston/hotstoast-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ikelos</name>
     <description>Ikelos's hospice for broken and damaged ebuilds.</description>
     <homepage>https://cgit.gentoo.org/dev/ikelos.git/</homepage>

@@ -1871,8 +1871,8 @@
     <description lang="en">Unofficial ebuilds for Gitlab</description>
     <homepage>https://gitlab.awesome-it.de/overlays/gitlab</homepage>
     <owner type="person">
-      <email>info@awesome-it.de</email>
-      <name>Daniel Morlock</name>
+      <email>prote@fmi.uni-stuttgart.de</email>
+      <name>Horst Prote</name>
     </owner>
     <source type="git">https://gitlab.awesome-it.de/overlays/gitlab.git</source>
   </repo>

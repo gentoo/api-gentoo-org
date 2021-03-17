@@ -396,6 +396,7 @@ icinga			457	457	acct
 icingacmd		-	458	acct
 node_exporter		459	459	acct
 mogilefs		460	-	user.eclass
+crontab			-	460	acct
 ubridge			-	461	acct
 sndiod			461	-	acct
 tvheadend		462	-	acct

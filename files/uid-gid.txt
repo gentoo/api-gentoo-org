@@ -247,6 +247,7 @@ clair			307	307	acct
 mysqld_exporter		308	308	acct
 minion			309	309	acct
 croc			310	310	acct
+serf			314	314	acct
 lldpd			315	315	acct
 exabgp			316	316	acct
 sagan			317	317	acct

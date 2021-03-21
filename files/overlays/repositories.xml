@@ -894,6 +894,16 @@
     <feed>https://gitlab.com/concavegit/concaveoverlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>cosmicmod</name>
+    <description>CosmicMod Gentoo Overlay</description>
+    <homepage>https://github.com/cosmicoz/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>oz@cosmicmod.net</email>
+      <name>Oz</name>
+    </owner>
+    <source type="git">https://github.com/cosmicoz/gentoo-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>crocket-overlay</name>
     <description lang="en">crocket's personal overlay</description>
     <homepage>https://github.com/crocket/crocket-overlay</homepage>

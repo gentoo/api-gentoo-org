@@ -3146,6 +3146,16 @@
     <!-- <feed>https://cgit.gentoo.org/proj/nx.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>nymphos</name>
+    <description lang="en">Overlay for ebuilds used in NymphOS</description>
+    <homepage>https://git.nymphos.ga/</homepage>
+    <owner type="person">
+      <email>neeshy@tfwno.gf</email>
+    </owner>
+    <source type="git">https://git.nymphos.ga/anon/nymphos</source>
+    <feed>https://git.nymphos.ga/nymphos/atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>octopus</name>
     <description lang="en">Own and claimed ebuilds</description>
     <homepage>https://github.com/Bfgeshka/octopus</homepage>

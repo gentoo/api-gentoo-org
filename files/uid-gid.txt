@@ -235,6 +235,7 @@ consul_exporter		278	278	acct
 netdata			290	290	acct
 x2gouser		291	291	acct
 x2goprint		292	292	acct
+nvpd			298	-	acct
 gpsd			299	-	acct
 dhcp			300	300	acct
 squid			301	301	acct

@@ -71,19 +71,6 @@
     <feed>https://gitlab.com/0bs1d1an/0bs1d1an-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>0x4d4c</name>
-    <description lang="en">Personal overlay with no special focus</description>
-    <homepage>https://github.com/0x4d4c/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>gentoo@0x4d4c.xyz</email>
-      <name>Martin Lambertz</name>
-    </owner>
-    <source type="git">https://github.com/0x4d4c/gentoo-overlay.git</source>
-    <source type="git">git://github.com/0x4d4c/gentoo-overlay.git</source>
-    <source type="git">git@github.com:0x4d4c/gentoo-overlay.git</source>
-    <feed>https://github.com/0x4d4c/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>2xsaiko</name>
     <description lang="en">Personal overlay with no special focus</description>
     <homepage>https://git.sr.ht/~dblsaiko/ebuilds</homepage>
@@ -1045,27 +1032,6 @@
     </owner>
     <source type="git">https://github.com/dev-0x7C6/dev1990-overlay.git</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>devpump-gor</name>
-    <description lang="en">DevPump Gentoo Overlay</description>
-    <homepage>https://github.com/DevPump/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>devpump@gmail.com</email>
-      <name>Matt Fleming</name>
-    </owner>
-    <source type="git">https://github.com/DevPump/gentoo-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>didactic-duck</name>
-    <description>Some ebuilds that might work</description>
-    <homepage>https://github.com/lucianposton/didactic-duck</homepage>
-    <owner type="person">
-      <email>lucianposton@pm.me</email>
-      <name>Lucian Poston</name>
-    </owner>
-    <source type="git">https://github.com/lucianposton/didactic-duck.git</source>
-    <feed>https://github.com/lucianposton/didactic-duck/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>dilfridge</name>
     <description lang="en">Dilfridge overlay: experimental ebuilds and lab software</description>
@@ -1515,18 +1481,6 @@
     <feed>https://github.com/FireBurn/Overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>fkmclane</name>
-    <description lang="en">Personal overlay of fkmclane containing patched ebuilds and new ebuilds</description>
-    <homepage>https://github.com/fkmclane/overlay</homepage>
-    <owner type="person">
-      <email>fkmclane@gmail.com</email>
-      <name>Foster McLane</name>
-    </owner>
-    <source type="git">https://github.com/fkmclane/overlay.git</source>
-    <source type="git">git://github.com/fkmclane/overlay.git</source>
-    <feed>https://github.com/fkmclane/overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>flammie</name>
     <description lang="en">An overlay for gentoo for things Flammie's worked on: Apertium, HFST, computational linguistics, spell-checking, obscure languages...</description>
     <homepage>https://github.com/flammie/flammie-overlay</homepage>
@@ -1723,17 +1677,6 @@
       <name>amaroun</name>
     </owner>
     <source type="git">https://github.com/Amaroun/gamarouns.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gambas-overlay</name>
-    <description lang="en">Gambas IDE overlay for Gentoo Linux</description>
-    <homepage>https://github.com/damex/gambas-overlay</homepage>
-    <owner type="person">
-      <email>damex.pp@gmail.com</email>
-      <name>Roman Kuzmitsky</name>
-    </owner>
-    <source type="git">https://github.com/damex/gambas-overlay.git</source>
-    <feed>https://github.com/damex/gambas-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gamerlay</name>
@@ -2234,25 +2177,6 @@
     <!-- <feed>https://cgit.gentoo.org/dev/ikelos.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>imaging</name>
-    <description>Gentoo overlay for image processing and visualization</description>
-    <homepage>https://github.com/gerddie/gentoo-imaging</homepage>
-    <owner type="person">
-      <email>gw.fossdev@gmail.com</email>
-    </owner>
-    <source type="git">https://github.com/gerddie/gentoo-imaging.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>interactive-fiction</name>
-    <description>Packages for players and authors of interactive
-    fiction</description>
-    <owner type="person">
-      <email>levertond@googlemail.com</email>
-    </owner>
-    <source type="git">git://repo.or.cz/gentoo-interactive-fiction.git</source>
-    <feed>http://repo.or.cz/w/gentoo-interactive-fiction.git?a=rss</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ixit</name>
     <description lang="en">iXit overlay</description>
     <homepage>https://github.com/okias/ixit</homepage>
@@ -2521,19 +2445,6 @@
     <source type="git">https://github.com/kripton/kripton-overlay.git</source>
     <source type="git">git+ssh://git@github.com/kripton/kripton-overlay.git</source>
     <feed>https://github.com/kripton/kripton-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>Krontage</name>
-    <description lang="en">Personal overlay of Kron</description>
-    <homepage>https://github.com/undying/krontage</homepage>
-    <owner type="person">
-      <email>undying-m@yandex.ru</email>
-      <name>Kron</name>
-    </owner>
-    <source type="git">https://github.com/undying/krontage.git</source>
-    <source type="git">git://github.com/undying/krontage.git</source>
-    <source type="git">git@github.com:undying/krontage.git</source>
-    <feed>https://github.com/undying/krontage/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>kske</name>
@@ -2917,30 +2828,6 @@
     <source type="git">https://github.com/gentoo-monero/gentoo-monero.git</source>
     <source type="git">git+ssh://git@github.com/gentoo-monero/gentoo-monero.git</source>
     <feed>https://github.com/gentoo-monero/gentoo-monero/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>mozilla</name>
-    <description>New mozilla development that is not yet in tree</description>
-    <homepage>https://cgit.gentoo.org/proj/mozilla.git</homepage>
-    <owner type="project">
-      <email>mozilla@gentoo.org</email>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/mozilla.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/mozilla.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/mozilla.git</source>
-    <feed>https://cgit.gentoo.org/proj/mozilla.git/atom/</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>mrhappyhof-gentoo</name>
-    <description lang="en">mr_happy_hof's personal Overlay</description>
-    <homepage>https://github.com/mrhappyhof/mrhappyhof-gentoo</homepage>
-    <owner type="person">
-      <email>mrhappyhof@gmail.com</email>
-      <name>mr_happy_hof</name>
-    </owner>
-    <source type="git">https://github.com/mrhappyhof/mrhappyhof-gentoo.git</source>
-    <source type="git">git+ssh://git@github.com/mrhappyhof/mrhappyhof-gentoo.git</source>
-    <feed>https://github.com/mrhappyhof/mrhappyhof-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>mschiff</name>
@@ -3660,15 +3547,6 @@
     </owner>
     <source type="git">https://git.zero-downtime.net/quark/quarks.git</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>qwin-overlay</name>
-    <description>Gentoo overlay with some patched packages.</description>
-    <homepage>https://github.com/Flex1911/</homepage>
-    <owner type="person">
-      <email>dedsa2002@gmail.com</email>
-    </owner>
-    <source type="git">git://github.com/Flex1911/qwin-overlay.git</source>
-  </repo>
   <repo quality="experimental" status="official">
     <name>R_Overlay</name>
     <description>Gentoo overlay of R packages</description>
@@ -4064,19 +3942,6 @@
     <feed>https://github.com/scrill/scrill-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>seadep</name>
-    <description lang="en">just a few ebuilds, I couldn't find elsewhere</description>
-    <homepage>https://github.com/Keepco/gentoo-overlay-seadep</homepage>
-    <owner type="person">
-      <email>Rasmus.thomsen@live.de</email>
-      <name>Rasmus Thomsen</name>
-    </owner>
-    <source type="git">https://github.com/Keepco/gentoo-overlay-seadep.git</source>
-    <source type="git">git://github.com/Keepco/gentoo-overlay-seadep.git</source>
-    <source type="git">git@github.com:Keepco/gentoo-overlay-seadep.git</source>
-    <feed>https://github.com/Keepco/gentoo-overlay-seadep/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>seden</name>
     <description lang="en">Experimental ebuilds that are still unmaintained</description>
     <homepage>https://cgit.gentoo.org/user/seden.git/</homepage>
@@ -4444,19 +4309,6 @@
     </owner>
     <source type="git">https://github.com/istitov/stuff.git</source>
     <feed>https://github.com/istitov/stuff/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>sublime-text</name>
-    <description lang="en">Collection of ebuilds to install Sublime Text 2 or Sublime Text 3</description>
-    <homepage>https://github.com/DamnWidget/sublime-text</homepage>
-    <owner type="person">
-      <email>oscar.campos@member.fsf.org</email>
-      <name>Oscar Campos</name>
-    </owner>
-    <source type="git">https://github.com/DamnWidget/sublime-text.git</source>
-    <source type="git">git://github.com/DamnWidget/sublime-text.git</source>
-    <source type="git">git@github.com:DamnWidget/sublime-text.git</source>
-    <feed>https://github.com/DamnWidget/sublime-text/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>superposition</name>

@@ -235,7 +235,6 @@ consul_exporter		278	278	acct
 netdata			290	290	acct
 x2gouser		291	291	acct
 x2goprint		292	292	acct
-nvpd			298	-	acct
 gpsd			299	-	acct
 dhcp			300	300	acct
 squid			301	301	acct
@@ -397,6 +396,7 @@ deluge			454	454	acct
 puppet			455	455	acct
 puppetdb		456	456	acct
 icinga			457	457	acct
+nvpd			458	-	acct
 icingacmd		-	458	acct
 node_exporter		459	459	acct
 mogilefs		460	-	user.eclass

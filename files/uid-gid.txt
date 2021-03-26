@@ -248,6 +248,7 @@ clair			307	307	acct
 mysqld_exporter		308	308	acct
 minion			309	309	acct
 croc			310	310	acct
+ulogd			311	311	acct
 coredns			312	312	acct
 flatpak			313	313	acct
 serf			314	314	acct

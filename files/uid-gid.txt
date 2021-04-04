@@ -236,6 +236,7 @@ unbound-telemetry	279	279	acct
 netdata			290	290	acct
 x2gouser		291	291	acct
 x2goprint		292	292	acct
+http			297	297	acct		Used by www-servers/caddy
 redis_exporter	298	298	acct
 gpsd			299	-	acct
 dhcp			300	300	acct

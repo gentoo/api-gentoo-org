@@ -59,18 +59,6 @@
   FIN
   -->
   <repo quality="experimental" status="unofficial">
-    <name>0bs1d1an</name>
-    <description lang="en">Personal overlay</description>
-    <homepage>https://gitlab.com/0bs1d1an/0bs1d1an-overlay</homepage>
-    <owner type="person">
-      <email>gkroon@maelstrom.ninja</email>
-      <name>Guido Kroon</name>
-    </owner>
-    <source type="git">https://gitlab.com/0bs1d1an/0bs1d1an-overlay.git</source>
-    <source type="git">git+ssh://git@gitlab.com/0bs1d1an/0bs1d1an-overlay.git</source>
-    <feed>https://gitlab.com/0bs1d1an/0bs1d1an-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>2xsaiko</name>
     <description lang="en">Personal overlay with no special focus</description>
     <homepage>https://git.sr.ht/~dblsaiko/ebuilds</homepage>
@@ -223,20 +211,6 @@
     <feed>https://cgit.gentoo.org/user/alexcepoi.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/alexcepoi.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="official">
-    <name>alexxy</name>
-    <description>Some random work in progress stuff from alexxy</description>
-    <homepage>https://cgit.gentoo.org/dev/alexxy.git</homepage>
-    <owner type="person">
-      <email>alexxy@gentoo.org</email>
-      <name>Alexey Shvetsov</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/alexxy.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/alexxy.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/alexxy.git</source>
-    <feed>https://cgit.gentoo.org/dev/alexxy.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/alexxy.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>aluco</name>
     <description lang="en">From drm-next to phoronix-test-suite ebuilds</description>
@@ -373,18 +347,6 @@
     <source type="git">https://github.com/apriluwu/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/apriluwu/gentoo-overlay.git</source>
     <feed>https://github.com/apriluwu/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>archenroot</name>
-    <description lang="en">GPU, Neural Networks, Big Data, HPC, Java</description>
-    <homepage>https://github.com/archenroot/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>archenroot@gmail.com</email>
-      <name>Ladislav Jech</name>
-    </owner>
-    <source type="git">https://github.com/archenroot/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/archenroot/gentoo-overlay.git</source>
-    <feed>https://github.com/archenroot/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ArchFeh</name>
@@ -613,19 +575,6 @@
     </owner>
     <source type="git">https://gitlab.com/bitcoin/gentoo.git</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>bleeding-edge</name>
-    <description>Gentoo ebuilds for "bleeding edge" versions of packages - newest, untested - running on ~amd64.</description>
-    <homepage>https://cgit.gentoo.org/repo/user/bleeding-edge.git/</homepage>
-    <owner type="person">
-      <email>jasiupsota@gmail.com</email>
-      <name>Jan Psota</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/repo/user/bleeding-edge.git</source>
-    <source type="git">git://anongit.gentoo.org/repo/user/bleeding-edge</source>
-    <source type="git">git+ssh://git@git.gentoo.org/repo/user/bleeding-edge.git</source>
-    <feed>https://cgit.gentoo.org/repo/user/bleeding-edge.git/atom/</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>blender-gentoo-logo</name>
     <description lang="en">Software needed to render the Blender-based gentoo Logo of 2003</description>
@@ -697,17 +646,6 @@
     </owner>
     <source type="git">https://gitlab.com/jason.oliveira/brave-overlay.git</source>
     <feed>https://gitlab.com/jason.oliveira/brave-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>bright</name>
-    <description lang="en">BrightOne's personal overlay</description>
-    <homepage>https://github.com/filalex77/bright</homepage>
-    <owner type="person">
-      <email>brightone@protonmail.com</email>
-      <name>Oleksii Filonenko</name>
-    </owner>
-    <source type="git">https://github.com/filalex77/bright.git</source>
-    <feed>https://github.com/filalex77/bright/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>brother-overlay</name>
@@ -823,18 +761,6 @@
     <source type="git">https://github.com/brothermechanic/cg.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>chrisadr</name>
-    <description lang="en">ChrisADR's personal overlay</description>
-    <homepage>https://github.com/ChrisADR/chrisadr-overlay</homepage>
-    <owner type="person">
-      <email>chrisadr@gentoo.org</email>
-      <name>Christopher Díaz Riveros</name>
-    </owner>
-    <source type="git">https://github.com/ChrisADR/chrisadr-overlay.git</source>
-    <source type="git">git@github.com:ChrisADR/chrisadr-overlay.git</source>
-    <feed>https://github.com/ChrisADR/chrisadr-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>chrytoo</name>
     <description lang="en">Personal overlay for packages that usually aren't in the official repository...</description>
     <homepage>https://github.com/chrytoo/gentoo-overlay</homepage>
@@ -846,19 +772,6 @@
     <source type="git">git://github.com/chrytoo/gentoo-overlay.git</source>
     <source type="git">git@github.com:chrytoo/gentoo-overlay.git</source>
     <feed>https://github.com/chrytoo/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>chymeric</name>
-    <description lang="en">Overlay for scientific software and other utilities</description>
-    <homepage>https://github.com/TheChymera/overlay</homepage>
-    <owner type="person">
-      <email>chr@chymera.eu</email>
-      <name>Horea Christian</name>
-    </owner>
-    <source type="git">https://github.com/TheChymera/overlay.git</source>
-    <source type="git">git://github.com/TheChymera/overlay.git</source>
-    <source type="git">git+ssh://git@github.com/TheChymera/overlay.git</source>
-    <feed>https://github.com/TheChymera/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>cj-overlay</name>
@@ -951,18 +864,6 @@
     <feed>https://github.com/DarthGandalf/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>decent-im</name>
-    <description lang="en">XMPP software overlay maintained by decent.im</description>
-    <homepage>https://github.com/decent-im/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>andrey_utkin@gentoo.org</email>
-      <name>Andrey Utkin</name>
-    </owner>
-    <source type="git">https://github.com/decent-im/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/decent-im/gentoo-overlay.git</source>
-    <feed>https://github.com/decent-im/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>deepin</name>
     <description lang="en">Gentoo Overlay for Deepin Desktop Environment</description>
     <homepage>https://github.com/zhtengw/deepin-overlay</homepage>
@@ -985,19 +886,6 @@
     <source type="git">git://github.com/d3fy/defiance-overlay.git</source>
     <source type="git">git@github.com:d3fy/defiance-overlay.git</source>
     <feed>https://github.com/d3fy/defiance-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>delicious-absurdities</name>
-    <description lang="en">Personal overlay with delicious absurdities</description>
-    <homepage>https://github.com/paraenggu/delicious-absurdities-overlay</homepage>
-    <owner type="person">
-      <email>c.affolter@purplehaze.ch</email>
-      <name>Christian Affolter</name>
-    </owner>
-    <source type="git">https://github.com/paraenggu/delicious-absurdities-overlay.git</source>
-    <source type="git">git://github.com/paraenggu/delicious-absurdities-overlay.git</source>
-    <source type="git">git@github.com:paraenggu/delicious-absurdities-overlay.git</source>
-    <feed>https://github.com/paraenggu/delicious-absurdities-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dequbed</name>
@@ -1095,20 +983,6 @@
     <source type="git">https://notabug.org/dm9pZCAq/dm9pZCAq-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>dMaggot</name>
-    <description lang="en">Overlay of David E. Narváez</description>
-    <homepage>https://cgit.gentoo.org/user/dMaggot.git/</homepage>
-    <owner type="person">
-      <email>david.narvaez@computer.org</email>
-      <name>David E. Narváez</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/dMaggot.git</source>
-    <source type="git">git://anongit.gentoo.org/user/dMaggot.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/dMaggot.git</source>
-    <feed>https://cgit.gentoo.org/user/dMaggot.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/dMaggot.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>dmchurch</name>
     <description lang="en">Danielle Church's Portage overlay</description>
     <homepage>https://github.com/dmchurch/portage-overlay</homepage>
@@ -1158,20 +1032,6 @@
     <source type="git">git://github.com/drdim/layman.git</source>
     <source type="git">git@github.com:drdim/layman.git</source>
     <feed>https://github.com/drdim/layman/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>DuPol</name>
-    <description lang="en">DuPol's own and modified portage ebuilds.</description>
-    <homepage>https://cgit.gentoo.org/user/DuPol.git/</homepage>
-    <owner type="person">
-      <email>DuPol@gmx.de</email>
-      <name>Dustin Polke</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/DuPol.git</source>
-    <source type="git">git://anongit.gentoo.org/user/DuPol.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/DuPol.git</source>
-    <feed>https://cgit.gentoo.org/user/DuPol.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/DuPol.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dwfreed</name>
@@ -1328,19 +1188,6 @@
     </owner>
     <source type="git">https://github.com/rafspiny/enlightenment-live.git</source>
     <feed>https://github.com/rafspiny/enlightenment-live/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>ennui</name>
-    <description>Facilitate running hardened-desktop hybrid system</description>
-    <homepage>https://gitweb.gentoo.org/user/ennui.git/</homepage>
-    <owner type="person">
-      <email>gentoo@seaofdirac.net</email>
-      <name>Nicholas Fish</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/ennui.git</source>
-    <source type="git">git://anongit.gentoo.org/user/ennui.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/ennui.git</source>
-    <feed>https://gitweb.gentoo.org/user/ennui.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>equaeghe</name>
@@ -1647,17 +1494,6 @@
     <feed>https://github.com/fusion809/fusion809-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>fuverlay</name>
-    <description lang="en">Funkill's overlay</description>
-    <homepage>https://github.com/funkill/fuverlay</homepage>
-    <owner type="person">
-      <email>funkill2@gmail.com</email>
-      <name>Funkill</name>
-    </owner>
-    <source type="git">https://github.com/funkill/fuverlay.git</source>
-    <feed>https://github.com/funkill/fuverlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>gamarouns</name>
     <description>Bits and pieces missing in gentoo or layman repos I need</description>
     <homepage>https://github.com/Amaroun/gamarouns</homepage>
@@ -1695,17 +1531,6 @@
     <source type="git">git+ssh://git@github.com/gcarq/gcarq-overlay.git</source>
     <feed>https://github.com/gcarq/gcarq-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>genthree</name>
-    <description lang="en">Gentoo overlay from the genthree project</description>
-    <homepage>https://genthree.io/overlay</homepage>
-    <owner type="person">
-      <email>nyronium@genthree.io</email>
-      <name>nyronium</name>
-    </owner>
-    <source type="git">https://gitlab.com/genthree/overlay.git</source>
-    <feed>https://gitlab.com/genthree/overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="core" status="official">
     <name>gentoo</name>
     <description>Official Gentoo ebuild repository</description>
@@ -1742,19 +1567,6 @@
     <source type="git">git://github.com/BilyakA/gentoo-clang.git</source>
     <source type="git">git@github.com:BilyakA/gentoo-clang.git</source>
     <feed>https://github.com/BilyakA/gentoo-clang/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>gentoo-mate</name>
-    <description lang="en">Gentoo MATE Desktop Project Repo</description>
-    <homepage>https://wiki.gentoo.org/wiki/Project:MATE</homepage>
-    <owner type="project">
-      <email>mate@gentoo.org</email>
-      <name>MATE Desktop Project</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/gentoo-mate.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/gentoo-mate.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-mate.git</source>
-    <feed>https://cgit.gentoo.org/proj/gentoo-mate.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-zh</name>
@@ -1878,18 +1690,6 @@
     <source type="git">git+ssh://git@git.gentoo.org/proj/gnustep.git</source>
     <feed>https://cgit.gentoo.org/proj/gnustep.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/gnustep.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gnux32</name>
-    <description lang="en">A personal overlay with ebuilds for the x32 ABI</description>
-    <homepage>https://github.com/1camper/gnux32</homepage>
-    <owner type="person">
-      <email>theonetruecamper@gmx.de</email>
-      <name>Matthias Räncker</name>
-    </owner>
-    <source type="git">https://github.com/1camper/gnux32.git</source>
-    <source type="git">git://github.com/1camper/gnux32.git</source>
-    <feed>https://github.com/1camper/gnux32/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>go-overlay</name>
@@ -2462,18 +2262,6 @@
     <feed>https://hacktivis.me/git/overlay/atom.xml</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>laurentb</name>
-    <description>Various packages</description>
-    <homepage>https://github.com/laurentb/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>laurent@bachelier.name</email>
-      <name>Laurent Bachelier</name>
-    </owner>
-    <source type="git">git://github.com/laurentb/gentoo-overlay.git</source>
-    <source type="git">https://github.com/laurentb/gentoo-overlay.git</source>
-    <feed>https://github.com/feeds/laurentb/commits/gentoo-overlay/master</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>leechcraft</name>
     <description>Overlay with LeechCraft ebuilds</description>
     <homepage>https://github.com/0xd34df00d/leechcraft-overlay</homepage>
@@ -2498,18 +2286,6 @@
     <source type="git">git+ssh://git@git.gentoo.org/dev/leio.git</source>
     <feed>https://cgit.gentoo.org/dev/leio.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/leio.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>levenkov</name>
-    <description>levenkov personal overlay</description>
-    <homepage>https://cgit.gentoo.org/user/levenkov.git</homepage>
-    <owner type="person">
-      <email>artem@levenkov.org</email>
-      <name>Artem Levenkov</name>
-    </owner>
-    <source type="git">git://anongit.gentoo.org/user/levenkov.git</source>
-    <source type="git">http://cgit.gentooexperimental.org/user/levenkov.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/levenkov.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>librepilot</name>
@@ -2572,17 +2348,6 @@
     <source type="git">git://github.com/linuxunderground/gentoo.overlay.git</source>
     <source type="git">https://github.com/linuxunderground/gentoo.overlay.git</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>linxon</name>
-    <description>linxon personal overlay</description>
-    <homepage>https://github.com/linxon/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>email@linxon.ru</email>
-      <name>linxon</name>
-    </owner>
-    <source type="git">https://github.com/linxon/gentoo-overlay.git</source>
-    <feed>https://github.com/linxon/gentoo-overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>lisp</name>
     <description>Common Lisp/Scheme development, recruitment and live overlay.
@@ -2640,19 +2405,6 @@
     <source type="git">https://github.com/luxifr/olgentoo.git</source>
     <feed>https://github.com/luxifr/olgentoo/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>lxde-gtk3</name>
-    <description lang="en">lxde-gtk3 overlay</description>
-    <homepage>https://github.com/rilian-la-te/lxde-gtk3-overlay</homepage>
-    <owner type="person">
-      <email>ria.freelander@gmail.com</email>
-      <name>Konstantin</name>
-    </owner>
-    <source type="git">https://github.com/rilian-la-te/lxde-gtk3-overlay.git</source>
-    <source type="git">git://github.com/rilian-la-te/lxde-gtk3-overlay.git</source>
-    <source type="git">git@github.com:rilian-la-te/lxde-gtk3-overlay.git</source>
-    <feed>https://github.com/rilian-la-te/lxde-gtk3-overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>maekke</name>
     <description>Markus Meier developer overlay</description>
@@ -2676,19 +2428,6 @@
       <name>OzTiram</name>
     </owner>
     <source type="git">https://github.com/oz123/mate-de-gentoo.git</source>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>matrix</name>
-    <description lang="en">Overlay containing clients, servers and services for the Matrix protocol</description>
-    <description lang="nl">Overlay met clients, servers en services voor het Matrix protocol</description>
-    <homepage>https://github.com/gentoo/matrix</homepage>
-    <owner type="person">
-      <email>steils@gentoo.org</email>
-      <name>Stefan Strogin</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/repo/proj/matrix.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/repo/proj/matrix.git</source>
-    <feed>https://cgit.gentoo.org/repo/proj/matrix.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>megacoffee</name>
@@ -2745,20 +2484,6 @@
     </owner>
     <source type="git">https://github.com/miramir/miramir-layman.git</source>
     <feed>https://github.com/miramir/miramir-layman/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>mklich</name>
-    <description lang="en">For learning purposes.</description>
-    <homepage>https://cgit.gentoo.org/user/mklich.git/</homepage>
-    <owner type="person">
-      <email>michal@michalklich.com</email>
-      <name>Michał Klich</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/mklich.git</source>
-    <source type="git">git://anongit.gentoo.org/user/mklich.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/mklich.git</source>
-    <feed>https://cgit.gentoo.org/user/mklich.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/mklich.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>mkr-overlay</name>
@@ -3281,18 +3006,6 @@
     <source type="git">https://github.com/antonsviridenko/pica-pica-gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>picarica-overlay</name>
-    <description lang="en">Gentoo overlay for apps that dont exist or are unmaintaned</description>
-    <homepage>https://gitlab.com/picarica/picarica-overlay</homepage>
-    <owner type="person">
-      <email>dohaje@azet.sk</email>
-      <name>George Bucek</name>
-    </owner>
-    <source type="git">https://gitlab.com/picarica/picarica-overlay.git</source>
-    <source type="git">git+ssh://git@gitlab.com/picarica/picarica-overlay.git</source>
-    <!-- <feed>https://gitlab.com/picarica/picarica-overlay/commits/master</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>pigfoot</name>
     <description lang="en">Ebuilds for experimental packages and chinese patches</description>
     <homepage>https://cgit.gentoo.org/user/pigfoot.git/</homepage>
@@ -3546,18 +3259,6 @@
     </owner>
     <source type="rsync">rsync://roverlay.dev.gentoo.org/roverlay</source>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>rafaelmartins</name>
-    <description lang="en">Rafael Martins' Gentoo overlay</description>
-    <homepage>https://github.com/rafaelmartins/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>rafaelmartins@gentoo.org</email>
-      <name>Rafael G. Martins</name>
-    </owner>
-    <source type="git">https://github.com/rafaelmartins/gentoo-overlay.git</source>
-    <source type="git">git://github.com/rafaelmartins/gentoo-overlay.git</source>
-    <feed>https://github.com/rafaelmartins/gentoo-overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>rage</name>
     <description lang="en">rage's personal overlay</description>
@@ -3650,19 +3351,6 @@
     <feed>https://github.com/rich0/rich0-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>ring-overlay</name>
-    <description lang="en">Ring is free software for universal communication which respects freedoms and privacy of its users.</description>
-    <homepage>https://github.com/stefan-langenmaier/ring-overlay</homepage>
-    <owner type="person">
-      <email>stefan.langenmaier+gentoo@gmail.com</email>
-      <name>Stefan Langenmaier</name>
-    </owner>
-    <source type="git">https://github.com/stefan-langenmaier/ring-overlay.git</source>
-    <source type="git">git://github.com/stefan-langenmaier/ring-overlay.git</source>
-    <source type="git">git@github.com:stefan-langenmaier/ring-overlay.git</source>
-    <feed>https://github.com/stefan-langenmaier/ring-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>rion</name>
     <description>Russian overlay with a some patched and specific
     software</description>
@@ -3746,16 +3434,6 @@
       <name>Michał Ziąbkowski</name>
     </owner>
     <source type="git">https://gitlab.com/roslin-uberlay/roslin.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>rpm</name>
-    <description lang="en">Overlay for RPM packagers targeting Fedora, EPEL, CentOS and similar distros</description>
-    <homepage>https://github.com/pavlix/gentoo-rpm</homepage>
-    <owner type="person">
-      <email>pavlix@pavlix.net</email>
-      <name>Pavel Šimerda</name>
-    </owner>
-    <source type="git">https://github.com/pavlix/gentoo-rpm.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>ruby</name>
@@ -4890,18 +4568,6 @@
     </owner>
     <source type="git">https://bitbucket.org/wjn/wjn-overlay.git</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>wuodan</name>
-    <description lang="en">An experimental portage overlay</description>
-    <homepage>https://github.com/Wuodan/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>stefan.kuhn.zurich@gmail.com</email>
-      <name>Stefan Kuhn</name>
-    </owner>
-    <source type="git">https://github.com/Wuodan/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/Wuodan/gentoo-overlay.git</source>
-    <feed>https://github.com/Wuodan/gentoo-overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>x11</name>
     <description>Gentoo X11 team ebuild repository</description>
@@ -5011,19 +4677,6 @@
     <source type="git">git://github.com/yurijmikhalevich/yurij-overlay.git</source>
     <source type="git">git@github.com:yurijmikhalevich/yurij-overlay.git</source>
     <feed>https://github.com/yurijmikhalevich/yurij-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>yuzu-overlay</name>
-    <description lang="en">Provides the Yuzu Switch Emulator and required dependencies.</description>
-    <homepage>https://github.com/Alex-Aralis/yuzu-overlay</homepage>
-    <owner type="person">
-      <email>alex.aralis@gmail.com</email>
-      <name>Alex Aralis</name>
-    </owner>
-    <source type="git">https://github.com/Alex-Aralis/yuzu-overlay.git</source>
-    <source type="git">git://github.com/Alex-Aralis/yuzu-overlay.git</source>
-    <source type="git">git@github.com:Alex-Aralis/yuzu-overlay.git</source>
-    <feed>https://github.com/Alex-Aralis/yuzu-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>zerodaysfordays</name>

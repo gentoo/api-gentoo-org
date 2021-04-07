@@ -1,17 +1,17 @@
 certificate version 0.1
-pusher Mikle Kolyada <zlogene@gentoo.org> 1617792255 +0300
-pushee git+ssh://git.gentoo.org/data/api.git
-nonce 1617792255-2a1300b6ed816fa1b4c536e090818ca5482b0ef8
+pusher DF84256885283521 1617836750 +0200
+pushee git.gentoo.org:data/api
+nonce 1617836750-e2ad190d8beca250c66b80b28d3134b6598c4220
 
-645977e68f01431d76828f13484e698288299760 a1fb91c0cc8ea649512ba36115bb88f7dc484b36 refs/heads/master
+a1fb91c0cc8ea649512ba36115bb88f7dc484b36 199367d54108268db47189df3a2b160258fa4ddc refs/heads/master
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAABCAAxFiEEWmyBGnI+Eihw6dN8HICQJIqVl8cFAmBtjP8THHpsb2dlbmVA
-Z2VudG9vLm9yZwAKCRAcgJAkipWXxxz1CACccfwH6C+LUsAwm6RzWhLtW7Yn5YCB
-P8RVmJ1pw5IGnq6AdxRQVg/IKoa6p2tPYG61zod+uNk9FsHUe//rt1HkfM2WsKBe
-VQBqzhqEtjTtj9WZrfHZSxLKgPuseIdArxsEH8ivZujalxGD+fANExWnhwfCqAHK
-xdLneyIF+BiKHg/sAM36NnxyAI3/sxiZrZ0JZ7Rsbcs1a7fQB/vFuqxJ+Dg9XMu2
-godHavRWwwzL2djtbDRML3wDO107KowRgA4qOzMHXS1chSk1uG/IlPt4P1PB18C6
-xPu1Ks9uuLk2DwJoXOD+oj2kh9JtlSTjBhVxhyuM/ikSdSVMp78K78mI
-=5yib
+iQEzBAABCAAdFiEEx2qEUJQJjSjMiybFY5ra4jKeJA4FAmBuOs4ACgkQY5ra4jKe
+JA5aAggA0a2Jzx+kFD/G5iRRPM2XFbatOh6nct7vLICmBL+skC6dkcD5XaDcnIKz
+TC+cHI64806moTKTOXFY3cVoDPMSAeyTNKwsuPCT63mDj7jpRa/aa0IiIb0Qserh
+vkl0e/2ETmfHyYnjg2IgdzhNraGbsRKQuzo/Lku+S+IezZ1JK224rHbXjXYAcvhH
+OmbV8fmuCK90cAz74926AOoF5dO9pQpkBt6xuGN0bXOjL1W8HCKqQ1qh8w/AVWxN
+u1GebuGmgCGsqr88ak2J8FxeSNfzVFuqbLXxp1lblXZYb+9QLNr24xmFpE0HN7lo
+sQrT9NnWojS+bL3TTKssUdS/S0Jf8w==
+=y40S
 -----END PGP SIGNATURE-----

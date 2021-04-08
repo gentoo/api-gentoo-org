@@ -369,6 +369,7 @@ cyrus			415	-	acct
 gluster			416	416	acct
 anope			417	417	acct
 usbmux			418	-	acct
+epam			-	418	acct	Used by dev-erlang/epam
 wesnoth			419	419	acct
 davfs2			420	420	acct		Used by net-fs/davfs2
 znc			421	421	acct

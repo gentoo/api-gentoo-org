@@ -4355,8 +4355,8 @@
     <description>vGist overlay, for personal use.</description>
     <homepage>https://github.com/vgist/vgist-overlay</homepage>
     <owner type="person">
-      <email>registerdedicated+gentoobugs@gmail.com</email>
-      <name>vGist</name>
+      <email>admin@mail.havee.me</email>
+      <name>havee</name>
     </owner>
     <source type="git">https://github.com/vgist/vgist-overlay.git</source>
     <source type="git">git://github.com/vgist/vgist-overlay.git</source>

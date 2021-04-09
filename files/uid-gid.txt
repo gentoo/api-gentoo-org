@@ -244,7 +244,7 @@ alertmanager		294	294	acct
 registry		295	295	acct		Used by app-emulation/docker-registry
 ntopng			296	296	acct
 http			297	297	acct		Used by www-servers/caddy
-redis_exporter	298	298	acct
+redis_exporter		298	298	acct
 gpsd			299	-	acct
 dhcp			300	300	acct
 squid			301	301	acct

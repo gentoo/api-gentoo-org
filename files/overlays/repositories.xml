@@ -4350,6 +4350,19 @@
     <source type="git">git+ssh://git@git.gentoo.org/proj/vdr/devel.git</source>
     <feed>https://cgit.gentoo.org/proj/vdr/devel.git/atom/</feed>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>vGist</name>
+    <description>vGist overlay, for personal use.</description>
+    <homepage>https://github.com/vgist/vgist-overlay</homepage>
+    <owner type="person">
+      <email>admin@mail.havee.me</email>
+      <name>havee</name>
+    </owner>
+    <source type="git">https://github.com/vgist/vgist-overlay.git</source>
+    <source type="git">git://github.com/vgist/vgist-overlay.git</source>
+    <source type="git">git@github.com:vgist/vgist-overlay.git</source>
+    <feed>https://github.com/vgist/vgist-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>vifino-overlay</name>
     <description lang="en">vifino's personal overlay</description>

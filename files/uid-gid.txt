@@ -173,6 +173,7 @@ pulse			171	171	acct
 pulse-access		-	172	acct
 munin			177	177	acct
 munin-async		178	-	acct
+bird			180	180	acct
 elasticsearch		183	183	acct
 pdnsd			184	184	acct
 tinyproxy		186	186	acct

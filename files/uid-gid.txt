@@ -369,6 +369,7 @@ atheme-services		412	412	acct
 ngircd			413	413	acct
 dnsdist			414	414	acct
 cyrus			415	-	acct
+scsi			-	415	acct
 gluster			416	416	acct
 anope			417	417	acct
 usbmux			418	-	acct

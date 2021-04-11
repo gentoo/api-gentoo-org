@@ -221,6 +221,7 @@ locate			-	245	acct
 slocate			-	245	historical	Removed from baselayout in [r1328](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1319&r2=1328&pathrev=2545)
 portage			250	250	acct
 smtpq			252	252	acct
+sstpc			257	257	acct
 rwhoisd			258	258	acct
 psybnc			259	259	acct
 minbif			260	260	acct

@@ -291,6 +291,7 @@ zabbix			329	329	acct
 ossec			330	330	acct
 ossecm			331	-	acct
 ossecr			332	-	acct
+scanner			-	332	acct
 amavis			333	333	acct
 opendkim		334	334	acct
 epmd			335	335	acct

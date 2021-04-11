@@ -301,6 +301,7 @@ snort			328	328	acct
 zabbix			329	329	acct
 ossec			330	330	acct
 ossecm			331	-	acct
+pkcs11			-	331	acct
 ossecr			332	-	acct
 scanner			-	332	acct
 amavis			333	333	acct

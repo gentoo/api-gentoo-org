@@ -234,6 +234,7 @@ bind_exporter		276	276	acct
 mongodb_exporter	277	277	acct
 consul_exporter		278	278	acct
 unbound-telemetry	279	279	acct
+logcheck		284	284	acct
 pvpgn			285	285	acct
 sauerbraten		286	286	acct
 gopher			287	287	acct

@@ -376,6 +376,7 @@ svn			399	-	acct		Used by dev-vcs/subversion[-apache2]
 svnusers		-	399	acct		Used by dev-vcs/subversion[-apache2]
 slurm			400	400	acct
 monitorix		401	401	acct
+fnord			402	-	acct
 lxd			-	402	acct
 bareos			403	403	acct
 fdm			404	-	acct

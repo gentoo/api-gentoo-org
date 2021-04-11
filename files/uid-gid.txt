@@ -111,6 +111,7 @@ gamestat		-	36	acct
 named			40	40	acct		Removed from baselayout in [r1369](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1335&r2=1369&pathrev=2545)
 tor			43	43	acct
 mpd			45	-	acct
+openctd			46	-	acct
 openct			-	46	acct
 pcscd			47	47	acct
 docker			-	48	acct

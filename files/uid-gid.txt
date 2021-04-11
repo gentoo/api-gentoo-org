@@ -328,6 +328,7 @@ sks			370	370	acct
 frr			371	371	acct
 upmpdcli		372	372	acct
 snapclient		373	-	acct
+gnupg-pkcs11		-	373	acct
 snapserver		374	374	acct
 popa3d			375	375	acct		Used by net-mail/popa3d
 mgraph			376	376	acct		Used by net-mail/mailgraph

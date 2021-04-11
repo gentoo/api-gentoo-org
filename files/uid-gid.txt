@@ -221,6 +221,7 @@ asterisk		242	242	acct
 fingerprint		-	243	acct
 locate			-	245	acct
 slocate			-	245	historical	Removed from baselayout in [r1328](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1319&r2=1328&pathrev=2545)
+logsurfer		249	249	acct
 portage			250	250	acct
 wwwoffle		251	251	acct
 smtpq			252	252	acct

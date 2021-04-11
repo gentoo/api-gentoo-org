@@ -222,6 +222,7 @@ slocate			-	245	historical	Removed from baselayout in [r1328](https://sources.ge
 portage			250	250	acct
 wwwoffle		251	251	acct
 smtpq			252	252	acct
+zetcd			253	253	acct
 havp			254	254	acct
 cntlm			255	255	acct
 litecoin		256	256	acct

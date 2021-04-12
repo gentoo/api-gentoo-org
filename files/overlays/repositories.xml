@@ -4693,11 +4693,11 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>zGentoo</name>
-    <description lang="en">ZappeL's - Gentoo portage overlay</description>
+    <description lang="en">ZappeL's Gentoo-Overlay</description>
     <homepage>https://lab.retarded.farm/zappel/zGentoo</homepage>
     <owner type="person">
-      <email>zappel@simple-co.de</email>
       <name>Armas Spann</name>
+      <email>zappel@simple-co.de</email>
     </owner>
     <source type="git">https://lab.retarded.farm/zappel/zGentoo.git</source>
     <source type="git">git@lab.retarded.farm:zappel/zGentoo.git</source>

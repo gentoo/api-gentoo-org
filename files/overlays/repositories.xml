@@ -2486,18 +2486,6 @@
     <feed>https://github.com/miramir/miramir-layman/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>mkr-overlay</name>
-    <description lang="en">MalakymR's overlay</description>
-    <homepage>https://github.com/MalakymR/mkr-overlay</homepage>
-    <owner type="person">
-      <email>MalakymR@esdf.uk</email>
-    </owner>
-    <source type="git">https://github.com/MalakymR/mkr-overlay.git</source>
-    <source type="git">git://github.com/MalakymR/mkr-overlay.git</source>
-    <source type="git">git@github.com:MalakymR/mkr-overlay.git</source>
-    <feed>https://github.com/MalakymR/mkr-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>moaxcp</name>
     <description lang="en">gentoo overlay for packages</description>
     <homepage>https://github.com/moaxcp/moaxcp-gentoo-overlay</homepage>

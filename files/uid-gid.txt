@@ -176,6 +176,7 @@ sispmctl		-	173	acct
 android			-	174	acct
 munin			177	177	acct
 munin-async		178	-	acct
+vlock			-	178	acct
 bird			180	180	acct
 elasticsearch		183	183	acct
 pdnsd			184	184	acct

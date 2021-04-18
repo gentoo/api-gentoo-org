@@ -2051,6 +2051,19 @@
     <source type="git">https://git.kolosowscy.pl/jurek/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>jl1990</name>
+    <description lang="en">jl1990's Custom Gentoo Overlay.</description>
+    <homepage>https://github.com/jl1990/gentoo-overlay</homepage>
+    <owner type="person">
+      <name>jl1990</name>
+      <email>jlcarrasco1990@gmail.com</email>
+    </owner>
+    <source type="git">https://github.com/jl1990/gentoo-overlay.git</source>
+    <source type="git">git://github.com/jl1990/gentoo-overlay.git</source>
+    <source type="git">git@github.com:jl1990/gentoo-overlay.git</source>
+    <feed>https://github.com/jl1990/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>jm-overlay</name>
     <description lang="en">Personal overlay with more or less random ebuilds</description>
     <homepage>https://github.com/Jannis234/jm-overlay</homepage>

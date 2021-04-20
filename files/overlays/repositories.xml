@@ -490,6 +490,15 @@
     <feed>https://github.com/beatussum/beatussum-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>bell07</name>
+    <description>Some ebuilds not found in other overlays, including my server and desktop (xfce) profiles</description>
+    <owner type="person">
+      <email>web.alexander@web.de</email>
+      <name>Alexander Weber (bell07)</name>
+    </owner>
+    <source type="git">https://github.com/bell07/gentoo-bell07_overlay</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>benzene-overlay</name>
     <description lang="en">Universebenzene's personal Gentoo overlay</description>
     <homepage>https://github.com/Universebenzene/benzene-overlay</homepage>

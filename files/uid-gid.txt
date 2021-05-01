@@ -220,7 +220,7 @@ fvwm-crystal		-	232	acct
 turnserver		235	235	acct
 tox			236	236	acct
 rspamd			237	237	acct
-github_exporter	238	238	acct
+github-exporter	238	238	acct
 scponly			239	239	acct
 distcc			240	240	acct
 icingaweb2		-	241	acct

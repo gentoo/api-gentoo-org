@@ -217,6 +217,7 @@ i2c			-	226	acct
 spi			-	227	acct
 carbon			230	230	acct
 fvwm-crystal		-	232	acct
+postgres_exporter	233	233	acct
 memcached_exporter	234	234	acct
 turnserver		235	235	acct
 tox			236	236	acct

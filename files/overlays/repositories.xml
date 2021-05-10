@@ -1999,20 +1999,6 @@
     <source type="git">https://bitbucket.org/jacendi/jacendi-overlay</source>
     <feed>https://bitbucket.org/jacendi/jacendi-overlay/atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>jamesbroadhead</name>
-    <description lang="en">James Broadhead's personal overlay and pre-sunrise testing ground</description>
-    <homepage>https://cgit.gentoo.org/user/jamesbroadhead.git/</homepage>
-    <owner type="person">
-      <email>jamesbroadhead@gmail.com</email>
-      <name>James Broadhead</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/jamesbroadhead.git</source>
-    <source type="git">git://anongit.gentoo.org/user/jamesbroadhead.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/jamesbroadhead.git</source>
-    <feed>https://cgit.gentoo.org/user/jamesbroadhead.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/jamesbroadhead.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="official">
     <name>java</name>
     <description lang="en">Java overlay</description>

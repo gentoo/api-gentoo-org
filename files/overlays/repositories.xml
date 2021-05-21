@@ -3541,6 +3541,18 @@
     <feed>https://github.com/thesamesam/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>SarahMiaOverlay</name>
+    <description lang="en">Everything for Budgie-Desktop and a little bit SarahMia's personal overlay</description>
+    <homepage>https://gitlab.com/SarahMia/sarahmiaoverlay</homepage>
+    <owner type="person">
+      <email>Xavalia@gmail.com</email>
+      <name>Sarah Mia Leibbrand</name>
+    </owner>
+    <source type="git">https://gitlab.com/SarahMia/sarahmiaoverlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com:SarahMia/sarahmiaoverlay.git</source>
+    <feed>https://gitlab.com/SarahMia/sarahmiaoverlay/commits/master?format=atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sarnex-overlay</name>
     <description lang="en">Sarnex's personal overlay</description>
     <homepage>https://github.com/sarnex/sarnex-overlay.git</homepage>

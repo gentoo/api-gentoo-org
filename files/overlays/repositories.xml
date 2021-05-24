@@ -3471,19 +3471,6 @@
     <feed>https://github.com/Atoms/rukruk/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>rust</name>
-    <description lang="en">rust modules and tools</description>
-    <homepage>https://github.com/gentoo/gentoo-rust</homepage>
-    <owner type="project">
-      <email>rust@gentoo.org</email>
-      <name>Rust Team</name>
-    </owner>
-    <source type="git">https://github.com/gentoo/gentoo-rust.git</source>
-    <source type="git">git://github.com/gentoo/gentoo-rust.git</source>
-    <source type="git">git@github.com:gentoo/gentoo-rust.git</source>
-    <feed>https://github.com/gentoo/gentoo-rust/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ryans</name>
     <description lang="en">Personal ebuild repository.</description>
     <homepage>https://github.com/bekcpear/ryans-repos</homepage>

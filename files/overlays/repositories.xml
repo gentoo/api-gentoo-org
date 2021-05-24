@@ -2905,33 +2905,6 @@
     <source type="git">git://github.com/pentoo/pentoo-overlay.git</source>
     <source type="git">git@github.com:pentoo/pentoo-overlay.git</source>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>perl-experimental</name>
-    <description>Experimental ebuilds for Perl packages in Gentoo. Comments and
-    bugreports are welcome!</description>
-    <homepage>https://cgit.gentoo.org/proj/perl-overlay.git/</homepage>
-    <owner type="project">
-      <email>perl@gentoo.org</email>
-      <name>Perl Team</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/perl-overlay.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/perl-overlay.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/perl-overlay.git</source>
-    <feed>https://cgit.gentoo.org/proj/perl-overlay.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/perl-overlay.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>perl-experimental-snapshots</name>
-    <description>Unofficial mirror of overlay "perl-experimental" with metadata cache</description>
-    <homepage>https://github.com/gentoo-perl/perl-experimental-snapshots</homepage>
-    <owner type="person">
-      <email>kentnl@gentoo.org</email>
-      <name>Kent Fredric</name>
-    </owner>
-    <source type="git">https://github.com/gentoo-perl/perl-experimental-snapshots.git</source>
-    <source type="git">git://github.com/gentoo-perl/perl-experimental-snapshots.git</source>
-    <feed>https://github.com/gentoo-perl/perl-experimental-snapshots/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>petkovich</name>
     <description lang="en">Personal overlay of Jean-Christophe Petkovich</description>

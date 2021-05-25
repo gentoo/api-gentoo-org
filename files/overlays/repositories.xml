@@ -2646,7 +2646,7 @@
     <description lang="en">myrvogna's personal Gentoo overlay</description>
     <homepage>https://github.com/myrvogna/myrvolay</homepage>
     <owner type="person">
-      <email>octiabrina@myrvogna.net</email>
+      <email>myrvogna@electrosphe.re</email>
       <name>Octiabrina Terrien-Puig</name>
     </owner>
     <source type="git">https://github.com/myrvogna/myrvolay.git</source>

@@ -63,7 +63,7 @@
     <description lang="en">Personal overlay with no special focus</description>
     <homepage>https://git.sr.ht/~dblsaiko/ebuilds</homepage>
     <owner type="person">
-      <email>gentoo@dblsaiko.net</email>
+      <email>me@dblsaiko.net</email>
       <name>2xsaiko</name>
     </owner>
     <source type="git">https://git.sr.ht/~dblsaiko/ebuilds</source>

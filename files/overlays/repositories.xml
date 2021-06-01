@@ -4397,7 +4397,7 @@
     <description lang="en">waebbl's overlay</description>
     <homepage>https://github.com/waebbl/waebbl-gentoo</homepage>
     <owner type="person">
-      <email>waebbl@gmail.com</email>
+      <email>waebbl-gentoo@posteo.net</email>
       <name>Bernd Waibel</name>
     </owner>
     <source type="git">https://github.com/waebbl/waebbl-gentoo.git</source>

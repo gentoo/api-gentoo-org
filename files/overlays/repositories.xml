@@ -306,7 +306,7 @@
     <description>A few packages that are not hosted elsewhere.</description>
     <homepage>https://github.com/anders-larsson/gentoo-overlay</homepage>
     <owner type="person">
-      <email>andla@thethundertemplars.com</email>
+      <email>anders.gentoo@larsson.xyz</email>
       <name>Anders Larsson</name>
     </owner>
     <source type="git">https://github.com/anders-larsson/gentoo-overlay.git</source>

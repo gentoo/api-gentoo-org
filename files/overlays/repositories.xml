@@ -1455,6 +1455,18 @@
     <feed>https://cgit.gentoo.org/dev/fordfrog.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/fordfrog.git/rss/</feed> -->
   </repo>
+    <repo quality="experimental" status="unofficial">
+      <name>fortunelay</name>
+      <description lang="en">Overlay for fortunes</description>
+      <homepage>https://github.com/Alessandro-Barbieri/fortunelay</homepage>
+      <owner type="person">
+        <email>lssndrbarbieri@gmail.com</email>
+        <name>Alessandro Barbieri</name>
+      </owner>
+      <source type="git">https://github.com/Alessandro-Barbieri/fortunelay.git</source>
+      <source type="git">git+ssh://git@github.com/Alessandro-Barbieri/fortunelay.git</source>
+      <feed>https://github.com/Alessandro-Barbieri/fortunelay/commits/master.atom</feed>
+    </repo>
   <repo quality="experimental" status="unofficial">
     <name>fowlay</name>
     <description lang="en">Collection of ebuilds</description>

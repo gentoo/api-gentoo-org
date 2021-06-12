@@ -214,6 +214,7 @@ nsd			223	223	acct
 dnscache		225	-	acct
 dnslog			226     -	acct
 tinydns			227     -	acct
+fritzbox_smarthome_exporter	228	228	acct
 gpio			-	225	acct
 i2c			-	226	acct
 spi			-	227	acct

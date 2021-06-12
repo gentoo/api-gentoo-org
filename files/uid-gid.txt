@@ -40,488 +40,488 @@
 # should be kept in sync with this file.  The bin/update-wiki-table.py
 # helper script can be used for this.
 
-#!NAME			UID	GID	PROVIDER	NOTES
-root			0	0	acct
-root			0	-	baselayout-fbsd
-toor			0	-	baselayout-fbsd
-wheel			-	0	baselayout-fbsd
-bin			1	1	baselayout
-daemon			1	1	baselayout-fbsd
-daemon			2	2	baselayout
-operator		2	5	baselayout-fbsd
-adm			3	4	baselayout
-bin			3	7	baselayout-fbsd
-sys			-	3	baselayout
-sys			-	3	baselayout-fbsd
-lp			4	7	baselayout
-tty			4	4	baselayout-fbsd
-adm			-	4	acct
-sync			5	-	baselayout
-kmem			5	2	baselayout-fbsd
-tty			-	5	baselayout
-tty			-	5	acct
-shutdown		6	-	baselayout
-mail			6	6	baselayout-fbsd
-disk			-	6	acct
-disk			-	6	baselayout
-halt			7	-	baselayout
-games			7	-	baselayout-fbsd
-lp			-	7	acct
-news			8	8	baselayout-fbsd
-mail			8	12	acct		mail user and group removed from baselayout on Linux in [r3093](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2547&r2=3093)
-mem			-	8	baselayout
-man			9	-	baselayout-fbsd
-news			9	13	baselayout
-kmem			-	9	acct
-kmem			-	9	baselayout
-man			-	9	historical	man group removed from baselayout on BSD in [r2528](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.BSD/group?limit_changes=0&r1=2322&r2=2528&pathrev=2545), now on GID 15.
-uucp			10	14	baselayout
-wheel			-	10	acct
-wheel			-	10	baselayout
-operator		11	-	baselayout
-floppy			-	11	baselayout
-man			13	15	acct		Moved out of baselayout in [r2528] and before in [https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1397&r2=1474&pathrev=2545 r1474](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2446&r2=2528&pathrev=2545)
-postmaster		14	-	acct		Removed from baselayout in [r3093](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2547&r2=3093)
-cron			16	16	user.eclass	Removed from baselayout in [r1476](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1475&r2=1476&pathrev=2545)
-console			-	17	baselayout
-audio			-	18	acct		Duplicated in media-sound/{pulseaudio,timidity}.
-audio			-	18	baselayout
-cdrom			-	19	acct
-cdrom			-	19	baselayout
-dialout			-	20	acct
-dialout			-	20	baselayout	Historically removed from baselayout in [r2444](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2310&r2=2444&pathrev=2545), then reintroduced
-ftp			21	21	acct		Removed from baselayout in [r1475](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1474&r2=1475&pathrev=2545)
-sshd			22	22	acct		Removed from baselayout in [r1476](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1475&r2=1476&pathrev=2545)
-smmsp			25	-	baselayout-fbsd
-smtpd			25	25	acct
-smmsp			-	25	historical	Removed from baselayout in [r2528](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.BSD/group?limit_changes=0&r1=2322&r2=2528&pathrev=2545)
-tape			-	26	acct
-tape			-	26	baselayout
-video			-	27	acct
-video			-	27	baselayout
-render			-	28	acct
-squid			31	31	historical	Removed from baselayout in [r1477](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1476&r2=1477&pathrev=2545)
-guest			-	31	baselayout-fbsd
-gdm			32	32	acct
-xfs			33	33	historical	X Font Server, removed from baselayout in [r1572](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1571&r2=1572&pathrev=2545)
-games			35	-	historical	Removed from baselayout in [r1478](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1477&r2=1478&pathrev=2545)
-games			36	35	user.eclass	Names configurable via eclass; group: deprecated by Council decision, removed from baselayout in [r1478](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1477&r2=1478&pathrev=2545)
-gamestat		-	36	acct
-named			40	40	acct		Removed from baselayout in [r1369](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1335&r2=1369&pathrev=2545)
-tor			43	43	acct
-mpd			45	-	acct
-openctd			46	-	acct
-openct			-	46	acct
-pcscd			47	47	acct
-docker			-	48	acct
-knot			53	53	acct
-tss			59	59	acct
-mysql			60	60	acct		Removed from baselayout in [r1335](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1326&r2=1335&pathrev=2545)
-avahi			61	61	acct
-avahi-autoipd		62	62	acct
-authpf			-	63	user.eclass
-netdev			-	64	acct
-uucp			66	65	baselayout-fbsd
-duende			66	-	acct
-dialer			-	68	baselayout-fbsd
-network			-	69	baselayout-fbsd
-postgres		70	70	acct		Moved out of baselayout in [r1861](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1572&r2=1861&pathrev=2545)
-dovenull		74	74	acct
-redis			75	75	acct
-dovecot			76	76	acct
-qemu			77	77	acct
-kvm			-	78	acct
-libvirt			-	79	acct
-cdrw			-	80	baselayout
-apache			81	81	acct		Removed from baselayout in [r916](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=906&r2=916&pathrev=2545)
-nginx			82	82	requested
-nut			84	84	user.eclass	Removed from baselayout in [r1862](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1861&r2=1862&pathrev=2545)
-cyrus			85	-	historical	Removed from baselayout in [r1326](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1319&r2=1326&pathrev=2545)
-usb			-	85	baselayout
-usb			-	85	acct
-nullmail		88	88	user.eclass
-vpopmail		89	89	acct		Removed from baselayout in [r1319](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=916&r2=1319&pathrev=2545)
-partimag		91	91	user.eclass
-radius			95	95	acct
-dovecot			97	97	user.eclass
-input			-	97	acct
-input			-	97	baselayout
-maradns			99	99	acct
-users			-	100	acct
-messagebus		101	101	acct
-polkitd			102	102	acct
-plex			103	103	acct
-lpadmin			-	106	acct
-rpc			111	111	historical	Used by net-nds/portmap, removed in [36e60cce11d7](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=36e60cce11d780582196c42d6b692897455d7a27)
-unifi			113	113	acct
-snapserver		114	114	requested
-snapclient		115	115	requested
-mythtv			117	117	acct
-murmur			122	122	acct
-ntp			123	123	acct
-fetchmail		124	124	acct
-rtkit			133	133	acct
-shellinaboxd		139	139	acct
-owfs			150	150	user.eclass	Ebuild allows overriding username.
-rbldns			153	153	acct
-stapusr			-	156	user.eclass
-stapsys			-	157	user.eclass
-stapdev			-	158	user.eclass
-inspircd		167	167	acct
-transmission		169	169	acct
-pulse			171	171	acct
-pulse-access		-	172	acct
-sispmctl		-	173	acct
-android			-	174	acct
-munin			177	177	acct
-munin-async		178	-	acct
-vlock			-	178	acct
-bird			180	180	acct
-elasticsearch		183	183	acct
-pdnsd			184	184	acct
-tinyproxy		186	186	acct
-iroffer			187	187	acct
-haproxy			188	188	acct
-systemd-journal		-	190	acct
-systemd-journal-remote	191	191	acct
-systemd-network		192	192	acct
-systemd-resolve		193	193	acct
-systemd-coredump	194	194	acct
-systemd-timesync	195	195	acct
-git			196	196	acct
-cgit			197	197	acct
-systemd-oom		198	198	acct
-ipsec			199	199	acct
-alias			200	-	acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
-nofiles			-	200	acct		Removed from baselayout in [r2445](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2444&r2=2445&pathrev=2545)
-qmaild			201	-	acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
-qmail			-	201	acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
-qmaill			202	-	acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
-qmailp			203	-	acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
-qmailq			204	-	acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
-qmailr			205	-	acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
-realtime		-	206	acct
-qmails			206	-	acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
-postfix			207	207	acct		Removed from baselayout in [r1863](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1862&r2=1863&pathrev=2545)
-postdrop		-	208	acct		Removed from baselayout in [r1863](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1862&r2=1863&pathrev=2545)
-smmsp			209	209	acct		user removed out of baselayout in [r2446](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2310&r2=2446&pathrev=2545); group in [r2445](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2444&r2=2445&pathrev=2545)
-cmd5checkpw		212	212	acct
-sddm			219	219	requested
-uptimed			220	220	acct
-gkrellmd		221	221	acct
-msmtpd			222	222	acct
-nsd			223	223	acct
-dnscache		225	-	acct
-dnslog			226     -	acct
-tinydns			227     -	acct
-fritzbox_smarthome_exporter	228	228	acct
-gpio			-	225	acct
-i2c			-	226	acct
-spi			-	227	acct
-vnstat			229	229 acct
-carbon			230	230	acct
-mogile			-	231	acct
-fvwm-crystal		-	232	acct
-postgres_exporter	233	233	acct
-memcached_exporter	234	234	acct
-turnserver		235	235	acct
-tox			236	236	acct
-rspamd			237	237	acct
-github-exporter	238	238	acct
-scponly			239	239	acct
-distcc			240	240	acct
-icingaweb2		-	241	acct
-asterisk		242	242	acct
-fingerprint		-	243	acct
-opendmarc		244	244	acct
-locate			-	245	acct
-slocate			-	245	historical	Removed from baselayout in [r1328](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1319&r2=1328&pathrev=2545)
-at			246	246	acct
-svxlink			247	247	acct
-fdm			248	248	acct
-logsurfer		249	249	acct
-portage			250	250	acct
-wwwoffle		251	251	acct
-smtpq			252	252	acct
-zetcd			253	253	acct
-havp			254	254	acct
-cntlm			255	255	acct
-litecoin		256	256	acct
-sstpc			257	257	acct
-rwhoisd			258	258	acct
-psybnc			259	259	acct
-minbif			260	260	acct
-ez-ipupd		261	261	acct
-dnrd			262	262	acct
-polw			263	263	acct
-artifactory		264	264	acct
-tomcat			265	265	acct
-groonga			266	266	acct
-ceph			267	267	acct
-cvmfs			268	268	acct
-kibana			269	269	acct
-logstash		270	270	acct
-spire			271	271	acct
-plugdev			-	272	acct
-bacula			273	273	acct
-dnsmasq_exporter	274	274	acct
-dnsmasq			275	275	acct
-bind_exporter		276	276	acct
-mongodb_exporter	277	277	acct
-consul_exporter		278	278	acct
-unbound-telemetry	279	279	acct
-notary			280	280	acct
-gnupg-pkcs11-scd-proxy	281	281	acct
-backuppc		282	282	acct
-tenshi			283	283	acct
-logcheck		284	284	acct
-pvpgn			285	285	acct
-sauerbraten		286	286	acct
-gopher			287	287	acct
-pushgateway		288	288	acct
-uwsgi_exporter		289	289	acct
-netdata			290	290	acct
-x2gouser		291	291	acct
-x2goprint		292	292	acct
-blackbox_exporter	293	293	acct
-alertmanager		294	294	acct
-registry		295	295	acct		Used by app-emulation/docker-registry
-ntopng			296	296	acct
-http			297	297	acct		Used by www-servers/caddy
-redis_exporter		298	298	acct
-gpsd			299	-	acct
-ssmtp			-	299	acct
-dhcp			300	300	acct
-squid			301	301	acct
-lighttpd		302	302	acct
-dhcpcd			303	303	acct
-vboxusers		-	304	acct
-vboxguest		305	305	acct
-vboxsf			-	306	acct
-clair			307	307	acct
-mysqld_exporter		308	308	acct
-minion			309	309	acct
-croc			310	310	acct
-ulogd			311	311	acct
-coredns			312	312	acct
-flatpak			313	313	acct
-serf			314	314	acct
-lldpd			315	315	acct
-exabgp			316	316	acct
-sagan			317	317	acct
-fp-multiuser		318	318	acct
-apt-cacher-ng		319	319	acct
-fax			320	320	acct
-openntpd		321	321	acct
-sobby			322	322	acct
-vault_exporter		323	323	acct
-oragono			324	324	acct
-err			325	325	acct
-trojan			326	326	acct
-radicale		327	327	acct
-snort			328	328	acct
-zabbix			329	329	acct
-ossec			330	330	acct
-ossecm			331	-	acct
-pkcs11			-	331	acct
-ossecr			332	-	acct
-scanner			-	332	acct
-amavis			333	333	acct
-opendkim		334	334	acct
-epmd			335	335	acct
-sqlgrey			336	336	acct
-spamd			337	337	acct
-automatic		338	338	acct
-minidlna		339	339	acct
-sanlock			340	340	acct
-stunnel			341	341	acct
-influxdb		342	342	acct
-kapacitor		343	343	acct
-chronograf		344	344	acct
-docker_auth		345	345	acct
-dirsrv			346	346	acct
-tpm			347	347	acct
-unifi-video		348	348	acct
-ushare			349	349	acct
-colord			350	350	acct
-geoclue			351	351	acct
-boinc			352	352	acct
-dnscrypt-proxy		353	353	acct
-nginx-vts-exporter	354	354	acct
-openvpn_exporter	355	355	acct
-postfix_exporter	356	356	acct
-nslcd			357	357	acct
-lxc			358	358	acct
-smsd			359	-	acct
-sms			-	359	acct
-postgrey		360	360	acct
-dehydrated		361	361	acct
-amanda			362	362	acct
-sigh			363	363	acct
-gatling			364	364	acct
-dbmail			365	365	acct
-sniproxy		366	366	acct
-ziproxy			367	367	acct
-octoprint		368	368	historical
-ultimaker		369	369	acct
-sks			370	370	acct
-frr			371	371	acct
-upmpdcli		372	372	acct
-snapclient		373	-	acct
-gnupg-pkcs11		-	373	acct
-snapserver		374	374	acct
-popa3d			375	375	acct		Used by net-mail/popa3d
-mgraph			376	376	acct		Used by net-mail/mailgraph
-pcap			377	377	acct		Used by net-analyzer/tcpdump and net-analyzer/wireshark
-p2p			378	378	acct		Used by net-im/mldonkey
-jabber			379	379	acct		Used by net-im/jabber-base
-darkstat		380	-	acct
-bumblebee		-	380	acct
-dictd			381	381	acct
-sancp			382	382	acct
-argus			383	383	acct
-flows			384	384	acct
-fnordlog		385	-	acct
-gamemode		-	385	acct
-ttrssd			386	386	acct
-sobexsrv		387	387	acct
-kismet			388	388	acct
-grafana			389	389	acct
-monkeysphere		390	390	acct
-unbound			391	391	acct
-privoxy			392	392	acct
-buildbot		393	393	acct		Used by dev-util/buildbot, dev-util/buildbot-worker
-openvpn			394	394	acct
-motion			395	395	acct
-greetd			396	396	acct
-sabnzbd			397	397	acct
-nzbget			398	398	acct
-svn			399	-	acct		Used by dev-vcs/subversion[-apache2]
-svnusers		-	399	acct		Used by dev-vcs/subversion[-apache2]
-slurm			400	400	acct
-monitorix		401	401	acct
-fnord			402	-	acct
-lxd			-	402	acct
-bareos			403	403	acct
-simplevirt		-	404	acct
-guest			405	-	historical	Removed from baselayout in [r889](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=286&r2=889&pathrev=2545)
-sgx			-	405	acct
-sendpage		406	-	acct
-utmp			-	406	acct
-utmp			-	406	baselayout
-bitlbee			407	407	acct
-consul-template		408	408	acct
-saned			409	-	acct
-gpib			-	409	acct		Used by sci-libs/linux-gpib
-vault			410	410	acct
-consul			411	411	acct
-atheme-services		412	412	acct
-ngircd			413	413	acct
-dnsdist			414	414	acct
-cyrus			415	-	acct
-scsi			-	415	acct
-gluster			416	416	acct
-anope			417	417	acct
-usbmux			418	-	acct
-epam			-	418	acct	Used by dev-erlang/epam
-wesnoth			419	419	acct
-davfs2			420	420	acct		Used by net-fs/davfs2
-znc			421	421	acct
-abrt			422	422	acct
-pdns			423	423	acct		Used by net-dns/pdns
-quagga			424	424	acct
-kafka			425	425	acct
-etcd			426	426	acct
-cadvisor		427	427	acct
-telegraf		428	428	acct
-gerbera			429	429	acct
-prometheus		430	430	acct
-netbox			431	431	acct
-kube-apiserver		432	432	acct
-kube-controller-manager	433	433	acct
-kube-scheduler		434	434	acct
-clamav			435	435	acct
-nagios			436	436	acct
-automx2			437	437	acct
-milter-regex		438	438	acct
-ldap			439	439	user.eclass
-collectd		440	440	acct
-memcached		441	441	acct
-cinder			442	442	acct
-glance			443	443	acct
-heat			444	444	acct
-keystone		445	445	acct
-neutron			446	446	acct
-nova			447	447	acct
-placement		448	448	acct
-swift			449	449	acct
-firebird		450	450	user.eclass
-redmine			451	451	acct
-vdr			452	452	requested
-vdradmin		453	453	acct		Used by www-misc/vdradmin-am
-deluge			454	454	acct
-puppet			455	455	acct
-puppetdb		456	456	acct
-icinga			457	457	acct
-nvpd			458	-	acct
-icingacmd		-	458	acct
-node_exporter		459	459	acct
-mogile			460	-	acct
-crontab			-	460	acct
-ubridge			-	461	acct
-sndiod			461	-	acct
-tvheadend		462	-	acct
-xpra			-	462	acct		Used by x11-wm/xpra
-pgbouncer		463	-	acct
-supervisor		-	463	acct
-airdcppd		464	464	acct
-tsm			-	465	acct		Used by app-backup/tsm
-ippl			465	-	acct		Used by net-analyzer/ippl
-rstudio-server		466	466	acct		Used by sci-mathematics/rstudio
-geneweb			467	467	acct
-amule			468	468	acct
-xrootd			469	469	acct
-i2pd			470	470	acct
-i2p			471	471	acct
-quassel			472	472	acct
-jenkins			473	473	acct
-varnish			474	474	acct
-sogo			475	475	acct
-stubby			476	476	acct		Used by net-dns/getdns
-suricata		477	477	acct
-graylog			478	478	acct
-openrct2		479	479	acct
-minetest		480	480	acct
-mongodb			481	481	acct
-mosquitto		482	482	acct
-bitcoin			483	483	acct
-ipfs			484	484	acct
-bedrock			485	485	acct
-spectrum		486	486	acct
-ddclient		487	487	acct
-teamspeak		488	488	acct
-steamcmd		489	489	acct
-minecraft		490	490	acct
-fhem			491	491	acct
-oprofile		492	492	acct
-oidentd			493	493	acct
-unrealircd		494	494	acct
-gvm			495	495	acct
-strelaysrv		496	496	acct
-stdiscosrv		497	497	acct
-burp			498	498	acct
-syncthing		499	499	acct
--			500..999		500..999		reserved	Dynamic allocation by user.eclass. Do not use!
-slurm			500	500	historical	Moved to 400
--			1000..60000		1000..60000		reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs
-ventrilo		3784	3784	historical	Used by media-sound/ventrilo-server-bin, removed in [15c6a556cef2](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=15c6a556cef202a72f7226648ebea19fcffe834d)
--			60001..65533		60001..65532		reserved
--			61184..65519		61184..65519		reserved	Used by systemd DynamicUser feature
-nogroup			-	65533	baselayout
-nogroup			-	65533	baselayout-fbsd
-nobody			65534	65534	acct
--			65535	65535	reserved	-1 on systems with 16 bit uid_t
--			524288..1878982656	524288..1878982656	reserved	Used by systemd for containers
+#!NAME				UID			GID			PROVIDER	NOTES
+root				0			0			acct
+root				0			-			baselayout-fbsd
+toor				0			-			baselayout-fbsd
+wheel				-			0			baselayout-fbsd
+bin				1			1			baselayout
+daemon				1			1			baselayout-fbsd
+daemon				2			2			baselayout
+operator			2			5			baselayout-fbsd
+adm				3			4			baselayout
+bin				3			7			baselayout-fbsd
+sys				-			3			baselayout
+sys				-			3			baselayout-fbsd
+lp				4			7			baselayout
+tty				4			4			baselayout-fbsd
+adm				-			4			acct
+sync				5			-			baselayout
+kmem				5			2			baselayout-fbsd
+tty				-			5			baselayout
+tty				-			5			acct
+shutdown			6			-			baselayout
+mail				6			6			baselayout-fbsd
+disk				-			6			acct
+disk				-			6			baselayout
+halt				7			-			baselayout
+games				7			-			baselayout-fbsd
+lp				-			7			acct
+news				8			8			baselayout-fbsd
+mail				8			12			acct		mail user and group removed from baselayout on Linux in [r3093](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2547&r2=3093)
+mem				-			8			baselayout
+man				9			-			baselayout-fbsd
+news				9			13			baselayout
+kmem				-			9			acct
+kmem				-			9			baselayout
+man				-			9			historical	man group removed from baselayout on BSD in [r2528](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.BSD/group?limit_changes=0&r1=2322&r2=2528&pathrev=2545), now on GID 15.
+uucp				10			14			baselayout
+wheel				-			10			acct
+wheel				-			10			baselayout
+operator			11			-			baselayout
+floppy				-			11			baselayout
+man				13			15			acct		Moved out of baselayout in [r2528] and before in [https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1397&r2=1474&pathrev=2545 r1474](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2446&r2=2528&pathrev=2545)
+postmaster			14			-			acct		Removed from baselayout in [r3093](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2547&r2=3093)
+cron				16			16			user.eclass	Removed from baselayout in [r1476](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1475&r2=1476&pathrev=2545)
+console				-			17			baselayout
+audio				-			18			acct		Duplicated in media-sound/{pulseaudio,timidity}.
+audio				-			18			baselayout
+cdrom				-			19			acct
+cdrom				-			19			baselayout
+dialout				-			20			acct
+dialout				-			20			baselayout	Historically removed from baselayout in [r2444](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2310&r2=2444&pathrev=2545), then reintroduced
+ftp				21			21			acct		Removed from baselayout in [r1475](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1474&r2=1475&pathrev=2545)
+sshd				22			22			acct		Removed from baselayout in [r1476](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1475&r2=1476&pathrev=2545)
+smmsp				25			-			baselayout-fbsd
+smtpd				25			25			acct
+smmsp				-			25			historical	Removed from baselayout in [r2528](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.BSD/group?limit_changes=0&r1=2322&r2=2528&pathrev=2545)
+tape				-			26			acct
+tape				-			26			baselayout
+video				-			27			acct
+video				-			27			baselayout
+render				-			28			acct
+squid				31			31			historical	Removed from baselayout in [r1477](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1476&r2=1477&pathrev=2545)
+guest				-			31			baselayout-fbsd
+gdm				32			32			acct
+xfs				33			33			historical	X Font Server, removed from baselayout in [r1572](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1571&r2=1572&pathrev=2545)
+games				35			-			historical	Removed from baselayout in [r1478](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1477&r2=1478&pathrev=2545)
+games				36			35			user.eclass	Names configurable via eclass; group: deprecated by Council decision, removed from baselayout in [r1478](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1477&r2=1478&pathrev=2545)
+gamestat			-			36			acct
+named				40			40			acct		Removed from baselayout in [r1369](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1335&r2=1369&pathrev=2545)
+tor				43			43			acct
+mpd				45			-			acct
+openctd				46			-			acct
+openct				-			46			acct
+pcscd				47			47			acct
+docker				-			48			acct
+knot				53			53			acct
+tss				59			59			acct
+mysql				60			60			acct		Removed from baselayout in [r1335](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1326&r2=1335&pathrev=2545)
+avahi				61			61			acct
+avahi-autoipd			62			62			acct
+authpf				-			63			user.eclass
+netdev				-			64			acct
+uucp				66			65			baselayout-fbsd
+duende				66			-			acct
+dialer				-			68			baselayout-fbsd
+network				-			69			baselayout-fbsd
+postgres			70			70			acct		Moved out of baselayout in [r1861](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1572&r2=1861&pathrev=2545)
+dovenull			74			74			acct
+redis				75			75			acct
+dovecot				76			76			acct
+qemu				77			77			acct
+kvm				-			78			acct
+libvirt				-			79			acct
+cdrw				-			80			baselayout
+apache				81			81			acct		Removed from baselayout in [r916](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=906&r2=916&pathrev=2545)
+nginx				82			82			requested
+nut				84			84			user.eclass	Removed from baselayout in [r1862](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1861&r2=1862&pathrev=2545)
+cyrus				85			-			historical	Removed from baselayout in [r1326](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1319&r2=1326&pathrev=2545)
+usb				-			85			baselayout
+usb				-			85			acct
+nullmail			88			88			user.eclass
+vpopmail			89			89			acct		Removed from baselayout in [r1319](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=916&r2=1319&pathrev=2545)
+partimag			91			91			user.eclass
+radius				95			95			acct
+dovecot				97			97			user.eclass
+input				-			97			acct
+input				-			97			baselayout
+maradns				99			99			acct
+users				-			100			acct
+messagebus			101			101			acct
+polkitd				102			102			acct
+plex				103			103			acct
+lpadmin				-			106			acct
+rpc				111			111			historical	Used by net-nds/portmap, removed in [36e60cce11d7](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=36e60cce11d780582196c42d6b692897455d7a27)
+unifi				113			113			acct
+snapserver			114			114			requested
+snapclient			115			115			requested
+mythtv				117			117			acct
+murmur				122			122			acct
+ntp				123			123			acct
+fetchmail			124			124			acct
+rtkit				133			133			acct
+shellinaboxd			139			139			acct
+owfs				150			150			user.eclass	Ebuild allows overriding username.
+rbldns				153			153			acct
+stapusr				-			156			user.eclass
+stapsys				-			157			user.eclass
+stapdev				-			158			user.eclass
+inspircd			167			167			acct
+transmission			169			169			acct
+pulse				171			171			acct
+pulse-access			-			172			acct
+sispmctl			-			173			acct
+android				-			174			acct
+munin				177			177			acct
+munin-async			178			-			acct
+vlock				-			178			acct
+bird				180			180			acct
+elasticsearch			183			183			acct
+pdnsd				184			184			acct
+tinyproxy			186			186			acct
+iroffer				187			187			acct
+haproxy				188			188			acct
+systemd-journal			-			190			acct
+systemd-journal-remote		191			191			acct
+systemd-network			192			192			acct
+systemd-resolve			193			193			acct
+systemd-coredump		194			194			acct
+systemd-timesync		195			195			acct
+git				196			196			acct
+cgit				197			197			acct
+systemd-oom			198			198			acct
+ipsec				199			199			acct
+alias				200			-			acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+nofiles				-			200			acct		Removed from baselayout in [r2445](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2444&r2=2445&pathrev=2545)
+qmaild				201			-			acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmail				-			201			acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmaill				202			-			acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmailp				203			-			acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmailq				204			-			acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmailr				205			-			acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+realtime			-			206			acct
+qmails				206			-			acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+postfix				207			207			acct		Removed from baselayout in [r1863](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1862&r2=1863&pathrev=2545)
+postdrop			-			208			acct		Removed from baselayout in [r1863](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1862&r2=1863&pathrev=2545)
+smmsp				209			209			acct		user removed out of baselayout in [r2446](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2310&r2=2446&pathrev=2545); group in [r2445](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2444&r2=2445&pathrev=2545)
+cmd5checkpw			212			212			acct
+sddm				219			219			requested
+uptimed				220			220			acct
+gkrellmd			221			221			acct
+msmtpd				222			222			acct
+nsd				223			223			acct
+dnscache			225			-			acct
+dnslog				226			-			acct
+tinydns				227			-			acct
+fritzbox_smarthome_exporter	228			228			acct
+gpio				-			225			acct
+i2c				-			226			acct
+spi				-			227			acct
+vnstat				229			229			acct
+carbon				230			230			acct
+mogile				-			231			acct
+fvwm-crystal			-			232			acct
+postgres_exporter		233			233			acct
+memcached_exporter		234			234			acct
+turnserver			235			235			acct
+tox				236			236			acct
+rspamd				237			237			acct
+github-exporter			238			238			acct
+scponly				239			239			acct
+distcc				240			240			acct
+icingaweb2			-			241			acct
+asterisk			242			242			acct
+fingerprint			-			243			acct
+opendmarc			244			244			acct
+locate				-			245			acct
+slocate				-			245			historical	Removed from baselayout in [r1328](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1319&r2=1328&pathrev=2545)
+at				246			246			acct
+svxlink				247			247			acct
+fdm				248			248			acct
+logsurfer			249			249			acct
+portage				250			250			acct
+wwwoffle			251			251			acct
+smtpq				252			252			acct
+zetcd				253			253			acct
+havp				254			254			acct
+cntlm				255			255			acct
+litecoin			256			256			acct
+sstpc				257			257			acct
+rwhoisd				258			258			acct
+psybnc				259			259			acct
+minbif				260			260			acct
+ez-ipupd			261			261			acct
+dnrd				262			262			acct
+polw				263			263			acct
+artifactory			264			264			acct
+tomcat				265			265			acct
+groonga				266			266			acct
+ceph				267			267			acct
+cvmfs				268			268			acct
+kibana				269			269			acct
+logstash			270			270			acct
+spire				271			271			acct
+plugdev				-			272			acct
+bacula				273			273			acct
+dnsmasq_exporter		274			274			acct
+dnsmasq				275			275			acct
+bind_exporter			276			276			acct
+mongodb_exporter		277			277			acct
+consul_exporter			278			278			acct
+unbound-telemetry		279			279			acct
+notary				280			280			acct
+gnupg-pkcs11-scd-proxy		281			281			acct
+backuppc			282			282			acct
+tenshi				283			283			acct
+logcheck			284			284			acct
+pvpgn				285			285			acct
+sauerbraten			286			286			acct
+gopher				287			287			acct
+pushgateway			288			288			acct
+uwsgi_exporter			289			289			acct
+netdata				290			290			acct
+x2gouser			291			291			acct
+x2goprint			292			292			acct
+blackbox_exporter		293			293			acct
+alertmanager			294			294			acct
+registry			295			295			acct		Used by app-emulation/docker-registry
+ntopng				296			296			acct
+http				297			297			acct		Used by www-servers/caddy
+redis_exporter			298			298			acct
+gpsd				299			-			acct
+ssmtp				-			299			acct
+dhcp				300			300			acct
+squid				301			301			acct
+lighttpd			302			302			acct
+dhcpcd				303			303			acct
+vboxusers			-			304			acct
+vboxguest			305			305			acct
+vboxsf				-			306			acct
+clair				307			307			acct
+mysqld_exporter			308			308			acct
+minion				309			309			acct
+croc				310			310			acct
+ulogd				311			311			acct
+coredns				312			312			acct
+flatpak				313			313			acct
+serf				314			314			acct
+lldpd				315			315			acct
+exabgp				316			316			acct
+sagan				317			317			acct
+fp-multiuser			318			318			acct
+apt-cacher-ng			319			319			acct
+fax				320			320			acct
+openntpd			321			321			acct
+sobby				322			322			acct
+vault_exporter			323			323			acct
+oragono				324			324			acct
+err				325			325			acct
+trojan				326			326			acct
+radicale			327			327			acct
+snort				328			328			acct
+zabbix				329			329			acct
+ossec				330			330			acct
+ossecm				331			-			acct
+pkcs11				-			331			acct
+ossecr				332			-			acct
+scanner				-			332			acct
+amavis				333			333			acct
+opendkim			334			334			acct
+epmd				335			335			acct
+sqlgrey				336			336			acct
+spamd				337			337			acct
+automatic			338			338			acct
+minidlna			339			339			acct
+sanlock				340			340			acct
+stunnel				341			341			acct
+influxdb			342			342			acct
+kapacitor			343			343			acct
+chronograf			344			344			acct
+docker_auth			345			345			acct
+dirsrv				346			346			acct
+tpm				347			347			acct
+unifi-video			348			348			acct
+ushare				349			349			acct
+colord				350			350			acct
+geoclue				351			351			acct
+boinc				352			352			acct
+dnscrypt-proxy			353			353			acct
+nginx-vts-exporter		354			354			acct
+openvpn_exporter		355			355			acct
+postfix_exporter		356			356			acct
+nslcd				357			357			acct
+lxc				358			358			acct
+smsd				359			-			acct
+sms				-			359			acct
+postgrey			360			360			acct
+dehydrated			361			361			acct
+amanda				362			362			acct
+sigh				363			363			acct
+gatling				364			364			acct
+dbmail				365			365			acct
+sniproxy			366			366			acct
+ziproxy				367			367			acct
+octoprint			368			368			historical
+ultimaker			369			369			acct
+sks				370			370			acct
+frr				371			371			acct
+upmpdcli			372			372			acct
+snapclient			373			-			acct
+gnupg-pkcs11			-			373			acct
+snapserver			374			374			acct
+popa3d				375			375			acct		Used by net-mail/popa3d
+mgraph				376			376			acct		Used by net-mail/mailgraph
+pcap				377			377			acct		Used by net-analyzer/tcpdump and net-analyzer/wireshark
+p2p				378			378			acct		Used by net-im/mldonkey
+jabber				379			379			acct		Used by net-im/jabber-base
+darkstat			380			-			acct
+bumblebee			-			380			acct
+dictd				381			381			acct
+sancp				382			382			acct
+argus				383			383			acct
+flows				384			384			acct
+fnordlog			385			-			acct
+gamemode			-			385			acct
+ttrssd				386			386			acct
+sobexsrv			387			387			acct
+kismet				388			388			acct
+grafana				389			389			acct
+monkeysphere			390			390			acct
+unbound				391			391			acct
+privoxy				392			392			acct
+buildbot			393			393			acct		Used by dev-util/buildbot, dev-util/buildbot-worker
+openvpn				394			394			acct
+motion				395			395			acct
+greetd				396			396			acct
+sabnzbd				397			397			acct
+nzbget				398			398			acct
+svn				399			-			acct		Used by dev-vcs/subversion[-apache2]
+svnusers			-			399			acct		Used by dev-vcs/subversion[-apache2]
+slurm				400			400			acct
+monitorix			401			401			acct
+fnord				402			-			acct
+lxd				-			402			acct
+bareos				403			403			acct
+simplevirt			-			404			acct
+guest				405			-			historical	Removed from baselayout in [r889](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=286&r2=889&pathrev=2545)
+sgx				-			405			acct
+sendpage			406			-			acct
+utmp				-			406			acct
+utmp				-			406			baselayout
+bitlbee				407			407			acct
+consul-template			408			408			acct
+saned				409			-			acct
+gpib				-			409			acct		Used by sci-libs/linux-gpib
+vault				410			410			acct
+consul				411			411			acct
+atheme-services			412			412			acct
+ngircd				413			413			acct
+dnsdist				414			414			acct
+cyrus				415			-			acct
+scsi				-			415			acct
+gluster				416			416			acct
+anope				417			417			acct
+usbmux				418			-			acct
+epam				-			418			acct		Used by dev-erlang/epam
+wesnoth				419			419			acct
+davfs2				420			420			acct		Used by net-fs/davfs2
+znc				421			421			acct
+abrt				422			422			acct
+pdns				423			423			acct		Used by net-dns/pdns
+quagga				424			424			acct
+kafka				425			425			acct
+etcd				426			426			acct
+cadvisor			427			427			acct
+telegraf			428			428			acct
+gerbera				429			429			acct
+prometheus			430			430			acct
+netbox				431			431			acct
+kube-apiserver			432			432			acct
+kube-controller-manager		433			433			acct
+kube-scheduler			434			434			acct
+clamav				435			435			acct
+nagios				436			436			acct
+automx2				437			437			acct
+milter-regex			438			438			acct
+ldap				439			439			user.eclass
+collectd			440			440			acct
+memcached			441			441			acct
+cinder				442			442			acct
+glance				443			443			acct
+heat				444			444			acct
+keystone			445			445			acct
+neutron				446			446			acct
+nova				447			447			acct
+placement			448			448			acct
+swift				449			449			acct
+firebird			450			450			user.eclass
+redmine				451			451			acct
+vdr				452			452			requested
+vdradmin			453			453			acct		Used by www-misc/vdradmin-am
+deluge				454			454			acct
+puppet				455			455			acct
+puppetdb			456			456			acct
+icinga				457			457			acct
+nvpd				458			-			acct
+icingacmd			-			458			acct
+node_exporter			459			459			acct
+mogile				460			-			acct
+crontab				-			460			acct
+ubridge				-			461			acct
+sndiod				461			-			acct
+tvheadend			462			-			acct
+xpra				-			462			acct		Used by x11-wm/xpra
+pgbouncer			463			-			acct
+supervisor			-			463			acct
+airdcppd			464			464			acct
+tsm				-			465			acct		Used by app-backup/tsm
+ippl				465			-			acct		Used by net-analyzer/ippl
+rstudio-server			466			466			acct		Used by sci-mathematics/rstudio
+geneweb				467			467			acct
+amule				468			468			acct
+xrootd				469			469			acct
+i2pd				470			470			acct
+i2p				471			471			acct
+quassel				472			472			acct
+jenkins				473			473			acct
+varnish				474			474			acct
+sogo				475			475			acct
+stubby				476			476			acct		Used by net-dns/getdns
+suricata			477			477			acct
+graylog				478			478			acct
+openrct2			479			479			acct
+minetest			480			480			acct
+mongodb				481			481			acct
+mosquitto			482			482			acct
+bitcoin				483			483			acct
+ipfs				484			484			acct
+bedrock				485			485			acct
+spectrum			486			486			acct
+ddclient			487			487			acct
+teamspeak			488			488			acct
+steamcmd			489			489			acct
+minecraft			490			490			acct
+fhem				491			491			acct
+oprofile			492			492			acct
+oidentd				493			493			acct
+unrealircd			494			494			acct
+gvm				495			495			acct
+strelaysrv			496			496			acct
+stdiscosrv			497			497			acct
+burp				498			498			acct
+syncthing			499			499			acct
+-				500..999		500..999		reserved	Dynamic allocation by user.eclass. Do not use!
+slurm				500			500			historical	Moved to 400
+-				1000..60000		1000..60000		reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs
+ventrilo			3784			3784			historical	Used by media-sound/ventrilo-server-bin, removed in [15c6a556cef2](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=15c6a556cef202a72f7226648ebea19fcffe834d)
+-				60001..65533		60001..65532		reserved
+-				61184..65519		61184..65519		reserved	Used by systemd DynamicUser feature
+nogroup				-			65533			baselayout
+nogroup				-			65533			baselayout-fbsd
+nobody				65534			65534			acct
+-				65535			65535			reserved	-1 on systems with 16 bit uid_t
+-				524288..1878982656	524288..1878982656	reserved	Used by systemd for containers
 
 # Local Variables:
 # mode: conf-space

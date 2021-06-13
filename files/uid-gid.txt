@@ -211,6 +211,7 @@ uptimed				220			220			acct
 gkrellmd			221			221			acct
 msmtpd				222			222			acct
 nsd				223			223			acct
+zeppelin			224			224			acct		Used by www-apps/zeppelin-bin
 dnscache			225			-			acct
 dnslog				226			-			acct
 tinydns				227			-			acct

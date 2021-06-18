@@ -1602,19 +1602,19 @@
     <source type="git">git@github.com:BilyakA/gentoo-clang.git</source>
     <feed>https://github.com/BilyakA/gentoo-clang/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>gentoo-mate</name>
-    <description lang="en">Gentoo MATE Desktop Project Repo</description>
-    <homepage>https://wiki.gentoo.org/wiki/Project:MATE</homepage>
-    <owner type="project">
-      <email>mate@gentoo.org</email>
-      <name>MATE Desktop Project</name>
-    </owner>
+  <repo quality="experimental" status="official">                                  
+    <name>gentoo-mate</name>                                                       
+    <description lang="en">Gentoo MATE Desktop Project Repo</description>          
+    <homepage>https://wiki.gentoo.org/wiki/Project:MATE</homepage>                 
+    <owner type="project">                                                         
+      <email>mate@gentoo.org</email>                                               
+      <name>MATE Desktop Project</name>                                            
+    </owner>                                                                       
     <source type="git">https://anongit.gentoo.org/git/proj/gentoo-mate.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/gentoo-mate.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-mate.git</source>
-    <feed>https://cgit.gentoo.org/proj/gentoo-mate.git/atom/</feed>
-  </repo>
+    <source type="git">git://anongit.gentoo.org/proj/gentoo-mate.git</source>      
+    <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-mate.git</source>  
+    <feed>https://cgit.gentoo.org/proj/gentoo-mate.git/atom/</feed>                
+  </repo>                                                                          
   <repo quality="experimental" status="unofficial">
     <name>gentoo-zh</name>
     <description>To provide programs useful to Chinese speaking users (merged
@@ -4764,19 +4764,6 @@
     <source type="git">git://github.com/kabili207/zyrenth-overlay.git</source>
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>swirl</name>
-    <description lang="en">Overlay for software I use or made</description>
-    <homepage>https://github.com/binex-dsk/ebuilds</homepage>
-    <owner type="person">
-      <email>roachh@protonmail.com</email>
-      <name>Carson Rueter</name>
-    </owner>
-    <source type="git">https://github.com/binex-dsk/ebuilds.git</source>
-    <source type="git">git://github.com/binex-dsk/ebuilds.git</source>
-    <source type="git">git@github.com:binex-dsk/ebuilds.git</source>
-    <feed>https://github.com/binex-dsk/ebuilds/commits/master.atom</feed>
   </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

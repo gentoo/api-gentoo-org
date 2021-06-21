@@ -271,6 +271,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirror.root.lu/gentoo/</uri>
     </mirror>
   </mirrorgroup>
+  <mirrorgroup region="Europe" country="MD" countryname="Moldova">
+    <mirror>
+      <name>Trabia Network</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.as43289.net/gentoo</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirror.as43289.net/gentoo</uri>
+    <mirror>
+  </mirrorgroup>
   <mirrorgroup region="Europe" country="NL" countryname="Netherlands">
     <mirror>
       <name>Universiteit Twente</name>

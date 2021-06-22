@@ -2049,6 +2049,18 @@
     <source type="git">https://github.com/JBoro/portage.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>jjakob</name>
+    <description lang="en">Jernej Jakob's unofficial ebuilds</description>
+    <homepage>https://github.com/jjakob/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>jernej.jakob+gentoo@gmail.com</email>
+      <name>Jernej Jakob</name>
+    </owner>
+    <source type="git">https://github.com/jjakob/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/jjakob/gentoo-overlay.git</source>
+    <feed>https://github.com/jjakob/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>jkolo</name>
     <description lang="en">Jerzy Kolosowski's Gentoo overlay</description>
     <homepage>https://git.kolosowscy.pl/jurek/gentoo-overlay</homepage>

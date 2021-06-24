@@ -318,6 +318,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.leaseweb.com/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.leaseweb.com/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>Easy Lee</name>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirror.easylee.nl/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.easylee.nl/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.easylee.nl/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="PL" countryname="Poland">
     <mirror>

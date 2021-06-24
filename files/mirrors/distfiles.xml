@@ -253,6 +253,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ftp.uni-stuttgart.de/gentoo-distfiles/</uri>
     </mirror>
     <mirror>
+      <name>Freie Universität Berlin - Spline</name>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://ftp.spline.inf.fu-berlin.de/mirrors/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://ftp.spline.inf.fu-berlin.de/mirrors/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://ftp.spline.inf.fu-berlin.de/gentoo-distfiles/</uri>
+    </mirror>
+    <mirror>
       <name>Netzwerge GmbH</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirror.netzwerge.de/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.netzwerge.de/gentoo/</uri>

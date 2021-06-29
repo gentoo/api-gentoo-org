@@ -48,6 +48,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.cs.utah.edu/</uri>
     </mirror>
     <mirror>
+      <name>Massachusetts Institute of Technology</name>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://mirrors.mit.edu/gentoo-distfiles/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.mit.edu/gentoo-distfiles/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://mirrors.mit.edu/gentoo-distfiles/</uri>
+    </mirror>
+    <mirror>
       <name>Rochester Institute of Technology</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirrors.rit.edu/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.rit.edu/gentoo/</uri>

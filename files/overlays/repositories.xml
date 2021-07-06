@@ -1864,6 +1864,18 @@
     <feed>https://cgit.gentoo.org/repo/proj/guru.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>inode64-overlay</name>
+    <description lang="en">Server overlay, virtualization, developer tools and misc apps</description>
+    <description lang="es">Overlay de servidores, virtualización, herramientas para desarrolladores y aplicaciones varias</description>
+    <homepage>https://github.com/inode64/inode64-overlay</homepage>
+    <owner type="person">
+      <email>web@inode64.com</email>
+      <name>F.Javier Félix</name>
+    </owner>
+    <source type="git">https://github.com/inode64/inode64-overlay.git</source>
+    <feed>https://github.com/inode64/inode64-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>haarp</name>
     <description lang="en">misc ebuilds that aren't in the main tree</description>
     <homepage>https://cgit.gentoo.org/user/haarp.git/</homepage>

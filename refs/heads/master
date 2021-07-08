@@ -1,17 +1,19 @@
 certificate version 0.1
-pusher DF84256885283521 1625727884 +0200
-pushee git.gentoo.org:data/api
-nonce 1625727884-8a7dbff51493d7e02be0e0413d615329bc385a8a
+pusher 0x8CAC2A9678548E35 1625736909 +0200
+pushee ssh://git.gentoo.org/data/api.git
+nonce 1625736909-6470646b74822d889869bcada4d90e4f7d3dbca9
 
-a919858cbadf9b1725ecd59eafd2c48587b5f355 2518ea3df3451e742e9f4bb37b3a5ef4dcfaeb09 refs/heads/master
+2518ea3df3451e742e9f4bb37b3a5ef4dcfaeb09 cd9f7b722703d74625decee2def5fb81a0188eeb refs/heads/master
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAABCAAdFiEEx2qEUJQJjSjMiybFY5ra4jKeJA4FAmDmo4wACgkQY5ra4jKe
-JA7fEAgAnJpWc7NU17uaxO283Sequ6fbIdfyT0+wk7CGag8YQ7d8vr/FZGNrqgGK
-MovrSobi9IUrsf07k9n3Qq/N8t2Tbm7Emi3v1JjX6x4JGyxHzlHVWfG71lj7nbDx
-FLedxwSFKx3fzKftX5jm3OgLFLs9VfjUWrLy7yZRPdpCghGGbK0WxomeU/BFnJ92
-xe3TcaqByZfO2/vn+4dGFa7W06U0XUbV2yoKniVgM06ktp89Dx3Yn5t/1hUFqUUI
-c+u8ukQWC8oD+jpuk6nW5MwUnuyqMFR2jsxr5t2WWBF17J3FYy6z+duf5kBjFk8k
-6GUHtKWNYeVGxs6lYdGqp6RH/QWVLQ==
-=jCy6
+iQGTBAABCgB9FiEEl3UFnzoh3OFr5PuuIjmn6PWFIFIFAmDmxs1fFIAAAAAALgAo
+aXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldDk3
+NzUwNTlGM0EyMURDRTE2QkU0RkJBRTIyMzlBN0U4RjU4NTIwNTIACgkQIjmn6PWF
+IFKYYwf/RU9aUHo+5o5wAgBvcWb9yopnHJTjfzkvlRr5bhHl5UPlIbvAf2WKMKXM
+jxet01wMvMmJzYzjwNAU1zJbOmN5Y1QJy3OIXOrySmhEGTjm1b1flGfTjCoobrs3
+uNDCv0GW/3rYMPijl5HxYRxd3dzmq3IbVmjxE9smvpfKzkNiSItr7x87uf3HS9um
+xeI0g/3q/9/xJw478lMWeOwalR3shj8sjkg1YwwV8+PJWMK/0D+EICFwXqStcGiS
+aBj7GKp0tCuocPHKlWoWJzYRMu/6X3S6FcVMc7rEyub3sIHlUovaZYcrifk60Tk0
+g1SCvzC2Mx2uopoUjrrxJg827ojHKw==
+=MMV+
 -----END PGP SIGNATURE-----

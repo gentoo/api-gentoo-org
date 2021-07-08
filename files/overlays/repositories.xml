@@ -4141,6 +4141,18 @@
     <feed>https://github.com/telans/EBUILDS/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>tezeta</name>
+    <description lang="en">tezeta's personal overlay</description>
+    <homepage>https://github.com/tezeta/tezeta-overlay</homepage>
+    <owner type="person">
+      <email>jejfarmer@gmail.com</email>
+      <name>tezeta</name>
+    </owner>
+    <source type="git">https://github.com/tezeta/tezeta-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/tezeta/tezeta-overlay.git</source>
+    <feed>https://github.com/tezeta/tezeta-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>tf201</name>
     <description lang="en">TF201 (Asus Transformer Prime) overlay for Gentoo</description>
     <homepage>https://github.com/Tux1c/tf201-overlay</homepage>

@@ -592,7 +592,7 @@
     <description>Bitcoin and CPU/GPU mining related ebuilds</description>
     <homepage>https://gitlab.com/bitcoin/gentoo.git</homepage>
     <owner type="person">
-      <email>flo@geekplace.eu</email>
+      <email>flow@gentoo.org</email>
       <name>Florian Schmaus</name>
     </owner>
     <source type="git">https://gitlab.com/bitcoin/gentoo.git</source>
@@ -1411,7 +1411,7 @@
     <description lang="en">Ebuilds by Florian Schmaus</description>
     <homepage>https://gitlab.com/Flow/flow-s-ebuilds</homepage>
     <owner type="person">
-      <email>flo@geekplace.eu</email>
+      <email>flow@gentoo.org</email>
       <name>Florian Schmaus</name>
     </owner>
     <source type="git">https://gitlab.com/Flow/flow-s-ebuilds.git</source>

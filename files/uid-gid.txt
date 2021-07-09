@@ -135,12 +135,10 @@ libvirt				-			79			acct
 cdrw				-			80			baselayout
 apache				81			81			acct		Removed from baselayout in [r916](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=906&r2=916&pathrev=2545)
 nginx				82			82			requested
-nut				84			84			user.eclass	Removed from baselayout in [r1862](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1861&r2=1862&pathrev=2545)
 nut				84			84			acct
 cyrus				85			-			historical	Removed from baselayout in [r1326](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1319&r2=1326&pathrev=2545)
 usb				-			85			baselayout
 usb				-			85			acct
-nullmail			88			88			user.eclass
 nullmail			88			88			acct
 vpopmail			89			89			acct		Removed from baselayout in [r1319](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=916&r2=1319&pathrev=2545)
 partimag			91			91			user.eclass

@@ -301,6 +301,7 @@ lighttpd			302			302			acct
 dhcpcd				303			303			acct
 vboxusers			-			304			acct
 vboxguest			305			305			acct
+sockd				306			-			acct
 vboxsf				-			306			acct
 clair				307			307			acct
 mysqld_exporter			308			308			acct

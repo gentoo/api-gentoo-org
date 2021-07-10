@@ -205,6 +205,7 @@ qmails				206			-			acct		Removed from baselayout in [r1397](https://sources.gen
 postfix				207			207			acct		Removed from baselayout in [r1863](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1862&r2=1863&pathrev=2545)
 postdrop			-			208			acct		Removed from baselayout in [r1863](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1862&r2=1863&pathrev=2545)
 smmsp				209			209			acct		user removed out of baselayout in [r2446](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2310&r2=2446&pathrev=2545); group in [r2445](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2444&r2=2445&pathrev=2545)
+zookeeper			211			211			acct
 cmd5checkpw			212			212			acct
 cancd				213			213			acct
 sockd				214			214			acct

@@ -177,6 +177,7 @@ android				-			174			acct
 munin				177			177			acct
 munin-async			178			-			acct
 vlock				-			178			acct
+samplicator			179			179			acct
 bird				180			180			acct
 defang				181			181			acct
 ftpproxy			182			182			acct

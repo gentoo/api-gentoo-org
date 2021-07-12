@@ -169,6 +169,7 @@ stapusr				-			156			user.eclass
 stapsys				-			157			user.eclass
 stapdev				-			158			user.eclass
 inspircd			167			167			acct
+netperf				168			168			acct
 transmission			169			169			acct
 arpwatch			170			170			acct
 pulse				171			171			acct

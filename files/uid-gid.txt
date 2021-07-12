@@ -164,6 +164,7 @@ fetchmail			124			124			acct
 rtkit				133			133			acct
 shellinaboxd			139			139			acct
 owfs				150			150			user.eclass	Ebuild allows overriding username.
+taskd				152			152			acct
 rbldns				153			153			acct
 redsocks			154			154			acct
 stapusr				-			156			user.eclass

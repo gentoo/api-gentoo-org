@@ -168,6 +168,7 @@ rbldns				153			153			acct
 stapusr				-			156			user.eclass
 stapsys				-			157			user.eclass
 stapdev				-			158			user.eclass
+smokeping			164			164			acct
 sguil				165			165			acct
 scanlogd			166			166			acct
 inspircd			167			167			acct

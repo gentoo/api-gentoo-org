@@ -164,6 +164,7 @@ ntp				123			123			acct
 fetchmail			124			124			acct
 gopherd				132			132			acct
 rtkit				133			133			acct
+lightdm				134			134			acct
 pgagent				135			135			acct
 subsonic			136			136			acct
 beanstalk			137			137			acct

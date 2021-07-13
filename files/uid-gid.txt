@@ -164,6 +164,7 @@ ntp				123			123			acct
 fetchmail			124			124			acct
 rtkit				133			133			acct
 shellinaboxd			139			139			acct
+icecream			145			145			acct
 dbskkd				146			146			acct
 axtls				147			147			acct
 bitflu				148			148			acct

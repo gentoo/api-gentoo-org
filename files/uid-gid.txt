@@ -162,6 +162,7 @@ mythtv				117			117			acct
 murmur				122			122			acct
 ntp				123			123			acct
 fetchmail			124			124			acct
+vacation			125			125			acct
 rt				126			126			acct
 chrony				127			127			acct
 foldingathome			128			128			acct

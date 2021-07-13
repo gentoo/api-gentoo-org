@@ -154,6 +154,7 @@ polkitd				102			102			acct
 plex				103			103			acct
 freenet				105			105			acct
 lpadmin				-			106			acct
+rabbitmq_exporter		107			107			acct
 snmp_exporter			108			108			acct
 rundeck				109			109			acct
 cockroach			110			110			acct

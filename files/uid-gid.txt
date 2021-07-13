@@ -155,6 +155,7 @@ plex				103			103			acct
 freenet				105			105			acct
 lpadmin				-			106			acct
 rpc				111			111			historical	Used by net-nds/portmap, removed in [36e60cce11d7](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=36e60cce11d780582196c42d6b692897455d7a27)
+drone				112			112			acct
 unifi				113			113			acct
 snapserver			114			114			requested
 snapclient			115			115			requested

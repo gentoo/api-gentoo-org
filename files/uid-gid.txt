@@ -159,6 +159,7 @@ unifi				113			113			acct
 snapserver			114			114			requested
 snapclient			115			115			requested
 mythtv				117			117			acct
+trickster			119			119			acct
 fcron				120			120			acct
 rabbitmq			121			121			acct
 murmur				122			122			acct

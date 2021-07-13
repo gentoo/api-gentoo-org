@@ -334,6 +334,7 @@ dhcp				300			300			acct
 squid				301			301			acct
 lighttpd			302			302			acct
 dhcpcd				303			303			acct
+hacluster			304			-			acct
 vboxusers			-			304			acct
 vboxguest			305			305			acct
 timidity			306			-			acct

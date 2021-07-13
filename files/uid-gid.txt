@@ -147,6 +147,7 @@ radius				95			95			acct
 dovecot				97			97			user.eclass
 input				-			97			acct
 input				-			97			baselayout
+elasticsearch_exporter		98			98			acct
 maradns				99			99			acct
 users				-			100			acct
 messagebus			101			101			acct

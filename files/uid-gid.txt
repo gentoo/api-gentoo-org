@@ -163,6 +163,7 @@ ntp				123			123			acct
 fetchmail			124			124			acct
 rtkit				133			133			acct
 shellinaboxd			139			139			acct
+monkeyd				149			149			acct
 owfs				150			150			user.eclass	Ebuild allows overriding username.
 opendnssec			151			151			acct
 taskd				152			152			acct

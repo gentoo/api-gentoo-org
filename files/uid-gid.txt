@@ -180,7 +180,6 @@ ntp				123			123			acct
 fetchmail			124			124			acct
 vacation			125			125			acct
 rt				126			126			acct
-chrony				127			127			acct
 foldingathome			128			128			acct
 rbot				129			129			acct
 ros				130			130			acct

@@ -227,6 +227,7 @@ qmail				-			201			acct		Removed from baselayout in [r1397](https://sources.gent
 qmaill				202			-			acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
 qmailp				203			-			acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
 qmailq				204			-			acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+haclient			-			204			acct
 qmailr				205			-			acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
 xwax				-			205			acct
 realtime			-			206			acct

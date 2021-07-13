@@ -163,6 +163,7 @@ murmur				122			122			acct
 ntp				123			123			acct
 fetchmail			124			124			acct
 rtkit				133			133			acct
+beanstalk			137			137			acct
 gauth				138			138			acct
 shellinaboxd			139			139			acct
 resin				140			140			acct

@@ -164,6 +164,7 @@ ntp				123			123			acct
 fetchmail			124			124			acct
 rtkit				133			133			acct
 shellinaboxd			139			139			acct
+h2o				141			141			acct
 nm-openconnect			142			142			acct
 nm-openvpn			143			143			acct
 munge				144			144			acct

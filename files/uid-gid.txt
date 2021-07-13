@@ -152,6 +152,7 @@ users				-			100			acct
 messagebus			101			101			acct
 polkitd				102			102			acct
 plex				103			103			acct
+grok_exporter			104			104			acct
 freenet				105			105			acct
 lpadmin				-			106			acct
 rabbitmq_exporter		107			107			acct

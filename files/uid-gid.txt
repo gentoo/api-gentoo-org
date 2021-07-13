@@ -82,6 +82,7 @@ operator			11			-			baselayout
 floppy				-			11			baselayout
 man				13			15			acct		Moved out of baselayout in [r2528] and before in [https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1397&r2=1474&pathrev=2545 r1474](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2446&r2=2528&pathrev=2545)
 postmaster			14			-			acct		Removed from baselayout in [r3093](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2547&r2=3093)
+cron				16			16			acct
 cron				16			16			user.eclass	Removed from baselayout in [r1476](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1475&r2=1476&pathrev=2545)
 console				-			17			baselayout
 audio				-			18			acct		Duplicated in media-sound/{pulseaudio,timidity}.

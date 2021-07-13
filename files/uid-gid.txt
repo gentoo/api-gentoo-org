@@ -154,6 +154,7 @@ polkitd				102			102			acct
 plex				103			103			acct
 freenet				105			105			acct
 lpadmin				-			106			acct
+rundeck				109			109			acct
 cockroach			110			110			acct
 rpc				111			111			historical	Used by net-nds/portmap, removed in [36e60cce11d7](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=36e60cce11d780582196c42d6b692897455d7a27)
 drone				112			112			acct

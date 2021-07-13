@@ -168,6 +168,7 @@ opendnssec			151			151			acct
 taskd				152			152			acct
 rbldns				153			153			acct
 redsocks			154			154			acct
+thttpd				155			155			acct
 stapusr				-			156			user.eclass
 stapsys				-			157			user.eclass
 stapdev				-			158			user.eclass

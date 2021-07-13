@@ -180,6 +180,7 @@ ntp				123			123			acct
 fetchmail			124			124			acct
 vacation			125			125			acct
 rt				126			126			acct
+opm					127			127			acct
 foldingathome			128			128			acct
 rbot				129			129			acct
 ros				130			130			acct
@@ -336,7 +337,6 @@ cvmfs				268			268			acct
 kibana				269			269			acct
 logstash			270			270			acct
 spire				271			271			acct
-opm				272			-			acct
 plugdev				-			272			acct
 bacula				273			273			acct
 dnsmasq_exporter		274			274			acct

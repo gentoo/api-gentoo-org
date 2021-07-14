@@ -533,6 +533,7 @@ neutron				446			446			acct
 nova				447			447			acct
 placement			448			448			acct
 swift				449			449			acct
+firebird			450			450			acct
 firebird			450			450			user.eclass
 redmine				451			451			acct
 vdr				452			452			requested

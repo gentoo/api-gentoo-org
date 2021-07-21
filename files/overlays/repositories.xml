@@ -2590,6 +2590,18 @@
     <source type="git">git+ssh://git@github.com/Xiami2012/moexiami-ovl-sync.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>molese</name>
+    <description lang="en">molese's Portage Overlay for Gentoo Linux providing ebuilds for various packages</description>
+    <homepage>https://github.com/m0lese/portage-overlay</homepage>
+    <owner type="person">
+      <email>molese@protonmail.com</email>
+      <name>molese</name>
+    </owner>
+    <source type="git">https://github.com/m0lese/portage-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/m0lese/portage-overlay.git</source>
+    <feed>https://github.com/m0lese/portage-overlay/commits/prime.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>moltonel</name>
     <description lang="en">Vincent de Phily's private overlay</description>
     <homepage>https://github.com/vincentdephily/moltonel-ebuilds/</homepage>

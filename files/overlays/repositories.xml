@@ -726,18 +726,6 @@
     <source type="git">git://git.calculate-linux.org/calculate/calculate-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>canutethegreat-overlay</name>
-    <description lang="en">Overlay for personal projects, forks, and customizations</description>
-    <homepage>http://gentoo.canutethegreat.com/</homepage>
-    <owner type="person">
-      <email>canutethegreat@gmail.com</email>
-      <name>Ronald Farrer</name>
-    </owner>
-    <source type="git">https://github.com/CanuteTheGreat/canutethegreat-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/CanuteTheGreat/canutethegreat-overlay.git</source>
-    <feed>https://github.com/CanuteTheGreat/canutethegreat-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>Case_Of</name>
     <description lang="en">Personal overlay</description>
     <homepage>https://framagit.org/Case_Of/gentoo-overlay</homepage>
@@ -1636,18 +1624,6 @@
     <source type="git">git://anongit.gentoo.org/proj/gentoo-mate.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-mate.git</source>
     <feed>https://cgit.gentoo.org/proj/gentoo-mate.git/atom/</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gentoo-linux-surface-overlay</name>
-    <description lang="en">Overlay for running Gentoo Linux on Microsoft Surface devices.</description>
-    <homepage>http://gentoo.canutethegreat.com/</homepage>
-    <owner type="person">
-      <email>canutethegreat@gmail.com</email>
-      <name>Ronald Farrer</name>
-    </owner>
-    <source type="git">https://github.com/CanuteTheGreat/gentoo-linux-surface-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/CanuteTheGreat/gentoo-linux-surface-overlay.git</source>
-    <feed>https://github.com/CanuteTheGreat/gentoo-linux-surface-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-zh</name>

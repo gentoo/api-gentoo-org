@@ -3302,7 +3302,7 @@
   <repo quality="experimental" status="official">
     <name>qt</name>
     <description>Official testing overlay for Qt and related packages, provided
-    by Gentoo's Qt team. Contains ebuilds for Qt4 and Qt5 prereleases and live ebuilds,
+    by Gentoo's Qt team. Contains ebuilds for Qt5 and Qt6 prereleases and live ebuilds,
     plus various (non-KDE) applications and utilities that use Qt.</description>
     <homepage>https://github.com/gentoo/qt</homepage>
     <owner type="project">

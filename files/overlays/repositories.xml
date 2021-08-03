@@ -4094,15 +4094,14 @@
     <description lang="en">Overlay for software I use or made</description>
     <homepage>https://github.com/binex-dsk/ebuilds</homepage>
     <owner type="person">
-      <email>roachh@protonmail.com</email>
+      <email>swurl@swurl.xyz</email>
       <name>Carson Rueter</name>
     </owner>
     <source type="git">https://github.com/binex-dsk/ebuilds.git</source>
     <source type="git">git://github.com/binex-dsk/ebuilds.git</source>
     <source type="git">git@github.com:binex-dsk/ebuilds.git</source>
-    <source type="git">https://git.funny.cl/swirl/ebuilds.git</source>
-    <source type="git">git://git.funny.cl/swirl/ebuilds.git</source>
-    <source type="git">gitea@git.funny.cl:swirl/ebuilds.git</source>
+    <source type="git">https://git.swurl.xyz/swirl/ebuilds.git</source>
+    <source type="git">gitea@git.swurl.xyz:swirl/ebuilds.git</source>
     <feed>https://github.com/binex-dsk/ebuilds/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

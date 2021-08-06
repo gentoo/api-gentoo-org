@@ -2768,7 +2768,7 @@
     <description lang="en">VISA and National Instruments drivers</description>
     <homepage>https://github.com/AndrewAmmerlaan/natinst</homepage>
     <owner type="person">
-      <email>andrewammerlaan@riseup.net</email>
+      <email>andrewammerlaan@gentoo.org</email>
       <name>Andrew Ammerlaan</name>
     </owner>
     <source type="git">https://github.com/AndrewAmmerlaan/natinst.git</source>

@@ -3905,6 +3905,17 @@
     <feed>https://gitlab.com/eternal-sorrow/gentoo-local/commits/master?format=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>spark-overlay</name>
+    <description>Java Big Data Infrastructure</description>
+    <homepage>https://github.com/6-6-6/spark-overlay</homepage>
+    <owner type="person">
+      <email>liaoyuan@gmail.com</email>
+      <name>Yuan Liao</name>
+    </owner>
+    <source type="git">https://github.com/6-6-6/spark-overlay.git</source>
+    <source type="git">git+ssh://git@github.com:6-6-6/spark-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>spikyatlinux</name>
     <description>Here are some of my own or modified ebuilds. Also some of them I've found in the web.</description>
     <homepage>https://github.com/spikyatlinux/ebuilds_for_gentoo</homepage>

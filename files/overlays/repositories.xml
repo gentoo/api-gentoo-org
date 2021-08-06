@@ -4730,13 +4730,11 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>xwing</name>
-    <description>This overlay contains some experimental stuff, such as
-    turboprint printers driver (bug #61311), intel-536ep driver for lastest 2.6
-    kernels (bug #127464), lastest grisbi version (proxy maintainer) before
-    it's portage integration and so on.</description>
-    <homepage>http://gentoo.xwing.info</homepage>
+    <description>Guillaume Castagnino’s personal overlay.</description>
+    <homepage>https://gentoo.xwing.info</homepage>
     <owner type="person">
       <email>casta@xwing.info</email>
+      <name>Guillaume Castagnino</name>
     </owner>
     <source type="rsync">rsync://gentoo.xwing.info/xwing-overlay</source>
   </repo>

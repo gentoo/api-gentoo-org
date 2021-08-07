@@ -3454,6 +3454,18 @@
     <feed>https://github.com/pkulev/riru/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>rnp</name>
+    <description lang="en">High performance C++ OpenPGP library, fully compliant to RFC 4880</description>
+    <homepage>https://www.rnpgp.org/</homepage>
+    <owner type="person">
+      <email>anton@picapica.im</email>
+      <name>Anton Sviridenko</name>
+    </owner>
+    <source type="git">https://github.com/rnpgp/gentoo-rnp.git</source>
+    <source type="git">git+ssh://git@github.com/rnpgp/gentoo-rnp.git</source>
+    <feed>https://github.com/rnpgp/gentoo-rnp/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>robert7k</name>
     <description lang="en">personal overlay of robert7k</description>
     <homepage>https://github.com/robert7k/gentoo-overlay</homepage>

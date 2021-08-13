@@ -1908,6 +1908,17 @@
     <source type="git">git://anongit.gentoo.org/user/haarp.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>hamari</name>
+    <description lang="en">Personal overlay of hamari</description>
+    <homepage>https://github.com/hamarituc/gentoo-overlay/</homepage>
+    <owner type="person">
+      <email>mario.haustein@hrz.tu-chemnitz.de</email>
+      <name>Mario Haustein</name>
+    </owner>
+    <source type="git">https://github.com/hamarituc/gentoo-overlay.git</source>
+    <feed>https://github.com/hamarituc/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>hamper-overlay</name>
     <description>User overlay</description>
     <homepage>https://github.com/hamper/hamper-overlay</homepage>

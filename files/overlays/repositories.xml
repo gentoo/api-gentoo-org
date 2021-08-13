@@ -3336,6 +3336,18 @@
     <source type="rsync">rsync://roverlay.dev.gentoo.org/roverlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>racket-overlay</name>
+    <description lang="en">Racket packages overlay by src_prepare group</description>
+    <homepage>https://gitlab.com/src_prepare/racket/racket-overlay</homepage>
+    <owner type="person">
+      <email>xgqt@riseup.net</email>
+      <name>Maciej Barć</name>
+    </owner>
+    <source type="git">https://gitlab.com/src_prepare/racket/racket-overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com/src_prepare/racket/racket-overlay.git</source>
+    <feed>https://gitlab.com/src_prepare/racket/racket-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>rage</name>
     <description lang="en">rage's personal overlay</description>
     <homepage>https://gitlab.com/oxr463/overlay</homepage>

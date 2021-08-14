@@ -1624,6 +1624,18 @@
     <source type="git">git@github.com:BilyakA/gentoo-clang.git</source>
     <feed>https://github.com/BilyakA/gentoo-clang/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>gentoo-linux-surface-overlay</name>
+    <description lang="en">Overlay for running Gentoo Linux on Microsoft Surface devices.</description>
+    <homepage>http://gentoo.canutethegreat.com/</homepage>
+    <owner type="person">
+      <email>canutethegreat@gmail.com</email>
+      <name>Ronald Farrer</name>
+    </owner>
+    <source type="git">https://github.com/CanuteTheGreat/gentoo-linux-surface-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/CanuteTheGreat/gentoo-linux-surface-overlay.git</source>
+    <feed>https://github.com/CanuteTheGreat/gentoo-linux-surface-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>gentoo-mate</name>
     <description lang="en">Gentoo MATE Desktop Project Repo</description>
@@ -1636,18 +1648,6 @@
     <source type="git">git://anongit.gentoo.org/proj/gentoo-mate.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/gentoo-mate.git</source>
     <feed>https://cgit.gentoo.org/proj/gentoo-mate.git/atom/</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gentoo-linux-surface-overlay</name>
-    <description lang="en">Overlay for running Gentoo Linux on Microsoft Surface devices.</description>
-    <homepage>http://gentoo.canutethegreat.com/</homepage>
-    <owner type="person">
-      <email>canutethegreat@gmail.com</email>
-      <name>Ronald Farrer</name>
-    </owner>
-    <source type="git">https://github.com/CanuteTheGreat/gentoo-linux-surface-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/CanuteTheGreat/gentoo-linux-surface-overlay.git</source>
-    <feed>https://github.com/CanuteTheGreat/gentoo-linux-surface-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoo-zh</name>
@@ -1886,18 +1886,6 @@
     <feed>https://cgit.gentoo.org/repo/proj/guru.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>inode64-overlay</name>
-    <description lang="en">Server overlay, virtualization, developer tools and misc apps</description>
-    <description lang="es">Overlay de servidores, virtualización, herramientas para desarrolladores y aplicaciones varias</description>
-    <homepage>https://github.com/inode64/inode64-overlay</homepage>
-    <owner type="person">
-      <email>web@inode64.com</email>
-      <name>F.Javier Félix</name>
-    </owner>
-    <source type="git">https://github.com/inode64/inode64-overlay.git</source>
-    <feed>https://github.com/inode64/inode64-overlay/commits/main.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>haarp</name>
     <description lang="en">misc ebuilds that aren't in the main tree</description>
     <homepage>https://cgit.gentoo.org/user/haarp.git/</homepage>
@@ -2056,6 +2044,18 @@
     <source type="git">git+ssh://git@git.gentoo.org/dev/ikelos.git</source>
     <feed>https://cgit.gentoo.org/dev/ikelos.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/ikelos.git/rss/</feed> -->
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>inode64-overlay</name>
+    <description lang="en">Server overlay, virtualization, developer tools and misc apps</description>
+    <description lang="es">Overlay de servidores, virtualización, herramientas para desarrolladores y aplicaciones varias</description>
+    <homepage>https://github.com/inode64/inode64-overlay</homepage>
+    <owner type="person">
+      <email>web@inode64.com</email>
+      <name>F.Javier Félix</name>
+    </owner>
+    <source type="git">https://github.com/inode64/inode64-overlay.git</source>
+    <feed>https://github.com/inode64/inode64-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ixit</name>

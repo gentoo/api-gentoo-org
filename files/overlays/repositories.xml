@@ -4906,5 +4906,17 @@
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>nordvpn</name>
+    <description lang="en">NordVPN client overlay</description>
+    <homepage>https://gitlab.com/lahouari.dc/nordvpn/</homepage>
+    <owner type="person">
+      <email>lahouari.dc@gmail.com</email>
+      <name>Dawid Chemloul</name>
+    </owner>
+    <source type="git">https://gitlab.com/lahouari.dc/nordvpn.git</source>
+    <source type="git">git@gitlab.com:lahouari.dc/nordvpn.git</source>
+    <feed>https://gitlab.com/lahouari.dc/nordvpn/-/commits/main.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

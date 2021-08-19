@@ -941,6 +941,18 @@
     </owner>
     <source type="git">https://github.com/dev-0x7C6/dev1990-overlay.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>didos</name>
+    <description lang="en">DidOS overlay gentoo edition</description>
+    <homepage>https://github.com/prototype99/didos</homepage>
+    <owner type="person">
+      <email>sophietheopossum@yandex.ru</email>
+      <name>Seirra Blake</name>
+    </owner>
+    <source type="git">https://github.com/prototype99/didos.git</source>
+    <source type="git">git+ssh://git@github.com/prototype99/didos.git</source>
+    <feed>https://github.com/prototype99/didos/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>dilfridge</name>
     <description lang="en">Dilfridge overlay: experimental ebuilds and lab software</description>
@@ -3233,18 +3245,6 @@
     </owner>
     <source type="git">https://github.com/Pross/pross-overlay.git</source>
     <feed>https://github.com/Pross/pross-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>prototype99</name>
-    <description lang="en">assorted ebuilds designed to solve bugs, or bring new features</description>
-    <homepage>https://github.com/prototype99/prototype99</homepage>
-    <owner type="person">
-      <email>sophietheopossum@yandex.ru</email>
-      <name>Seirra Blake</name>
-    </owner>
-    <source type="git">https://github.com/prototype99/prototype99.git</source>
-    <source type="git">git+ssh://git@github.com/prototype99/prototype99.git</source>
-    <feed>https://github.com/prototype99/prototype99/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pyfa</name>

@@ -2046,16 +2046,12 @@
   <repo quality="experimental" status="unofficial">
     <name>ikelos</name>
     <description>Ikelos's hospice for broken and damaged ebuilds.</description>
-    <homepage>https://cgit.gentoo.org/dev/ikelos.git/</homepage>
+    <homepage>https://github.com/ikelos/gentoo-overlay.git</homepage>
     <owner type="person">
       <email>ikelos@gentoo.org</email>
       <name>Mike Auty</name>
     </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/ikelos.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/ikelos.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/ikelos.git</source>
-    <feed>https://cgit.gentoo.org/dev/ikelos.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/ikelos.git/rss/</feed> -->
+    <source type="git">https://github.com/ikelos/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>inode64-overlay</name>

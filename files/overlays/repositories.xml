@@ -2587,6 +2587,17 @@
     <feed>https://github.com/metafarion/metahax/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>Miezhiko</name>
+    <description>Miezhiko personal overlay</description>
+    <homepage>https://github.com/Miezhiko/Overlay</homepage>
+    <owner type="person">
+      <email>Miezhiko@gmail.com</email>
+      <name>Miezhiko</name>
+    </owner>
+    <source type="git">https://github.com/Miezhiko/Overlay.git</source>
+    <feed>https://github.com/Miezhiko/Overlay/commits/mawa.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>milos-rs</name>
     <description>A pocket repository for few unavailable packages</description>
     <homepage>https://github.com/milos-rs/gentoo-overlay</homepage>

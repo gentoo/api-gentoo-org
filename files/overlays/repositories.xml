@@ -161,6 +161,18 @@
     <feed>https://github.com/ahyangyi/ahyangyi-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>akater</name>
+    <description lang="en">Personal ebuild repository.  Emacs, Lisp, minimalism.</description>
+    <homepage>https://gitlab.com/akater/ebuilds</homepage>
+    <owner type="person">
+      <name>akater</name>
+      <email>nuclearspace@gmail.com</email>
+    </owner>
+    <source type="git">https://gitlab.com/akater/ebuilds.git</source>
+    <source type="git">git+ssh://git@gitlab.com/akater/ebuilds.git</source>
+    <feed>https://gitlab.com/akater/ebuilds/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>alatar-lay</name>
     <description lang="en">Alatar`s personal ebuilds</description>
     <homepage>https://github.com/alatarum/alatar-lay</homepage>

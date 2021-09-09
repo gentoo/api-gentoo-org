@@ -3937,7 +3937,7 @@
     <description lang="en">Ebuilds for some wayland-related software and some other stuff</description>
     <homepage>https://gitlab.com/eternal-sorrow/gentoo-local</homepage>
     <owner type="person">
-      <email>sergamena@inbox.ru</email>
+      <email>lynx1534@gmail.com</email>
       <name>sorrow</name>
     </owner>
     <source type="git">https://gitlab.com/eternal-sorrow/gentoo-local.git</source>

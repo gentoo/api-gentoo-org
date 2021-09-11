@@ -2928,12 +2928,12 @@
   <repo quality="experimental" status="unofficial">
     <name>nymphos</name>
     <description lang="en">Overlay for ebuilds used in NymphOS</description>
-    <homepage>https://git.nymphos.ga/</homepage>
+    <homepage>https://github.com/neeshy/nymphos</homepage>
     <owner type="person">
       <email>neeshy@tfwno.gf</email>
     </owner>
-    <source type="git">https://git.nymphos.ga/anon/nymphos</source>
-    <feed>https://git.nymphos.ga/nymphos/atom</feed>
+    <source type="git">https://github.com/neeshy/nymphos</source>
+    <feed>https://github.com/neeshy/nymphos/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>octopus</name>

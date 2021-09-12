@@ -879,7 +879,7 @@
       <name>DankDumpster</name>
       <email>dev@mtbk.me</email>
     </owner>
-    <source type="git">https://gitlab.com/DankDumpster/gentoo-overlay.git</source>
+    <source type="git">https://github.com/DankDumpster/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/DankDumpster/gentoo-overlay.git</source>
     <feed>https://github.com/DankDumpster/gentoo-overlay/commits/main.atom</feed>
   </repo>

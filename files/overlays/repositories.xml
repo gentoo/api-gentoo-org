@@ -2224,6 +2224,18 @@
     <!-- <feed>https://cgit.gentoo.org/dev/johu.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>jokleinn</name>
+    <description>Personal overlay of jokleinn feat. ricing, musl, haskell ebuilds</description>
+    <owner type="person">
+      <email>jokleinn@jokleinn.org</email>
+      <name>jokleinn</name>
+    </owner>
+    <source type="git">https://github.com/jokleinn/jokleinn-overlay.git</source>
+    <source type="git">git://github.com/jokleinn/jokleinn-overlay.git</source>
+    <source type="git">git@github.com:jokleinn/jokleinn-overlay.git</source>
+    <feed>https://github.com/jokleinn/jokleinn-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>jorgicio</name>
     <description lang="en">Gentoo repository made by Jorgicio.</description>
     <homepage>https://github.com/jorgicio/jorgicio-gentoo</homepage>

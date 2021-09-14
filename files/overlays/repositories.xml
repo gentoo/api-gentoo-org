@@ -4116,6 +4116,17 @@
     <feed>https://github.com/istitov/stuff/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>suntar</name>
+    <description lang="en">Suntar's overlay</description>
+    <homepage>https://github.com/suntar/suntar-overlay</homepage>
+    <owner type="person">
+      <email>alenk.serg@gmail.com</email>
+      <name>Elena Sergeicheva</name>
+    </owner>
+    <source type="git">git://github.com/suntar/suntar-overlay.git</source>
+    <feed>https://github.com/suntar/suntar-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>superposition</name>
     <description lang="en">Phil's overlay</description>
     <homepage>https://cgit.gentoo.org/repo/user/superposition.git/</homepage>

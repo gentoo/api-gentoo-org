@@ -56,20 +56,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.br.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="AT" countryname="Austria">
-    <mirror>
-      <name>Any available mirror - rsync.at.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.at.gentoo.org</uri>
-    </mirror>
-    <!--<mirror>
-      <name>Inode - rsync1.at.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.at.gentoo.org</uri>
-    </mirror>-->
-    <mirror>
-      <name>Lagis - rsync2.at.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync2.at.gentoo.org</uri>
-    </mirror>
-  </mirrorgroup>
   <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="CZ" countryname="Czech Republic">
     <mirror>
       <name>Any available mirror - rsync.cz.gentoo.org</name>

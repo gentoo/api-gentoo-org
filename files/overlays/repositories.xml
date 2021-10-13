@@ -4456,6 +4456,26 @@
     <feed>https://cgit.gentoo.org/dev/ultrabug.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/ultrabug.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="official">
+    <name>ukui</name>
+    <description lang="en">Gentoo Overlay for UKUI Desktop Environment</description>
+    <homepage>https://www.ukui.org/</homepage>
+    <owner type="person">
+      <email>OriPoin@outlook.com</email>
+      <name>Yachen Wang</name>
+    </owner>
+    <owner type="person">
+      <email>open@brsvh.org</email>
+      <name>Burgess Chang</name>
+    </owner>
+    <owner type="person">
+      <email>jianfengli@ubuntukylin.com</email>
+      <name>Handsome Feng</name>
+    </owner>
+    <source type="git">https://github.com/ukui/ukui-overlay</source>
+    <source type="git">git@github.com:ukui/ukui-overlay.git</source>
+    <feed>https://github.com/ukui/ukui-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>unc3nsored</name>
     <description lang="en">Overlay for software I didn't find in the main tree</description>

@@ -3390,6 +3390,18 @@
     <source type="rsync">rsync://roverlay.dev.gentoo.org/roverlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>r7l</name>
+    <description lang="en">r7l Gentoo overlay with custom Ebuilds</description>
+    <homepage>https://github.com/r7l/r7l-overlay</homepage>
+    <owner type="person">
+      <email>gentoo@r1l.eu</email>
+      <name>r7l</name>
+    </owner>
+    <source type="git">https://github.com/r7l/r7l-overlay.git</source>
+    <source type="git">git+ssh://git@github.com:r7l/r7l-overlay.git</source>
+    <feed>https://github.com/r7l/r7l-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>racket-overlay</name>
     <description lang="en">Racket packages overlay by src_prepare group</description>
     <homepage>https://gitlab.com/src_prepare/racket/racket-overlay</homepage>

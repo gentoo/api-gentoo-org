@@ -671,6 +671,18 @@
     <feed>https://github.com/l29ah/booboo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>bratishkaerik-overlay</name>
+    <description lang="en">Personal overlay</description>
+    <homepage>https://github.com/BratishkaErik/bratishkaerik-overlay</homepage>
+    <owner type="person">
+      <email>erik.zholdasov@mail.ru</email>
+      <name>BratishkaErik</name>
+    </owner>
+    <source type="git">https://github.com/BratishkaErik/bratishkaerik-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/BratishkaErik/bratishkaerik-overlay.git</source>
+    <feed>https://github.com/BratishkaErik/bratishkaerik-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>brave-overlay</name>
     <description lang="en">Brave Overlay</description>
     <homepage>https://gitlab.com/jason.oliveira/brave-overlay</homepage>

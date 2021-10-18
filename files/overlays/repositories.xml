@@ -2394,6 +2394,18 @@
     <source type="git">ssh://git@git.kske.dev:420/kske/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>lab-overlay</name>
+    <description lang="en">Lab Overlay</description>
+    <homepage>https://github.com/positivelab/lab-overlay</homepage>
+    <owner type="person">
+      <email>gentoo@positivelab.com</email>
+      <name>Stanislav Romanov</name>
+    </owner>
+    <source type="git">https://github.com/positivelab/lab-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/positivelab/lab-overlay.git</source>
+    <feed>https://github.com/positivelab/lab-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>lanodanOverlay</name>
     <description lang="en">Additionnal goals; experiments, necromancy, portability, diversity, …</description>
     <description lang="fr">Buts additionnels; Expérimentations, nécromancie, portabilitée, diversitée, …</description>

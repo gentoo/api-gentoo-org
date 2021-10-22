@@ -369,6 +369,18 @@
     <feed>https://github.com/anomen-s/anomen-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>antons-matrix-overlay</name>
+    <description lang="en">Packages related to matrix.org messaging system</description>
+    <homepage>https://gitlab.com/anton.molyboha.group/gentoo/overlays/matrix</homepage>
+    <owner type="person">
+      <email>anton.stay.connected@gmail.com</email>
+      <name>Anton</name>
+    </owner>
+    <source type="git">https://gitlab.com/anton.molyboha.group/gentoo/overlays/matrix.git</source>
+    <source type="git">git+ssh://git@gitlab.com:anton.molyboha.group/gentoo/overlays/matrix.git</source>
+    <feed>https://gitlab.com/anton.molyboha.group/gentoo/overlays/matrix/-/commits/master?format=atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>anyc</name>
     <description lang="en">Testing ebuilds for out-of-tree applications</description>
     <homepage>https://github.com/anyc/anyc-overlay</homepage>

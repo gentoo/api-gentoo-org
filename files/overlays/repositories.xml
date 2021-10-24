@@ -5014,5 +5014,18 @@
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>
+    <repo quality="experimental" status="unofficial">
+    <name>fyn-overlay</name>
+    <description lang="en">fyn 's personal overlay</description>
+    <homepage>https://github.com/qwe795138426/fyn-overlay</homepage>
+    <owner type="person">
+      <email>qwe7951384261@outlook.com</email>
+      <name>Yining Feng</name>
+    </owner>
+    <source type="git">https://github.com/qwe795138426/fyn-overlay.git</source>
+    <source type="git">git://github.com/qwe795138426/fyn-overlay.git</source>
+    <source type="git">git@github.com:qwe795138426/fyn-overlay.git</source>
+    <feed>https://github.com/qwe795138426/fyn-overlay/commits/master.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

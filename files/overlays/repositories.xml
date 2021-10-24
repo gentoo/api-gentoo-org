@@ -1620,6 +1620,19 @@
     <feed>https://github.com/fusion809/fusion809-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>fyn-overlay</name>
+    <description lang="en">fyn 's personal overlay</description>
+    <homepage>https://github.com/qwe795138426/fyn-overlay</homepage>
+    <owner type="person">
+      <email>qwe7951384261@outlook.com</email>
+      <name>Yining Feng</name>
+    </owner>
+    <source type="git">https://github.com/qwe795138426/fyn-overlay.git</source>
+    <source type="git">git://github.com/qwe795138426/fyn-overlay.git</source>
+    <source type="git">git@github.com:qwe795138426/fyn-overlay.git</source>
+    <feed>https://github.com/qwe795138426/fyn-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gamarouns</name>
     <description>Bits and pieces missing in gentoo or layman repos I need</description>
     <homepage>https://github.com/Amaroun/gamarouns</homepage>

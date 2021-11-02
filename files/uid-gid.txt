@@ -125,6 +125,7 @@ authpf				-			63			user.eclass
 netdev				-			64			acct
 uucp				66			65			baselayout-fbsd
 duende				66			-			acct
+systemd-hostname		-			66			acct		Used by sys-apps/systemd[hostnamed-fallback] via acct-group/systemd-hostname
 dialer				-			68			baselayout-fbsd
 network				-			69			baselayout-fbsd
 postgres			70			70			acct		Moved out of baselayout in [r1861](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1572&r2=1861&pathrev=2545)

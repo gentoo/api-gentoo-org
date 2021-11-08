@@ -4512,6 +4512,22 @@
     <feed>https://github.com/xxc3nsoredxx/unc3nsored/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>underworld</name>
+    <description lang="en">DakEnviy's Gentoo Overlay</description>
+    <homepage>https://github.com/DakEnviy/underworld-overlay</homepage>
+    <owner type="person">
+      <name>Mikhail Golbakh</name>
+      <email>golbah@yandex.ru</email>
+    </owner>
+    <owner type="person">
+      <name>Eridan Domoratskiy</name>
+      <email>eridan200@mail.ru</email>
+    </owner>
+    <source type="git">https://github.com/DakEnviy/underworld-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/DakEnviy/underworld-overlay.git</source>
+    <feed>https://github.com/DakEnviy/underworld-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>unity-gentoo</name>
     <description lang="en">Overlay to install the Unity desktop</description>
     <homepage>https://github.com/shiznix/unity-gentoo</homepage>

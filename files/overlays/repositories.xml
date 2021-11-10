@@ -2983,6 +2983,18 @@
     <feed>https://github.com/oddlama/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>okh</name>
+    <description lang="en">Personal overlay with no special focus.</description>
+    <homepage>https://github.com/OlexiyKhokhlov/okh-overlay</homepage>
+    <owner type="person">
+      <email>alex.forth@gmail.com</email>
+      <name>Olexiy Khokhlov</name>
+    </owner>
+    <source type="git">https://github.com/OlexiyKhokhlov/okh-overlay.git</source>
+    <source type="git">git@github.com:OlexiyKhokhlov/okh-overlay.git</source>
+    <feed>https://github.com/OlexiyKhokhlov/okh-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>olifre</name>
     <description lang="en">Personal overlay of Oliver Freyermuth.</description>
     <homepage>https://github.com/olifre/olifre-portage</homepage>
@@ -5029,18 +5041,6 @@
     <source type="git">git://github.com/kabili207/zyrenth-overlay.git</source>
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>okh</name>
-    <description lang="en">Personal overlay with no special focus.</description>
-    <homepage>https://github.com/OlexiyKhokhlov/okh-overlay</homepage>
-    <owner type="person">
-      <email>alex.forth@gmail.com</email>
-      <name>Olexiy Khokhlov</name>
-    </owner>
-    <source type="git">https://github.com/OlexiyKhokhlov/okh-overlay.git</source>
-    <source type="git">git@github.com:OlexiyKhokhlov/okh-overlay.git</source>
-    <feed>https://github.com/OlexiyKhokhlov/okh-overlay/commits/master.atom</feed>
   </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

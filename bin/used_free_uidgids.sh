@@ -11,6 +11,7 @@
 #	from.  Can be set to - to go maximum possible 32-bit value.
 # debug => if non-zero outputs some cryptic debug output (will inherit from environment).
 #
+min=101
 max=499
 debug=${debug:+1} # set non-zero to enable debug output.
 
@@ -171,7 +172,7 @@ fi
 
 ui=0 # index into uids array.
 gi=0 # index into gids array.
-idbase=0 # "start" of range about to be output.
+idbase=${min} # "start" of range about to be output.
 freeuid=0 # count number of free UIDs
 freegid=0 # count number of free GIDs
 freepair=0 # count number of free UID+GID pairs.

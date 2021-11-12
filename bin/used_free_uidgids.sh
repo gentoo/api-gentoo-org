@@ -7,12 +7,15 @@
 # So that you can contact me if you need help with the below insanity.
 #
 # Configuration options:
-# max => maximum value of uid/gid that we're interested in/willing to allocate
-#	from.  Can be set to - to go maximum possible 32-bit value.
+# selection_ranges => an array of start-stop values.  There is an assumption of
+#  incremental ordering, ie, start values should be in incrementing order, and
 # debug => if non-zero outputs some cryptic debug output (will inherit from environment).
 #
-min=101
-max=499
+selection_ranges=(
+	499-101
+	#500-799
+	#60001-60999
+)
 debug=${debug:+1} # set non-zero to enable debug output.
 
 #
@@ -172,93 +175,139 @@ fi
 
 ui=0 # index into uids array.
 gi=0 # index into gids array.
-idbase=${min} # "start" of range about to be output.
-freeuid=0 # count number of free UIDs
-freegid=0 # count number of free GIDs
-freepair=0 # count number of free UID+GID pairs.
 
-printf "%-*s%10s%10s\n" $(( ${#max} * 2 + 5 )) "#ID" UID GID
+free_total_uid=0
+free_total_gid=0
+free_total_pair=0
 
-while [[ ${idbase} -le ${max} ]]; do
-	# skip over uid and gid ranges that we're no longer interested in (end of range is
-	# lower than start of output range).
-	while [[ ${ui} -lt ${#uids[@]} && ${ranges_uid[uids[ui]]} -lt ${idbase} ]]; do
-		(( ui++ ))
-	done
-	while [[ ${gi} -lt ${#gids[@]} && ${ranges_gid[gids[gi]]} -lt ${idbase} ]]; do
-		(( gi++ ))
-	done
-	# Assume that range we're going to output is the remainder of the legal
-	# space we're interested in, and then adjust downwards as needed.  For each
-	# of the UID and GID space, if the start range is beyond the current output
-	# start we're looking at a FREE range, so downward adjust re (range end) to
-	# the next non-FREE range's start - 1, or if we're in the non-FREE range,
-	# adjust downward to that range's end.
-	re=${max}
-	uid_start=-1
-	gid_start=-1
-	if [[ ${ui} -lt ${#uids[@]} ]]; then
-		uid_start=${uids[ui]}
-		if [[ ${uid_start} -gt ${idbase} && ${uid_start} -le ${re} ]]; then
-			re=$(( ${uid_start} - 1 ))
-		fi
-		if [[ ${ranges_uid[uid_start]} -lt ${re} ]]; then
-			re=${ranges_uid[uid_start]}
-		fi
-	fi
-	if [[ ${gi} -lt ${#gids[@]} ]]; then
-		gid_start=${gids[gi]}
-		if [[ ${gid_start} -gt ${idbase} && ${gid_start} -le ${re} ]]; then
-			re=$(( ${gid_start} - 1 ))
-		fi
-		if [[ ${ranges_gid[gid_start]} -lt ${re} ]]; then
-			re=${ranges_gid[gid_start]}
-		fi
+for r in "${selection_ranges[@]}"; do
+	min=${r%-*} # "start" of range about to be output.
+	max=${r#*-} # "end" of range about to be output.
+	selection=min
+	if [[ $max -lt $min ]]; then
+		selection=max
+		t=${max}
+		max=${min}
+		min=${t}
 	fi
 
-	# If we're debugging, just dump various variables above, which allows
-	# validating that the above logic works correctly.
-	[[ -n "${debug}" ]] && echo "ui=${ui} (${uid_start}..${ranges_uid[uid_start]}), gi=${gi} (${gid_start}..${ranges_gid[gid_start]}), idbase=${idbase}, re=${re}"
+	freeuid=0 # count number of free UIDs
+	freegid=0 # count number of free GIDs
+	freepair=0 # count number of free UID+GID pairs.
 
-	# Determine the state of the UID and GID ranges.
-	if [[ ${ui} -lt ${#uids[@]} && ${uid_start} -le ${idbase} ]]; then
-		uidstate="${reason_uid[uid_start]}"
-	else
-		uidstate=FREE
-		freeuid=$(( freeuid + re - idbase + 1 ))
-	fi
+	echo "Range: ${min}..${max} (${selection})"
+	printf "%-*s%10s%10s\n" $(( ${#max} * 2 + 5 )) "#ID" UID GID
 
-	if [[ ${gi} -lt ${#gids[@]} && ${gid_start} -le ${idbase} ]]; then
-		gidstate="${reason_gid[gids[gi]]}"
-	else
-		gidstate=FREE
-		freegid=$(( freegid + re - idbase + 1 ))
-	fi
+	idbase=${min}
+	while [[ ${idbase} -le ${max} ]]; do
+		# skip over uid and gid ranges that we're no longer interested in (end of range is
+		# lower than start of output range).
+		while [[ ${ui} -lt ${#uids[@]} && ${ranges_uid[uids[ui]]} -lt ${idbase} ]]; do
+			(( ui++ ))
+		done
+		while [[ ${gi} -lt ${#gids[@]} && ${ranges_gid[gids[gi]]} -lt ${idbase} ]]; do
+			(( gi++ ))
+		done
+		# Assume that range we're going to output is the remainder of the legal
+		# space we're interested in, and then adjust downwards as needed.  For each
+		# of the UID and GID space, if the start range is beyond the current output
+		# start we're looking at a FREE range, so downward adjust re (range end) to
+		# the next non-FREE range's start - 1, or if we're in the non-FREE range,
+		# adjust downward to that range's end.
+		re=${max}
+		uid_start=-1
+		gid_start=-1
+		if [[ ${ui} -lt ${#uids[@]} ]]; then
+			uid_start=${uids[ui]}
+			if [[ ${uid_start} -gt ${idbase} && ${uid_start} -le ${re} ]]; then
+				re=$(( ${uid_start} - 1 ))
+			fi
+			if [[ ${ranges_uid[uid_start]} -lt ${re} ]]; then
+				re=${ranges_uid[uid_start]}
+			fi
+		fi
+		if [[ ${gi} -lt ${#gids[@]} ]]; then
+			gid_start=${gids[gi]}
+			if [[ ${gid_start} -gt ${idbase} && ${gid_start} -le ${re} ]]; then
+				re=$(( ${gid_start} - 1 ))
+			fi
+			if [[ ${ranges_gid[gid_start]} -lt ${re} ]]; then
+				re=${ranges_gid[gid_start]}
+			fi
+		fi
 
-	# If the ranges are FREE (or at least one of), adjust selection recommendations
-	# accordingly.
-	if [[ "${gidstate}" == FREE ]]; then
-		if [[ "${uidstate}" == FREE ]]; then
-			uidgidboth=${re}
-			freepair=$(( freepair + re - idbase + 1 ))
+		# If we're debugging, just dump various variables above, which allows
+		# validating that the above logic works correctly.
+		[[ -n "${debug}" ]] && echo "ui=${ui} (${uid_start}..${ranges_uid[uid_start]}), gi=${gi} (${gid_start}..${ranges_gid[gid_start]}), idbase=${idbase}, re=${re}"
+
+		# Determine the state of the UID and GID ranges.
+		if [[ ${ui} -lt ${#uids[@]} && ${uid_start} -le ${idbase} ]]; then
+			uidstate="${reason_uid[uid_start]}"
 		else
-			gidonly=${re}
+			uidstate=FREE
+			freeuid=$(( freeuid + re - idbase + 1 ))
 		fi
-	elif [[ "${uidstate}" == FREE ]]; then
-		uidonly=${re}
-	fi
 
-	vn="colour_${uidstate}"
-	colour_uid="${!vn}"
-	vn="colour_${gidstate}"
-	colour_gid="${!vn}"
-	printf "%-*s${colour_uid}%10s${colour_gid}%10s${colour_RESET}\n" $(( ${#max} * 2 + 5 )) "${idbase}$([[ ${re} -gt ${idbase} ]] && echo "..${re}")" "${uidstate}" "${gidstate}"
-	idbase=$(( re + 1 ))
+		if [[ ${gi} -lt ${#gids[@]} && ${gid_start} -le ${idbase} ]]; then
+			gidstate="${reason_gid[gids[gi]]}"
+		else
+			gidstate=FREE
+			freegid=$(( freegid + re - idbase + 1 ))
+		fi
+
+		# If the ranges are FREE (or at least one of), adjust selection recommendations
+		# accordingly.
+		if [[ "${gidstate}" == FREE ]]; then
+			if [[ "${uidstate}" == FREE ]]; then
+				case "${selection}" in
+					min)
+						[[ -z "${uidgidboth}" ]] && uidgidboth=${idbase}
+						;;
+					max)
+						[[ -z "${uidgidboth}" || ${uidgidboth} -ge ${min} ]] && uidgidboth=${re}
+						;;
+				esac
+				freepair=$(( freepair + re - idbase + 1 ))
+			else
+				case "${selection}" in
+					min)
+						[[ -z "${gidonly}" ]] && gidonly=${idbase}
+						;;
+					max)
+						[[ -z "${gidonly}" || ${gidonly} -ge ${min} ]] && gidonly=${re}
+						;;
+				esac
+			fi
+		elif [[ "${uidstate}" == FREE ]]; then
+			case "${selection}" in
+				min)
+					[[ -z "${uidonly}" ]] && uidonly=${idbase}
+					;;
+				max)
+					[[ -z "${uidonly}" || ${uidonly} -ge ${min} ]] && uidonly=${re}
+					;;
+			esac
+		fi
+
+		vn="colour_${uidstate}"
+		colour_uid="${!vn}"
+		vn="colour_${gidstate}"
+		colour_gid="${!vn}"
+		printf "%-*s${colour_uid}%10s${colour_gid}%10s${colour_RESET}\n" $(( ${#max} * 2 + 5 )) "${idbase}$([[ ${re} -gt ${idbase} ]] && echo "..${re}")" "${uidstate}" "${gidstate}"
+		idbase=$(( re + 1 ))
+	done
+	echo "Range Free UIDs: ${freeuid}"
+	echo "Range Free GIDs: ${freegid}"
+	echo "Range Free UID+GID pairs: ${freepair}"
+	echo
+	(( free_total_uid += freeuid ))
+	(( free_total_gid += freegid ))
+	(( free_total_pair += freepair ))
 done
 
 echo "Recommended GID only: ${gidonly:-${uidgidboth:-none}}"
 echo "Recommended UID only: ${uidonly:=${uidgidboth:-none}}"
 echo "Recommended UID+GID pair: ${uidgidboth:-none}"
-echo "Free UIDs: ${freeuid}"
-echo "Free GIDs: ${freegid}"
-echo "Free UID+GID pairs: ${freepair}"
+echo "Free UIDs: ${free_total_uid}"
+echo "Free GIDs: ${free_total_gid}"
+echo "Free UID+GID pairs: ${free_total_pair}"

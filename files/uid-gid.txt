@@ -168,8 +168,8 @@ cockroach			110			110			acct
 rpc				111			111			historical	Used by net-nds/portmap, removed in [36e60cce11d7](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=36e60cce11d780582196c42d6b692897455d7a27)
 drone				112			112			acct
 unifi				113			113			acct
-ejabberd			114			114			reserved
-prosody				115			115			reserved
+ejabberd			114			114			requested
+prosody				115			115			requested
 badvpn				116			116			acct
 mythtv				117			117			acct
 karma				118			118			acct

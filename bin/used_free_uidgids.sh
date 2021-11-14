@@ -13,7 +13,7 @@
 #
 selection_ranges=(
 	499-101
-	#500-799
+	500-749
 	#60001-60999
 )
 debug=${debug:+1} # set non-zero to enable debug output.

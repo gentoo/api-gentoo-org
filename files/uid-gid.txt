@@ -122,7 +122,7 @@ avahi				61			61			acct
 avahi-autoipd			62			62			acct
 authpf				-			63			user.eclass
 netdev				-			64			acct
-uucp				66			65			baselayout-fbsd
+uucp				66			66			baselayout-fbsd
 duende				66			-			acct
 dialer				-			68			baselayout-fbsd
 network				-			69			baselayout-fbsd

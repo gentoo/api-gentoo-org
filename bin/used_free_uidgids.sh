@@ -305,9 +305,14 @@ for r in "${selection_ranges[@]}"; do
 	(( free_total_pair += freepair ))
 done
 
-echo "Recommended GID only: ${gidonly:-${uidgidboth:-none}}"
-echo "Recommended UID only: ${uidonly:=${uidgidboth:-none}}"
-echo "Recommended UID+GID pair: ${uidgidboth:-none}"
 echo "Free UIDs: ${free_total_uid}"
 echo "Free GIDs: ${free_total_gid}"
 echo "Free UID+GID pairs: ${free_total_pair}"
+echo
+
+for out in "Recommended GID only: ${gidonly:-${uidgidboth:-none}}" \
+	   "Recommended UID only: ${uidonly:-${uidgidboth:-none}}" \
+	   "Recommended UID+GID pair: ${uidgidboth:-none}"; do
+    [[ ${out} == *none ]] && colour=${colour_USED} || colour=${colour_FREE}
+    echo -e "${out%%: *}: ${colour}${out#*: }${colour_RESET}"
+done

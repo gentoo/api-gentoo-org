@@ -124,7 +124,6 @@ authpf				-			63			user.eclass
 netdev				-			64			acct
 uucp				66			65			baselayout-fbsd
 duende				66			-			acct
-systemd-hostname		-			66			acct		Used by sys-apps/systemd[hostnamed-fallback] via acct-group/systemd-hostname
 dialer				-			68			baselayout-fbsd
 network				-			69			baselayout-fbsd
 postgres			70			70			acct		Moved out of baselayout in [r1861](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1572&r2=1861&pathrev=2545)
@@ -145,14 +144,10 @@ nullmail			88			88			acct
 vpopmail			89			89			acct		Removed from baselayout in [r1319](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=916&r2=1319&pathrev=2545)
 partimag			91			91			acct
 partimag			91			91			user.eclass
-fluentd				93			93			acct
-reg				94			94			acct
 radius				95			95			acct
-burrow_exporter			96			96			acct
 dovecot				97			97			user.eclass
 input				-			97			acct
 input				-			97			baselayout
-elasticsearch_exporter		98			98			acct
 maradns				99			99			acct
 users				-			100			acct
 messagebus			101			101			acct
@@ -592,11 +587,11 @@ stdiscosrv			497			497			acct
 burp				498			498			acct
 syncthing			499			499			acct
 slurm				500			500			historical	Moved to 400
-elasticsearch_exporter		501			501			requested
-burrow_exporter			502			502			requested
-reg				503			503			requested
-fluentd				504			504			requested
-systemd-hostname		-			505			requested
+elasticsearch_exporter		501			501			acct
+burrow_exporter			502			502			acct
+reg				503			503			acct
+fluentd				504			504			acct
+systemd-hostname		-			505			acct
 -				750..999		750..999		reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000		1000..60000		reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs
 ventrilo			3784			3784			historical	Used by media-sound/ventrilo-server-bin, removed in [15c6a556cef2](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=15c6a556cef202a72f7226648ebea19fcffe834d)

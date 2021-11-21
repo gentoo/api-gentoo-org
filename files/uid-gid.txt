@@ -83,8 +83,8 @@ operator			11			-			baselayout
 floppy				-			11			baselayout
 man				13			15			acct		Moved out of baselayout in [r2528] and before in [https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1397&r2=1474&pathrev=2545 r1474](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2446&r2=2528&pathrev=2545)
 postmaster			14			-			acct		Removed from baselayout in [r3093](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2547&r2=3093)
-cron				16			16			acct
-cron				16			16			user.eclass	Removed from baselayout in [r1476](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1475&r2=1476&pathrev=2545)
+uucp				-			14			acct
+cron				16			16			acct		Removed from baselayout in [r1476](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1475&r2=1476&pathrev=2545)
 console				-			17			baselayout
 audio				-			18			acct		Duplicated in media-sound/{pulseaudio,timidity}.
 audio				-			18			baselayout
@@ -137,7 +137,7 @@ kvm				-			78			acct
 libvirt				-			79			acct
 cdrw				-			80			baselayout
 apache				81			81			acct		Removed from baselayout in [r916](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=906&r2=916&pathrev=2545)
-nginx				82			82			requested
+nginx				82			82			acct
 nut				84			84			acct
 cyrus				85			-			historical	Removed from baselayout in [r1326](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1319&r2=1326&pathrev=2545)
 usb				-			85			acct
@@ -145,7 +145,6 @@ usb				-			85			baselayout
 nullmail			88			88			acct
 vpopmail			89			89			acct		Removed from baselayout in [r1319](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=916&r2=1319&pathrev=2545)
 partimag			91			91			acct
-partimag			91			91			user.eclass
 radius				95			95			acct
 dovecot				97			97			user.eclass
 input				-			97			acct
@@ -167,7 +166,7 @@ rpc				111			111			historical	Used by net-nds/portmap, removed in [36e60cce11d7]
 drone				112			112			acct
 unifi				113			113			acct
 ejabberd			114			114			requested
-prosody				115			115			requested
+prosody				115			115			acct
 badvpn				116			116			acct
 mythtv				117			117			acct
 karma				118			118			acct
@@ -208,9 +207,9 @@ taskd				152			152			acct
 rbldns				153			153			acct
 redsocks			154			154			acct
 thttpd				155			155			acct
-stapusr				-			156			user.eclass
-stapsys				-			157			user.eclass
-stapdev				-			158			user.eclass
+stapusr				-			156			acct
+stapsys				-			157			acct
+stapdev				-			158			acct
 spread				159			159			acct
 gnump3d				160			160			acct
 rplayd				161			161			acct
@@ -378,7 +377,7 @@ timidity			306			-			acct
 vboxsf				-			306			acct
 clair				307			307			acct
 mysqld_exporter			308			308			acct
-minion				309			309			acct
+minio				309			309			acct
 croc				310			310			acct
 ulogd				311			311			acct
 coredns				312			312			acct
@@ -481,7 +480,6 @@ monitorix			401			401			acct
 fnord				402			-			acct
 lxd				-			402			acct
 bareos				403			403			acct
-cancd				404			-			acct
 simplevirt			-			404			acct
 guest				405			-			historical	Removed from baselayout in [r889](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=286&r2=889&pathrev=2545)
 sgx				-			405			acct
@@ -523,7 +521,7 @@ clamav				435			435			acct
 nagios				436			436			acct
 automx2				437			437			acct
 milter-regex			438			438			acct
-ldap				439			439			user.eclass
+ldap				439			439			acct
 collectd			440			440			acct
 memcached			441			441			acct
 cinder				442			442			acct
@@ -535,9 +533,8 @@ nova				447			447			acct
 placement			448			448			acct
 swift				449			449			acct
 firebird			450			450			acct
-firebird			450			450			user.eclass
 redmine				451			451			acct
-vdr				452			452			requested
+vdr				452			452			acct
 vdradmin			453			453			acct		Used by www-misc/vdradmin-am
 deluge				454			454			acct
 puppet				455			455			acct

@@ -42,6 +42,7 @@
 
 #!NAME				UID			GID			PROVIDER	NOTES
 root				0			0			acct
+root				0			0			baselayout
 root				0			-			baselayout-fbsd
 toor				0			-			baselayout-fbsd
 wheel				-			0			baselayout-fbsd
@@ -58,8 +59,8 @@ tty				4			4			baselayout-fbsd
 adm				-			4			acct
 sync				5			-			baselayout
 kmem				5			2			baselayout-fbsd
-tty				-			5			baselayout
 tty				-			5			acct
+tty				-			5			baselayout
 shutdown			6			-			baselayout
 mail				6			6			baselayout-fbsd
 disk				-			6			acct
@@ -87,6 +88,7 @@ cron				16			16			user.eclass	Removed from baselayout in [r1476](https://sources
 console				-			17			baselayout
 audio				-			18			acct		Duplicated in media-sound/{pulseaudio,timidity}.
 audio				-			18			baselayout
+audio				-			18			baselayout-fbsd
 cdrom				-			19			acct
 cdrom				-			19			baselayout
 dialout				-			20			acct
@@ -138,8 +140,8 @@ apache				81			81			acct		Removed from baselayout in [r916](https://sources.gent
 nginx				82			82			requested
 nut				84			84			acct
 cyrus				85			-			historical	Removed from baselayout in [r1326](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1319&r2=1326&pathrev=2545)
-usb				-			85			baselayout
 usb				-			85			acct
+usb				-			85			baselayout
 nullmail			88			88			acct
 vpopmail			89			89			acct		Removed from baselayout in [r1319](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=916&r2=1319&pathrev=2545)
 partimag			91			91			acct
@@ -150,6 +152,7 @@ input				-			97			acct
 input				-			97			baselayout
 maradns				99			99			acct
 users				-			100			acct
+users				-			100			baselayout
 messagebus			101			101			acct
 polkitd				102			102			acct
 plex				103			103			acct
@@ -312,6 +315,8 @@ svxlink				247			247			acct
 fdm				248			248			acct
 logsurfer			249			249			acct
 portage				250			250			acct
+portage				250			250			baselayout
+portage				250			250			baselayout-fbsd
 wwwoffle			251			251			acct
 smtpq				252			252			acct
 zetcd				253			253			acct
@@ -600,6 +605,8 @@ ventrilo			3784			3784			historical	Used by media-sound/ventrilo-server-bin, rem
 nogroup				-			65533			baselayout
 nogroup				-			65533			baselayout-fbsd
 nobody				65534			65534			acct
+nobody				65534			65534			baselayout
+nobody				65534			65534			baselayout-fbsd
 -				65535			65535			reserved	-1 on systems with 16 bit uid_t
 -				524288..1878982656	524288..1878982656	reserved	Used by systemd for containers
 

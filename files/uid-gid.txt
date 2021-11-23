@@ -95,17 +95,19 @@ dialout				-		20		acct
 dialout				-		20		baselayout	Historically removed from baselayout in [r2444](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=2a29383c4daec8d5e00035afacf7aea9ecb4c106), reintroduced in [18fe9e87](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=18fe9e877b496980256f4a8b3251e416e1afca89)
 ftp				21		21		acct		Removed from baselayout in [r1475](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=bc0a5982c7a02685dca1a051383f52b5ec179d8e)
 sshd				22		22		acct		Removed from baselayout in [r1476](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=d2b09311342e4b70bb0685b22c8096ebda2be91e)
-smmsp				25		-		baselayout-fbsd
 smtpd				25		25		acct
-smmsp				-		25		historical	Removed from baselayout in [r2528](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=408c068b3981a099817bc1bd90e737e61900fe7c)
+smmsp				25		-		baselayout-fbsd
+smmsp				-		25		historical	Removed from baselayout on BSD in [r2528](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=408c068b3981a099817bc1bd90e737e61900fe7c)
+at				25		25		historical	Removed from baselayout in [r1479](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=006be71641032bdd0a05f260da397497aa7a35de)
 tape				-		26		acct
 tape				-		26		baselayout
 video				-		27		acct
 video				-		27		baselayout
 render				-		28		acct
+www				30		-		historical	Removed from baselayout in [r176](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=ce4049e95325bef4dc5efeb85ca07e0ad7c40809)
 squid				31		31		historical	Removed from baselayout in [r1477](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=0582832d7216a897cffff5b2249fad5e9e51807e)
 guest				-		31		baselayout-fbsd
-gdm				32		32		acct
+gdm				32		32		acct		Removed from baselayout in [r1571](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f73924f7d987d10bbadaa142c737879ad323f257)
 xfs				33		33		historical	X Font Server, removed from baselayout in [r1572](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=4227b160b93f9525d015a14cb7ce9fa43e1e1eb5)
 games				35		35		historical	Removed from baselayout in [r1478](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=ee4ea5fee968f6e88f15812011bffcbf44328604); group: deprecated by Council decision
 games				36		-		historical
@@ -128,7 +130,7 @@ uucp				66		66		baselayout-fbsd
 duende				66		-		acct
 dialer				-		68		baselayout-fbsd
 network				-		69		baselayout-fbsd
-postgres			70		70		acct		Moved out of baselayout in [r1861](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=15d1503a3db032d99a5be095b87ccc8289e97918)
+postgres			70		70		acct		Removed from baselayout in [r1861](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=15d1503a3db032d99a5be095b87ccc8289e97918)
 dovenull			74		74		acct
 redis				75		75		acct
 dovecot				76		76		acct
@@ -138,7 +140,7 @@ libvirt				-		79		acct
 cdrw				-		80		baselayout
 apache				81		81		acct		Removed from baselayout in [r916](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=96e69c8f07b5daf27ccb83b12741987b64e51a1e)
 nginx				82		82		acct
-nut				84		84		acct
+nut				84		84		acct		Removed from baselayout in [r1862](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=22993e1df6f8e018c12e656a39f65dae95cbd483)
 cyrus				85		-		historical	Removed from baselayout in [r1326](https://gitweb.gentoo.org/proj/baselayout.git/commit/share.Linux?id=87e02013b696483ee4009b1449189d3b19e3f236)
 usb				-		85		acct
 usb				-		85		baselayout

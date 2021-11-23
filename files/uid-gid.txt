@@ -69,22 +69,22 @@ halt				7		-		baselayout
 games				7		-		baselayout-fbsd
 lp				-		7		acct
 news				8		8		baselayout-fbsd
-mail				8		12		acct		mail user and group removed from baselayout on Linux in [r3093](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2547&r2=3093)
+mail				8		12		acct		Removed from baselayout on Linux in [r3093](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=e0b6e08880e5dc71faf263f10b42d15e3946d298)
 mem				-		8		baselayout
 man				9		-		baselayout-fbsd
 news				9		13		baselayout
 kmem				-		9		acct
 kmem				-		9		baselayout
-man				-		9		historical	man group removed from baselayout on BSD in [r2528](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.BSD/group?limit_changes=0&r1=2322&r2=2528&pathrev=2545), now on GID 15.
+man				-		9		historical	Removed from baselayout on BSD in [r2528](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=408c068b3981a099817bc1bd90e737e61900fe7c), now on GID 15.
 uucp				10		14		baselayout
 wheel				-		10		acct
 wheel				-		10		baselayout
 operator			11		-		baselayout
 floppy				-		11		baselayout
-man				13		15		acct		Moved out of baselayout in [r2528] and before in [https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1397&r2=1474&pathrev=2545 r1474](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2446&r2=2528&pathrev=2545)
-postmaster			14		-		acct		Removed from baselayout in [r3093](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2547&r2=3093)
+man				13		15		acct		Removed from baselayout in [r2528](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=408c068b3981a099817bc1bd90e737e61900fe7c) and before in [r1474](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=e35c46ec25596e885aea61203cc9a386926a5034)
+postmaster			14		-		acct		Removed from baselayout in [r3093](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=e0b6e08880e5dc71faf263f10b42d15e3946d298)
 uucp				-		14		acct
-cron				16		16		acct		Removed from baselayout in [r1476](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1475&r2=1476&pathrev=2545)
+cron				16		16		acct		Removed from baselayout in [r1476](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=d2b09311342e4b70bb0685b22c8096ebda2be91e)
 console				-		17		baselayout
 audio				-		18		acct		Duplicated in media-sound/{pulseaudio,timidity}.
 audio				-		18		baselayout
@@ -92,25 +92,25 @@ audio				-		18		baselayout-fbsd
 cdrom				-		19		acct
 cdrom				-		19		baselayout
 dialout				-		20		acct
-dialout				-		20		baselayout	Historically removed from baselayout in [r2444](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2310&r2=2444&pathrev=2545), then reintroduced
-ftp				21		21		acct		Removed from baselayout in [r1475](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1474&r2=1475&pathrev=2545)
-sshd				22		22		acct		Removed from baselayout in [r1476](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1475&r2=1476&pathrev=2545)
+dialout				-		20		baselayout	Historically removed from baselayout in [r2444](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=2a29383c4daec8d5e00035afacf7aea9ecb4c106), reintroduced in [18fe9e87](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=18fe9e877b496980256f4a8b3251e416e1afca89)
+ftp				21		21		acct		Removed from baselayout in [r1475](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=bc0a5982c7a02685dca1a051383f52b5ec179d8e)
+sshd				22		22		acct		Removed from baselayout in [r1476](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=d2b09311342e4b70bb0685b22c8096ebda2be91e)
 smmsp				25		-		baselayout-fbsd
 smtpd				25		25		acct
-smmsp				-		25		historical	Removed from baselayout in [r2528](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.BSD/group?limit_changes=0&r1=2322&r2=2528&pathrev=2545)
+smmsp				-		25		historical	Removed from baselayout in [r2528](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=408c068b3981a099817bc1bd90e737e61900fe7c)
 tape				-		26		acct
 tape				-		26		baselayout
 video				-		27		acct
 video				-		27		baselayout
 render				-		28		acct
-squid				31		31		historical	Removed from baselayout in [r1477](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1476&r2=1477&pathrev=2545)
+squid				31		31		historical	Removed from baselayout in [r1477](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=0582832d7216a897cffff5b2249fad5e9e51807e)
 guest				-		31		baselayout-fbsd
 gdm				32		32		acct
-xfs				33		33		historical	X Font Server, removed from baselayout in [r1572](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1571&r2=1572&pathrev=2545)
-games				35		35		historical	Removed from baselayout in [r1478](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1477&r2=1478&pathrev=2545); group: deprecated by Council decision
+xfs				33		33		historical	X Font Server, removed from baselayout in [r1572](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=4227b160b93f9525d015a14cb7ce9fa43e1e1eb5)
+games				35		35		historical	Removed from baselayout in [r1478](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=ee4ea5fee968f6e88f15812011bffcbf44328604); group: deprecated by Council decision
 games				36		-		historical
 gamestat			-		36		acct
-named				40		40		acct		Removed from baselayout in [r1369](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1335&r2=1369&pathrev=2545)
+named				40		40		acct		Removed from baselayout in [r1369](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=1dbe96ab988425661fc0001ad9e51a5b52d8053c)
 tor				43		43		acct
 mpd				45		-		acct
 openctd				46		-		acct
@@ -119,7 +119,7 @@ pcscd				47		47		acct
 docker				-		48		acct
 knot				53		53		acct
 tss				59		59		acct
-mysql				60		60		acct		Removed from baselayout in [r1335](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1326&r2=1335&pathrev=2545)
+mysql				60		60		acct		Removed from baselayout in [r1335](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f0c9a4a50fb7f16d849225e421d75555dc30783c)
 avahi				61		61		acct
 avahi-autoipd			62		62		acct
 authpf				-		63		user.eclass
@@ -128,7 +128,7 @@ uucp				66		66		baselayout-fbsd
 duende				66		-		acct
 dialer				-		68		baselayout-fbsd
 network				-		69		baselayout-fbsd
-postgres			70		70		acct		Moved out of baselayout in [r1861](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1572&r2=1861&pathrev=2545)
+postgres			70		70		acct		Moved out of baselayout in [r1861](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=15d1503a3db032d99a5be095b87ccc8289e97918)
 dovenull			74		74		acct
 redis				75		75		acct
 dovecot				76		76		acct
@@ -136,14 +136,14 @@ qemu				77		77		acct
 kvm				-		78		acct
 libvirt				-		79		acct
 cdrw				-		80		baselayout
-apache				81		81		acct		Removed from baselayout in [r916](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=906&r2=916&pathrev=2545)
+apache				81		81		acct		Removed from baselayout in [r916](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=96e69c8f07b5daf27ccb83b12741987b64e51a1e)
 nginx				82		82		acct
 nut				84		84		acct
-cyrus				85		-		historical	Removed from baselayout in [r1326](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1319&r2=1326&pathrev=2545)
+cyrus				85		-		historical	Removed from baselayout in [r1326](https://gitweb.gentoo.org/proj/baselayout.git/commit/share.Linux?id=87e02013b696483ee4009b1449189d3b19e3f236)
 usb				-		85		acct
 usb				-		85		baselayout
 nullmail			88		88		acct
-vpopmail			89		89		acct		Removed from baselayout in [r1319](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=916&r2=1319&pathrev=2545)
+vpopmail			89		89		acct		Removed from baselayout in [r1319](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=96dcec988593aac1e5c57d9e8877a61030d7d5cb)
 partimag			91		91		acct
 radius				95		95		acct
 dovecot				97		97		user.eclass
@@ -252,23 +252,23 @@ git				196		196		acct
 cgit				197		197		acct
 systemd-oom			198		198		acct
 ipsec				199		199		acct
-alias				200		-		acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
-nofiles				-		200		acct		Removed from baselayout in [r2445](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2444&r2=2445&pathrev=2545)
-qmaild				201		-		acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
-qmail				-		201		acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
-qmaill				202		-		acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+alias				200		-		acct		Removed from baselayout in [r1397](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f05420b21fe048c6c320f2b5753c0b85f322e8c3)
+nofiles				-		200		acct		Removed from baselayout in [r2445](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=b0ce002d1a3d4e67d8c1f5ffe19970e2f943ec15)
+qmaild				201		-		acct		Removed from baselayout in [r1397](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f05420b21fe048c6c320f2b5753c0b85f322e8c3)
+qmail				-		201		acct		Removed from baselayout in [r1397](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f05420b21fe048c6c320f2b5753c0b85f322e8c3)
+qmaill				202		-		acct		Removed from baselayout in [r1397](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f05420b21fe048c6c320f2b5753c0b85f322e8c3)
 seat				-		202		acct		Used by sys-auth/seatd
-qmailp				203		-		acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmailp				203		-		acct		Removed from baselayout in [r1397](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f05420b21fe048c6c320f2b5753c0b85f322e8c3)
 roccat				-		203		acct
-qmailq				204		-		acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmailq				204		-		acct		Removed from baselayout in [r1397](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f05420b21fe048c6c320f2b5753c0b85f322e8c3)
 haclient			-		204		acct
-qmailr				205		-		acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
+qmailr				205		-		acct		Removed from baselayout in [r1397](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f05420b21fe048c6c320f2b5753c0b85f322e8c3)
 xwax				-		205		acct
 realtime			-		206		acct
-qmails				206		-		acct		Removed from baselayout in [r1397](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1369&r2=1397&pathrev=2545)
-postfix				207		207		acct		Removed from baselayout in [r1863](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=1862&r2=1863&pathrev=2545)
-postdrop			-		208		acct		Removed from baselayout in [r1863](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1862&r2=1863&pathrev=2545)
-smmsp				209		209		acct		user removed out of baselayout in [r2446](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=2310&r2=2446&pathrev=2545); group in [r2445](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=2444&r2=2445&pathrev=2545)
+qmails				206		-		acct		Removed from baselayout in [r1397](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f05420b21fe048c6c320f2b5753c0b85f322e8c3)
+postfix				207		207		acct		Removed from baselayout in [r1863](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=7ae5ebbcb07f3a2190f17af7e7b09fe1caab35cc)
+postdrop			-		208		acct		Removed from baselayout in [r1863](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=7ae5ebbcb07f3a2190f17af7e7b09fe1caab35cc)
+smmsp				209		209		acct		Removed from baselayout: user in [r2446](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=a18589ef69d782aa5d88e5a6eac7f342aa2f6385), group in [r2445](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=b0ce002d1a3d4e67d8c1f5ffe19970e2f943ec15)
 aerospike-amc			210		210		acct
 zookeeper			211		211		acct
 cmd5checkpw			212		212		acct
@@ -308,7 +308,7 @@ asterisk			242		242		acct
 fingerprint			-		243		acct
 opendmarc			244		244		acct
 locate				-		245		acct
-slocate				-		245		historical	Removed from baselayout in [r1328](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/group?limit_changes=0&r1=1319&r2=1328&pathrev=2545)
+slocate				-		245		historical	Removed from baselayout in [r1328](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=a544597611a190a98a3d5a962de91e3da7a3d299)
 at				246		246		acct
 svxlink				247		247		acct
 fdm				248		248		acct
@@ -481,7 +481,7 @@ fnord				402		-		acct
 lxd				-		402		acct
 bareos				403		403		acct
 simplevirt			-		404		acct
-guest				405		-		historical	Removed from baselayout in [r889](https://sources.gentoo.org/cgi-bin/viewvc.cgi/baselayout/trunk/share.Linux/passwd?limit_changes=0&r1=286&r2=889&pathrev=2545)
+guest				405		-		historical	Removed from baselayout in [r889](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=eca435dcc10bcbcccf8be4ad100c252769fd1f8d)
 sgx				-		405		acct
 sendpage			406		-		acct
 utmp				-		406		acct

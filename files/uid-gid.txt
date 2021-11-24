@@ -75,7 +75,7 @@ man				9		-		baselayout-fbsd
 news				9		13		baselayout
 kmem				-		9		acct
 kmem				-		9		baselayout
-man				-		9		historical	Removed from baselayout on BSD in [r2528](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=408c068b3981a099817bc1bd90e737e61900fe7c), now on GID 15.
+man				-		9		historical	Removed from baselayout on BSD in [r2528](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=408c068b3981a099817bc1bd90e737e61900fe7c), now GID 15
 uucp				10		14		baselayout
 wheel				-		10		acct
 wheel				-		10		baselayout
@@ -98,14 +98,14 @@ sshd				22		22		acct		Removed from baselayout in [r1476](https://gitweb.gentoo.o
 smtpd				25		25		acct
 smmsp				25		-		baselayout-fbsd
 smmsp				-		25		historical	Removed from baselayout on BSD in [r2528](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=408c068b3981a099817bc1bd90e737e61900fe7c)
-at				25		25		historical	Removed from baselayout in [r1479](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=006be71641032bdd0a05f260da397497aa7a35de)
+at				25		25		historical	Removed from baselayout in [r1479](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=006be71641032bdd0a05f260da397497aa7a35de), now UID/GID 246
 tape				-		26		acct
 tape				-		26		baselayout
 video				-		27		acct
 video				-		27		baselayout
 render				-		28		acct
 www				30		-		historical	Removed from baselayout in [r176](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=ce4049e95325bef4dc5efeb85ca07e0ad7c40809)
-squid				31		31		historical	Removed from baselayout in [r1477](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=0582832d7216a897cffff5b2249fad5e9e51807e)
+squid				31		31		historical	Removed from baselayout in [r1477](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=0582832d7216a897cffff5b2249fad5e9e51807e), now UID/GID 301
 guest				-		31		baselayout-fbsd
 gdm				32		32		acct		Removed from baselayout in [r1571](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f73924f7d987d10bbadaa142c737879ad323f257)
 xfs				33		33		historical	X Font Server, removed from baselayout in [r1572](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=4227b160b93f9525d015a14cb7ce9fa43e1e1eb5)
@@ -141,14 +141,14 @@ cdrw				-		80		baselayout
 apache				81		81		acct		Removed from baselayout in [r916](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=96e69c8f07b5daf27ccb83b12741987b64e51a1e)
 nginx				82		82		acct
 nut				84		84		acct		Removed from baselayout in [r1862](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=22993e1df6f8e018c12e656a39f65dae95cbd483)
-cyrus				85		-		historical	Removed from baselayout in [r1326](https://gitweb.gentoo.org/proj/baselayout.git/commit/share.Linux?id=87e02013b696483ee4009b1449189d3b19e3f236)
+cyrus				85		-		historical	Removed from baselayout in [r1326](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=87e02013b696483ee4009b1449189d3b19e3f236), now UID 415
 usb				-		85		acct
 usb				-		85		baselayout
 nullmail			88		88		acct
 vpopmail			89		89		acct		Removed from baselayout in [r1319](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=96dcec988593aac1e5c57d9e8877a61030d7d5cb)
 partimag			91		91		acct
 radius				95		95		acct
-dovecot				97		97		user.eclass
+dovecot				97		97		historical	Now UID/GID 76
 input				-		97		acct
 input				-		97		baselayout
 maradns				99		99		acct
@@ -590,7 +590,7 @@ strelaysrv			496		496		acct
 stdiscosrv			497		497		acct
 burp				498		498		acct
 syncthing			499		499		acct
-slurm				500		500		historical	Moved to 400
+slurm				500		500		historical	Now UID/GID 400
 elasticsearch_exporter		501		501		acct
 burrow_exporter			502		502		acct
 reg				503		503		acct

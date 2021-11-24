@@ -295,7 +295,6 @@ i2c				-		226		acct
 spi				-		227		acct
 vnstat				229		229		acct
 carbon				230		230		acct
-mogile				-		231		acct
 fvwm-crystal			-		232		acct
 postgres_exporter		233		233		acct
 memcached_exporter		234		234		acct
@@ -545,7 +544,7 @@ icinga				457		457		acct
 nvpd				458		-		acct
 icingacmd			-		458		acct
 node_exporter			459		459		acct
-mogile				460		-		acct
+mogile				460		231		acct
 crontab				-		460		acct
 ubridge				-		461		acct
 sndiod				461		-		acct

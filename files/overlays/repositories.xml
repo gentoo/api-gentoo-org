@@ -261,6 +261,18 @@
     <source type="git">https://git.alxu.ca/gentoo-overlay.git</source>
     <feed>https://cgit.alxu.ca/gentoo-overlay.git/atom/</feed>
   </repo>
+  <repo quality='experimental' status='unofficial'>
+    <name>ambasta</name>
+    <description lang="en">Personal overlay</description>
+    <owner type="person">
+      <email>amit.prakash.ambasta@gmail.com</email>
+      <name>Amit Prakash Ambasta</name>
+    </owner>
+    <source type="git">https://github.com/ambasta/ambasta.git</source>
+    <source type="git">git://github.com/ambasta/ambasta.git</source>
+    <source type="git">git@github.com:ambasta/ambasta.git</source>
+    <feed>https://github.com/ambasta/ambasta/commits/main.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>amedeos</name>
     <description lang="en">amedeos's personal overlay</description>

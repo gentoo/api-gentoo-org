@@ -66,6 +66,28 @@
       <email>me@dblsaiko.net</email>
       <name>2xsaiko</name>
     </owner>
+      <name>XXXX</name>
+      <description lang="en">XXXXXX</description>
+      <homepage>https://bitbucket.org/XXXX/xxxx</homepage>
+      <owner type="person">
+        <email>XXXXX</email>
+        <name>XXXXX</name>
+      </owner>
+      <source type="mercurial">https://bitbucket.org/XXXX/xxxx</source>
+      <source type="mercurial">ssh://hg@bitbucket.org/XXXX/xxxx</source>
+      <feed>https://bitbucket.org/XXXX/xxxx/atom</feed>
+      <feed>https://bitbucket.org/XXXX/xxxx/rss</feed>
+    </repo>
+  FIN
+  -->
+  <repo quality="experimental" status="unofficial">
+    <name>2xsaiko</name>
+    <description lang="en">Personal overlay with no special focus</description>
+    <homepage>https://git.sr.ht/~dblsaiko/ebuilds</homepage>
+    <owner type="person">
+      <email>me@dblsaiko.net</email>
+      <name>2xsaiko</name>
+    </owner>
     <source type="git">https://git.sr.ht/~dblsaiko/ebuilds</source>
     <source type="git">git@git.sr.ht:~dblsaiko/ebuilds</source>
     <feed>https://git.sr.ht/~dblsaiko/ebuilds/log/rss.xml</feed>

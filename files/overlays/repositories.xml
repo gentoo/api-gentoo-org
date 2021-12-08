@@ -2556,6 +2556,22 @@
     <source type="git">git://anongit.gentoo.org/user/lmiphay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>loongson</name>
+    <description lang="en">
+      Overlay for Loongson systems.
+      Both MIPS and LoongArch (ARCH=loong) are supported, but recent
+      development is focused on LoongArch bring-up.
+    </description>
+    <homepage>https://github.com/xen0n/loongson-overlay</homepage>
+    <owner type="person">
+      <email>i.gentoo@xen0n.name</email>
+      <name>WANG Xuerui</name>
+    </owner>
+    <source type="git">https://github.com/xen0n/loongson-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/xen0n/loongson-overlay.git</source>
+    <feed>https://github.com/xen0n/loongson-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>lto-overlay</name>
     <description lang="en">A Portage configuration for O3, Graphite, and LTO system-wide</description>
     <homepage>https://github.com/InBetweenNames/gentooLTO</homepage>

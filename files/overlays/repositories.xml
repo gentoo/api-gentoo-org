@@ -386,6 +386,16 @@
     <feed>https://github.com/apriluwu/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ap-overlay</name>
+    <description lang="en">Personal Gentoo Overlay</description>
+    <homepage>https://gitlab.com/AbhinavPraveen/ap-overlay</homepage>
+    <owner type="person">
+      <email>praveen@abhinav.pro</email>
+      <name>Abhinav Praveen</name>
+    </owner>
+    <source type="git">https://gitlab.com/AbhinavPraveen/ap-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ArchFeh</name>
     <description lang="en">ArchFeh's personal overlay</description>
     <homepage>https://github.com/ArchFeh/ArchFeh-overlay</homepage>

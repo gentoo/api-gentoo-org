@@ -2102,6 +2102,16 @@
     <feed>https://github.com/TomHotston/hotstoast-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>icinga</name>
+    <description lang="en">Gentoo Overlay Repository for Icinga2 related stuff</description>
+    <homepage>https://github.com/antonfischl1980/icinga</homepage>
+    <owner type="person">
+      <email>github@fischl-online.de</email>
+      <name>Anton Fischl</name>
+    </owner>
+    <source type="git">https://github.com/antonfischl1980/icinga.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ikelos</name>
     <description>Ikelos's hospice for broken and damaged ebuilds.</description>
     <homepage>https://github.com/ikelos/gentoo-overlay.git</homepage>

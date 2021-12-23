@@ -4111,6 +4111,18 @@
     <feed>https://github.com/hartwork/gentoo-overlay-sping/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>spring</name>
+    <description lang="en">Spring RTS Gentoo overlay</description>
+    <homepage>https://github.com/springlobby/overlay</homepage>
+    <owner type="person">
+      <email>spring@abma.de</email>
+      <name>abma</name>
+    </owner>
+    <source type="git">https://github.com/springlobby/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/springlobby/overlay.git</source>
+    <feed>https://github.com/springlobby/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>squeezebox</name>
     <description lang="en">Packages for the Squeezebox network audio player from Logitech</description>
     <homepage>https://cgit.gentoo.org/user/squeezebox.git/</homepage>

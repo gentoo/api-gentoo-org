@@ -1620,7 +1620,7 @@
     <feed>https://github.com/fusion809/fusion809-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>fyn1-overlay</name>
+    <name>fyn-overlay</name>
     <description lang="en">fyn 's personal overlay</description>
     <homepage>https://github.com/qwe795138426/fyn-overlay</homepage>
     <owner type="person">

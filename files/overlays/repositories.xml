@@ -5068,7 +5068,7 @@
       <source type="git">https://github.com/3elDU/gentoo-repository.git</source>
       <source type="git">git@github.com:3elDU/gentoo-repository.git</source>
       <feed>https://github.com/3elDU/gentoo-repository/commits/master.atom</feed>
-    </repo>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>zerodaysfordays</name>
     <description>Jakob L. Kreuze's personal overlay.</description>

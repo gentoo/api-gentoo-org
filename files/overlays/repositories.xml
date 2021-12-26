@@ -5058,6 +5058,18 @@
     <feed>https://github.com/yurijmikhalevich/yurij-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+      <name>zeldu</name>
+      <description lang="en">3elDU's overlay</description>
+      <homepage>https://github.com/3elDU/gentoo-repository</homepage>
+      <owner type="person">
+        <email>3elduu@gmail.com</email>
+        <name>Zakhar Voloschuk</name>
+      </owner>
+      <source type="git">https://github.com/3elDU/gentoo-repository.git</source>
+      <source type="git">git@github.com:3elDU/gentoo-repository.git</source>
+      <feed>https://github.com/3elDU/gentoo-repository/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>zerodaysfordays</name>
     <description>Jakob L. Kreuze's personal overlay.</description>
     <homepage>https://git.sr.ht/~jakob/zerodaysfordays</homepage>

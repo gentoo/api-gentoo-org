@@ -2073,6 +2073,18 @@
     <!-- <feed>https://cgit.gentoo.org/user/hibiscus.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>hikari</name>
+    <description lang="en">hikari's overlay</description>
+    <homepage>https://github.com/AtharvaAmritkar/hikari-overlay</homepage>
+    <owner type="person">
+      <email>atharvaamritkar@protonmail.com</email>
+      <name>Atharva Amritkar</name>
+    </owner>
+    <source type="git">https://github.com/atharvaamritkar/hikari-overlay.git</source>
+    <source type="git">git@github.com:atharvaamritkar/hikari-overlay.git</source>
+    <feed>https://github.com/AtharvaAmritkar/hikari-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>holgersson-overlay</name>
     <description lang="en">Nils "holgersson" Freydank's personal overlay</description>
     <homepage>https://git.holgersson.xyz</homepage>
@@ -5126,18 +5138,6 @@
     <source type="git">ssh://git@git.zx2c4.com/portage</source>
     <feed>http://git.zx2c4.com/portage/atom/?h=master</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-      <name>hikari</name>
-      <description lang="en">hikari's overlay</description>
-      <homepage>https://github.com/AtharvaAmritkar/hikari-overlay</homepage>
-      <owner type="person">
-        <email>atharvaamritkar@protonmail.com</email>
-        <name>Atharva Amritkar</name>
-      </owner>
-      <source type="git">https://github.com/atharvaamritkar/hikari-overlay.git</source>
-      <source type="git">git@github.com:atharvaamritkar/hikari-overlay.git</source>
-      <feed>https://github.com/AtharvaAmritkar/hikari-overlay/commits/main.atom</feed>
-    </repo>
   <repo quality="experimental" status="unofficial">
     <name>zyrenth</name>
     <description lang="en">Personal overlay</description>

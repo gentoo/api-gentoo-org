@@ -507,7 +507,6 @@ davfs2				420		420		acct		Used by net-fs/davfs2
 znc				421		421		acct
 abrt				422		422		acct
 pdns				423		423		acct		Used by net-dns/pdns
-quagga				424		424		acct
 kafka				425		425		acct
 etcd				426		426		acct
 cadvisor			427		427		acct

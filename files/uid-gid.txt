@@ -295,6 +295,7 @@ i2c				-		226		acct
 spi				-		227		acct
 vnstat				229		229		acct
 carbon				230		230		acct
+icingadirector			231		-		acct
 fvwm-crystal			-		232		acct
 postgres_exporter		233		233		acct
 memcached_exporter		234		234		acct

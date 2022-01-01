@@ -5151,5 +5151,18 @@
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>dinolay</name>
+    <description lang="en">My gentoo overlay for me to not need to use multiple ones</description>
+    <homepage>https://github.com/TruncatedDinosour/dinolay</homepage>
+    <owner type="person">
+      <email>truncateddinosour@gmail.com</email>
+      <name>Ari Archer</name>
+    </owner>
+    <source type="git">https://github.com/TruncatedDinosour/dinolay.git</source>
+    <source type="git">git://github.com/TruncatedDinosour/dinolay.git</source>
+    <source type="git">git@github.com:TruncatedDinosour/dinolay.git</source>
+    <feed>https://github.com/TruncatedDinosour/dinolay/commits/main.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

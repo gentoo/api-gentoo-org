@@ -1026,6 +1026,19 @@
     <!-- <feed>https://cgit.gentoo.org/dev/dilfridge.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>dinolay</name>
+    <description lang="en">My gentoo overlay for me to not need to use multiple ones</description>
+    <homepage>https://github.com/TruncatedDinosour/dinolay</homepage>
+    <owner type="person">
+      <email>truncateddinosour@gmail.com</email>
+      <name>Ari Archer</name>
+    </owner>
+    <source type="git">https://github.com/TruncatedDinosour/dinolay.git</source>
+    <source type="git">git://github.com/TruncatedDinosour/dinolay.git</source>
+    <source type="git">git@github.com:TruncatedDinosour/dinolay.git</source>
+    <feed>https://github.com/TruncatedDinosour/dinolay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>displacer</name>
     <description lang="en">Fixes and new unstable packages</description>
     <homepage>https://cgit.gentoo.org/user/displacer.git/</homepage>
@@ -1096,19 +1109,6 @@
     <source type="git">git://github.com/dmchurch/portage-overlay.git</source>
     <source type="git">git@github.com:dmchurch/portage-overlay.git</source>
     <feed>https://github.com/dmchurch/portage-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>dinolay</name>
-    <description lang="en">My gentoo overlay for me to not need to use multiple ones</description>
-    <homepage>https://github.com/TruncatedDinosour/dinolay</homepage>
-    <owner type="person">
-      <email>truncateddinosour@gmail.com</email>
-      <name>Ari Archer</name>
-    </owner>
-    <source type="git">https://github.com/TruncatedDinosour/dinolay.git</source>
-    <source type="git">git://github.com/TruncatedDinosour/dinolay.git</source>
-    <source type="git">git@github.com:TruncatedDinosour/dinolay.git</source>
-    <feed>https://github.com/TruncatedDinosour/dinolay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>dotnet</name>

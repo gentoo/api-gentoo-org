@@ -1027,7 +1027,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>dinolay</name>
-    <description lang="en">My gentoo overlay for me to not need to use multiple ones</description>
+    <description lang="en">TruncatedDinosour's overlay</description>
     <homepage>https://github.com/TruncatedDinosour/dinolay</homepage>
     <owner type="person">
       <email>truncateddinosour@gmail.com</email>

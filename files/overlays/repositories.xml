@@ -1753,7 +1753,9 @@
     <owner type="person">
       <email>microcai@fedoraproject.org</email>
     </owner>
+    <source type="git">https://github.com/microcai/gentoo-zh.git</source>
     <source type="git">git://github.com/microcai/gentoo-zh.git</source>
+    <source type="git">git+ssh://github.com/microcai/gentoo-zh.git</source>
     <feed>https://github.com/microcai/gentoo-zh/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

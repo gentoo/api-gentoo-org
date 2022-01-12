@@ -5131,6 +5131,18 @@
     <feed>https://lab.retarded.farm/zappel/zGentoo/-/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>zozx-overlay</name>
+    <description lang="en">Raymond Kwok's personal Gentoo overlay</description>
+    <homepage>https://github.com/zozx/zozx-overlay</homepage>
+    <owner type="person">
+      <email>c2778148787@gmail.com</email>
+      <name>Raymond Kwok</name>
+    </owner>
+    <source type="git">https://github.com/zozx/zozx-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/zozx/zozx-overlay.git</source>
+    <feed>https://github.com/zozx/zozx-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>zscheile</name>
     <description>Zscheile Overlay</description>
     <homepage>https://github.com/zseri/portage-zscheile</homepage>

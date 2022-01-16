@@ -2597,7 +2597,10 @@
     `gentoo-lisp@lists.gentoo.org'.</description>
     <homepage>https://cgit.gentoo.org/proj/lisp.git</homepage>
     <owner type="project">
-      <email>lisp@gentoo.org</email>
+      <email>common-lisp@gentoo.org</email>
+    </owner>
+    <owner type="project">
+      <email>scheme@gentoo.org</email>
     </owner>
     <source type="git">https://anongit.gentoo.org/git/proj/lisp.git</source>
     <source type="git">git://anongit.gentoo.org/proj/lisp.git</source>

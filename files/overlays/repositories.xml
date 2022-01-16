@@ -165,8 +165,8 @@
     <description lang="en">Personal ebuild repository.  Emacs, Lisp, minimalism.</description>
     <homepage>https://gitlab.com/akater/ebuilds</homepage>
     <owner type="person">
-      <name>akater</name>
       <email>nuclearspace@gmail.com</email>
+      <name>akater</name>
     </owner>
     <source type="git">https://gitlab.com/akater/ebuilds.git</source>
     <source type="git">git+ssh://git@gitlab.com/akater/ebuilds.git</source>
@@ -910,8 +910,8 @@
     <description lang="en">DankDumpster's overlay</description>
     <homepage>https://github.com/DankDumpster/gentoo-overlay</homepage>
     <owner type="person">
-      <name>DankDumpster</name>
       <email>dev@mtbk.me</email>
+      <name>DankDumpster</name>
     </owner>
     <source type="git">https://github.com/DankDumpster/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/DankDumpster/gentoo-overlay.git</source>
@@ -1298,8 +1298,8 @@
     <description lang="en">Gentoo Overlay for Emilien Mottet personal/work needs.</description>
     <homepage>https://github.com/EmilienMottet/overlay</homepage>
     <owner type="person">
-      <name>Emilien Mottet</name>
       <email>emilien.mottet@grenoble-inp.org</email>
+      <name>Emilien Mottet</name>
     </owner>
     <source type="git">https://github.com/EmilienMottet/overlay.git</source>
     <source type="git">git+ssh://git@github.com/EmilienMottet/overlay</source>
@@ -2248,8 +2248,8 @@
     <description lang="en">jl1990's Custom Gentoo Overlay.</description>
     <homepage>https://github.com/jl1990/gentoo-overlay</homepage>
     <owner type="person">
-      <name>jl1990</name>
       <email>jlcarrasco1990@gmail.com</email>
+      <name>jl1990</name>
     </owner>
     <source type="git">https://github.com/jl1990/gentoo-overlay.git</source>
     <source type="git">git://github.com/jl1990/gentoo-overlay.git</source>
@@ -2573,8 +2573,8 @@
     <description lang="en">Overlay that has the required packages for installation of Gentoo into a Microsoft Surface device.</description>
     <homepage>https://github.com/Parinz/linux-surface-overlay</homepage>
     <owner type="person">
-      <name>Parinthapat P.</name>
       <email>parinzee@protonmail.com</email>
+      <name>Parinthapat P.</name>
     </owner>
     <source type="git">git://github.com/Parinz/linux-surface-overlay.git</source>
     <feed>https://github.com/Parinz/linux-surface-overlay/commits/master.atom</feed>
@@ -2907,8 +2907,8 @@
     <description lang="en">My Overlay - custom Gentoo overlay from XGQT</description>
     <homepage>https://gitlab.com/xgqt/myov.git</homepage>
     <owner type="person">
-      <name>XGQT</name>
       <email>xgqt@protonmail.com</email>
+      <name>XGQT</name>
     </owner>
     <source type="git">https://gitlab.com/xgqt/myov.git</source>
     <source type="git">git+ssh://git@gitlab.com/xgqt/myov.git</source>
@@ -4652,12 +4652,12 @@
     <description lang="en">DakEnviy's Gentoo Overlay</description>
     <homepage>https://github.com/DakEnviy/underworld-overlay</homepage>
     <owner type="person">
-      <name>Mikhail Golbakh</name>
       <email>golbah@yandex.ru</email>
+      <name>Mikhail Golbakh</name>
     </owner>
     <owner type="person">
-      <name>Eridan Domoratskiy</name>
       <email>eridan200@mail.ru</email>
+      <name>Eridan Domoratskiy</name>
     </owner>
     <source type="git">https://github.com/DakEnviy/underworld-overlay.git</source>
     <source type="git">git+ssh://git@github.com/DakEnviy/underworld-overlay.git</source>
@@ -5123,8 +5123,8 @@
     <description lang="en">ZappeL's Gentoo-Overlay</description>
     <homepage>https://lab.retarded.farm/zappel/zGentoo</homepage>
     <owner type="person">
-      <name>Armas Spann</name>
       <email>zappel@simple-co.de</email>
+      <name>Armas Spann</name>
     </owner>
     <source type="git">https://lab.retarded.farm/zappel/zGentoo.git</source>
     <source type="git">git@lab.retarded.farm:zappel/zGentoo.git</source>

@@ -3096,6 +3096,19 @@
     <feed>https://github.com/oddlama/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>odroidc4</name>
+    <description lang="en">Ebuilds for Gentoo on ODROID-C4</description>
+    <homepage>https://github.com/svoop/odroidc4-overlay</homepage>
+    <owner type="person">
+      <email>gentoo@bitcetera.com</email>
+      <name>Sven Schwyn</name>
+    </owner>
+    <source type="git">https://github.com/svoop/odroidc4-overlay.git</source>
+    <source type="git">git://github.com/svoop/odroidc4-overlay.git</source>
+    <source type="git">git@github.com:svoop/odroidc4-overlay.git</source>
+    <feed>https://github.com/svoop/odroidc4-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>okh</name>
     <description lang="en">Personal overlay with no special focus.</description>
     <homepage>https://github.com/OlexiyKhokhlov/okh-overlay</homepage>

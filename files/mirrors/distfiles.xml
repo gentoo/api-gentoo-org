@@ -322,7 +322,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   <mirrorgroup region="Europe" country="TR" countryname="Turkey">
     <mirror>
       <name>Turkish Linux Users Group - Linux Kullanicilari Dernegi(LKD)</name>
-      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://ftp.linux.org.tr/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://ftp.linux.org.tr/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://ftp.linux.org.tr/gentoo-distfiles/</uri>
     </mirror>
   </mirrorgroup>

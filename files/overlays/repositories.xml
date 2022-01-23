@@ -4504,16 +4504,16 @@
     <feed>https://gitlab.com/TheGreatMcPain/thegreatmcpain-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>third-party-certbot-dns-plugins</name>
-    <description lang="en">Overlay for unofficial, third party DNS plugins of the ACME client certbot</description>
-    <homepage>https://github.com/osirisinferi/third-party-certbot-dns-plugins</homepage>
+    <name>third-party-certbot-plugins</name>
+    <description lang="en">Overlay for unofficial, third party plugins of the ACME client Certbot</description>
+    <homepage>https://github.com/osirisinferi/third-party-certbot-plugins</homepage>
     <owner type="person">
       <email>gentoo@flut.nl.eu.org</email>
       <name>Osiris Inferi</name>
     </owner>
-    <source type="git">https://github.com/osirisinferi/third-party-certbot-dns-plugins.git</source>
-    <source type="git">git@github.com:osirisinferi/third-party-certbot-dns-plugins.git</source>
-    <feed>https://github.com/osirisinferi/third-party-certbot-dns-plugins/commits/main.atom</feed>
+    <source type="git">https://github.com/osirisinferi/third-party-certbot-plugins.git</source>
+    <source type="git">git@github.com:osirisinferi/third-party-certbot-plugins.git</source>
+    <feed>https://github.com/osirisinferi/third-party-certbot-plugins/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>tmacedo</name>

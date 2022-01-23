@@ -2,7 +2,7 @@
 vim: ft=xml et ts=2 sts=2 sw=2:
 -->
 <mirrors>
-  <mirrorgroup region="North America (rsync.namerica.gentoo.org)" country="CA" countryname="Canada">
+  <mirrorgroup region="North America (rsync.namerica.gentoo.org)" country="CA">
     <mirror>
       <name>Any available mirror - rsync.ca.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.ca.gentoo.org</uri>
@@ -24,7 +24,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync4.ca.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="North America (rsync.namerica.gentoo.org)" country="US" countryname="USA">
+  <mirrorgroup region="North America (rsync.namerica.gentoo.org)" country="US">
     <mirror>
       <name>Any available mirror - rsync.us.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.us.gentoo.org</uri>
@@ -50,13 +50,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync31.us.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="South America (rsync.samerica.gentoo.org)" country="BR" countryname="Brazil">
+  <mirrorgroup region="South America (rsync.samerica.gentoo.org)" country="BR">
     <mirror>
       <name>Any available mirror - rsync.br.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.br.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="CZ" countryname="Czech Republic">
+  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="CZ">
     <mirror>
       <name>Any available mirror - rsync.cz.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.cz.gentoo.org</uri>
@@ -66,7 +66,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.cz.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="DE" countryname="Germany">
+  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="DE">
     <mirror>
       <name>Any available mirror - rsync.de.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.de.gentoo.org</uri>
@@ -104,7 +104,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync15.de.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="FR" countryname="France">
+  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="FR">
     <mirror>
       <name>Any available mirror - rsync.fr.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.fr.gentoo.org</uri>
@@ -114,7 +114,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync1.fr.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="NL" countryname="Netherlands">
+  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="NL">
     <mirror>
       <name>Any available mirror - rsync.nl.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.nl.gentoo.org</uri>
@@ -124,7 +124,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync2.nl.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="PL" countryname="Poland">
+  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="PL">
     <mirror>
       <name>Any available mirror - rsync.pl.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.pl.gentoo.org</uri>
@@ -138,7 +138,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync7.pl.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="PT" countryname="Portugal">
+  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="PT">
     <mirror>
       <name>Any available mirror - rsync.pt.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.pt.gentoo.org</uri>
@@ -148,7 +148,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync2.pt.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="RO" countryname="Romania">
+  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="RO">
     <mirror>
       <name>Any available mirror - rsync.ro.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.ro.gentoo.org</uri>
@@ -158,7 +158,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync3.ro.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="SK" countryname="Slovakia">
+  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="SK">
     <mirror>
       <name>Any available mirror - rsync.sk.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.sk.gentoo.org</uri>
@@ -172,7 +172,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync3.sk.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="UK" countryname="UK">
+  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="UK">
     <mirror>
       <name>Any available mirror - rsync.uk.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.uk.gentoo.org</uri>
@@ -190,7 +190,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://mirrors.gethosted.online/gentoo</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Australia (rsync.au.gentoo.org)" country="AU" countryname="Australia">
+  <mirrorgroup region="Australia (rsync.au.gentoo.org)" country="AU">
     <mirror>
       <name>Any available mirror - rsync.au.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.au.gentoo.org</uri>
@@ -208,7 +208,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync3.au.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="CN" countryname="China">
+  <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="CN">
     <mirror>
       <name>Any available mirror - rsync.cn.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.cn.gentoo.org</uri>
@@ -222,7 +222,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync3.cn.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="JP" countryname="Japan">
+  <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="JP">
     <mirror>
       <name>Any available mirror - rsync.jp.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.jp.gentoo.org</uri>
@@ -232,7 +232,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync5.jp.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="KR" countryname="South Korea">
+  <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="KR">
     <mirror>
       <name>Any available mirror - rsync.kr.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.kr.gentoo.org</uri>
@@ -242,7 +242,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.kr.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="RU" countryname="Russia">
+  <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="RU">
     <mirror>
       <name>Any available mirror - rsync.ru.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.ru.gentoo.org</uri>
@@ -256,7 +256,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync2.ru.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="TW" countryname="Taiwan">
+  <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="TW">
     <mirror>
       <name>Any available mirror - rsync.tw.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.tw.gentoo.org</uri>

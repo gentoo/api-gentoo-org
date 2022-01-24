@@ -2132,12 +2132,15 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>hossie</name>
-    <description>gentoo-overlay from hossie</description>
-    <homepage>https://git.hossie.de/projects/GEN/repos/gentoo-overlay/browse</homepage>
+    <description lang="en">gentoo-overlay from hossie</description>
+    <homepage>https://wiki.hossie.de/projekte:gentoo-overlay</homepage>
     <owner type="person">
       <email>hossie@hossie.de</email>
+      <name>Daniel Augustin</name>
     </owner>
-    <source type="git">https://git.hossie.de/scm/gen/gentoo-overlay.git</source>
+    <source type="git">https://github.com/daugustin/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/daugustin/gentoo-overlay.git</source>
+    <feed>https://github.com/daugustin/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>hotstoast</name>

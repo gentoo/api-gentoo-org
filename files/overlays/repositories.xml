@@ -4182,14 +4182,14 @@
   <repo quality="experimental" status="unofficial">
     <name>spring</name>
     <description lang="en">Spring RTS Gentoo overlay</description>
-    <homepage>https://github.com/springlobby/overlay</homepage>
+    <homepage>https://github.com/spring/gentoo-overlay</homepage>
     <owner type="person">
       <email>spring@abma.de</email>
       <name>abma</name>
     </owner>
-    <source type="git">https://github.com/springlobby/overlay.git</source>
-    <source type="git">git+ssh://git@github.com/springlobby/overlay.git</source>
-    <feed>https://github.com/springlobby/overlay/commits/master.atom</feed>
+    <source type="git">https://github.com/spring/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/spring/gentoo-overlay.git</source>
+    <feed>https://github.com/spring/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>squeezebox</name>

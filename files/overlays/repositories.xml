@@ -786,14 +786,13 @@
   <repo quality="experimental" status="unofficial">
     <name>Case_Of</name>
     <description lang="en">Personal overlay</description>
-    <homepage>https://framagit.org/Case_Of/gentoo-overlay</homepage>
+    <homepage>https://codeberg.org/Case_Of/gentoo-overlay</homepage>
     <owner type="person">
       <email>gentoo@retornaz.com</email>
       <name>Quentin Retornaz</name>
     </owner>
-    <source type="git">https://framagit.org/Case_Of/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@framagit.org/Case_Of/gentoo-overlay.git</source>
-    <feed>https://framagit.org/Case_Of/gentoo-overlay/commits/master?format=atom</feed>
+    <source type="git">https://codeberg.org/Case_Of/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org/Case_Of/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>cdlp</name>

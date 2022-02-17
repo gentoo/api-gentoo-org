@@ -112,6 +112,18 @@
     <!-- <feed>https://cgit.gentoo.org/user/activehome.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>adasss</name>
+    <description lang="en">Gentoo overlay for Android Studio experimental packages</description>
+    <homepage>https://github.com/AdamGiergun/adasss</homepage>
+    <owner type="person">
+      <email>adasss@poczta.onet.pl</email>
+      <name>Adam Giergun</name>
+    </owner>
+    <source type="git">https://github.com/AdamGiergun/adasss.git</source>
+    <source type="git">git://git@github.com/AdamGiergun/adasss.git</source>
+    <feed>https://github.com/AdamGiergun/adasss/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>aeon-gentoo-overlay</name>
     <description lang="en">Gentoo overlay for Aeon Dev packages and dependencies</description>
     <homepage>https://github.com/aeon-engine/aeon-gentoo-overlay</homepage>

@@ -4595,6 +4595,18 @@
     <feed>https://github.com/MeisterP/torbrowser-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>touchfish-os</name>
+    <description lang="en">Personal overlay of Haonan Chen</description>
+    <homepage>https://github.com/CHN-beta/touchfish-os</homepage>
+    <owner type="person">
+      <email>chn@chn.moe</email>
+      <name>Haonan Chen</name>
+    </owner>
+    <source type="git">https://github.com/CHN-beta/touchfish-os.git</source>
+    <source type="git">git+ssh://git@github.com/CHN-beta/touchfish-os.git</source>
+    <feed>https://github.com/CHN-beta/touchfish-os/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>trolltoo</name>
     <description lang="en">An ebuild overlay for Gentoo.</description>
     <homepage>https://github.com/dallenwilson/trolltoo</homepage>

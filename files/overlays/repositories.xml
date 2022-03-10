@@ -2059,20 +2059,6 @@
     <source type="git">https://git.ifproject.ru/hexedit/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>hibiscus</name>
-    <description lang="en">Hibiscus homebanking overlay</description>
-    <homepage>https://cgit.gentoo.org/user/hibiscus.git/</homepage>
-    <owner type="person">
-      <email>gentoo@posteo.de</email>
-      <name>Fabian Köster</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/hibiscus.git</source>
-    <source type="git">git://anongit.gentoo.org/user/hibiscus.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/hibiscus.git</source>
-    <feed>https://cgit.gentoo.org/user/hibiscus.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/hibiscus.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>hikari</name>
     <description lang="en">hikari's overlay</description>
     <homepage>https://github.com/wiredhikari/hikari-overlay</homepage>

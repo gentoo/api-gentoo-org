@@ -570,16 +570,6 @@
     <feed>https://github.com/bes-internal/gentoo-overlay-bes/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>bezerker</name>
-    <description>Bezerker's Packages</description>
-    <homepage>https://github.com/bezerker/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>bezerker@bezerker.org</email>
-      <name>Bezerker</name>
-    </owner>
-    <source type="git">https://github.com/bezerker/gentoo-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>bibletime</name>
     <description lang="en">BibleTime overlay</description>
     <homepage>https://cgit.gentoo.org/user/bibletime.git/</homepage>

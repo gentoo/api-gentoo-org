@@ -3491,18 +3491,6 @@
     <feed>https://gitlab.com/src_prepare/racket/racket-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>rage</name>
-    <description lang="en">rage's personal overlay</description>
-    <homepage>https://gitlab.com/oxr463/overlay</homepage>
-    <owner type="person">
-      <email>ramage.lucas@protonmail.com</email>
-      <name>Lucas Ramage</name>
-    </owner>
-    <source type="git">https://gitlab.com/oxr463/overlay.git</source>
-    <source type="git">git+ssh://git@gitlab.com/oxr463/overlay.git</source>
-    <feed>https://gitlab.com/oxr463/overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>raiagent</name>
     <description lang="en">Well-documented ebuilds en-route to a bandersnatch near you</description>
     <homepage>https://github.com/leycec/raiagent</homepage>

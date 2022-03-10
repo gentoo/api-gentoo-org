@@ -2160,16 +2160,6 @@
     <!-- <feed>https://cgit.gentoo.org/proj/java.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>jboro-overlay</name>
-    <description>personal experimental ebuilds</description>
-    <homepage>https://github.com/JBoro/portage</homepage>
-    <owner type="person">
-      <email>justin.borodinsky@gmail.com</email>
-      <name>justin borodinsky</name>
-    </owner>
-    <source type="git">https://github.com/JBoro/portage.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>jjakob</name>
     <description lang="en">Jernej Jakob's unofficial ebuilds</description>
     <homepage>https://github.com/jjakob/gentoo-overlay</homepage>

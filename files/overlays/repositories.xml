@@ -4123,16 +4123,6 @@
     <feed>https://github.com/soltysek/soltys-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>sorinp</name>
-    <description lang="en">A collection of ebuilds that are missing or outdated or incomplete on the Gentoo portage official repository..</description>
-    <homepage>https://github.com/psihozefir/sorinp-gentoo-overlay</homepage>
-    <owner type="person">
-      <email>sorin.panca@gmail.com</email>
-      <name>Sorin Panca</name>
-    </owner>
-    <source type="git">https://github.com/psihozefir/sorinp-gentoo-overlay</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>sorrow</name>
     <description lang="en">Ebuilds for some wayland-related software and some other stuff</description>
     <homepage>https://gitlab.com/eternal-sorrow/gentoo-local</homepage>

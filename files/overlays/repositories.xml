@@ -4441,16 +4441,6 @@
     <feed>https://github.com/tezeta/tezeta-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>tf201</name>
-    <description lang="en">TF201 (Asus Transformer Prime) overlay for Gentoo</description>
-    <homepage>https://github.com/Tux1c/tf201-overlay</homepage>
-    <owner type="person">
-      <email>tux1cc@gmail.com</email>
-      <name>Yan A.</name>
-    </owner>
-    <source type="git">https://github.com/Tux1c/tf201-overlay</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>tgbugs-overlay</name>
     <description>tgbugs portage overlay for custom ebuilds</description>
     <homepage>https://github.com/tgbugs/tgbugs-overlay</homepage>

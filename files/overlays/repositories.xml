@@ -1124,19 +1124,6 @@
     <feed>https://cgit.gentoo.org/repo/user/Drauthius.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>drdim</name>
-    <description lang="en">Gentoo Layman portage repository for Jetbrains Products</description>
-    <homepage>https://github.com/drdim/layman</homepage>
-    <owner type="person">
-      <email>dr.dim.pro@gmail.com</email>
-      <name>Dmitriy Bogatkin</name>
-    </owner>
-    <source type="git">https://github.com/drdim/layman.git</source>
-    <source type="git">git://github.com/drdim/layman.git</source>
-    <source type="git">git@github.com:drdim/layman.git</source>
-    <feed>https://github.com/drdim/layman/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>dwfreed</name>
     <description lang="en">My random Gentoo packages</description>
     <homepage>https://bitbucket.org/dwfreed/dwfreed.gentoo/</homepage>

@@ -4890,20 +4890,6 @@
     <!-- <feed>https://cgit.gentoo.org/user/wbrana.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>wdzierzan</name>
-    <description lang="en">Stuff I'd rather `emerge' than `stow'</description>
-    <homepage>https://cgit.gentoo.org/user/wdzierzan.git/</homepage>
-    <owner type="person">
-      <email>wojciech.dzierzanowski@gmail.com</email>
-      <name>Wojciech Dzierżanowski</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/wdzierzan.git</source>
-    <source type="git">git://anongit.gentoo.org/user/wdzierzan.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/wdzierzan.git</source>
-    <feed>https://cgit.gentoo.org/user/wdzierzan.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/wdzierzan.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>webos</name>
     <description>Ported Open WebOS components and libraries</description>
     <homepage>https://github.com/feniksa/webos-overlay</homepage>

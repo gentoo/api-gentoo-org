@@ -3938,6 +3938,18 @@
     <feed>https://github.com/setkeh/Portage-Overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>sevz</name>
+    <description lang="en">Personal Custom Gentoo Overlay.</description>
+    <homepage>https://gitlab.com/Sevz17/sevz-overlay</homepage>
+    <owner type="person">
+      <email>leohdz172@outlook.com</email>
+      <name>Leonardo Hernández Hernández</name>
+    </owner>
+    <source type="git">https://gitlab.com/Sevz17/sevz-overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com/Sevz17/sevz-overlay.git</source>
+    <feed>https://gitlab.com/Sevz17/sevz-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sevcsik</name>
     <description lang="en">Mainly cryptocurrency/blockchain related ebuilds</description>
     <homepage>https://github.com/sevcsik/overlay</homepage>
@@ -3949,18 +3961,6 @@
     <source type="git">git://github.com/sevcsik/overlay.git</source>
     <source type="git">git@github.com:sevcsik/overlay.git</source>
     <feed>https://github.com/sevcsik/overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>sevz</name>
-    <description lang="en">Personal Custom Gentoo Overlay.</description>
-    <homepage>https://gitlab.com/Sevz17/sevz-overlay</homepage>
-    <owner type="person">
-      <email>leohdz172@outlook.com</email>
-      <name>Leonardo Hernández Hernández</name>
-    </owner>
-    <source type="git">https://gitlab.com/Sevz17/sevz-overlay.git</source>
-    <source type="git">git+ssh://git@gitlab.com/Sevz17/sevz-overlay.git</source>
-    <feed>https://gitlab.com/Sevz17/sevz-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sft</name>

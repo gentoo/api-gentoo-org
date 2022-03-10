@@ -4383,15 +4383,6 @@
     <!-- <feed>https://cgit.gentoo.org/repo/dev/tamiko.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>tante</name>
-    <description>Overlay of tante</description>
-    <homepage>https://github.com/tante/overlay</homepage>
-    <owner type="person">
-      <email>tante@tante.cc</email>
-    </owner>
-    <source type="git">https://github.com/tante/overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>tarantool</name>
     <description lang="en">Tarantool Gentoo Overlay</description>
     <homepage>https://github.com/tarantool/gentoo-overlay</homepage>

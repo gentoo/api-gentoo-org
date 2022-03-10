@@ -4500,20 +4500,6 @@
     <feed>https://github.com/tmacedo/portage/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>tocaro</name>
-    <description lang="en">tocaro personnal o.g.o</description>
-    <homepage>https://cgit.gentoo.org/user/tocaro.git/</homepage>
-    <owner type="person">
-      <email>tocaro@thocar.org</email>
-      <name>Thomas Carrié</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/tocaro.git</source>
-    <source type="git">git://anongit.gentoo.org/user/tocaro.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/tocaro.git</source>
-    <feed>https://cgit.gentoo.org/user/tocaro.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/tocaro.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>toniz4-overlay</name>
     <description>Useful packages for your person use</description>
     <homepage>https://github.com/toniz4/toniz4-overlay.git/</homepage>

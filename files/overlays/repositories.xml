@@ -3635,18 +3635,6 @@
     <feed>https://github.com/mahatma-kaganovich/raw/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>rdnetto-overlay</name>
-    <description lang="en">Personal Overlay</description>
-    <homepage>https://github.com/rdnetto/rdnetto-overlay</homepage>
-    <owner type="person">
-      <email>rdnetto@gmail.com</email>
-      <name>Reuben D'Netto</name>
-    </owner>
-    <source type="git">https://github.com/rdnetto/rdnetto-overlay.git</source>
-    <source type="git">git+ssh://git@github.com:rdnetto/rdnetto-overlay.git</source>
-    <feed>https://github.com/rdnetto/rdnetto-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>reagentoo</name>
     <description lang="en">reagentoo's overlay</description>
     <homepage>https://gitlab.com/reagentoo/gentoo-overlay</homepage>

@@ -696,10 +696,10 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bratishkaerik-overlay</name>
-    <description lang="en">Personal overlay</description>
+    <description lang="en">Personal overlay + Zig stuff</description>
     <homepage>https://github.com/BratishkaErik/bratishkaerik-overlay</homepage>
     <owner type="person">
-      <email>erik.zholdasov@mail.ru</email>
+      <email>bratishkaerik@getgoogleoff.me</email>
       <name>BratishkaErik</name>
     </owner>
     <source type="git">https://github.com/BratishkaErik/bratishkaerik-overlay.git</source>

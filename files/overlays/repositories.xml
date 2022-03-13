@@ -1423,7 +1423,7 @@
     <description lang="en">An overlay for gentoo for things Flammie's worked on: Apertium, HFST, computational linguistics, spell-checking, obscure languages...</description>
     <homepage>https://github.com/flammie/flammie-overlay</homepage>
     <owner type="person">
-      <email>flammie@gentoo.org</email>
+      <email>flammie@iki.fi</email>
       <name>Flammie Pirinen</name>
     </owner>
     <source type="git">https://github.com/flammie/flammie-overlay.git</source>

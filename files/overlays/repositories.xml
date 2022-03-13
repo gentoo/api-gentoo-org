@@ -850,16 +850,6 @@
     <feed>https://github.com/junghans/cj-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>concaveoverlay</name>
-    <description lang="en">concavegit's overlay.</description>
-    <homepage>https://gitlab.com/concavegit/concaveoverlay</homepage>
-    <owner type="person">
-      <email>concavemail@gmail.com</email>
-    </owner>
-    <source type="git">https://gitlab.com/concavegit/concaveoverlay.git</source>
-    <feed>https://gitlab.com/concavegit/concaveoverlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>cosmicmod-overlay</name>
     <description>CosmicMod Overlay</description>
     <homepage>https://github.com/cosmicoz/cosmicmod-overlay</homepage>

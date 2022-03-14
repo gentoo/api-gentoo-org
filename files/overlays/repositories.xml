@@ -1318,18 +1318,6 @@
     <feed>https://gitlab.com/at.gentoo.repo/epson-inkjet-printer-escpr2/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>ethereum</name>
-    <description lang="en">The Ethereum blockchain-based distributed computing platform</description>
-    <homepage>https://github.com/coolparadox/ethereum-gentoo-overlay</homepage>
-    <owner type="person">
-      <email>coolparadox@gmail.com</email>
-      <name>Rafael Lorandi</name>
-    </owner>
-    <source type="git">https://github.com/coolparadox/ethereum-gentoo-overlay.git</source>
-    <source type="git">git@github.com:coolparadox/ethereum-gentoo-overlay.git</source>
-    <feed>https://github.com/coolparadox/ethereum-gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>eugene-bright</name>
     <description lang="en">The personal overlay of Eugene Bright</description>
     <homepage>https://github.com/eugene-bright/eugene-bright-overlay</homepage>

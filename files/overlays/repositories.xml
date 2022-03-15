@@ -2814,7 +2814,7 @@
     <homepage>https://gitlab.com/xgqt/myov.git</homepage>
     <owner type="person">
       <email>xgqt@gentoo.org</email>
-      <name>XGQT</name>
+      <name>Maciej Barć</name>
     </owner>
     <source type="git">https://gitlab.com/xgqt/myov.git</source>
     <source type="git">git+ssh://git@gitlab.com/xgqt/myov.git</source>

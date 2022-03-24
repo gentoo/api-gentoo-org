@@ -3678,7 +3678,6 @@
       <email>frp.bissey@gmail.com</email>
       <name>Francois Bissey</name>
     </owner>
-    <source type="git">git://github.com/cschwan/sage-on-gentoo.git</source>
     <source type="git">https://github.com/cschwan/sage-on-gentoo.git</source>
     <feed>https://github.com/feeds/cschwan/commits/sage-on-gentoo/master</feed>
   </repo>

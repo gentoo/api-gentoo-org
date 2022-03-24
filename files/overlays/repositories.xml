@@ -892,7 +892,7 @@
       <email>mva@gentoo.org</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
-    <source type="git">git://github.com/alphallc/crossdev</source>
+    <source type="git">https://github.com/alphallc/crossdev</source>
     <feed>https://github.com/alphallc/crossdev/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

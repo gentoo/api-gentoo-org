@@ -3531,7 +3531,7 @@
       <email>rich0@gentoo.org</email>
       <name>Richard Freeman</name>
     </owner>
-    <source type="git">git://github.com/rich0/rich0-overlay.git</source>
+    <source type="git">https://github.com/rich0/rich0-overlay.git</source>
     <feed>https://github.com/rich0/rich0-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

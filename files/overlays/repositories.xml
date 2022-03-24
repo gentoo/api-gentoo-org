@@ -1517,7 +1517,6 @@
       <email>slashbeast@gentoo.org</email>
       <name>Piotr Karbowski</name>
     </owner>
-    <source type="git">git://github.com/slashbeast/foo-overlay.git</source>
     <source type="git">https://github.com/slashbeast/foo-overlay.git</source>
     <feed>https://github.com/slashbeast/foo-overlay/commits/master.atom</feed>
   </repo>

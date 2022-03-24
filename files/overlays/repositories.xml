@@ -2702,7 +2702,7 @@
       <email>moltonel@gmail.com</email>
       <name>Vincent de Phily</name>
     </owner>
-    <source type="git">git://github.com/vincentdephily/moltonel-ebuilds.git</source>
+    <source type="git">https://github.com/vincentdephily/moltonel-ebuilds.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>monero</name>

@@ -4178,7 +4178,7 @@
       <email>alenk.serg@gmail.com</email>
       <name>Elena Sergeicheva</name>
     </owner>
-    <source type="git">git://github.com/suntar/suntar-overlay.git</source>
+    <source type="git">https://github.com/suntar/suntar-overlay.git</source>
     <feed>https://github.com/suntar/suntar-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

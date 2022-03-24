@@ -2478,7 +2478,7 @@
       <email>parinzee@protonmail.com</email>
       <name>Parinthapat P.</name>
     </owner>
-    <source type="git">git://github.com/Parinz/linux-surface-overlay.git</source>
+    <source type="git">https://github.com/Parinz/linux-surface-overlay.git</source>
     <feed>https://github.com/Parinz/linux-surface-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

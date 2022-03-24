@@ -642,7 +642,6 @@
       <name>Blake LaFleur</name>
     </owner>
     <source type="git">https://github.com/blackburn29/blackburn29-overlay.git</source>
-    <source type="git">git://github.com/blackburn29/blackburn29-overlay.git</source>
     <source type="git">git@github.com:blackburn29/blackburn29-overlay.git</source>
     <feed>https://github.com/blackburn29/blackburn29-overlay/commits/master.atom</feed>
   </repo>

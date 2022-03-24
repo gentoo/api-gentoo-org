@@ -760,7 +760,7 @@
       <email>mva@gentoo.org</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
-    <source type="git">git://github.com/Bumblebee-Project/bumblebee-gentoo</source>
+    <source type="git">https://github.com/Bumblebee-Project/bumblebee-gentoo</source>
     <feed>https://github.com/Bumblebee-Project/bumblebee-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

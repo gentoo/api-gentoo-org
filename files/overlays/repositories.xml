@@ -79,7 +79,6 @@
       <name>Aleksei Kaveshnikov</name>
     </owner>
     <source type="git">https://github.com/4nykey/4nykey.git</source>
-    <source type="git">git://github.com/4nykey/4nykey.git</source>
     <source type="git">git@github.com:4nykey/4nykey.git</source>
     <feed>https://github.com/4nykey/4nykey/commits/master.atom</feed>
   </repo>
@@ -92,7 +91,6 @@
       <name>Alexander Olofsson</name>
     </owner>
     <source type="git">https://github.com/ananace/overlay.git</source>
-    <source type="git">git://github.com/ananace/overlay.git</source>
     <source type="git">git@github.com:ananace/overlay.git</source>
     <feed>https://github.com/ananace/overlay/commits/master.atom</feed>
   </repo>
@@ -120,7 +118,7 @@
       <name>Adam Giergun</name>
     </owner>
     <source type="git">https://github.com/AdamGiergun/adasss.git</source>
-    <source type="git">git://git@github.com/AdamGiergun/adasss.git</source>
+    <source type="git">git+ssh://git@github.com/AdamGiergun/adasss.git</source>
     <feed>https://github.com/AdamGiergun/adasss/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -170,6 +168,7 @@
       <name>Yi Yang</name>
     </owner>
     <source type="git">https://github.com/ahyangyi/ahyangyi-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/ahyangyi/ahyangyi-overlay.git</source>
     <feed>https://github.com/ahyangyi/ahyangyi-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -193,7 +192,6 @@
       <name>Alatar</name>
     </owner>
     <source type="git">https://github.com/alatarum/alatar-lay.git</source>
-    <source type="git">git://github.com/alatarum/alatar-lay.git</source>
     <source type="git">git@github.com:alatarum/alatar-lay.git</source>
     <feed>https://github.com/alatarum/alatar-lay/commits/master.atom</feed>
   </repo>
@@ -217,7 +215,6 @@
       <name>Alexandre Fournier</name>
     </owner>
     <source type="git">https://github.com/AlexandreFournier/gentoo-overlay.git</source>
-    <source type="git">git://github.com/AlexandreFournier/gentoo-overlay.git</source>
     <source type="git">git@github.com:AlexandreFournier/gentoo-overlay.git</source>
     <feed>https://github.com/AlexandreFournier/gentoo-overlay/commits/master.atom</feed>
   </repo>
@@ -281,7 +278,6 @@
       <name>Amit Prakash Ambasta</name>
     </owner>
     <source type="git">https://github.com/ambasta/ambasta.git</source>
-    <source type="git">git://github.com/ambasta/ambasta.git</source>
     <source type="git">git@github.com:ambasta/ambasta.git</source>
     <feed>https://github.com/ambasta/ambasta/commits/main.atom</feed>
   </repo>
@@ -346,6 +342,7 @@
       <name>Anders Larsson</name>
     </owner>
     <source type="git">https://github.com/anders-larsson/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/anders-larsson/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>andrey_utkin</name>
@@ -368,7 +365,6 @@
       <name>anomen</name>
     </owner>
     <source type="git">https://github.com/anomen-s/anomen-overlay.git</source>
-    <source type="git">git://github.com/anomen-s/anomen-overlay.git</source>
     <source type="git">git@github.com:anomen-s/anomen-overlay.git</source>
     <feed>https://github.com/anomen-s/anomen-overlay/commits/master.atom</feed>
   </repo>
@@ -381,7 +377,6 @@
       <name>Mario Kicherer</name>
     </owner>
     <source type="git">https://github.com/anyc/anyc-overlay.git</source>
-    <source type="git">git://github.com/anyc/anyc-overlay.git</source>
     <source type="git">git@github.com:anyc/anyc-overlay.git</source>
     <feed>https://github.com/anyc/anyc-overlay/commits/master.atom</feed>
   </repo>
@@ -439,7 +434,7 @@
       <name>Daniel Scharrer</name>
     </owner>
     <source type="git">https://github.com/arx/ArxGentoo.git</source>
-    <source type="git">git://github.com/arx/ArxGentoo.git</source>
+    <source type="git">git+ssh://git@github.com/arx/ArxGentoo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>AstroFloyd</name>
@@ -464,7 +459,6 @@
       <name>Audio overlay</name>
     </owner>
     <source type="git">https://github.com/gentoo-audio/audio-overlay.git</source>
-    <source type="git">git://github.com/gentoo-audio/audio-overlay.git</source>
     <source type="git">git@github.com:gentoo-audio/audio-overlay.git</source>
     <feed>https://github.com/gentoo-audio/audio-overlay/commits/master.atom</feed>
   </repo>
@@ -513,7 +507,7 @@
       <name>William Throwe</name>
     </owner>
     <source type="git">https://github.com/wthrowe/barnowl-overlay.git</source>
-    <source type="git">git://github.com/wthrowe/barnowl-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/wthrowe/barnowl-overlay.git</source>
     <feed>https://github.com/wthrowe/barnowl-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -532,7 +526,7 @@
       <name>Mattéo Rossillol--Laruelle</name>
     </owner>
     <source type="git">https://github.com/beatussum/beatussum-overlay.git</source>
-    <source type="git">ssh://git@github.com/beatussum/beatussum-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/beatussum/beatussum-overlay.git</source>
     <feed>https://github.com/beatussum/beatussum-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -542,7 +536,8 @@
       <email>web.alexander@web.de</email>
       <name>Alexander Weber (bell07)</name>
     </owner>
-    <source type="git">https://github.com/bell07/gentoo-bell07_overlay</source>
+    <source type="git">https://github.com/bell07/gentoo-bell07_overlay.git</source>
+    <source type="git">git+ssh://git@github.com/bell07/gentoo-bell07_overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>benzene-overlay</name>
@@ -565,7 +560,6 @@
       <name>Vladimir Varlamov</name>
     </owner>
     <source type="git">https://github.com/bes-internal/gentoo-overlay-bes.git</source>
-    <source type="git">git://github.com/bes-internal/gentoo-overlay-bes.git</source>
     <source type="git">git@github.com:bes-internal/gentoo-overlay-bes.git</source>
     <feed>https://github.com/bes-internal/gentoo-overlay-bes/commits/master.atom</feed>
   </repo>
@@ -592,7 +586,6 @@
       <name>Thomas Kemmer</name>
     </owner>
     <source type="git">https://github.com/tkemmer/binaryden.git</source>
-    <source type="git">git://github.com/tkemmer/binaryden.git</source>
     <source type="git">git+ssh://git@github.com/tkemmer/binaryden.git</source>
     <feed>https://github.com/tkemmer/binaryden/commits/master.atom</feed>
   </repo>
@@ -619,7 +612,6 @@
       <name>Sven Schwyn</name>
     </owner>
     <source type="git">https://github.com/svoop/bitcetera-overlay.git</source>
-    <source type="git">git://github.com/svoop/bitcetera-overlay.git</source>
     <source type="git">git@github.com:svoop/bitcetera-overlay.git</source>
     <feed>https://github.com/svoop/bitcetera-overlay/commits/main.atom</feed>
   </repo>
@@ -666,7 +658,6 @@
       <name>Pierre Geier</name>
     </owner>
     <source type="git">https://github.com/bloodywing/bloody.git</source>
-    <source type="git">git://github.com/bloodywing/bloody.git</source>
     <source type="git">git@github.com:bloodywing/bloody.git</source>
     <feed>https://github.com/bloodywing/bloody/commits/master.atom</feed>
   </repo>
@@ -679,7 +670,6 @@
       <name>Bob Wya</name>
     </owner>
     <source type="git">https://github.com/bobwya/miscellaneous_ebuilds.git</source>
-    <source type="git">git://github.com/bobwya/miscellaneous_ebuilds.git</source>
     <source type="git">git@github.com:bobwya/miscellaneous_ebuilds.git</source>
     <feed>https://github.com/bobwya/miscellaneous_ebuilds/commits/master.atom</feed>
   </repo>
@@ -704,6 +694,7 @@
       <name>Sergey Alirzaev</name>
     </owner>
     <source type="git">https://github.com/l29ah/booboo.git</source>
+    <source type="git">git+ssh://git@github.com/l29ah/booboo.git</source>
     <feed>https://github.com/l29ah/booboo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -737,7 +728,6 @@
       <name>Stefan Langenmaier</name>
     </owner>
     <source type="git">https://github.com/stefan-langenmaier/brother-overlay.git</source>
-    <source type="git">git://github.com/stefan-langenmaier/brother-overlay.git</source>
     <source type="git">git@github.com:stefan-langenmaier/brother-overlay.git</source>
     <feed>https://github.com/stefan-langenmaier/brother-overlay/commits/master.atom</feed>
   </repo>
@@ -750,6 +740,7 @@
       <name>Gordon Bos</name>
     </owner>
     <source type="git">https://github.com/gordonb3/bubba-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/gordonb3/bubba-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bumblebee</name>
@@ -759,7 +750,8 @@
       <email>mva@gentoo.org</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
-    <source type="git">https://github.com/Bumblebee-Project/bumblebee-gentoo</source>
+    <source type="git">https://github.com/Bumblebee-Project/bumblebee-gentoo.git</source>
+    <source type="git">git+ssh://git@github.com/Bumblebee-Project/bumblebee-gentoo.git</source>
     <feed>https://github.com/Bumblebee-Project/bumblebee-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -771,7 +763,6 @@
       <name>Denis Buzdalov</name>
     </owner>
     <source type="git">https://github.com/buzden/buzden-overlay.git</source>
-    <source type="git">git://github.com/buzden/buzden-overlay.git</source>
     <source type="git">git@github.com:buzden/buzden-overlay.git</source>
     <feed>https://github.com/buzden/buzden-overlay/commits/master.atom</feed>
   </repo>
@@ -849,6 +840,7 @@
       <email>brothermechanic@gmail.com</email>
     </owner>
     <source type="git">https://github.com/brothermechanic/cg.git</source>
+    <source type="git">git+ssh://git@github.com/brothermechanic/cg.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>cj-overlay</name>
@@ -857,7 +849,8 @@
     <owner type="person">
       <email>junghans@gentoo.org</email>
     </owner>
-    <source type="git">https://github.com/junghans/cj-overlay</source>
+    <source type="git">https://github.com/junghans/cj-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/junghans/cj-overlay.git</source>
     <feed>https://github.com/junghans/cj-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -869,6 +862,7 @@
       <name>Oz</name>
     </owner>
     <source type="git">https://github.com/cosmicoz/cosmicmod-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/cosmicoz/cosmicmod-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>crocket-overlay</name>
@@ -891,7 +885,8 @@
       <email>mva@gentoo.org</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
-    <source type="git">https://github.com/alphallc/crossdev</source>
+    <source type="git">https://github.com/alphallc/crossdev.git</source>
+    <source type="git">git+ssh://git@github.com/alphallc/crossdev.git</source>
     <feed>https://github.com/alphallc/crossdev/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -951,6 +946,7 @@
       <name>Aten Zhang</name>
     </owner>
     <source type="git">https://github.com/zhtengw/deepin-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/zhtengw/deepin-overlay.git</source>
     <feed>https://github.com/zhtengw/deepin-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -962,7 +958,6 @@
       <name>Dan Molik</name>
     </owner>
     <source type="git">https://github.com/d3fy/defiance-overlay.git</source>
-    <source type="git">git://github.com/d3fy/defiance-overlay.git</source>
     <source type="git">git@github.com:d3fy/defiance-overlay.git</source>
     <feed>https://github.com/d3fy/defiance-overlay/commits/master.atom</feed>
   </repo>
@@ -974,7 +969,6 @@
       <email>me@dequbed.space</email>
     </owner>
     <source type="git">https://github.com/dequbed/overlay.git</source>
-    <source type="git">git://github.com/dequbed/overlay.git</source>
     <source type="git">git@github.com:dequbed/overlay.git</source>
     <feed>https://github.com/dequbed/overlay/commits/master.atom</feed>
   </repo>
@@ -987,6 +981,7 @@
       <name>Bartlomiej Burdukiewicz</name>
     </owner>
     <source type="git">https://github.com/dev-0x7C6/dev1990-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/dev-0x7C6/dev1990-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>didos</name>
@@ -1023,7 +1018,6 @@
       <name>Ari Archer</name>
     </owner>
     <source type="git">https://github.com/TruncatedDinosour/dinolay.git</source>
-    <source type="git">git://github.com/TruncatedDinosour/dinolay.git</source>
     <source type="git">git@github.com:TruncatedDinosour/dinolay.git</source>
     <feed>https://github.com/TruncatedDinosour/dinolay/commits/main.atom</feed>
   </repo>
@@ -1059,7 +1053,6 @@
       <name>Dirkjan Ochtman</name>
     </owner>
     <source type="git">https://github.com/djc/djc-overlay.git</source>
-    <source type="git">git://github.com/djc/djc-overlay.git</source>
     <source type="git">git@github.com:djc/djc-overlay.git</source>
     <feed>https://github.com/djc/djc-overlay/commits/master.atom</feed>
   </repo>
@@ -1073,7 +1066,6 @@
     </owner>
     <source type="git">https://github.com/gentoo/dlang.git</source>
     <source type="git">git@github.com:gentoo/dlang.git</source>
-    <source type="git">git://github.com/gentoo/dlang.git</source>
     <feed>https://github.com/gentoo/dlang/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1095,7 +1087,6 @@
       <name>Danielle Church</name>
     </owner>
     <source type="git">https://github.com/dmchurch/portage-overlay.git</source>
-    <source type="git">git://github.com/dmchurch/portage-overlay.git</source>
     <source type="git">git@github.com:dmchurch/portage-overlay.git</source>
     <feed>https://github.com/dmchurch/portage-overlay/commits/master.atom</feed>
   </repo>
@@ -1156,7 +1147,7 @@
       <name>Valeriy</name>
     </owner>
     <source type="git">https://github.com/Chemrat/overlay.git</source>
-    <source type="git">git://github.com/Chemrat/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Chemrat/overlay.git</source>
     <feed>https://github.com/Chemrat/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -1168,7 +1159,6 @@
       <name>Eclipse team</name>
     </owner>
     <source type="git">https://github.com/gentoo/eclipse-overlay.git</source>
-    <source type="git">git://github.com/gentoo/eclipse-overlay.git</source>
     <source type="git">git@github.com:gentoo/eclipse-overlay.git</source>
     <feed>https://github.com/gentoo/eclipse-overlay/commits/master.atom</feed>
   </repo>
@@ -1227,6 +1217,7 @@
       <name>Elvis Pranskevichus</name>
     </owner>
     <source type="git">https://github.com/elprans/electron-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/elprans/electron-overlay.git</source>
     <feed>https://github.com/elprans/electron-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1238,7 +1229,7 @@
       <name>Pim Vullers</name>
     </owner>
     <source type="git">https://github.com/pimvullers/elementary.git</source>
-    <source type="git">git://github.com/pimvullers/elementary.git</source>
+    <source type="git">git+ssh://git@github.com/pimvullers/elementary.git</source>
     <feed>https://github.com/pimvullers/elementary/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1278,7 +1269,7 @@
       <name>Emilien Mottet</name>
     </owner>
     <source type="git">https://github.com/EmilienMottet/overlay.git</source>
-    <source type="git">git+ssh://git@github.com/EmilienMottet/overlay</source>
+    <source type="git">git+ssh://git@github.com/EmilienMottet/overlay.git</source>
     <feed>https://github.com/EmilienMottet/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1290,6 +1281,7 @@
       <name>Raffaele Spinelli</name>
     </owner>
     <source type="git">https://github.com/rafspiny/enlightenment-live.git</source>
+    <source type="git">git+ssh://git@github.com/rafspiny/enlightenment-live.git</source>
     <feed>https://github.com/rafspiny/enlightenment-live/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1313,7 +1305,6 @@
       <name>Steve Gilberd</name>
     </owner>
     <source type="git">https://github.com/erayd/overlay.git</source>
-    <source type="git">git://github.com/erayd/overlay.git</source>
     <source type="git">git@github.com:erayd/overlay.git</source>
     <feed>https://github.com/erayd/overlay/commits/master.atom</feed>
   </repo>
@@ -1361,7 +1352,6 @@
       <name>Enrico Horn</name>
     </owner>
     <source type="git">https://github.com/farmboy0/portage-overlay.git</source>
-    <source type="git">git://github.com/farmboy0/portage-overlay.git</source>
     <source type="git">git@github.com:farmboy0/portage-overlay.git</source>
     <feed>https://github.com/farmboy0/portage-overlay/commits/master.atom</feed>
   </repo>
@@ -1405,6 +1395,7 @@
       <name>Mike Lothian</name>
     </owner>
     <source type="git">https://github.com/FireBurn/Overlay.git</source>
+    <source type="git">git+ssh://git@github.com/FireBurn/Overlay.git</source>
     <feed>https://github.com/FireBurn/Overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1416,7 +1407,7 @@
       <name>Flammie Pirinen</name>
     </owner>
     <source type="git">https://github.com/flammie/flammie-overlay.git</source>
-    <source type="git">git://github.com/flammie/flammie-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/flammie/flammie-overlay.git</source>
     <feed>https://github.com/flammie/flammie-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1428,7 +1419,7 @@
       <name>Wim Muskee</name>
     </owner>
     <source type="git">https://github.com/wimmuskee/flavour.git</source>
-    <source type="git">git://github.com/wimmuskee/flavour.git</source>
+    <source type="git">git+ssh://git@github.com/wimmuskee/flavour.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>flewkey-overlay</name>
@@ -1449,6 +1440,7 @@
       <name>Alexis</name>
     </owner>
     <source type="git">https://github.com/flexibeast/gentoo-s6-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/flexibeast/gentoo-s6-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>flightsim</name>
@@ -1459,7 +1451,6 @@
       <name>Rafael G. Martins</name>
     </owner>
     <source type="git">https://github.com/rafaelmartins/flightsim-overlay.git</source>
-    <source type="git">git://github.com/rafaelmartins/flightsim-overlay.git</source>
     <source type="git">git@github.com:rafaelmartins/flightsim-overlay.git</source>
     <feed>https://github.com/rafaelmartins/flightsim-overlay/commits/master.atom</feed>
   </repo>
@@ -1471,7 +1462,8 @@
       <email>floppym@gentoo.org</email>
       <name>Mike Gilbert</name>
     </owner>
-    <source type="git">https://github.com/floppym/floppym</source>
+    <source type="git">https://github.com/floppym/floppym.git</source>
+    <source type="git">git+ssh://git@github.com/floppym/floppym.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>flow</name>
@@ -1517,6 +1509,7 @@
       <name>Piotr Karbowski</name>
     </owner>
     <source type="git">https://github.com/slashbeast/foo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/slashbeast/foo-overlay.git</source>
     <feed>https://github.com/slashbeast/foo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -1554,6 +1547,7 @@
       <name>Rabbe Fogelholm</name>
     </owner>
     <source type="git">https://github.com/fowlay/fowlay-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/fowlay/fowlay-overlay.git</source>
     <feed>https://github.com/fowlay/fowlay-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1565,7 +1559,6 @@
       <name>José Pekkarinen</name>
     </owner>
     <source type="git">https://github.com/Pekkari/foxiverlay.git</source>
-    <source type="git">git://github.com/Pekkari/foxiverlay.git</source>
     <source type="git">git@github.com:Pekkari/foxiverlay.git</source>
     <feed>https://github.com/Pekkari/foxiverlay/commits/master.atom</feed>
   </repo>
@@ -1590,7 +1583,7 @@
       <name>Daniel 'f0o' Preussker</name>
     </owner>
     <source type="git">https://github.com/FRRouting/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com:FRRouting/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/FRRouting/gentoo-overlay.git</source>
     <feed>https://github.com/FRRouting/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1602,7 +1595,7 @@
       <name>Brenton Horne</name>
     </owner>
     <source type="git">https://github.com/fusion809/fusion809-overlay.git</source>
-    <source type="git">git://github.com/fusion809/fusion809-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/fusion809/fusion809-overlay.git</source>
     <feed>https://github.com/fusion809/fusion809-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1614,7 +1607,6 @@
       <name>Yining Feng</name>
     </owner>
     <source type="git">https://github.com/qwe795138426/fyn-overlay.git</source>
-    <source type="git">git://github.com/qwe795138426/fyn-overlay.git</source>
     <source type="git">git@github.com:qwe795138426/fyn-overlay.git</source>
     <feed>https://github.com/qwe795138426/fyn-overlay/commits/master.atom</feed>
   </repo>
@@ -1627,6 +1619,7 @@
       <name>amaroun</name>
     </owner>
     <source type="git">https://github.com/Amaroun/gamarouns.git</source>
+    <source type="git">git+ssh://git@github.com/Amaroun/gamarouns.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gamerlay</name>
@@ -1689,7 +1682,6 @@
       <name>Alexander Bilyak</name>
     </owner>
     <source type="git">https://github.com/BilyakA/gentoo-clang.git</source>
-    <source type="git">git://github.com/BilyakA/gentoo-clang.git</source>
     <source type="git">git@github.com:BilyakA/gentoo-clang.git</source>
     <feed>https://github.com/BilyakA/gentoo-clang/commits/master.atom</feed>
   </repo>
@@ -1727,8 +1719,7 @@
       <email>microcai@fedoraproject.org</email>
     </owner>
     <source type="git">https://github.com/microcai/gentoo-zh.git</source>
-    <source type="git">git://github.com/microcai/gentoo-zh.git</source>
-    <source type="git">git+ssh://github.com/microcai/gentoo-zh.git</source>
+    <source type="git">git+ssh://git@github.com/microcai/gentoo-zh.git</source>
     <feed>https://github.com/microcai/gentoo-zh/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1770,6 +1761,7 @@
       <email>yangmame@i2pmail.org</email>
     </owner>
     <source type="git">https://github.com/Gig-OS/gig.git</source>
+    <source type="git">git+ssh://git@github.com/Gig-OS/gig.git</source>
     <feed>https://github.com/Gig-OS/gig/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1815,7 +1807,8 @@
     <owner type="person">
       <email>hololeap@gmail.com</email>
     </owner>
-    <source type="git">https://github.com/hololeap/gentoo-gnuradio</source>
+    <source type="git">https://github.com/hololeap/gentoo-gnuradio.git</source>
+    <source type="git">git+ssh://git@github.com/hololeap/gentoo-gnuradio.git</source>
     <feed>https://github.com/hololeap/gentoo-gnuradio/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -1840,6 +1833,7 @@
       <name>Mauro Toffanin</name>
     </owner>
     <source type="git">https://github.com/Dr-Terrible/go-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Dr-Terrible/go-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>goduck777</name>
@@ -1850,9 +1844,8 @@
       <name>Chang Liu</name>
     </owner>
     <source type="git">https://github.com/goduck777/gentoo-overlay.git</source>
-    <source type="git">git://github.com/goduck777/gentoo-overlay.git</source>
     <source type="git">git@github.com:goduck777/gentoo-overlay.git</source>
-    <feed>https://github.com/Godin/gentoo-overlay/commits/master.atom</feed>
+    <feed>https://github.com/goduck777/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
     <name>graaff</name>
@@ -1902,7 +1895,6 @@
       <name>Michael Uleysky</name>
     </owner>
     <source type="git">https://github.com/uleysky/gsview-overlay.git</source>
-    <source type="git">git://github.com/uleysky/gsview-overlay.git</source>
     <source type="git">git@github.com:uleysky/gsview-overlay.git</source>
     <feed>https://github.com/uleysky/gsview-overlay/commits/master.atom</feed>
   </repo>
@@ -1937,6 +1929,7 @@
       <name>Mario Haustein</name>
     </owner>
     <source type="git">https://github.com/hamarituc/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/hamarituc/gentoo-overlay.git</source>
     <feed>https://github.com/hamarituc/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1948,8 +1941,8 @@
       <name>Alexander Pilipenko</name>
     </owner>
     <source type="git">https://github.com/Hamper/hamper-overlay.git</source>
-    <source type="git">git://github.com/hamper/hamper-overlay.git</source>
-    <feed>https://github.com/hamper/hamper-overlay/commits/master.atom</feed>
+    <source type="git">git+ssh://git@github.com/Hamper/hamper-overlay.git</source>
+    <feed>https://github.com/Hamper/hamper-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>han</name>
@@ -1971,8 +1964,7 @@
       <email>haskell@gentoo.org</email>
     </owner>
     <source type="git">https://github.com/gentoo-haskell/gentoo-haskell.git</source>
-    <source type="git">git://github.com/gentoo-haskell/gentoo-haskell.git</source>
-    <source type="git">https://github.com/gentoo-haskell/gentoo-haskell.git</source>
+    <source type="git">git+ssh://git@github.com/gentoo-haskell/gentoo-haskell.git</source>
     <feed>https://github.com/gentoo-haskell/gentoo-haskell/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -1996,6 +1988,7 @@
       <name>Richard Hering</name>
     </owner>
     <source type="git">https://github.com/internethering/hering-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/internethering/hering-overlay.git</source>
     <feed>https://github.com/internethering/hering-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2040,6 +2033,7 @@
     </owner>
     <source type="git">https://git.edevau.net/onkelbeh/HomeAssistantRepository.git</source>
     <source type="git">https://github.com/onkelbeh/HomeAssistantRepository.git</source>
+    <source type="git">git+ssh://git@github.com/onkelbeh/HomeAssistantRepository.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>hossie</name>
@@ -2074,6 +2068,7 @@
       <name>Anton Fischl</name>
     </owner>
     <source type="git">https://github.com/antonfischl1980/icinga.git</source>
+    <source type="git">git+ssh://git@github.com/antonfischl1980/icinga.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ikelos</name>
@@ -2084,6 +2079,7 @@
       <name>Mike Auty</name>
     </owner>
     <source type="git">https://github.com/ikelos/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/ikelos/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>inode64-overlay</name>
@@ -2095,6 +2091,7 @@
       <name>F.Javier Félix</name>
     </owner>
     <source type="git">https://github.com/inode64/inode64-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/inode64/inode64-overlay.git</source>
     <feed>https://github.com/inode64/inode64-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2106,7 +2103,6 @@
       <name>David Heidelberger</name>
     </owner>
     <source type="git">https://github.com/okias/ixit.git</source>
-    <source type="git">git://github.com/okias/ixit.git</source>
     <source type="git">git@github.com:okias/ixit.git</source>
     <feed>https://github.com/okias/ixit/commits/master.atom</feed>
   </repo>
@@ -2166,7 +2162,6 @@
       <name>jl1990</name>
     </owner>
     <source type="git">https://github.com/jl1990/gentoo-overlay.git</source>
-    <source type="git">git://github.com/jl1990/gentoo-overlay.git</source>
     <source type="git">git@github.com:jl1990/gentoo-overlay.git</source>
     <feed>https://github.com/jl1990/gentoo-overlay/commits/master.atom</feed>
   </repo>
@@ -2179,6 +2174,7 @@
       <name>Jannis234</name>
     </owner>
     <source type="git">https://github.com/Jannis234/jm-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Jannis234/jm-overlay.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>jmbsvicetto</name>
@@ -2217,7 +2213,6 @@
       <name>Jorge Pizarro Callejas</name>
     </owner>
     <source type="git">https://github.com/jorgicio/jorgicio-gentoo.git</source>
-    <source type="git">git://github.com/jorgicio/jorgicio-gentoo.git</source>
     <source type="git">git@github.com:jorgicio/jorgicio-gentoo.git</source>
     <feed>https://github.com/jorgicio/jorgicio-gentoo/commits/master.atom</feed>
   </repo>
@@ -2230,7 +2225,6 @@
       <name>John R. Graham</name>
     </owner>
     <source type="git">https://github.com/john-r-graham/jrg-overlay.git</source>
-    <source type="git">git://github.com/john-r-graham/jrg-overlay.git</source>
     <source type="git">git@github.com:john-r-graham/jrg-overlay.git</source>
     <feed>https://github.com/john-r-graham/jrg-overlay/commits/master.atom</feed>
   </repo>
@@ -2243,7 +2237,6 @@
       <name>KireinaHoro</name>
     </owner>
     <source type="git">https://github.com/KireinaHoro/jsteward.git</source>
-    <source type="git">git://github.com/KireinaHoro/jsteward.git</source>
     <source type="git">git@github.com:KireinaHoro/jsteward.git</source>
     <feed>https://github.com/KireinaHoro/jsteward/commits/master.atom</feed>
   </repo>
@@ -2256,6 +2249,7 @@
       <name>Daniel M. Weeks</name>
     </owner>
     <source type="git">https://github.com/doctaweeks/junkdrawer-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/doctaweeks/junkdrawer-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>kaa</name>
@@ -2266,6 +2260,7 @@
       <name>Oleg Kravchenko</name>
     </owner>
     <source type="git">https://github.com/Oleh-Kravchenko/kaa-layman.git</source>
+    <source type="git">git+ssh://git@github.com/Oleh-Kravchenko/kaa-layman.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>KBrown-pub</name>
@@ -2277,6 +2272,7 @@
     </owner>
     <source type="git">https://git.softwarelibre.mx/KBrown/gentoo-overlay.git</source>
     <source type="git">https://github.com/KenjiBrown/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/KenjiBrown/gentoo-overlay.git</source>
     <feed>https://git.softwarelibre.mx/KBrown/gentoo-overlay/-/commits/KBrown-pub?format=atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -2291,6 +2287,7 @@
     <source type="git">https://github.com/gentoo/kde.git</source>
     <source type="git">git://anongit.gentoo.org/proj/kde.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/kde.git</source>
+    <source type="git">git+ssh://git@github.com/gentoo/kde.git</source>
     <feed>https://cgit.gentoo.org/proj/kde.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/kde.git/rss/</feed> -->
   </repo>
@@ -2341,6 +2338,7 @@
       <name>konsolebox</name>
     </owner>
     <source type="git">https://github.com/konsolebox/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/konsolebox/overlay.git</source>
     <feed>https://github.com/konsolebox/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2402,7 +2400,7 @@
       <name>Georg Rudoy</name>
     </owner>
     <source type="git">https://github.com/0xd34df00d/leechcraft-overlay.git</source>
-    <source type="git">git://github.com/0xd34df00d/leechcraft-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/0xd34df00d/leechcraft-overlay.git</source>
     <feed>https://github.com/0xd34df00d/leechcraft-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -2478,6 +2476,7 @@
       <name>Parinthapat P.</name>
     </owner>
     <source type="git">https://github.com/Parinz/linux-surface-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Parinz/linux-surface-overlay.git</source>
     <feed>https://github.com/Parinz/linux-surface-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2488,8 +2487,8 @@
       <email>vincent.hardy.be@gmail.com</email>
       <name>linuxunderground</name>
     </owner>
-    <source type="git">git://github.com/linuxunderground/gentoo.overlay.git</source>
     <source type="git">https://github.com/linuxunderground/gentoo.overlay.git</source>
+    <source type="git">git+ssh://git@github.com/linuxunderground/gentoo.overlay.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>lisp</name>
@@ -2544,8 +2543,8 @@
       <name>Shane Peelar</name>
     </owner>
     <source type="git">https://github.com/InBetweenNames/gentooLTO.git</source>
-    <source type="git">git+ssh://git@github.com:InBetweenNames/gentooLTO.git</source>
-    <feed>https://github.com/InBetweenNames/gentooLTO/commits/master</feed>
+    <source type="git">git+ssh://git@github.com/InBetweenNames/gentooLTO.git</source>
+    <feed>https://github.com/InBetweenNames/gentooLTO/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>luke-jr</name>
@@ -2565,6 +2564,7 @@
       <name>Dominik Keil</name>
     </owner>
     <source type="git">https://github.com/luxifr/olgentoo.git</source>
+    <source type="git">git+ssh://git@github.com/luxifr/olgentoo.git</source>
     <feed>https://github.com/luxifr/olgentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -2590,6 +2590,7 @@
       <name>OzTiram</name>
     </owner>
     <source type="git">https://github.com/oz123/mate-de-gentoo.git</source>
+    <source type="git">git+ssh://git@github.com/oz123/mate-de-gentoo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>megacoffee</name>
@@ -2624,6 +2625,7 @@
       <name>Miles V.</name>
     </owner>
     <source type="git">https://github.com/metafarion/metahax.git</source>
+    <source type="git">git+ssh://git@github.com/metafarion/metahax.git</source>
     <feed>https://github.com/metafarion/metahax/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2635,6 +2637,7 @@
       <name>Miezhiko</name>
     </owner>
     <source type="git">https://github.com/Miezhiko/Overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Miezhiko/Overlay.git</source>
     <feed>https://github.com/Miezhiko/Overlay/commits/mawa.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2646,6 +2649,7 @@
       <name>Miloš E. Đurđević</name>
     </owner>
     <source type="git">https://github.com/milos-rs/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/milos-rs/gentoo-overlay.git</source>
     <feed>https://github.com/milos-rs/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2656,6 +2660,7 @@
       <email>gmiramir@gmail.com</email>
     </owner>
     <source type="git">https://github.com/miramir/miramir-layman.git</source>
+    <source type="git">git+ssh://git@github.com/miramir/miramir-layman.git</source>
     <feed>https://github.com/miramir/miramir-layman/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2667,6 +2672,7 @@
       <name>John Mercier</name>
     </owner>
     <source type="git">https://github.com/moaxcp/moaxcp-gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/moaxcp/moaxcp-gentoo-overlay.git</source>
   </repo>
   <repo quality="testing" status="unofficial">
     <name>moexiami</name>
@@ -2702,6 +2708,7 @@
       <name>Vincent de Phily</name>
     </owner>
     <source type="git">https://github.com/vincentdephily/moltonel-ebuilds.git</source>
+    <source type="git">git+ssh://git@github.com/vincentdephily/moltonel-ebuilds.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>monero</name>
@@ -2774,8 +2781,8 @@
       <email>bjornpagen@gmail.com</email>
       <name>Bjorn Pagen</name>
     </owner>
-    <source type="git">https://github.com/karlguy/musl-clang</source>
-    <source type="git">git://github.com/karlguy/musl-clang</source>
+    <source type="git">https://github.com/karlguy/musl-clang.git</source>
+    <source type="git">git+ssh://git@github.com/karlguy/musl-clang.git</source>
     <feed>https://github.com/karlguy/musl-clang/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2802,8 +2809,8 @@
       <email>mva@gentoo.org</email>
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
-    <source type="git">https://github.com/msva/mva-overlay</source>
-    <source type="git">git://github.com/msva/mva-overlay</source>
+    <source type="git">https://github.com/msva/mva-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/msva/mva-overlay.git</source>
     <feed>https://github.com/msva/mva-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2827,7 +2834,6 @@
       <name>Octiabrina Terrien-Puig</name>
     </owner>
     <source type="git">https://github.com/myrvogna/myrvolay.git</source>
-    <source type="git">git://github.com/myrvogna/myrvolay.git</source>
     <source type="git">git@github.com:myrvogna/myrvolay.git</source>
     <feed>https://github.com/myrvogna/myrvolay/commits/main.atom</feed>
   </repo>
@@ -2916,6 +2922,7 @@
       <name>Sergei Trofimovich</name>
     </owner>
     <source type="git">https://github.com/trofi/nix-guix-gentoo.git</source>
+    <source type="git">git+ssh://git@github.com/trofi/nix-guix-gentoo.git</source>
     <feed>https://github.com/trofi/nix-guix-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2939,6 +2946,7 @@
       <name>NP-Hardass</name>
     </owner>
     <source type="git">https://github.com/np-hardass/np-hardass-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/np-hardass/np-hardass-overlay.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>nx</name>
@@ -2960,7 +2968,8 @@
     <owner type="person">
       <email>neeshy@tfwno.gf</email>
     </owner>
-    <source type="git">https://github.com/neeshy/nymphos</source>
+    <source type="git">https://github.com/neeshy/nymphos.git</source>
+    <source type="git">git+ssh://git@github.com/neeshy/nymphos.git</source>
     <feed>https://github.com/neeshy/nymphos/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2972,6 +2981,7 @@
       <name>Bfgeshka</name>
     </owner>
     <source type="git">https://github.com/Bfgeshka/octopus.git</source>
+    <source type="git">git+ssh://git@github.com/Bfgeshka/octopus.git</source>
     <feed>https://github.com/Bfgeshka/octopus/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2995,7 +3005,6 @@
       <name>Sven Schwyn</name>
     </owner>
     <source type="git">https://github.com/svoop/odroidc4-overlay.git</source>
-    <source type="git">git://github.com/svoop/odroidc4-overlay.git</source>
     <source type="git">git@github.com:svoop/odroidc4-overlay.git</source>
     <feed>https://github.com/svoop/odroidc4-overlay/commits/main.atom</feed>
   </repo>
@@ -3020,7 +3029,6 @@
       <name>Oliver Freyermuth</name>
     </owner>
     <source type="git">https://github.com/olifre/olifre-portage.git</source>
-    <source type="git">git://github.com/olifre/olifre-portage.git</source>
     <source type="git">git@github.com:olifre/olifre-portage.git</source>
     <feed>https://github.com/olifre/olifre-portage/commits/master.atom</feed>
   </repo>
@@ -3044,7 +3052,8 @@
       <email>pavlix@pavlix.net</email>
       <name>Pavel Šimerda</name>
     </owner>
-    <source type="git">https://github.com/pavlix/gentoo-openwrt</source>
+    <source type="git">https://github.com/pavlix/gentoo-openwrt.git</source>
+    <source type="git">git+ssh://git@github.com/pavlix/gentoo-openwrt.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>oubliette</name>
@@ -3067,7 +3076,7 @@
       <name>Chris Pritchard</name>
     </owner>
     <source type="git">https://github.com/chriscpritchard/overseerr-overlay.git</source>
-    <source type="git">git+ssh://git@github.com:chriscpritchard/overseerr-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/chriscpritchard/overseerr-overlay.git</source>
     <feed>https://github.com/chriscpritchard/overseerr-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3079,7 +3088,6 @@
       <name>deu</name>
     </owner>
     <source type="git">https://github.com/deu/palemoon-overlay.git</source>
-    <source type="git">git://github.com/deu/palemoon-overlay.git</source>
     <source type="git">git@github.com:deu/palemoon-overlay.git</source>
     <feed>https://github.com/deu/palemoon-overlay/commits/master.atom</feed>
   </repo>
@@ -3104,7 +3112,6 @@
       <name>Pavol Dilung</name>
     </owner>
     <source type="git">https://github.com/pdilung/gentoo-overlay.git</source>
-    <source type="git">git://github.com/pdilung/gentoo-overlay.git</source>
     <source type="git">git@github.com:pdilung/gentoo-overlay.git</source>
     <feed>https://github.com/pdilung/gentoo-overlay/commits/master.atom</feed>
   </repo>
@@ -3116,7 +3123,6 @@
       <email>zerochaos@gentoo.org</email>
     </owner>
     <source type="git">https://github.com/pentoo/pentoo-overlay.git</source>
-    <source type="git">git://github.com/pentoo/pentoo-overlay.git</source>
     <source type="git">git@github.com:pentoo/pentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3128,7 +3134,6 @@
       <name>Jean-Christophe Petkovich</name>
     </owner>
     <source type="git">https://github.com/jcpetkovich/overlay-petkovich.git</source>
-    <source type="git">git://github.com/jcpetkovich/overlay-petkovich.git</source>
     <source type="git">git@github.com:jcpetkovich/overlay-petkovich.git</source>
     <feed>https://github.com/jcpetkovich/overlay-petkovich/commits/master.atom</feed>
   </repo>
@@ -3188,7 +3193,7 @@
     </owner>
     <source type="git">https://github.com/pholthau/pholthaus-overlay.git</source>
     <source type="git">git+ssh://git@github.com/pholthau/pholthaus-overlay.git</source>
-    <feed>https://github.com//pholthau/pholthaus-overlay/commits/master.atom</feed>
+    <feed>https://github.com/pholthau/pholthaus-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pica-pica</name>
@@ -3199,6 +3204,7 @@
       <name>Anton Sviridenko</name>
     </owner>
     <source type="git">https://github.com/antonsviridenko/pica-pica-gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/antonsviridenko/pica-pica-gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pigfoot</name>
@@ -3223,7 +3229,6 @@
       <name>Pierre-Nicolas Clauss</name>
     </owner>
     <source type="git">https://github.com/pinicarus/gentoo-overlay.git</source>
-    <source type="git">git://github.com/pinicarus/gentoo-overlay.git</source>
     <source type="git">git@github.com:pinicarus/gentoo-overlay.git</source>
     <feed>https://github.com/pinicarus/gentoo-overlay/commits/master.atom</feed>
   </repo>
@@ -3236,7 +3241,7 @@
       <name>Sergey Popov</name>
     </owner>
     <source type="git">https://github.com/Pinkbyte/pinkbyte-overlay.git</source>
-    <source type="git">git://github.com/Pinkbyte/pinkbyte-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Pinkbyte/pinkbyte-overlay.git</source>
     <feed>https://github.com/Pinkbyte/pinkbyte-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3251,6 +3256,7 @@
     <source type="git">git://anongit.gentoo.org/user/carreira.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/user/carreira.git</source>
     <source type="git">https://github.com/pixlra/pixlra-gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/pixlra/pixlra-gentoo-overlay.git</source>
     <feed>https://cgit.gentoo.org/user/carreira.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/carreira.git/rss/</feed> -->
   </repo>
@@ -3275,6 +3281,7 @@
       <name>Luigi Mantellini</name>
     </owner>
     <source type="git">https://github.com/comio/plex-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/comio/plex-overlay.git</source>
     <feed>https://github.com/comio/plex-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -3296,6 +3303,7 @@
       <name>Alex Efros</name>
     </owner>
     <source type="git">https://github.com/powerman/powerman-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/powerman/powerman-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ppfeufer-gentoo-overlay</name>
@@ -3328,6 +3336,7 @@
       <name>Simon Prosser</name>
     </owner>
     <source type="git">https://github.com/Pross/pross-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Pross/pross-overlay.git</source>
     <feed>https://github.com/Pross/pross-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3378,8 +3387,7 @@
       <name>Jochen Klein</name>
     </owner>
     <source type="git">https://github.com/qgp/gentoo-qgp.git</source>
-    <source type="git">git://github.com/qgp/gentoo-qgp.git</source>
-    <source type="git">git+ssh://git@github.com:qgp/gentoo-qgp.git</source>
+    <source type="git">git+ssh://git@github.com/qgp/gentoo-qgp.git</source>
     <feed>https://github.com/qgp/gentoo-qgp/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3451,7 +3459,7 @@
       <name>r7l</name>
     </owner>
     <source type="git">https://github.com/r7l/r7l-overlay.git</source>
-    <source type="git">git+ssh://git@github.com:r7l/r7l-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/r7l/r7l-overlay.git</source>
     <feed>https://github.com/r7l/r7l-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3474,8 +3482,8 @@
       <email>leycec@gmail.com</email>
       <name>Cecil Curry</name>
     </owner>
-    <source type="git">https://github.com/leycec/raiagent</source>
-    <source type="git">git://github.com/leycec/raiagent.git</source>
+    <source type="git">https://github.com/leycec/raiagent.git</source>
+    <source type="git">git+ssh://git@github.com/leycec/raiagent.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>rasdark</name>
@@ -3485,8 +3493,8 @@
       <email>andrew.senik@gmail.com</email>
       <name>Andrey Senik</name>
     </owner>
-    <source type="git">https://github.com/rasdark/overlay</source>
-    <source type="git">git://github.com/rasdark/overlay.git</source>
+    <source type="git">https://github.com/rasdark/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/rasdark/overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>raw</name>
@@ -3497,6 +3505,7 @@
       <name>Denis Kaganovich (aka Dzianis Kahanovich)</name>
     </owner>
     <source type="git">https://github.com/mahatma-kaganovich/raw.git</source>
+    <source type="git">git+ssh://git@github.com/mahatma-kaganovich/raw.git</source>
     <feed>https://github.com/mahatma-kaganovich/raw/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3531,6 +3540,7 @@
       <name>Richard Freeman</name>
     </owner>
     <source type="git">https://github.com/rich0/rich0-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/rich0/rich0-overlay.git</source>
     <feed>https://github.com/rich0/rich0-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3556,7 +3566,6 @@
       <name>Pavel Kulyov</name>
     </owner>
     <source type="git">https://github.com/pkulev/riru.git</source>
-    <source type="git">git://github.com/pkulev/riru.git</source>
     <source type="git">git@github.com:pkulev/riru.git</source>
     <feed>https://github.com/pkulev/riru/commits/master.atom</feed>
   </repo>
@@ -3580,6 +3589,7 @@
       <email>gentoo.2019@r123.de</email>
     </owner>
     <source type="git">https://github.com/robert7k/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/robert7k/gentoo-overlay.git</source>
     <feed>https://github.com/robert7k/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3603,7 +3613,7 @@
       <name>Alexandrow Rosen</name>
     </owner>
     <source type="git">https://github.com/sandikata/ROKO__.git</source>
-    <source type="git">git://github.com/sandikata/ROKO__.git</source>
+    <source type="git">git+ssh://git@github.com/sandikata/ROKO__.git</source>
     <feed>https://github.com/sandikata/ROKO__/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3613,7 +3623,8 @@
     <owner type="person">
       <email>wayne@neverfear.org</email>
     </owner>
-    <source type="git">git://github.com/ros/ros-overlay.git</source>
+    <source type="git">https://github.com/ros/ros-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/ros/ros-overlay.git</source>
     <feed>https://github.com/ros/ros-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3653,7 +3664,6 @@
       <name>Aivars Sterns</name>
     </owner>
     <source type="git">https://github.com/Atoms/rukruk.git</source>
-    <source type="git">git://github.com/Atoms/rukruk.git</source>
     <source type="git">git@github.com:Atoms/rukruk.git</source>
     <feed>https://github.com/Atoms/rukruk/commits/master.atom</feed>
   </repo>
@@ -3678,7 +3688,8 @@
       <name>Francois Bissey</name>
     </owner>
     <source type="git">https://github.com/cschwan/sage-on-gentoo.git</source>
-    <feed>https://github.com/feeds/cschwan/commits/sage-on-gentoo/master</feed>
+    <source type="git">git+ssh://git@github.com/cschwan/sage-on-gentoo.git</source>
+    <feed>https://github.com/cschwan/sage-on-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>salfter</name>
@@ -3698,7 +3709,7 @@
       <email>sam@cmpct.info</email>
       <name>Sam James</name>
     </owner>
-    <source type="git">https://github.com/thesamesam/overlay</source>
+    <source type="git">https://github.com/thesamesam/overlay.git</source>
     <source type="git">git+ssh://git@github.com/thesamesam/overlay.git</source>
     <feed>https://github.com/thesamesam/overlay/commits/master.atom</feed>
   </repo>
@@ -3758,7 +3769,6 @@
     <source type="git">git://anongit.gentoo.org/proj/sci.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/proj/sci.git</source>
     <source type="git">https://github.com/gentoo-science/sci.git</source>
-    <source type="git">git://github.com/gentoo-science/sci.git</source>
     <source type="git">git@github.com:gentoo-science/sci.git</source>
     <feed>https://cgit.gentoo.org/proj/sci.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/sci.git/rss/</feed> -->
@@ -3773,6 +3783,7 @@
       <name>Sergey Zhuga</name>
     </owner>
     <source type="git">https://github.com/scrill/scrill-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/scrill/scrill-overlay.git</source>
     <feed>https://github.com/scrill/scrill-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3798,7 +3809,7 @@
       <name>James (setkeh) Griffis</name>
     </owner>
     <source type="git">https://github.com/setkeh/Portage-Overlay.git</source>
-    <source type="git">git+ssh://git@github.com:setkeh/Portage-Overlay.git</source>
+    <source type="git">git+ssh://git@github.com/setkeh/Portage-Overlay.git</source>
     <feed>https://github.com/setkeh/Portage-Overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3822,7 +3833,6 @@
       <name>Andras Sevcsik</name>
     </owner>
     <source type="git">https://github.com/sevcsik/overlay.git</source>
-    <source type="git">git://github.com/sevcsik/overlay.git</source>
     <source type="git">git@github.com:sevcsik/overlay.git</source>
     <feed>https://github.com/sevcsik/overlay/commits/master.atom</feed>
   </repo>
@@ -3835,6 +3845,7 @@
       <name>Jonas Jelten</name>
     </owner>
     <source type="git">https://github.com/SFTtech/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/SFTtech/gentoo-overlay.git</source>
     <feed>https://github.com/SFTtech/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3846,7 +3857,7 @@
       <name>Simeon Simeonov</name>
     </owner>
     <source type="git">https://github.com/blackm0re/sgs-overlay.git</source>
-    <source type="git">git+ssh://git@github.com:blackm0re/sgs-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/blackm0re/sgs-overlay.git</source>
     <feed>https://github.com/blackm0re/sgs-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3859,7 +3870,6 @@
       <name>Arsen Shnurkov</name>
     </owner>
     <source type="git">https://github.com/ArsenShnurkov/shnurise.git</source>
-    <source type="git">git://github.com/ArsenShnurkov/shnurise.git</source>
     <source type="git">git@github.com:ArsenShnurkov/shnurise.git</source>
     <feed>https://github.com/ArsenShnurkov/shnurise/commits/master.atom</feed>
   </repo>
@@ -3872,7 +3882,6 @@
       <name>optiz0r</name>
     </owner>
     <source type="git">https://github.com/optiz0r/gentoo-overlay.git</source>
-    <source type="git">git://github.com/optiz0r/gentoo-overlay.git</source>
     <source type="git">git@github.com:optiz0r/gentoo-overlay.git</source>
     <feed>https://github.com/optiz0r/gentoo-overlay/commits/master.atom</feed>
   </repo>
@@ -3885,7 +3894,6 @@
       <name>Simon van der Veldt</name>
     </owner>
     <source type="git">https://github.com/simonvanderveldt/simonvanderveldt-overlay.git</source>
-    <source type="git">git://github.com/simonvanderveldt/simonvanderveldt-overlay.git</source>
     <source type="git">git@github.com:simonvanderveldt/simonvanderveldt-overlay.git</source>
     <feed>https://github.com/simonvanderveldt/simonvanderveldt-overlay/commits/master.atom</feed>
   </repo>
@@ -3898,7 +3906,6 @@
       <name>Zoltan Puskas</name>
     </owner>
     <source type="git">https://github.com/zpuskas/sinustrom-gentoo-overlay.git</source>
-    <source type="git">git://github.com/zpuskas/sinustrom-gentoo-overlay.git</source>
     <source type="git">git@github.com:zpuskas/sinustrom-gentoo-overlay.git</source>
     <feed>https://github.com/zpuskas/sinustrom-gentoo-overlay/commits/master.atom</feed>
   </repo>
@@ -3911,7 +3918,6 @@
       <name>Patrick Spek</name>
     </owner>
     <source type="git">https://github.com/scriptkitties/overlay.git</source>
-    <source type="git">git://github.com/scriptkitties/overlay.git</source>
     <source type="git">git@github.com:scriptkitties/overlay.git</source>
     <feed>https://github.com/scriptkitties/overlay/commits/master.atom</feed>
   </repo>
@@ -3934,7 +3940,8 @@
       <email>slyich@gmail.com</email>
       <name>Sergei Trofimovich</name>
     </owner>
-    <source type="git">https://github.com/trofi/slyfox-gentoo</source>
+    <source type="git">https://github.com/trofi/slyfox-gentoo.git</source>
+    <source type="git">git+ssh://git@github.com/trofi/slyfox-gentoo.git</source>
     <feed>https://github.com/trofi/slyfox-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -3958,6 +3965,7 @@
       <name>Jesse Harris</name>
     </owner>
     <source type="git">https://github.com/zigford/snapd.git</source>
+    <source type="git">git+ssh://git@github.com/zigford/snapd.git</source>
     <feed>https://github.com/zigford/snapd/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4007,7 +4015,7 @@
       <name>Yuan Liao</name>
     </owner>
     <source type="git">https://github.com/6-6-6/spark-overlay.git</source>
-    <source type="git">git+ssh://git@github.com:6-6-6/spark-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/6-6-6/spark-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>spikyatlinux</name>
@@ -4018,6 +4026,7 @@
       <name>SpikyAtLinux</name>
     </owner>
     <source type="git">https://github.com/spikyatlinux/ebuilds_for_gentoo.git</source>
+    <source type="git">git+ssh://git@github.com/spikyatlinux/ebuilds_for_gentoo.git</source>
   </repo>
   <repo quality="experimental" status="official">
     <name>sping</name>
@@ -4028,7 +4037,6 @@
       <name>Sebastian Pipping</name>
     </owner>
     <source type="git">https://github.com/hartwork/gentoo-overlay-sping.git</source>
-    <source type="git">git://github.com/hartwork/gentoo-overlay-sping.git</source>
     <source type="git">git@github.com:hartwork/gentoo-overlay-sping.git</source>
     <feed>https://github.com/hartwork/gentoo-overlay-sping/commits/master.atom</feed>
   </repo>
@@ -4093,7 +4101,6 @@
     </owner>
     <source type="git">https://github.com/sspreitzer/gentoo-repo.git</source>
     <source type="git">git+ssh://git@github.com/sspreitzer/gentoo-repo.git</source>
-    <source type="git">git@github.com:sspreitzer/gentoo-repo.git</source>
     <feed>https://github.com/sspreitzer/gentoo-repo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4105,7 +4112,6 @@
       <name>Mario Kicherer</name>
     </owner>
     <source type="git">https://github.com/anyc/steam-overlay.git</source>
-    <source type="git">git://github.com/anyc/steam-overlay.git</source>
     <source type="git">git@github.com:anyc/steam-overlay.git</source>
     <feed>https://github.com/anyc/steam-overlay/commits/master.atom</feed>
   </repo>
@@ -4118,7 +4124,6 @@
       <name>Stefan Talpalaru</name>
     </owner>
     <source type="git">https://github.com/stefantalpalaru/gentoo-overlay.git</source>
-    <source type="git">git://github.com/stefantalpalaru/gentoo-overlay.git</source>
     <source type="git">git@github.com:stefantalpalaru/gentoo-overlay.git</source>
     <feed>https://github.com/stefantalpalaru/gentoo-overlay/commits/master.atom</feed>
   </repo>
@@ -4131,7 +4136,6 @@
       <name>Stephan Hartmann</name>
     </owner>
     <source type="git">https://github.com/stha09/gpo-stha09.git</source>
-    <source type="git">git://github.com:stha09/gpo-stha09.git</source>
     <source type="git">git@github.com:stha09/gpo-stha09.git</source>
     <feed>https://github.com/stha09/gpo-stha09/commits/master.atom</feed>
   </repo>
@@ -4144,6 +4148,7 @@
       <name>Michael Stowe</name>
     </owner>
     <source type="git">https://github.com/mwstowe/stowe-verlay.git</source>
+    <source type="git">git+ssh://git@github.com/mwstowe/stowe-verlay.git</source>
     <feed>https://github.com/mwstowe/stowe-verlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4154,9 +4159,8 @@
       <email>matej@laitl.cz</email>
       <name>Matěj Laitl</name>
     </owner>
-    <source type="git">https://strohel@github.com/strohel/strohel-overlay.git</source>
-    <source type="git">git://github.com/strohel/strohel-overlay.git</source>
-    <source type="git">git+ssh://git@github.com:strohel/strohel-overlay.git</source>
+    <source type="git">https://github.com/strohel/strohel-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/strohel/strohel-overlay.git</source>
     <feed>https://github.com/strohel/strohel-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4167,6 +4171,7 @@
       <email>iohann.s.titov@gmail.com</email>
     </owner>
     <source type="git">https://github.com/istitov/stuff.git</source>
+    <source type="git">git+ssh://git@github.com/istitov/stuff.git</source>
     <feed>https://github.com/istitov/stuff/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4178,6 +4183,7 @@
       <name>Elena Sergeicheva</name>
     </owner>
     <source type="git">https://github.com/suntar/suntar-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/suntar/suntar-overlay.git</source>
     <feed>https://github.com/suntar/suntar-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4215,7 +4221,6 @@
       <name>Carson Rueter</name>
     </owner>
     <source type="git">https://github.com/binex-dsk/ebuilds.git</source>
-    <source type="git">git://github.com/binex-dsk/ebuilds.git</source>
     <source type="git">git@github.com:binex-dsk/ebuilds.git</source>
     <source type="git">https://git.swurl.xyz/swirl/ebuilds.git</source>
     <source type="git">gitea@git.swurl.xyz:swirl/ebuilds.git</source>
@@ -4255,7 +4260,6 @@
       <name>Alexander Turenko</name>
     </owner>
     <source type="git">https://github.com/tarantool/gentoo-overlay.git</source>
-    <source type="git">git://github.com/tarantool/gentoo-overlay.git</source>
     <source type="git">git@github.com:tarantool/gentoo-overlay.git</source>
     <feed>https://github.com/tarantool/gentoo-overlay/commits/master.atom</feed>
   </repo>
@@ -4290,6 +4294,7 @@
       <name>telans</name>
     </owner>
     <source type="git">https://github.com/telans/EBUILDS.git</source>
+    <source type="git">git+ssh://git@github.com/telans/EBUILDS.git</source>
     <feed>https://github.com/telans/EBUILDS/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4313,7 +4318,6 @@
       <name>Tom Gillespie</name>
     </owner>
     <source type="git">https://github.com/tgbugs/tgbugs-overlay.git</source>
-    <source type="git">git://github.com/tgbugs/tgbugs-overlay.git</source>
     <source type="git">git@github.com:tgbugs/tgbugs-overlay.git</source>
     <feed>https://github.com/tgbugs/tgbugs-overlay/commits/master.atom</feed>
   </repo>
@@ -4326,6 +4330,7 @@
       <name>Nelo-Thara Wallus</name>
     </owner>
     <source type="git">https://github.com/ntnn/gentoo-thabairne.git</source>
+    <source type="git">git+ssh://git@github.com/ntnn/gentoo-thabairne.git</source>
     <feed>https://github.com/ntnn/gentoo-thabairne/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4371,6 +4376,7 @@
       <name>Tiago Macedo</name>
     </owner>
     <source type="git">https://github.com/tmacedo/portage.git</source>
+    <source type="git">git+ssh://git@github.com/tmacedo/portage.git</source>
     <feed>https://github.com/tmacedo/portage/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4382,8 +4388,7 @@
       <name>Cássio Ribeiro Alves de Ávila</name>
     </owner>
     <source type="git">https://github.com/toniz4/toniz4-overlay.git</source>
-    <source type="git">git://github.com/toniz4/toniz4-overlay.git</source>
-    <source type="git">git+ssh://git@github.com:toniz4/toniz4-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/toniz4/toniz4-overlay.git</source>
     <feed>https://github.com/toniz4/toniz4-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
@@ -4409,7 +4414,6 @@
       <name>MeisterP</name>
     </owner>
     <source type="git">https://github.com/MeisterP/torbrowser-overlay.git</source>
-    <source type="git">git://github.com/MeisterP/torbrowser-overlay.git</source>
     <source type="git">git@github.com:MeisterP/torbrowser-overlay.git</source>
     <feed>https://github.com/MeisterP/torbrowser-overlay/commits/master.atom</feed>
   </repo>
@@ -4455,7 +4459,6 @@
       <name>Johannes Schwab</name>
     </owner>
     <source type="git">https://github.com/ddorian1/gentoo-twister-overlay.git</source>
-    <source type="git">git://github.com/ddorian1/gentoo-twister-overlay.git</source>
     <source type="git">git@github.com:ddorian1/gentoo-twister-overlay.git</source>
     <feed>https://github.com/ddorian1/gentoo-twister-overlay/commits/master.atom</feed>
   </repo>
@@ -4503,7 +4506,7 @@
       <email>jianfengli@ubuntukylin.com</email>
       <name>Handsome Feng</name>
     </owner>
-    <source type="git">https://github.com/ukui/ukui-overlay</source>
+    <source type="git">https://github.com/ukui/ukui-overlay.git</source>
     <source type="git">git@github.com:ukui/ukui-overlay.git</source>
     <feed>https://github.com/ukui/ukui-overlay/commits/master.atom</feed>
   </repo>
@@ -4516,6 +4519,7 @@
       <name>Oskari Pirhonen</name>
     </owner>
     <source type="git">https://github.com/xxc3nsoredxx/unc3nsored.git</source>
+    <source type="git">git+ssh://git@github.com/xxc3nsoredxx/unc3nsored.git</source>
     <feed>https://github.com/xxc3nsoredxx/unc3nsored/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4542,9 +4546,9 @@
       <email>rickfharris@yahoo.com.au</email>
       <name>Rick Harris</name>
     </owner>
-    <source type="git">https://github.com/shiznix/unity-gentoo</source>
-    <source type="git">git://github.com/shiznix/unity-gentoo.git</source>
-    <feed>https://github.com/feeds/shiznix/commits/unity-gentoo/master</feed>
+    <source type="git">https://github.com/shiznix/unity-gentoo.git</source>
+    <source type="git">git+ssh://git@github.com/shiznix/unity-gentoo.git</source>
+    <feed>https://github.com/shiznix/unity-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>usenet-overlay</name>
@@ -4578,7 +4582,7 @@
       <name>TheCrueltySage</name>
     </owner>
     <source type="git">https://github.com/TheCrueltySage/vampire-overlay.git</source>
-    <source type="git">git://github.com/TheCrueltySage/vampire-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/TheCrueltySage/vampire-overlay.git</source>
     <feed>https://github.com/TheCrueltySage/vampire-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4589,6 +4593,7 @@
       <email>surukko@gmail.com</email>
     </owner>
     <source type="git">https://github.com/4re/vapoursynth-portage.git</source>
+    <source type="git">git+ssh://git@github.com/4re/vapoursynth-portage.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>vayerx</name>
@@ -4599,7 +4604,6 @@
       <name>Vasiliy Yeremeyev</name>
     </owner>
     <source type="git">https://github.com/vayerx/vayerx-gentoo.git</source>
-    <source type="git">git://github.com/vayerx/vayerx-gentoo.git</source>
     <source type="git">git@github.com:vayerx/vayerx-gentoo.git</source>
     <feed>https://github.com/vayerx/vayerx-gentoo/commits/master.atom</feed>
   </repo>
@@ -4625,7 +4629,6 @@
       <name>havee</name>
     </owner>
     <source type="git">https://github.com/vgist/vgist-overlay.git</source>
-    <source type="git">git://github.com/vgist/vgist-overlay.git</source>
     <source type="git">git@github.com:vgist/vgist-overlay.git</source>
     <feed>https://github.com/vgist/vgist-overlay/commits/master.atom</feed>
   </repo>
@@ -4638,7 +4641,6 @@
       <name>Adrian "vifino" Pistol</name>
     </owner>
     <source type="git">https://github.com/vifino/vifino-overlay.git</source>
-    <source type="git">git://github.com/vifino/vifino-overlay.git</source>
     <source type="git">git@github.com:vifino/vifino-overlay.git</source>
     <feed>https://github.com/vifino/vifino-overlay/commits/master.atom</feed>
   </repo>
@@ -4689,7 +4691,7 @@
       <name>Yuri 'nE0sIghT' Konotopov</name>
     </owner>
     <source type="git">https://github.com/nE0sIghT/vortex-overlay.git</source>
-    <source type="git">git://github.com/nE0sIghT/vortex-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/nE0sIghT/vortex-overlay.git</source>
     <feed>https://github.com/nE0sIghT/vortex-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -4700,7 +4702,6 @@
       <email>vowstar@gmail.com</email>
     </owner>
     <source type="git">https://github.com/vowstar/vowstar-overlay.git</source>
-    <source type="git">git://github.com/vowstar/vowstar-overlay.git</source>
     <source type="git">git@github.com:vowstar/vowstar-overlay.git</source>
     <feed>https://github.com/vowstar/vowstar-overlay/commits/master.atom</feed>
   </repo>
@@ -4772,7 +4773,6 @@
       <name>Maksym Sditanov</name>
     </owner>
     <source type="git">https://github.com/feniksa/webos-overlay.git</source>
-    <source type="git">git://github.com:feniksa/webos-overlay.git</source>
     <source type="git">git@github.com:feniksa/webos-overlay.git</source>
     <feed>https://github.com/feniksa/webos-overlay/commits/master.atom</feed>
   </repo>
@@ -4785,7 +4785,6 @@
       <name>Norman Rieß</name>
     </owner>
     <source type="git">https://github.com/Weuxel/portage-weuxel.git</source>
-    <source type="git">git://github.com/Weuxel/portage-weuxel.git</source>
     <source type="git">git@github.com:Weuxel/portage-weuxel.git</source>
     <feed>https://github.com/Weuxel/portage-weuxel/commits/master.atom</feed>
   </repo>
@@ -4798,6 +4797,7 @@
       <name>Alex Barker</name>
     </owner>
     <source type="git">https://github.com/kwhat/gentoo-what4-java-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/kwhat/gentoo-what4-java-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>wichtounet</name>
@@ -4808,7 +4808,6 @@
       <name>Baptiste Wicht</name>
     </owner>
     <source type="git">https://github.com/wichtounet/wichtounet-overlay.git</source>
-    <source type="git">git://github.com/wichtounet/wichtounet-overlay.git</source>
     <source type="git">git@github.com:wichtounet/wichtounet-overlay.git</source>
     <feed>https://github.com/wichtounet/wichtounet-overlay/commits/master.atom</feed>
   </repo>
@@ -4910,7 +4909,6 @@
       <name>Vadim A. Misbakh-Soloviov</name>
     </owner>
     <source type="git">https://github.com/yandex-gentoo/overlay.git</source>
-    <source type="git">git://github.com/yandex-gentoo/overlay.git</source>
     <source type="git">git@github.com:yandex-gentoo/overlay.git</source>
     <feed>https://github.com/yandex-gentoo/overlay/commits/master.atom</feed>
   </repo>
@@ -4949,7 +4947,6 @@
       <name>Yurij Mikhalevich</name>
     </owner>
     <source type="git">https://github.com/yurijmikhalevich/yurij-overlay.git</source>
-    <source type="git">git://github.com/yurijmikhalevich/yurij-overlay.git</source>
     <source type="git">git@github.com:yurijmikhalevich/yurij-overlay.git</source>
     <feed>https://github.com/yurijmikhalevich/yurij-overlay/commits/master.atom</feed>
   </repo>
@@ -5008,7 +5005,6 @@
       <name>Erik Zscheile</name>
     </owner>
     <source type="git">https://github.com/zseri/portage-zscheile.git</source>
-    <source type="git">git://github.com/zseri/portage-zscheile.git</source>
     <source type="git">git@github.com:zseri/portage-zscheile.git</source>
     <feed>https://github.com/zseri/portage-zscheile/commits/master.atom</feed>
   </repo>
@@ -5043,7 +5039,6 @@
       <name>Amy Nagle</name>
     </owner>
     <source type="git">https://github.com/kabili207/zyrenth-overlay.git</source>
-    <source type="git">git://github.com/kabili207/zyrenth-overlay.git</source>
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>

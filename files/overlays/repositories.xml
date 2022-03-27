@@ -4935,9 +4935,9 @@
       <email>lynX@youbroketheinternet.pages.de</email>
       <name>lynX</name>
     </owner>
-    <source type="git">https://gnunet.org/git/youbroketheinternet-overlay.git</source>
-    <source type="git">git://cheettyiapsyciew.onion/youbroketheinternet-overlay</source>
-    <source type="git">git://gnunet.org/youbroketheinternet-overlay.git</source>
+    <source type="git">https://git.gnunet.org/youbroketheinternet-overlay.git</source>
+    <source type="git">git://psyciumunsqarzsehz5xlgsi2mg4dkvntwf5bwj5kwbcbazwiuhna2ad.onion/youbroketheinternet-overlay</source>
+    <source type="git">git://git.gnunet.org/youbroketheinternet-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>yurij-overlay</name>

@@ -2205,18 +2205,6 @@
     <!-- <feed>https://cgit.gentoo.org/dev/johu.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>jorgicio</name>
-    <description lang="en">Gentoo repository made by Jorgicio.</description>
-    <homepage>https://github.com/jorgicio/jorgicio-gentoo</homepage>
-    <owner type="person">
-      <email>jpizarrocallejas@gmail.com</email>
-      <name>Jorge Pizarro Callejas</name>
-    </owner>
-    <source type="git">https://github.com/jorgicio/jorgicio-gentoo.git</source>
-    <source type="git">git@github.com:jorgicio/jorgicio-gentoo.git</source>
-    <feed>https://github.com/jorgicio/jorgicio-gentoo/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>JRG</name>
     <description lang="en">John's Collaboration Overlay</description>
     <homepage>https://github.com/john-r-graham/jrg-overlay</homepage>

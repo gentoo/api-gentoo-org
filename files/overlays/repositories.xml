@@ -4466,20 +4466,6 @@
     <!-- <feed>https://cgit.gentoo.org/repo/dev/ulm.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="official">
-    <name>ultrabug</name>
-    <description lang="en">Developer Overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/ultrabug.git/</homepage>
-    <owner type="person">
-      <email>ultrabug@gentoo.org</email>
-      <name>Alexys Jacob</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/ultrabug.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/ultrabug.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/ultrabug.git</source>
-    <feed>https://cgit.gentoo.org/dev/ultrabug.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/ultrabug.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="official">
     <name>ukui</name>
     <description lang="en">Gentoo Overlay for UKUI Desktop Environment</description>
     <homepage>https://www.ukui.org/</homepage>

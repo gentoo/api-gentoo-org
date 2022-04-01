@@ -4563,18 +4563,6 @@
     <feed>https://gitlab.com/plexvola/vaacus/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>vampire</name>
-    <description lang="en">A personal repository. So much bleeding edge, you would bet a vampire was involved.</description>
-    <homepage>https://github.com/TheCrueltySage/vampire-overlay</homepage>
-    <owner type="person">
-      <email>miltenfiremage@gmail.com</email>
-      <name>TheCrueltySage</name>
-    </owner>
-    <source type="git">https://github.com/TheCrueltySage/vampire-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/TheCrueltySage/vampire-overlay.git</source>
-    <feed>https://github.com/TheCrueltySage/vampire-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>vapoursynth</name>
     <description lang="en">Unofficial repository with all vapoursynth related ebuilds</description>
     <homepage>https://github.com/4re/vapoursynth-portage</homepage>

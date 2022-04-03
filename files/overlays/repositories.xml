@@ -3151,13 +3151,13 @@
   <repo quality="experimental" status="unofficial">
     <name>phackerlay</name>
     <description lang="en">Overlay for phackers</description>
-    <homepage>https://gitlab.phys-el.ru/ustinov/phackerlay</homepage>
+    <homepage>https://gitlab.phys-el.ru/gentoo/phackerlay</homepage>
     <owner type="person">
       <email>ustinov@phys-el.ru</email>
       <name>Alexander B. Ustinov</name>
     </owner>
-    <source type="git">https://gitlab.phys-el.ru/ustinov/phackerlay.git</source>
-    <feed>https://gitlab.phys-el.ru/ustinov/phackerlay/commits/master.atom</feed>
+    <source type="git">https://gitlab.phys-el.ru/gentoo/phackerlay.git</source>
+    <feed>https://gitlab.phys-el.ru/gentoo/phackerlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>phoenix591</name>

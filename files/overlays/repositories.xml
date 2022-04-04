@@ -4667,6 +4667,16 @@
     <feed>https://cafarelli.fr/cgi-bin/cgit.cgi/voyageur-overlay/atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>vulkano-edge</name>
+    <description lang="en">A repository just for Vulkan stuff for Gentoo</description>
+    <homepage>https://github.com/thequickfixer/vulkano-edge</homepage>
+    <owner type="person">
+      <email>TeaFor2Heavy@protonmail.com</email>
+    </owner>
+    <source type="git">https://github.com/thequickfixer/vulkano-edge.git</source>
+    <feed>https://github.com/thequickfixer/vulkano-edge/commits/stable.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>waebbl</name>
     <description lang="en">waebbl's overlay</description>
     <homepage>https://github.com/waebbl/waebbl-gentoo</homepage>

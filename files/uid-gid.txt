@@ -280,7 +280,7 @@ radvd				215		215		acct
 aspnet				216		216		acct
 hsqldb				217		217		acct
 energi3				218		218		acct		Used by net-p2p/energi3
-sddm				219		219		requested
+sddm				219		219		acct
 uptimed				220		220		acct
 gkrellmd			221		221		acct
 msmtpd				222		222		acct

@@ -938,18 +938,6 @@
     <feed>https://github.com/DarthGandalf/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>deepin</name>
-    <description lang="en">Gentoo Overlay for Deepin Desktop Environment</description>
-    <homepage>https://github.com/zhtengw/deepin-overlay</homepage>
-    <owner type="person">
-      <email>atenzd@gmail.com</email>
-      <name>Aten Zhang</name>
-    </owner>
-    <source type="git">https://github.com/zhtengw/deepin-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/zhtengw/deepin-overlay.git</source>
-    <feed>https://github.com/zhtengw/deepin-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>defiance</name>
     <description lang="en">packages for cloud development</description>
     <homepage>https://github.com/d3fy/defiance-overlay.git</homepage>

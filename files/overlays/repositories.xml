@@ -2961,18 +2961,6 @@
     <feed>https://github.com/neeshy/nymphos/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>octopus</name>
-    <description lang="en">Own and claimed ebuilds</description>
-    <homepage>https://github.com/Bfgeshka/octopus</homepage>
-    <owner type="person">
-      <email>bfg@derpy.ru</email>
-      <name>Bfgeshka</name>
-    </owner>
-    <source type="git">https://github.com/Bfgeshka/octopus.git</source>
-    <source type="git">git+ssh://git@github.com/Bfgeshka/octopus.git</source>
-    <feed>https://github.com/Bfgeshka/octopus/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>oddlama</name>
     <description lang="en">oddlama's gentoo overlay</description>
     <homepage>https://github.com/oddlama/overlay</homepage>

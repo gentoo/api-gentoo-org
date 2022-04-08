@@ -2936,19 +2936,6 @@
     <source type="git">https://github.com/np-hardass/np-hardass-overlay.git</source>
     <source type="git">git+ssh://git@github.com/np-hardass/np-hardass-overlay.git</source>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>nx</name>
-    <description>Overlay for the NX/FreeNX packages for Gentoo.</description>
-    <homepage>https://cgit.gentoo.org/proj/nx.git/</homepage>
-    <owner type="project">
-      <email>nx@gentoo.org</email>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/nx.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/nx.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/nx.git</source>
-    <feed>https://cgit.gentoo.org/proj/nx.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/nx.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>nymphos</name>
     <description lang="en">Overlay for ebuilds used in NymphOS</description>

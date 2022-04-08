@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE repositories SYSTEM "https://www.gentoo.org/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
   <!--
@@ -270,7 +270,7 @@
     <source type="git">https://git.alxu.ca/gentoo-overlay.git</source>
     <feed>https://cgit.alxu.ca/gentoo-overlay.git/atom/</feed>
   </repo>
-  <repo quality='experimental' status='unofficial'>
+  <repo quality="experimental" status="unofficial">
     <name>ambasta</name>
     <description lang="en">Personal overlay</description>
     <owner type="person">

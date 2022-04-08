@@ -4946,18 +4946,6 @@
     <feed>https://github.com/zozx/zozx-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>zscheile</name>
-    <description>Zscheile Overlay</description>
-    <homepage>https://github.com/zseri/portage-zscheile</homepage>
-    <owner type="person">
-      <email>zseri@ytrizja.de</email>
-      <name>Erik Zscheile</name>
-    </owner>
-    <source type="git">https://github.com/zseri/portage-zscheile.git</source>
-    <source type="git">git@github.com:zseri/portage-zscheile.git</source>
-    <feed>https://github.com/zseri/portage-zscheile/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>zugaina</name>
     <description>collection of ebuilds by ycarus</description>
     <homepage>http://gpo.zugaina.org/Overlays/zugaina/</homepage>

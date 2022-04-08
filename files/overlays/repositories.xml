@@ -4745,18 +4745,6 @@
     <source type="git">git://anongit.gentoo.org/repo/proj/wine.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>winny</name>
-    <description lang="en">Winny's personal overlay</description>
-    <homepage>https://github.com/winny-/winny-overlay</homepage>
-    <owner type="person">
-      <email>winston@ml1.net</email>
-      <name>winny</name>
-    </owner>
-    <source type="git">https://github.com/winny-/winny-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/winny-/winny-overlay.git</source>
-    <feed>https://github.com/winny-/winny-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>wjn-overlay</name>
     <description>wjn's overlay for Gentoo Linux</description>
     <homepage>https://bitbucket.org/wjn/wjn-overlay</homepage>

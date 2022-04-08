@@ -485,20 +485,6 @@
     <source type="git">https://gitlab.awesome-it.de/overlays/awesome.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>AzP</name>
-    <description lang="en">Peter's own software playground</description>
-    <homepage>https://cgit.gentoo.org/user/AzP.git/</homepage>
-    <owner type="person">
-      <email>peterasplund@gentoo.se</email>
-      <name>Peter Asplund</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/AzP.git</source>
-    <source type="git">git://anongit.gentoo.org/user/AzP.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/AzP.git</source>
-    <feed>https://cgit.gentoo.org/user/AzP.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/AzP.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>barnowl</name>
     <description lang="en">BarnOwl IM client</description>
     <homepage>https://github.com/wthrowe/barnowl-overlay</homepage>

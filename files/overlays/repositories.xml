@@ -3456,6 +3456,18 @@
     <feed>https://github.com/rich0/rich0-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>rimio</name>
+    <description lang="en">rimio's personal overlay</description>
+    <homepage>https://github.com/rimio/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>vasi@vilvoiu.ro</email>
+      <name>Vasile Vilvoiu</name>
+    </owner>
+    <source type="git">https://github.com/rimio/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/rimio/gentoo-overlay.git</source>
+    <feed>https://github.com/rimio/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>rion</name>
     <description>Russian overlay with a some patched and specific
     software</description>

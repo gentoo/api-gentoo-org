@@ -4459,6 +4459,18 @@
     <source type="git">git+ssh://git@git.gentoo.org/proj/vdr/devel.git</source>
     <feed>https://cgit.gentoo.org/proj/vdr/devel.git/atom/</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>vespa</name>
+    <description lang="en">Personal overlay of Thiago G. Vespa</description>
+    <homepage>https://github.com/thiagovespa/vespa-overlay</homepage>
+    <owner type="person">
+      <email>thiagogv@gmail.com</email>
+      <name>Thiago Galbiatti Vespa</name>
+    </owner>
+    <source type="git">https://github.com/thiagovespa/vespa-overlay.git</source>
+    <source type="git">git+ssh://git@github.com:thiagovespa/vespa-overlay.git</source>
+    <feed>https://github.com/thiagovespa/vespa-overlay/commits/main.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>vGist</name>
     <description>vGist overlay, for personal use.</description>

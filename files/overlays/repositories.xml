@@ -2342,20 +2342,6 @@
     <source type="git">git+ssh://git@github.com/0xd34df00d/leechcraft-overlay.git</source>
     <feed>https://github.com/0xd34df00d/leechcraft-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>leio</name>
-    <description>Mart Raudsepp developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/leio.git</homepage>
-    <owner type="person">
-      <email>leio@gentoo.org</email>
-      <name>Mart Raudsepp</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/leio.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/leio.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/leio.git</source>
-    <feed>https://cgit.gentoo.org/dev/leio.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/leio.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>librepilot</name>
     <description lang="en">Librepilot flight control software overlay</description>

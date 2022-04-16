@@ -482,6 +482,7 @@ monitorix			401		401		acct
 fnord				402		-		acct
 lxd				-		402		acct
 bareos				403		403		acct
+miniflux			404		-		acct		Used by www-apps/miniflux
 simplevirt			-		404		acct
 guest				405		-		historical	Removed from baselayout in [r889](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=eca435dcc10bcbcccf8be4ad100c252769fd1f8d)
 sgx				-		405		acct

@@ -3628,6 +3628,16 @@
     <feed>https://github.com/cschwan/sage-on-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>salfter</name>
+    <description lang="en">Scott Alfter's ebuilds</description>
+    <homepage>https://gitlab.com/salfter/portage</homepage>
+    <owner type="person">
+      <email>scott@alfter.us</email>
+      <name>Scott Alfter</name>
+    </owner>
+    <source type="git">https://gitlab.com/salfter/portage.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sam_c</name>
     <description lang="en">sam_c's personal overlay</description>
     <homepage>https://github.com/thesamesam/overlay</homepage>

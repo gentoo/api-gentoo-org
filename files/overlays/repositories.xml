@@ -2153,20 +2153,6 @@
     <feed>https://cgit.gentoo.org/dev/jmbsvicetto.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/jmbsvicetto.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="official">
-    <name>johu</name>
-    <description>Johannes Huber developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/johu.git</homepage>
-    <owner type="person">
-      <email>johu@gentoo.org</email>
-      <name>Johannes Huber</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/johu.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/johu.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/johu.git</source>
-    <feed>https://cgit.gentoo.org/dev/johu.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/johu.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>JRG</name>
     <description lang="en">John's Collaboration Overlay</description>

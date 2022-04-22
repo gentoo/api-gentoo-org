@@ -4157,18 +4157,6 @@
     <feed>https://github.com/tgbugs/tgbugs-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>thabairne</name>
-    <description lang="en">ntnn's Overlay</description>
-    <homepage>https://github.com/ntnn/gentoo-thabairne</homepage>
-    <owner type="person">
-      <email>nelo@wallus.de</email>
-      <name>Nelo-Thara Wallus</name>
-    </owner>
-    <source type="git">https://github.com/ntnn/gentoo-thabairne.git</source>
-    <source type="git">git+ssh://git@github.com/ntnn/gentoo-thabairne.git</source>
-    <feed>https://github.com/ntnn/gentoo-thabairne/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>thamognya</name>
     <description lang="en">Thamognya's Personal overlay.</description>
     <homepage>https://git.thamognya.com/Thamognya/thamognya-overlay</homepage>

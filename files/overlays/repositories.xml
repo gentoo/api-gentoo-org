@@ -2267,20 +2267,6 @@
     <feed>https://gitlab.com/khumba/khoverlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>klondike</name>
-    <description lang="en">Ebuilds made and modified by klondike, mainly sound and virtualization</description>
-    <homepage>https://cgit.gentoo.org/user/klondike.git/</homepage>
-    <owner type="person">
-      <email>klondike@gentoo.org</email>
-      <name>Francisco Blas Izquierdo Riera</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/klondike.git</source>
-    <source type="git">git://anongit.gentoo.org/user/klondike.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/klondike.git</source>
-    <feed>https://cgit.gentoo.org/user/klondike.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/klondike.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>konsolebox</name>
     <description>konsolebox's overlay</description>
     <homepage>https://github.com/konsolebox/overlay</homepage>

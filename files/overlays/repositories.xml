@@ -2875,17 +2875,6 @@
     <feed>https://gitlab.com/lahouari.dc/nordvpn/-/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>np-hardass-overlay</name>
-    <description lang="en">NP-Hardass's Personal Overlay</description>
-    <homepage>https://github.com/np-hardass/np-hardass-overlay</homepage>
-    <owner type="person">
-      <email>NP-Hardass@gentoo.org</email>
-      <name>NP-Hardass</name>
-    </owner>
-    <source type="git">https://github.com/np-hardass/np-hardass-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/np-hardass/np-hardass-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>nymphos</name>
     <description lang="en">Overlay for ebuilds used in NymphOS</description>
     <homepage>https://github.com/neeshy/nymphos</homepage>

@@ -3674,6 +3674,16 @@
     <!-- <feed>https://cgit.gentoo.org/user/seden.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>sergiotarxz</name>
+    <description lang="en">Personal overlay</description>
+    <homepage>https://gitea.sergiotarxz.freemyip.com/sergiotarxz/sergiotarxz-overlay</homepage>
+    <owner type="person">
+      <email>sergiotarxz@posteo.net</email>
+      <name>Sergio Iglesias</name>
+    </owner>
+    <source type="git">https://gitea.sergiotarxz.freemyip.com/sergiotarxz/sergiotarxz-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>setkeh</name>
     <description lang="en">setkeh maintained ebuilds</description>
     <homepage>https://github.com/setkeh/Portage-Overlay</homepage>

@@ -2349,6 +2349,18 @@
     <feed>https://github.com/jcaesar/liftm-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>lilium</name>
+    <description lang="en">owl4ce's personal portage overlay for ebuild repairs or feature-upgrades</description>
+    <homepage>https://github.com/owl4ce/lilium</homepage>
+    <owner type="person">
+      <email>alternate-se7en@proton.me</email>
+      <name>Harry Kurn</name>
+    </owner>
+    <source type="git">https://github.com/owl4ce/lilium.git</source>
+    <source type="git">git+ssh://git@github.com:owl4ce/lilium.git</source>
+    <feed>https://github.com/owl4ce/lilium/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>linux-be</name>
     <description lang="en">Port of Boot Environments for GNU/Linux</description>
     <homepage>https://gitlab.com/linux-be</homepage>

@@ -1526,6 +1526,18 @@
     <feed>https://github.com/Pekkari/foxiverlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>fragtoo</name>
+    <description lang="en">My personal Gentoo overlay, mostly related to gaming</description>
+    <homepage>https://github.com/garrhow/fragtoo</homepage>
+    <owner type="person">
+      <email>garrett@mersh.com</email>
+      <name>Garrett Howard</name>
+    </owner>
+    <source type="git">https://github.com/garrhow/fragtoo.git</source>
+    <source type="git">git+ssh://git@github.com/garrhow/fragtoo.git</source>
+    <feed>https://github.com/garrhow/fragtoo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>fritteli</name>
     <description lang="en">fritteli's Gentoo Overlay</description>
     <homepage>https://github.com/fritteli/gentoo-overlay</homepage>

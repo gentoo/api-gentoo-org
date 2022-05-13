@@ -603,7 +603,7 @@ biboumi				508		508		acct		Used by net-im/biboumi
 pipewire			509		509		acct
 gitlab-runner			510		510		acct
 rrdcached			511		511		acct
-soffice				512		512		requested
+libreoffice			512		512		acct
 openttd				513		513		acct
 headscale			514		514		acct		Used by net-vpn/headscale daemon user
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!

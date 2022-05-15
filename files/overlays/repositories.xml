@@ -4033,6 +4033,17 @@
     <feed>https://github.com/strohel/strohel-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>stowe-verlay</name>
+    <description>A handful of things that are otherwise unmaintained or not-as-frequently maintained</description>
+    <homepage>https://github.com/mwstowe/stowe-verlay</homepage>
+    <owner type="person">
+      <email>michael.stowe@member.mensa.org</email>
+      <name>Michael Stowe</name>
+    </owner>
+    <source type="git">https://github.com/mwstowe/stowe-verlay.git</source>
+    <feed>https://github.com/mwstowe/stowe-verlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>stuff</name>
     <description>stuff</description>
     <homepage>https://github.com/istitov/stuff</homepage>

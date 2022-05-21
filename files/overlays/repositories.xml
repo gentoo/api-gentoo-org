@@ -686,13 +686,13 @@
   <repo quality="experimental" status="unofficial">
     <name>bratishkaerik-overlay</name>
     <description lang="en">Personal overlay + Zig stuff</description>
-    <homepage>https://gitea.minecast.xyz/BratishkaErik/bratishkaerik-overlay</homepage>
+    <homepage>https://codeberg.org/BratishkaErik/bratishkaerik-overlay</homepage>
     <owner type="person">
       <email>bratishkaerik@getgoogleoff.me</email>
       <name>BratishkaErik</name>
     </owner>
-    <source type="git">https://gitea.minecast.xyz/BratishkaErik/bratishkaerik-overlay.git</source>
-    <source type="git">git+ssh://git@gitea.minecast.xyz/BratishkaErik/bratishkaerik-overlay.git</source>
+    <source type="git">https://codeberg.org/BratishkaErik/bratishkaerik-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org/BratishkaErik/bratishkaerik-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>brave-overlay</name>

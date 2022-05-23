@@ -1247,18 +1247,18 @@
     <source type="git">git+ssh://git@github.com/equaeghe/gentoo-overlay.git</source>
     <feed>https://github.com/equaeghe/gentoo-overlay/commits/master.atom</feed>
   </repo>
-    <repo quality="experimental" status="unofficial">
-      <name>eras-overlay</name>
-      <description lang="en">random ebuilds</description>
-      <homepage>https://github.com/erayaslan/eras-overlay</homepage>
-      <owner type="person">
-        <email>eras@gentoo.org</email>
-        <name>Eray Aslan</name>
-      </owner>
-      <source type="git">https://github.com/erayaslan/eras-overlay.git</source>
-      <source type="git">git+ssh://git@github.com/erayaslan/eras-overlay.git</source>
-      <feed>https://github.com/erayaslan/eras-overlay/commits/main.atom</feed>
-    </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>eras-overlay</name>
+    <description lang="en">random ebuilds</description>
+    <homepage>https://github.com/erayaslan/eras-overlay</homepage>
+    <owner type="person">
+      <email>eras@gentoo.org</email>
+      <name>Eray Aslan</name>
+    </owner>
+    <source type="git">https://github.com/erayaslan/eras-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/erayaslan/eras-overlay.git</source>
+    <feed>https://github.com/erayaslan/eras-overlay/commits/main.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>erayd</name>
     <description lang="en">Various personal ebuilds</description>

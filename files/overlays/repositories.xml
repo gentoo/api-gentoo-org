@@ -3253,18 +3253,6 @@
     <!-- <feed>https://cgit.gentoo.org/proj/kvm-tools.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>qgp</name>
-    <description lang="en">qgp overlay (mostly computing and HEP)</description>
-    <homepage>https://github.com/qgp/gentoo-qgp</homepage>
-    <owner type="person">
-      <email>qgp1024@gmail.com</email>
-      <name>Jochen Klein</name>
-    </owner>
-    <source type="git">https://github.com/qgp/gentoo-qgp.git</source>
-    <source type="git">git+ssh://git@github.com/qgp/gentoo-qgp.git</source>
-    <feed>https://github.com/qgp/gentoo-qgp/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>qownnotes-overlay</name>
     <description lang="en">QOwnNotes overlay</description>
     <homepage>http://www.qownnotes.org</homepage>

@@ -2034,17 +2034,6 @@
     <source type="git">git+ssh://git@github.com/antonfischl1980/icinga.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>ikelos</name>
-    <description>Ikelos's hospice for broken and damaged ebuilds.</description>
-    <homepage>https://github.com/ikelos/gentoo-overlay.git</homepage>
-    <owner type="person">
-      <email>ikelos@gentoo.org</email>
-      <name>Mike Auty</name>
-    </owner>
-    <source type="git">https://github.com/ikelos/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/ikelos/gentoo-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>inode64-overlay</name>
     <description lang="en">Server overlay, virtualization, developer tools and misc apps</description>
     <description lang="es">Overlay de servidores, virtualización, herramientas para desarrolladores y aplicaciones varias</description>

@@ -1562,18 +1562,6 @@
     <feed>https://github.com/FRRouting/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>fusion809</name>
-    <description lang="en">Brenton's Portage overlay</description>
-    <homepage>https://github.com/fusion809/fusion809-overlay</homepage>
-    <owner type="person">
-      <email>brentonhorne77@gmail.com</email>
-      <name>Brenton Horne</name>
-    </owner>
-    <source type="git">https://github.com/fusion809/fusion809-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/fusion809/fusion809-overlay.git</source>
-    <feed>https://github.com/fusion809/fusion809-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>fyn-overlay</name>
     <description lang="en">fyn 's personal overlay</description>
     <homepage>https://github.com/qwe795138426/fyn-overlay</homepage>

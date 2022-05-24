@@ -2142,16 +2142,16 @@
   <repo quality="experimental" status="official">
     <name>jmbsvicetto</name>
     <description>Jorge Manuel B. S. Vicetto developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/jmbsvicetto.git</homepage>
+    <homepage>https://cgit.gentoo.org/repo/dev/jmbsvicetto.git</homepage>
     <owner type="person">
       <email>jmbsvicetto@gentoo.org</email>
       <name>Jorge Manuel B. S. Vicetto</name>
     </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/jmbsvicetto.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/jmbsvicetto.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/jmbsvicetto.git</source>
-    <feed>https://cgit.gentoo.org/dev/jmbsvicetto.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/jmbsvicetto.git/rss/</feed> -->
+    <source type="git">https://anongit.gentoo.org/git/repo/dev/jmbsvicetto.git</source>
+    <source type="git">git://anongit.gentoo.org/repo/dev/jmbsvicetto.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/dev/jmbsvicetto.git</source>
+    <feed>https://cgit.gentoo.org/repo/dev/jmbsvicetto.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/repo/dev/jmbsvicetto.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>JRG</name>

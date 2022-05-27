@@ -271,6 +271,17 @@
     <feed>https://cgit.alxu.ca/gentoo-overlay.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>amano-kenji</name>
+    <description lang="en">Personal overlay</description>
+    <homepage>https://codeberg.org/amano.kenji/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>amano.kenji@proton.me</email>
+      <name>amano.kenji</name>
+    </owner>
+    <source type="git">https://codeberg.org/amano.kenji/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org:amano.kenji/gentoo-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ambasta</name>
     <description lang="en">Personal overlay</description>
     <owner type="person">

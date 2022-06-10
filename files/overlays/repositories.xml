@@ -3224,6 +3224,18 @@
     <source type="git">git+ssh://git@github.com/ZeroPointEnergy/gentoo-pyfa-overlay.git</source>
     <feed>https://github.com/ZeroPointEnergy/gentoo-pyfa-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>pypi-sci</name>
+    <description lang="en">Scientific packages from PyPI by the gentoo-pypi-generator</description>
+    <homepage>https://github.com/jiegec/gentoo-pypi-sci</homepage>
+    <owner type="person">
+      <email>heroxbd@gentoo.org</email>
+      <name>Benda Xu</name>
+    </owner>
+    <source type="git">https://github.com/jiegec/gentoo-pypi-sci.git</source>
+    <source type="git">git+ssh://git@github.com:jiegec/gentoo-pypi-sci.git</source>
+    <feed>https://github.com/jiegec/gentoo-pypi-sci/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>python</name>
     <description lang="en">Python project repository</description>

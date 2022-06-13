@@ -4188,7 +4188,7 @@
       <name>Thamognya Kodi</name>
     </owner>
     <source type="git">https://git.thamognya.com/Thamognya/thamognya-overlay.git</source>
-    <feed>https://github.com/ThamognyaKodi/thamognya-overlay/commits/master.atom</feed>
+    <feed>https://github.com/Thamognya/thamognya-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>thegreatmcpain</name>

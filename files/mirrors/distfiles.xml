@@ -160,7 +160,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>Orchid Linux</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://mirror.orchid-linux.org/</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.orchid-linux.org</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="DE" countryname="Germany">

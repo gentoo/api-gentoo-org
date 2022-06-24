@@ -4096,6 +4096,17 @@
     <source type="git">git+ssh://git@git.grifon.fr:alarig/SwordArMor-gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>Systole</name>
+    <description lang="en">Overlay for the Systole OS</description>
+    <homepage>https://github.com/SystoleOS</homepage>
+    <owner type="person">
+      <email>rafael.palomar@ous-research.no</email>
+      <name>Rafael Palomar</name>
+    </owner>
+    <source type="git">https://github.com/SystoleOS/gentoo-overlay.git</source>
+    <source type="git">git@github.com:SystoleOS/gentoo-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>tamiko</name>
     <description>Developer overlay</description>
     <homepage>https://cgit.gentoo.org/repo/dev/tamiko.git/</homepage>

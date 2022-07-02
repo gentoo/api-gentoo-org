@@ -618,7 +618,7 @@ gns3				522		522		acct
 goaccess			523		523		acct
 owntracks			524		524		acct		Used by sci-geosciences/owntracks-recorder
 knot-resolver			525		525		acct		Used by net-dns/knot-resolver
-
+gonic				526		526		acct		Used by media-sound/gonic
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000	1000..60000	reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs
 ventrilo			3784		3784		historical	Used by media-sound/ventrilo-server-bin, removed in [15c6a556cef2](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=15c6a556cef202a72f7226648ebea19fcffe834d)

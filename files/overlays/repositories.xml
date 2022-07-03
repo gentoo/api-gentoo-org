@@ -3686,6 +3686,17 @@
     <source type="git">https://gitea.sergiotarxz.freemyip.com/sergiotarxz/sergiotarxz-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>serioussam</name>
+    <description lang="en">Serious Sam Classic v1.10 with mods</description>
+    <homepage>https://github.com/tx00100xt/serioussam-overlay</homepage>
+    <owner type="person">
+      <email>t.x00100x.t@yandex.ru</email>
+      <name>tx00100xt</name>
+    </owner>
+    <source type="git">https://github.com/tx00100xt/serioussam-overlay.git</source>
+    <feed>https://github.com/tx00100xt/serioussam-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>setkeh</name>
     <description lang="en">setkeh maintained ebuilds</description>
     <homepage>https://github.com/setkeh/Portage-Overlay</homepage>

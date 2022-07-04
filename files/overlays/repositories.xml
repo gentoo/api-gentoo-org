@@ -1821,6 +1821,18 @@
     <source type="git">git@github.com:goduck777/gentoo-overlay.git</source>
     <feed>https://github.com/goduck777/gentoo-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>gogooverlay</name>
+    <description lang="en">GoGo's Cool Overlay For Attractive People</description>
+    <homepage>https://github.com/GoGoOtaku/GoGoOverlay</homepage>
+    <owner type="person">
+      <email>GoGoOtaku@gmail.com</email>
+      <name>GoGo de Sica</name>
+    </owner>
+    <source type="git">https://github.com/GoGoOtaku/GoGoOverlay.git</source>
+    <source type="git">git+ssh://git@github.com/GoGoOtaku/GoGoOverlay.git</source>
+    <feed>https://github.com/GoGoOtaku/GoGoOverlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>graaff</name>
     <description>Developer overlay of Hans de Graaff with mostly ruby and

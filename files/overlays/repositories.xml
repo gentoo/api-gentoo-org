@@ -3157,6 +3157,16 @@
     <source type="git">git+ssh://git@github.com/comio/plex-overlay.git</source>
     <feed>https://github.com/comio/plex-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>poly-c</name>
+    <description lang="en">Polynomial-C's overlay</description>
+    <homepage>http://www.gentoofan.org/gentoo/</homepage>
+    <owner type="person">
+      <email>polynomial-c@gentoo.org</email>
+      <name>Lars Wendler</name>
+    </owner>
+    <source type="rsync">rsync://rsync.gentoofan.org/poly-c</source>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>powerman</name>
     <description>Overlay of Alex Efros</description>

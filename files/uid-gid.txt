@@ -296,6 +296,7 @@ fritzbox_smarthome_exporter	228		228		acct
 vnstat				229		229		acct
 carbon				230		230		acct
 icingadirector			231		-		acct
+#mogile				460		231		acct		See below
 fvwm-crystal			-		232		acct
 postgres_exporter		233		233		acct
 memcached_exporter		234		234		acct

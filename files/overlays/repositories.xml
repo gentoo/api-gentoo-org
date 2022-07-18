@@ -4674,16 +4674,6 @@
     <source type="git">https://anongit.gentoo.org/git/repo/proj/wine.git</source>
     <source type="git">git://anongit.gentoo.org/repo/proj/wine.git</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>wjn-overlay</name>
-    <description>wjn's overlay for Gentoo Linux</description>
-    <homepage>https://bitbucket.org/wjn/wjn-overlay</homepage>
-    <owner type="person">
-      <email>wjn@aol.jp</email>
-      <name>wjn</name>
-    </owner>
-    <source type="git">https://bitbucket.org/wjn/wjn-overlay.git</source>
-  </repo>
   <repo quality="experimental" status="official">
     <name>x11</name>
     <description>Gentoo X11 team ebuild repository</description>

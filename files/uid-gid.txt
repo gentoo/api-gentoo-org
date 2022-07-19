@@ -612,6 +612,7 @@ radarr				516		516		acct
 prowlarr			517		517		acct
 jellyfin			518		518		acct
 synapse				519		519		acct		Used by net-im/synapse Matrix server
+readarr				520		520		acct
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000	1000..60000	reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs
 ventrilo			3784		3784		historical	Used by media-sound/ventrilo-server-bin, removed in [15c6a556cef2](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=15c6a556cef202a72f7226648ebea19fcffe834d)

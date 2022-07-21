@@ -1340,6 +1340,18 @@
     <source type="git">https://gitlab.fem-net.de/gentoo/fem-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>feniksa</name>
+    <description lang="en">Graphics, C++ libs and additional software</description>
+    <homepage>https://github.com/feniksa/gentoo-overlay</homepage>
+    <owner type="person">
+     <email>feniksa@200volts.com</email>
+     <name>Maksym Sditanov</name>
+    </owner>
+    <source type="git">https://github.com/feniksa/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/feniksa/gentoo-overlay.git</source>
+    <feed>https://github.com/feniksa/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ferki</name>
     <description lang="en">Ebuilds used and/or proxy maintained by FErki</description>
     <homepage>https://github.com/ferki/gentoo-overlay</homepage>

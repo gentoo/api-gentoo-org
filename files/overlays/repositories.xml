@@ -2300,6 +2300,17 @@
     <source type="git">ssh://git@git.kske.dev:420/kske/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>kzd</name>
+    <description lang="en">kzd's personal overlay</description>
+    <homepage>https://gitlab.com/kzdixon/kzd-ebuilds</homepage>
+    <owner type="person">
+      <email>kzd@56709.net</email>
+      <name>Kyle Dixon</name>
+    </owner>
+    <source type="git">https://gitlab.com/kzdixon/kzd-ebuilds.git</source>
+    <source type="git">git@gitlab.com:kzdixon/kzd-ebuilds.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>lab-overlay</name>
     <description lang="en">Lab Overlay</description>
     <homepage>https://github.com/positivelab/lab-overlay</homepage>

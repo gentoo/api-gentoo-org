@@ -3575,6 +3575,7 @@
       <name>Ruixi-rebirth</name>
 		</owner>
 		<source type="git">https://github.com/Ruixi-rebirth/ruixi-overlay.git</source>
+		<source type="git">git@github.com:Ruixi-rebirth/ruixi-overlay.git</source>
 	</repo>
   <repo quality="experimental" status="unofficial">
     <name>ryans</name>

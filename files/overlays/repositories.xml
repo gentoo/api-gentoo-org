@@ -3568,7 +3568,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
 		<name>ruixi-overlay</name>
-		<description>Ruixi-rebirth's personal Gentoo overlay</description>
+		<description lang="en">Ruixi-rebirth's personal Gentoo overlay</description>
 		<homepage>https://github.com/Ruixi-rebirth/ruixi-overlay</homepage>
 		<owner type="person">
       <email>ruixirebirth@gmail.com</email>

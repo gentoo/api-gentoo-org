@@ -612,6 +612,7 @@ radarr				516		516		acct
 prowlarr			517		517		acct
 jellyfin			518		518		acct
 synapse				519		519		acct		Used by net-im/synapse Matrix server
+_cron-failure			520		520		acct		Used by sys-process/systemd-cron
 readarr				521		521		acct
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000	1000..60000	reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs

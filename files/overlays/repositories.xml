@@ -3262,19 +3262,6 @@
     <feed>https://github.com/jiegec/gentoo-pypi-sci/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
-    <name>python</name>
-    <description lang="en">Python project repository</description>
-    <homepage>https://cgit.gentoo.org/proj/python.git/</homepage>
-    <owner type="project">
-      <email>python@gentoo.org</email>
-      <name>Gentoo Python project</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/python.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/python.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/python.git</source>
-    <feed>https://cgit.gentoo.org/proj/python.git/atom/</feed>
-  </repo>
-  <repo quality="experimental" status="official">
     <name>qemu-init</name>
     <description lang="en">qemu init script and tools</description>
     <homepage>https://cgit.gentoo.org/dev/qiaomuf.git/</homepage>

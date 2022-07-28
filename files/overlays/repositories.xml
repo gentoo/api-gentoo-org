@@ -2219,6 +2219,7 @@
       <email>sandino@sandino.net</email>
       <name>Sandino Araico Sanchez</name>
     </owner>
+    <source type="git">https://gitlab.com/KenjiBrown/gentoo-overlay.git</source>
     <source type="git">https://github.com/KenjiBrown/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/KenjiBrown/gentoo-overlay.git</source>
     <feed>https://git.softwarelibre.mx/KBrown/gentoo-overlay/-/commits/KBrown-pub?format=atom</feed>

@@ -4694,6 +4694,16 @@
     <source type="git">https://anongit.gentoo.org/git/repo/proj/wine.git</source>
     <source type="git">git://anongit.gentoo.org/repo/proj/wine.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>without-systemd</name>
+    <description lang="en">Without Systemd overlay</description>
+    <homepage>https://github.com/KenjiBrown/without-systemd</homepage>
+    <owner type="person">
+      <email>sandino@sandino.net</email>
+      <name>Sandino Araico Sanchez</name>
+    </owner>
+    <source type="git">https://github.com/KenjiBrown/without-systemd.git</source>
+  </repo>
   <repo quality="experimental" status="official">
     <name>x11</name>
     <description>Gentoo X11 team ebuild repository</description>

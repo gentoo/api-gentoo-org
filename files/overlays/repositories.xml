@@ -3000,18 +3000,6 @@
     <feed>https://github.com/deu/palemoon-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>panther</name>
-    <description lang="en">Fun useful packages not found elsewhere</description>
-    <homepage>https://github.com/orangeturtle739/panther</homepage>
-    <owner type="person">
-      <email>swimgiraffe435@gmail.com</email>
-      <name>Jacob Glueck</name>
-    </owner>
-    <source type="git">https://github.com/orangeturtle739/panther.git</source>
-    <source type="git">git+ssh://git@github.com/orangeturtle739/panther.git</source>
-    <feed>https://github.com/orangeturtle739/panther/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>pdilung</name>
     <description lang="en">Personal Gentoo overlay of Pavol Dilung</description>
     <homepage>https://github.com/pdilung/gentoo-overlay/</homepage>

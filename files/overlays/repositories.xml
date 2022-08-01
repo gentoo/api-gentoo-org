@@ -1344,8 +1344,8 @@
     <description lang="en">Graphics, C++ libs and additional software</description>
     <homepage>https://github.com/feniksa/gentoo-overlay</homepage>
     <owner type="person">
-     <email>feniksa@200volts.com</email>
-     <name>Maksym Sditanov</name>
+      <email>feniksa@200volts.com</email>
+      <name>Maksym Sditanov</name>
     </owner>
     <source type="git">https://github.com/feniksa/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/feniksa/gentoo-overlay.git</source>

@@ -4718,6 +4718,16 @@
     <!-- <feed>https://cgit.gentoo.org/proj/x11.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>xarblu-overlay</name>
+    <description lang="en">Xarblu's personal ebuild overlay</description>
+    <homepage>https://github.com/xarblu/xarblu-overlay</homepage>
+    <owner type="person">
+      <email>xarblu@protonmail.com</email>
+      <name>Jonas Rakebrandt</name>
+    </owner>
+    <source type="git">https://github.com/xarblu/xarblu-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>xdch47</name>
     <description lang="en">Gentoo portage overlay of xdch47</description>
     <homepage>https://github.com/xdch47/gpo-xdch47</homepage>

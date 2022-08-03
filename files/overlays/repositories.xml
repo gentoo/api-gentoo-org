@@ -3203,16 +3203,6 @@
     <source type="git">git+ssh://git@github.com/ppfeufer/gentoo-overlay.git</source>
     <feed>https://github.com/ppfeufer/gentoo-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="testing" status="unofficial">
-    <name>progress</name>
-    <description>Progress Overlay: Python packages (including Pyramid, Zope) and other packages</description>
-    <homepage>https://sourceforge.net/projects/gentoo-progress/</homepage>
-    <owner type="person">
-      <email>Arfrever.FTA@gmail.com</email>
-      <name>Arfrever Frehtes Taifersar Arahesis</name>
-    </owner>
-    <source type="svn">https://svn.code.sf.net/p/gentoo-progress/code</source>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>pross</name>
     <description lang="en">Up to date ck-sources</description>

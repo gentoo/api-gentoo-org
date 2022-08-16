@@ -887,18 +887,6 @@
     <feed>https://github.com/alphallc/crossdev/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>dankdumpster</name>
-    <description lang="en">DankDumpster's overlay</description>
-    <homepage>https://github.com/DankDumpster/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>dev@mtbk.me</email>
-      <name>DankDumpster</name>
-    </owner>
-    <source type="git">https://github.com/DankDumpster/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/DankDumpster/gentoo-overlay.git</source>
-    <feed>https://github.com/DankDumpster/gentoo-overlay/commits/main.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>dargor</name>
     <description lang="en">Personal overlay for packages I care of</description>
     <homepage>https://github.com/dargor/dargor_gentoo_overlay</homepage>

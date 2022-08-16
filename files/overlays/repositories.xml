@@ -2412,18 +2412,6 @@
     <feed>https://gitlab.com/linux-be/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>linux-surface</name>
-    <description lang="en">Overlay that has the required packages for installation of Gentoo into a Microsoft Surface device.</description>
-    <homepage>https://github.com/Parinz/linux-surface-overlay</homepage>
-    <owner type="person">
-      <email>parinzee@protonmail.com</email>
-      <name>Parinthapat P.</name>
-    </owner>
-    <source type="git">https://github.com/parinzee/linux-surface-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/parinzee/linux-surface-overlay.git</source>
-    <feed>https://github.com/parinzee/linux-surface-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>linuxunderground-overlay</name>
     <description>experimental ebuilds from linuxunderground.be</description>
     <homepage>https://github.com/linuxunderground/gentoo.overlay</homepage>

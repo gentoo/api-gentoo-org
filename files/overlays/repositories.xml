@@ -122,18 +122,6 @@
     <feed>https://github.com/AdamGiergun/adasss/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>aeon-gentoo-overlay</name>
-    <description lang="en">Gentoo overlay for Aeon Dev packages and dependencies</description>
-    <homepage>https://github.com/aeon-engine/aeon-gentoo-overlay</homepage>
-    <owner type="person">
-      <email>robindegen@gmail.com</email>
-      <name>Robin Degen</name>
-    </owner>
-    <source type="git">https://github.com/aeon-engine/aeon-gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/aeon-engine/aeon-gentoo-overlay.git</source>
-    <feed>https://github.com/aeon-engine/aeon-gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ag-ops</name>
     <description lang="en">Useful tools for SysAdmins or DevOps</description>
     <homepage>https://gitlab.com/ILMostro/ag-ops</homepage>

@@ -3408,6 +3408,18 @@
     <source type="git">git@github.com:pkulev/riru.git</source>
     <feed>https://github.com/pkulev/riru/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>riscv</name>
+    <description lang="en">Gentoo RISC-V Overlay</description>
+    <homepage>https://github.com/gentoo/riscv</homepage>
+    <owner type="project">
+      <email>riscv@gentoo.org</email>
+      <name>Gentoo RISC-V Development</name>
+    </owner>
+    <source type="git">https://github.com/gentoo/riscv.git</source>
+    <source type="git">git@github.com:gentoo/riscv.git</source>
+    <feed>https://github.com/gentoo/riscv/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>rnp</name>
     <description lang="en">High performance C++ OpenPGP library, fully compliant to RFC 4880</description>

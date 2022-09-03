@@ -1930,18 +1930,6 @@
     <feed>https://github.com/gentoo-haskell/gentoo-haskell/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>heindsight</name>
-    <description lang="en">heindsight's personal overlay</description>
-    <homepage>https://github.com/heindsight/gentoo_overlay</homepage>
-    <owner type="person">
-      <email>heindsight@kruger.dev</email>
-      <name>Heinrich Kruger</name>
-    </owner>
-    <source type="git">https://github.com/heindsight/gentoo_overlay.git</source>
-    <source type="git">git+ssh://git@github.com/heindsight/gentoo_overlay.git</source>
-    <feed>https://github.com/heindsight/gentoo_overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>hering-overlay</name>
     <description lang="en">Richard Hering's gentoo overlay</description>
     <homepage>https://github.com/internethering/hering-overlay</homepage>

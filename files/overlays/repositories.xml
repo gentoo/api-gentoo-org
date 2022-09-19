@@ -822,6 +822,19 @@
     <source type="git">https://github.com/brothermechanic/cg.git</source>
     <source type="git">git+ssh://git@github.com/brothermechanic/cg.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>chymeric</name>
+    <description lang="en">Overlay for scientific software and desktop minimalism</description>
+    <homepage>https://github.com/TheChymera/overlay</homepage>
+    <owner type="person">
+      <email>gentoo@chymera.eu</email>
+      <name>Horea Christian</name>
+    </owner>
+    <source type="git">https://github.com/TheChymera/overlay.git</source>
+    <source type="git">git://github.com/TheChymera/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/TheChymera/overlay.git</source>
+    <feed>https://github.com/TheChymera/overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>cj-overlay</name>
     <description>Christoph's Overlay</description>

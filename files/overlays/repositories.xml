@@ -2289,6 +2289,18 @@
     <source type="git">git://gitlab.com/lanodan/overlay.git</source>
     <feed>https://hacktivis.me/git/overlay/atom.xml</feed>
   </repo>
+    <repo quality="experimental" status="unofficial">
+      <name>ledgersmb</name>
+      <description lang="en">LedgerSMB and dependencies not yet in Gentoo</description>
+      <homepage>https://github.com/ledgersmb/lsmb-overlay</homepage>
+      <owner type="person">
+        <email>chris.travers@gmail.com</email>
+        <name>Chris Travers</name>
+      </owner>
+      <source type="git">https://github.com/ledgersmb/lsmb-overlay.git</source>
+      <source type="git">git+ssh://git@github.com/ledgersmb/lsmb-overlay.git</source>
+      <feed>https://github.com/ledgersmb/lsmb-overlay/commits/master.atom</feed>
+    </repo>
   <repo quality="experimental" status="unofficial">
     <name>leechcraft</name>
     <description>Overlay with LeechCraft ebuilds</description>

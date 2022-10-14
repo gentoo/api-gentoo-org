@@ -705,6 +705,25 @@
     <feed>https://github.com/stefan-langenmaier/brother-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>broverlay</name>
+    <description lang="en">
+      Overlay containing ebuilds made by a small Gentoo community, learning how to do them.
+      The focus is to have general-purpose ebuilds, available to everyone.
+    </description>
+    <description lang="pt">
+      Overlay contendo ebuilds feitas por uma pequena comunidade de usuários de Gentoo, aprendendo como faze-los.
+      O foco é ter pacotes de propósito geral, disponível para todos.
+    </description>
+    <homepage>https://github.com/BROverlay/overlay</homepage>
+    <owner type="person">
+      <email>redson@riseup.net</email>
+      <name>Redson dos Santos Silva</name>
+    </owner>
+    <source type="git">https://github.com/BROverlay/overlay.git</source>
+    <source type="git">git+ssh://git@github.com:BROverlay/overlay.git</source>
+    <feed>https://github.com/BROverlay/overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>bubba</name>
     <description lang="en">"Bubba" platform support for Excito B2|3</description>
     <homepage>https://github.com/gordonb3/bubba-overlay</homepage>

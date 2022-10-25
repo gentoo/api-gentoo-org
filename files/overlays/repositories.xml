@@ -1918,6 +1918,18 @@
     <feed>https://github.com/gentoo-haskell/gentoo-haskell/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>hep-forge</name>
+    <description lang="en">Inofficial HEPForge ebuilds</description>
+    <homepage>https://gitlab.com/APN-Pucky/gentoo-hep-forge</homepage>
+    <owner type="person">
+      <email>alexander@neuwirth-informatik.de</email>
+      <name>Alexander Puck Neuwirth</name>
+    </owner>
+    <source type="git">https://gitlab.com/APN-Pucky/gentoo-hep-forge.git</source>
+    <source type="git">git+ssh://git@gitlab.com/APN-Pucky/gentoo-hep-forge.git</source>
+    <feed>https://gitlab.com/APN-Pucky/gentoo-hep-forge/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>hering-overlay</name>
     <description lang="en">Richard Hering's gentoo overlay</description>
     <homepage>https://github.com/internethering/hering-overlay</homepage>

@@ -3947,6 +3947,18 @@
     <feed>https://github.com/stefantalpalaru/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>stephdewit</name>
+    <description lang="en">Stéphane de Wit's personal overlay</description>
+    <homepage>https://github.com/stephdewit/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>contact@stephanedewit.be</email>
+      <name>Stéphane de Wit</name>
+    </owner>
+    <source type="git">https://github.com/stephdewit/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/stephdewit/gentoo-overlay.git</source>
+    <feed>https://github.com/stephdewit/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>stha09</name>
     <description lang="en">stha09's personal overlay</description>
     <homepage>https://github.com/stha09/gpo-stha09</homepage>

@@ -4437,6 +4437,18 @@
     <source type="git">git@github.com:vifino/vifino-overlay.git</source>
     <feed>https://github.com/vifino/vifino-overlay/commits/master.atom</feed>
   </repo>
+    <repo quality="experimental" status="unofficial">
+      <name>violet-funk</name>
+      <description lang="en">Personal Gentoo overlay for FNF and FNF mod ebuilds.</description>
+      <homepage>https://github.com/MagelessMayhem/violet-funk</homepage>
+      <owner type="person">
+        <email>MagelessMayhem@protonmail.com</email>
+        <name>Sebastian France</name>
+      </owner>
+      <source type="git">https://github.com/MagelessMayhem/violet-funk.git</source>
+      <source type="git">git+ssh://git@github.com/MagelessMayhem/violet-funk.git</source>
+      <feed>https://github.com/MagelessMayhem/violet-funk/commits/master.atom</feed>
+    </repo>
   <repo quality="experimental" status="unofficial">
     <name>viperML-overlay</name>
     <description lang="en">viperML's personal overlay</description>

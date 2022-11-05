@@ -2572,6 +2572,18 @@
     <source type="git">git+ssh://git@gitlab.com/yemou/moulay.git</source>
     <feed>https://gitlab.com/yemou/moulay/commits/master?format=atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>mrtnvgr</name>
+    <description lang="en">mrtnvgr's personal overlay</description>
+    <homepage>https://github.com/mrtnvgr/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>martynovegorOF@yandex.ru</email>
+      <name>Egor Martynov</name>
+    </owner>
+    <source type="git">https://github.com/mrtnvgr/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/mrtnvgr/gentoo-overlay.git</source>
+    <feed>https://github.com/mrtnvgr/gentoo-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>mschiff</name>
     <description lang="en">Developer overlay</description>

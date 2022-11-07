@@ -798,7 +798,7 @@
     <description lang="en">This is a small Gentoo overlay with ebuilds that I could not find elsewhere or that I had to modify for some reason.</description>
     <homepage>https://github.com/ceamac/overlay</homepage>
     <owner type="person">
-      <email>ceamac.paragon@gmail.com</email>
+      <email>ceamac@gentoo.org</email>
       <name>Viorel Munteanu</name>
     </owner>
     <source type="git">https://github.com/ceamac/overlay.git</source>

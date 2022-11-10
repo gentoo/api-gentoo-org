@@ -3383,7 +3383,7 @@
     <source type="git">git@github.com:gentoo/riscv.git</source>
     <feed>https://github.com/gentoo/riscv/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
+  <repo quality="experimental" status="official">
     <name>rnp</name>
     <description lang="en">High performance C++ OpenPGP library, fully compliant to RFC 4880</description>
     <homepage>https://www.rnpgp.org/</homepage>
@@ -3393,7 +3393,7 @@
     </owner>
     <source type="git">https://github.com/rnpgp/gentoo-rnp.git</source>
     <source type="git">git+ssh://git@github.com/rnpgp/gentoo-rnp.git</source>
-    <feed>https://github.com/rnpgp/gentoo-rnp/commits/master.atom</feed>
+    <feed>https://github.com/rnpgp/gentoo-rnp/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>robert7k</name>

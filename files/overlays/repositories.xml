@@ -1930,16 +1930,6 @@
     <feed>https://github.com/internethering/hering-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>hexedit-overlay</name>
-    <description lang="en">Ebuilds for infrastructure-related packages and my own projects</description>
-    <homepage>http://hexedit.me/gentoo/</homepage>
-    <owner type="person">
-      <email>hexedit@ifproject.ru</email>
-      <name>Timofey Negrebetsky</name>
-    </owner>
-    <source type="git">https://git.ifproject.ru/hexedit/gentoo-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>hikari</name>
     <description lang="en">hikari's overlay</description>
     <homepage>https://github.com/wiredhikari/hikari-overlay</homepage>

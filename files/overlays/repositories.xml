@@ -4831,5 +4831,17 @@
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>kostas-overlay</name>
+	<description lang="en">Personal ebuild repository</description>
+    <homepage>https://github.com/KostasEreksonas/kostas-overlay</homepage>
+    <owner type="person">
+      <email>k.ereksonas@gmail.com</email>
+      <name>Kostas Ereksonas</name>
+    </owner>
+    <source type="git">https://github.com/KostasEreksonas/kostas-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/KostasEreksonas/kostas-overlay.git</source>
+    <feed>https://github.com/KostasEreksonas/kostas-overlay/commits/main.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

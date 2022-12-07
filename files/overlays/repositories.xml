@@ -1053,7 +1053,7 @@
     <feed>https://github.com/gentoo/dotnet/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-      <name>doublecmd-overlay</name>
+      <name>doublecmd</name>
       <description lang="en">Overlay for Double Commander containing live (9999) and release version ebuilds for this brilliant two-panel filemanager.</description>
       <homepage>https://github.com/corvus1/doublecmd-overlayhomepage></homepage>
       <owner type="person">

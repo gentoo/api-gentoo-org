@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE repositories SYSTEM "https://www.gentoo.org/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
   <!--
@@ -392,6 +392,16 @@
     <feed>https://github.com/anyc/anyc-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ap-overlay</name>
+    <description lang="en">Personal Gentoo Overlay</description>
+    <homepage>https://gitlab.com/AbhinavPraveen/ap-overlay</homepage>
+    <owner type="person">
+      <email>praveen@abhinav.pro</email>
+      <name>Abhinav Praveen</name>
+    </owner>
+    <source type="git">https://gitlab.com/AbhinavPraveen/ap-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>apriluwu</name>
     <description lang="en">apriluwu's personal overlay</description>
     <homepage>https://github.com/apriluwu/gentoo-overlay</homepage>
@@ -402,16 +412,6 @@
     <source type="git">https://github.com/apriluwu/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/apriluwu/gentoo-overlay.git</source>
     <feed>https://github.com/apriluwu/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>ap-overlay</name>
-    <description lang="en">Personal Gentoo Overlay</description>
-    <homepage>https://gitlab.com/AbhinavPraveen/ap-overlay</homepage>
-    <owner type="person">
-      <email>praveen@abhinav.pro</email>
-      <name>Abhinav Praveen</name>
-    </owner>
-    <source type="git">https://gitlab.com/AbhinavPraveen/ap-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ArchFeh</name>
@@ -1053,17 +1053,17 @@
     <feed>https://github.com/gentoo/dotnet/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-      <name>doublecmd-overlay</name>
-      <description lang="en">Overlay for Double Commander containing live (9999) and release version ebuilds for this brilliant two-panel filemanager.</description>
-      <homepage>https://github.com/corvus1/doublecmd-overlayhomepage></homepage>
-      <owner type="person">
-        <email>voron1@gmail.com</email>
-        <name>Corvus</name>
-      </owner>
-      <source type="git">https://github.com/corvus1/doublecmd-overlay.git</source>
-      <source type="git">git@github.com:corvus1/doublecmd-overlay.git</source>
-      <feed>https://github.com/corvus1/doublecmd-overlay/commits/main</feed>
-    </repo>
+    <name>doublecmd-overlay</name>
+    <description lang="en">Overlay for Double Commander containing live (9999) and release version ebuilds for this brilliant two-panel filemanager.</description>
+    <homepage>https://github.com/corvus1/doublecmd-overlayhomepage&gt;</homepage>
+    <owner type="person">
+      <email>voron1@gmail.com</email>
+      <name>Corvus</name>
+    </owner>
+    <source type="git">https://github.com/corvus1/doublecmd-overlay.git</source>
+    <source type="git">git@github.com:corvus1/doublecmd-overlay.git</source>
+    <feed>https://github.com/corvus1/doublecmd-overlay/commits/main</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>Drauthius</name>
     <description>Ebuilds related to game dev</description>
@@ -3232,16 +3232,6 @@
     </owner>
     <source type="git">https://git.zero-downtime.net/quark/quarks.git</source>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>R_Overlay</name>
-    <description>Gentoo overlay of R packages</description>
-    <homepage>https://cgit.gentoo.org/proj/R_overlay.git/</homepage>
-    <owner type="person">
-      <email>heroxbd@gentoo.org</email>
-      <name>Benda Xu</name>
-    </owner>
-    <source type="rsync">rsync://roverlay.dev.gentoo.org/roverlay</source>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>r7l</name>
     <description lang="en">r7l Gentoo overlay with custom Ebuilds</description>
@@ -3253,6 +3243,16 @@
     <source type="git">https://github.com/r7l/r7l-overlay.git</source>
     <source type="git">git+ssh://git@github.com/r7l/r7l-overlay.git</source>
     <feed>https://github.com/r7l/r7l-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="official">
+    <name>R_Overlay</name>
+    <description>Gentoo overlay of R packages</description>
+    <homepage>https://cgit.gentoo.org/proj/R_overlay.git/</homepage>
+    <owner type="person">
+      <email>heroxbd@gentoo.org</email>
+      <name>Benda Xu</name>
+    </owner>
+    <source type="rsync">rsync://roverlay.dev.gentoo.org/roverlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>racket-overlay</name>
@@ -4295,20 +4295,6 @@
     <feed>https://github.com/ddorian1/gentoo-twister-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
-    <name>ulm</name>
-    <description>Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/repo/dev/ulm.git/</homepage>
-    <owner type="person">
-      <email>ulm@gentoo.org</email>
-      <name>Ulrich Müller</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/repo/dev/ulm.git</source>
-    <source type="git">git://anongit.gentoo.org/repo/dev/ulm.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/repo/dev/ulm.git</source>
-    <feed>https://cgit.gentoo.org/repo/dev/ulm.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/repo/dev/ulm.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="official">
     <name>ukui</name>
     <description lang="en">Gentoo Overlay for UKUI Desktop Environment</description>
     <homepage>https://www.ukui.org/</homepage>
@@ -4327,6 +4313,20 @@
     <source type="git">https://github.com/ukui/ukui-overlay.git</source>
     <source type="git">git@github.com:ukui/ukui-overlay.git</source>
     <feed>https://github.com/ukui/ukui-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="official">
+    <name>ulm</name>
+    <description>Developer overlay</description>
+    <homepage>https://cgit.gentoo.org/repo/dev/ulm.git/</homepage>
+    <owner type="person">
+      <email>ulm@gentoo.org</email>
+      <name>Ulrich Müller</name>
+    </owner>
+    <source type="git">https://anongit.gentoo.org/git/repo/dev/ulm.git</source>
+    <source type="git">git://anongit.gentoo.org/repo/dev/ulm.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/dev/ulm.git</source>
+    <feed>https://cgit.gentoo.org/repo/dev/ulm.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/repo/dev/ulm.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>unc3nsored</name>
@@ -4449,18 +4449,18 @@
     <source type="git">git@github.com:vifino/vifino-overlay.git</source>
     <feed>https://github.com/vifino/vifino-overlay/commits/master.atom</feed>
   </repo>
-    <repo quality="experimental" status="unofficial">
-      <name>violet-funk</name>
-      <description lang="en">Personal Gentoo overlay for FNF and FNF mod ebuilds.</description>
-      <homepage>https://github.com/MagelessMayhem/violet-funk</homepage>
-      <owner type="person">
-        <email>MagelessMayhem@protonmail.com</email>
-        <name>Sebastian France</name>
-      </owner>
-      <source type="git">https://github.com/MagelessMayhem/violet-funk.git</source>
-      <source type="git">git+ssh://git@github.com/MagelessMayhem/violet-funk.git</source>
-      <feed>https://github.com/MagelessMayhem/violet-funk/commits/master.atom</feed>
-    </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>violet-funk</name>
+    <description lang="en">Personal Gentoo overlay for FNF and FNF mod ebuilds.</description>
+    <homepage>https://github.com/MagelessMayhem/violet-funk</homepage>
+    <owner type="person">
+      <email>MagelessMayhem@protonmail.com</email>
+      <name>Sebastian France</name>
+    </owner>
+    <source type="git">https://github.com/MagelessMayhem/violet-funk.git</source>
+    <source type="git">git+ssh://git@github.com/MagelessMayhem/violet-funk.git</source>
+    <feed>https://github.com/MagelessMayhem/violet-funk/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>viperML-overlay</name>
     <description lang="en">viperML's personal overlay</description>

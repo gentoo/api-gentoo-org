@@ -1044,10 +1044,6 @@
     <name>dotnet</name>
     <description>Experimental overlay for .NET packages.</description>
     <homepage>https://github.com/gentoo/dotnet</homepage>
-    <owner type="project">
-      <email>dotnet@gentoo.org</email>
-      <name>Dotnet team</name>
-    </owner>
     <source type="git">https://github.com/gentoo/dotnet.git</source>
     <source type="git">git@github.com:gentoo/dotnet.git</source>
     <feed>https://github.com/gentoo/dotnet/commits/master.atom</feed>

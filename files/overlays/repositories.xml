@@ -4264,7 +4264,7 @@
     <owner type="person">
       <email>cedk@gentoo.org</email>
     </owner>
-    <source type="mercurial">https://hg.tryton.org/tryton-overlay</source>
+    <source type="mercurial">https://foss.heptapod.net/tryton/gentoo-overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>twister</name>

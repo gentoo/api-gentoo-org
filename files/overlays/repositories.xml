@@ -1988,6 +1988,18 @@
     <feed>https://github.com/okias/ixit/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>jabuxas</name>
+    <description lang="en">jabuxas personal overlay</description>
+    <homepage>https://github.com/jabuxas/overlay</homepage>
+    <owner type="person">
+      <email>lucasbarbieri.c@gmail.com</email>
+      <name>Lucas Barbieri</name>
+    </owner>
+    <source type="git">https://github.com/jabuxas/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/jabuxas/overlay.git</source>
+    <feed>https://github.com/jabuxas/overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>jacendi-overlay</name>
     <description lang="en">id Software games overlay</description>
     <homepage>https://bitbucket.org/jacendi/jacendi-overlay</homepage>

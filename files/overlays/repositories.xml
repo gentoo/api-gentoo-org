@@ -2183,6 +2183,18 @@
     <feed>https://gitlab.com/khumba/khoverlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>kitaekim27</name>
+    <description lang="en">Personal overlay.</description>
+    <homepage>https://git.sr.ht/~kitaekim27/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>kitaekim27@gmail.com</email>
+      <name>kitaekim27</name>
+    </owner>
+    <source type="git">https://git.sr.ht/~kitaekim27/gentoo-overlay</source>
+    <source type="git">git@git.sr.ht:~kitaekim27/gentoo-overlay</source>
+    <feed>https://git.sr.ht/~kitaekim27/gentoo-overlay/log/rss.xml</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>konsolebox</name>
     <description>konsolebox's overlay</description>
     <homepage>https://github.com/konsolebox/overlay</homepage>

@@ -4602,17 +4602,6 @@
     <source type="git">git@github.com:wichtounet/wichtounet-overlay.git</source>
     <feed>https://github.com/wichtounet/wichtounet-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="testing" status="official">
-    <name>wine</name>
-    <description lang="en">All supported Wine ebuilds from the Gentoo Wine Project</description>
-    <homepage>https://wiki.gentoo.org/wiki/Project:Wine</homepage>
-    <owner type="project">
-      <email>wine@gentoo.org</email>
-      <name>Gentoo Wine Project</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/repo/proj/wine.git</source>
-    <source type="git">git://anongit.gentoo.org/repo/proj/wine.git</source>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>without-systemd</name>
     <description lang="en">Without Systemd overlay</description>

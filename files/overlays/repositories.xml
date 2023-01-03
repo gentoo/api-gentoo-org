@@ -3277,17 +3277,6 @@
     <feed>https://github.com/mahatma-kaganovich/raw/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>reagentoo</name>
-    <description lang="en">reagentoo's overlay</description>
-    <homepage>https://gitlab.com/reagentoo/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>reagentoo@gmail.com</email>
-    </owner>
-    <source type="git">https://gitlab.com/reagentoo/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@gitlab.com/reagentoo/gentoo-overlay.git</source>
-    <feed>https://gitlab.com/reagentoo/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ricerlay</name>
     <description lang="en">Overlay for ricing enthusiasts</description>
     <homepage>https://github.com/azahi/ricerlay</homepage>

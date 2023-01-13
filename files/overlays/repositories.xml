@@ -3673,6 +3673,18 @@
     <feed>https://github.com/ArsenShnurkov/shnurise/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>shypixie</name>
+    <description lang="en">ShyPixie Gentoo Overlay</description>
+    <homepage>https://github.com/ShyPixie/Overlays</homepage>
+    <owner type="person">
+      <email>dev@lara.monster</email>
+      <name>Lara Maia</name>
+    </owner>
+    <source type="git">https://github.com/ShyPixie/Overlays.git</source>
+    <source type="git">git+ssh://git@github.com/ShyPixie/Overlays.git</source>
+    <feed>https://github.com/ShyPixie/Overlays/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sihnon</name>
     <description lang="en">optiz0r's sihnon overlay</description>
     <homepage>https://github.com/optiz0r/gentoo-overlay</homepage>

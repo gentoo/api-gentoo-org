@@ -749,6 +749,18 @@
     <source type="git">git://git.calculate-linux.org/calculate/calculate-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>calendulish</name>
+    <description lang="en">calendulish Gentoo Overlay</description>
+    <homepage>https://github.com/calendulish/Overlays</homepage>
+    <owner type="person">
+      <email>dev@lara.monster</email>
+      <name>Lara Maia</name>
+    </owner>
+    <source type="git">https://github.com/calendulish/Overlays.git</source>
+    <source type="git">git+ssh://git@github.com/calendulish/Overlays.git</source>
+    <feed>https://github.com/calendulish/Overlays/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>canutethegreat-overlay</name>
     <description lang="en">Overlay for personal projects, forks, and customizations</description>
     <homepage>http://gentoo.canutethegreat.com/</homepage>

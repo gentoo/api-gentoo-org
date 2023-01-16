@@ -1336,6 +1336,18 @@
     <feed>https://github.com/ferki/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>fictitiousexistence</name>
+    <description lang="en">FictitiousExistence ebuilds</description>
+    <homepage>https://gitlab.com/fictitiousexistence-public/gentoo</homepage>
+    <owner type="person">
+      <email>gentoo@fictx.com</email>
+      <name>Dale Showers</name>
+    </owner>
+    <source type="git">https://gitlab.com/fictitiousexistence-public/gentoo.git</source>
+    <source type="git">git+ssh://gitlab.com/fictitiousexistence-public/gentoo.git</source>
+    <feed>https://gitlab.com/fictitiousexistence-public/gentoo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>fidonet</name>
     <description lang="en">Overlay of Benny Pedersen</description>
     <owner type="person">

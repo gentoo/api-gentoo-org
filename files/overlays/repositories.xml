@@ -4016,6 +4016,18 @@
     <feed>https://github.com/istitov/stuff/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>sunset-repo</name>
+    <description lang="en">Personal overlay. Small programs and utils, X11
+    themes, and version bumps of ebuilds from main repo.</description>
+    <homepage>https://github.com/Anonymous1157/sunset-repo</homepage>
+    <owner type="person">
+      <email>sunsetsergal@gmail.com</email>
+    </owner>
+    <source type="git">https://github.com/Anonymous1157/sunset-repo.git</source>
+    <source type="git">git+ssh://git@github.com/Anonymous1157/sunset-repo.git</source>
+    <feed>https://github.com/Anonymous1157/sunset-repo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>suntar</name>
     <description lang="en">Suntar's overlay</description>
     <homepage>https://github.com/suntar/suntar-overlay</homepage>

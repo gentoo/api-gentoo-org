@@ -1727,6 +1727,18 @@
     <!-- <feed>https://cgit.gentoo.org/proj/gnustep.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gnu-elpa</name>
+    <description lang="en">Mirror of GNU ELPA emacs package repository</description>
+    <homepage>https://github.com/houseofsuns/gnu-elpa</homepage>
+    <owner type="person">
+      <email>gentoo@houseofsuns.org</email>
+      <name>houseofsuns</name>
+    </owner>
+    <source type="git">https://github.com/houseofsuns/gnu-elpa.git</source>
+    <source type="git">git+ssh://git@github.com/houseofsuns/gnu-elpa.git</source>
+    <feed>https://github.com/houseofsuns/gnu-elpa/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>go-overlay</name>
     <description lang="en">Golang related ebuilds</description>
     <homepage>https://github.com/Dr-Terrible/go-overlay</homepage>
@@ -2443,6 +2455,30 @@
     <feed>https://gitlab.megacoffee.net/gentoo-overlay/megacoffee-overlay/-/commits/master?format=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>melpa</name>
+    <description lang="en">Mirror of MELPA emacs package repository</description>
+    <homepage>https://github.com/houseofsuns/melpa</homepage>
+    <owner type="person">
+      <email>gentoo@houseofsuns.org</email>
+      <name>houseofsuns</name>
+    </owner>
+    <source type="git">https://github.com/houseofsuns/melpa.git</source>
+    <source type="git">git+ssh://git@github.com/houseofsuns/melpa.git</source>
+    <feed>https://github.com/houseofsuns/melpa/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>melpa-stable</name>
+    <description lang="en">Mirror of MELPA Stable emacs package repository</description>
+    <homepage>https://github.com/houseofsuns/melpa-stable</homepage>
+    <owner type="person">
+      <email>gentoo@houseofsuns.org</email>
+      <name>houseofsuns</name>
+    </owner>
+    <source type="git">https://github.com/houseofsuns/melpa-stable.git</source>
+    <source type="git">git+ssh://git@github.com/houseofsuns/melpa-stable.git</source>
+    <feed>https://github.com/houseofsuns/melpa-stable/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>menelkir</name>
     <description lang="en">Various ebuilds from different sources</description>
     <homepage>https://gitlab.com/menelkir/gentoo-overlay</homepage>
@@ -2749,6 +2785,18 @@
     <source type="git">https://github.com/trofi/nix-guix-gentoo.git</source>
     <source type="git">git+ssh://git@github.com/trofi/nix-guix-gentoo.git</source>
     <feed>https://github.com/trofi/nix-guix-gentoo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>nongnu-elpa</name>
+    <description lang="en">Mirror of NonGNU ELPA emacs package repository</description>
+    <homepage>https://github.com/houseofsuns/nongnu-elpa</homepage>
+    <owner type="person">
+      <email>gentoo@houseofsuns.org</email>
+      <name>houseofsuns</name>
+    </owner>
+    <source type="git">https://github.com/houseofsuns/nongnu-elpa.git</source>
+    <source type="git">git+ssh://git@github.com/houseofsuns/nongnu-elpa.git</source>
+    <feed>https://github.com/houseofsuns/nongnu-elpa/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>nordvpn</name>

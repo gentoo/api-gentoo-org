@@ -1703,6 +1703,18 @@
     <!-- <feed>https://cgit.gentoo.org/proj/gnome.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gnu-elpa</name>
+    <description lang="en">Mirror of GNU ELPA emacs package repository</description>
+    <homepage>https://github.com/houseofsuns/gnu-elpa</homepage>
+    <owner type="person">
+      <email>gentoo@houseofsuns.org</email>
+      <name>houseofsuns</name>
+    </owner>
+    <source type="git">https://github.com/houseofsuns/gnu-elpa.git</source>
+    <source type="git">git+ssh://git@github.com/houseofsuns/gnu-elpa.git</source>
+    <feed>https://github.com/houseofsuns/gnu-elpa/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gnuradio</name>
     <description>A repository for GNURadio packages/addons</description>
     <homepage>https://github.com/hololeap/gentoo-gnuradio</homepage>
@@ -1725,18 +1737,6 @@
     <source type="git">git+ssh://git@git.gentoo.org/proj/gnustep.git</source>
     <feed>https://cgit.gentoo.org/proj/gnustep.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/gnustep.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gnu-elpa</name>
-    <description lang="en">Mirror of GNU ELPA emacs package repository</description>
-    <homepage>https://github.com/houseofsuns/gnu-elpa</homepage>
-    <owner type="person">
-      <email>gentoo@houseofsuns.org</email>
-      <name>houseofsuns</name>
-    </owner>
-    <source type="git">https://github.com/houseofsuns/gnu-elpa.git</source>
-    <source type="git">git+ssh://git@github.com/houseofsuns/gnu-elpa.git</source>
-    <feed>https://github.com/houseofsuns/gnu-elpa/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>go-overlay</name>

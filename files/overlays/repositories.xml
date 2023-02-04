@@ -3275,18 +3275,6 @@
     <source type="git">git+ssh://git@gitlab.com/reagentoo/gentoo-overlay.git</source>
     <feed>https://gitlab.com/reagentoo/gentoo-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>ricerlay</name>
-    <description lang="en">Overlay for ricing enthusiasts</description>
-    <homepage>https://github.com/azahi/ricerlay</homepage>
-    <owner type="person">
-      <email>azahi@teknik.io</email>
-      <name>azahi</name>
-    </owner>
-    <source type="git">https://github.com/azahi/ricerlay.git</source>
-    <source type="git">git+ssh://git@github.com/azahi/ricerlay.git</source>
-    <feed>https://github.com/azahi/ricerlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>rich0</name>
     <description lang="en">Rich0's developer overlay</description>

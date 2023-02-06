@@ -1692,7 +1692,7 @@
     <description>Gig OS's Overlay</description>
     <homepage>https://github.com/Gig-OS/gig</homepage>
     <owner type="person">
-      <email>yangmame@i2pmail.org</email>
+      <email>yangmame@icloud.com</email>
     </owner>
     <source type="git">https://github.com/Gig-OS/gig.git</source>
     <source type="git">git+ssh://git@github.com/Gig-OS/gig.git</source>

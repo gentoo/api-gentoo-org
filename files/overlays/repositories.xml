@@ -2799,6 +2799,17 @@
     <!-- <feed>https://cgit.gentoo.org/user/nico.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>nightfreedom-overlay</name>
+    <description lang="en">Edmund Leong's personal gentoo overlay</description>
+    <homepage>https://github.com/night-every/nightfreedom-overlay</homepage>
+    <owner type="person">
+      <email>edmundleongyokelum@gmail.com</email>
+      <name>Edmund Leong Yook Lum</name>
+    </owner>
+    <source type="git">https://github.com/night-every/nightfreedom-overlay.git</source>
+    <source type="git">git@github.com:night-every/nightfreedom-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>nitratesky</name>
     <description lang="en">Personal overlay of Vladimir Timofeenko</description>
     <homepage>https://github.com/VTimofeenko/nitratesky</homepage>

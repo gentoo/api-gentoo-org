@@ -4811,7 +4811,7 @@
   <repo quality="experimental" status="unofficial">
     <name>nightfreedom-overlay</name>
     <description lang="en">Edmund Leong's personal gentoo overlay</description>
-    <homepage>https://github.com/night-every/nightfreedom-overlay/</homepage>
+    <homepage>https://github.com/night-every/nightfreedom-overlay</homepage>
     <owner type="person">
       <email>edmundleongyokelum@gmail.com</email>
       <name>Edmund Leong Yook Lum</name>

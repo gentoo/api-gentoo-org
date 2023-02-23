@@ -2429,6 +2429,18 @@
     <source type="git">git://anongit.gentoo.org/user/lmiphay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>loatchi</name>
+    <description lang="en">Personal overlay of Loatchi</description>
+    <homepage>https://github.com/Loatchi/loatchi-overlay</homepage>
+    <owner type="person">
+      <email>francoisturcan31@gmail.com</email>
+      <name>Francois Turcan</name>
+    </owner>
+    <source type="git">https://github.com/Loatchi/loatchi-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Loatchi/loatchi-overlay.git</source>
+    <feed>https://github.com/Loatchi/loatchi-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>loongson</name>
     <description lang="en">
       Overlay for Loongson systems.

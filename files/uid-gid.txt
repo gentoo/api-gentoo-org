@@ -618,6 +618,7 @@ gns3				522		522		acct
 goaccess			523		523		acct
 owntracks			524		524		acct		Used by sci-geosciences/owntracks-recorder
 knot-resolver			525		525		acct		Used by net-dns/knot-resolver
+nginx-unit		526		526		acct
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000	1000..60000	reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs

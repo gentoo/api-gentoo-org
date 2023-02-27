@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Copyright (C) 2022 Arthur Zamarin <arthurzam@gentoo.org>
+Copyright (C) 2022-2023 Arthur Zamarin <arthurzam@gentoo.org>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -17,20 +17,24 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 """
 
-from http.client import HTTPSConnection
+import argparse
 import sys
-from typing import Iterator, Tuple
+from http.client import HTTPSConnection
+from typing import Iterable, Tuple
 from urllib.parse import quote_plus
-from lxml import etree
 
+from lxml import etree
 
 ok_flag = True
 
 
 def output_xml_error(xml: etree._Element, title: str, content: str):
     start = xml.sourceline
-    end = start + len(etree.tostring(xml).strip().split(b'\n')) - 1
-    print(f'::error file={sys.argv[2]},line={start},endLine={end},title={title}::{content}')
+    if args.github:
+        end = start + len(etree.tostring(xml).strip().split(b'\n')) - 1
+        print(f'::error file={args.current},line={start},endLine={end},title={title}::{content}')
+    else:
+        print(f'\033[91m{args.current}:{start} - {title} - {content}\033[0m')
 
     global ok_flag
     ok_flag = False
@@ -38,8 +42,11 @@ def output_xml_error(xml: etree._Element, title: str, content: str):
 
 def output_xml_warning(xml: etree._Element, title: str, content: str):
     start = xml.sourceline
-    end = start + len(etree.tostring(xml).strip().split())
-    print(f'::warning file={sys.argv[2]},line={start},endLine={end},title={title}::{content}')
+    if args.github:
+        end = start + len(etree.tostring(xml).strip().split())
+        print(f'::warning file={args.current},line={start},endLine={end},title={title}::{content}')
+    else:
+        print(f'\033[93m{args.current}:{start} - {title} - {content}\033[0m')
 
 
 class Overlay:
@@ -79,11 +86,11 @@ class Overlay:
         return isinstance(o, Overlay) and o.repo_name == self.repo_name
 
 
-def read_repositories(file: str) -> Iterator[Overlay]:
+def read_repositories(file: str) -> Iterable[Overlay]:
     return map(Overlay, etree.parse(file).findall('./repo'))
 
 
-def check_maintainers(overlays: Iterator[Overlay]) -> Iterator[Overlay]:
+def check_maintainers(overlays: Iterable[Overlay]):
     try:
         client = HTTPSConnection('bugs.gentoo.org')
         for m in overlays:
@@ -92,20 +99,32 @@ def check_maintainers(overlays: Iterator[Overlay]) -> Iterator[Overlay]:
         client.close()
 
 
-def check_sorted(curr: Tuple[Overlay], adds: Iterator[Overlay]):
+def check_sorted(curr: Tuple[Overlay, ...], adds: Iterable[Overlay]):
     for addition in adds:
         index = curr.index(addition)
-        if index > 0 and curr[index - 1].repo_name >= addition.repo_name:
-            output_xml_error(addition.xml, 'Unsorted overlay list', f'overlay "{addition.repo_name}" in wrong place')
-        elif index < len(curr) and curr[index + 1].repo_name <= addition.repo_name:
-            output_xml_error(addition.xml, 'Unsorted overlay list', f'overlay "{addition.repo_name}" in wrong place')
+        repo_name = addition.repo_name
+        if index > 0 and curr[index - 1].repo_name.lower() >= repo_name.lower():
+            output_xml_error(addition.xml, 'Unsorted overlay list',
+                f"overlay {repo_name!r} in wrong place: {repo_name!r} isn't before {curr[index - 1].repo_name!r}")
+        elif index + 1 < len(curr) and curr[index + 1].repo_name.lower() <= repo_name.lower():
+            output_xml_error(addition.xml, 'Unsorted overlay list',
+                f"overlay {repo_name!r} in wrong place: {repo_name!r} isn't after {curr[index + 1].repo_name!r}")
 
 
 if __name__ == '__main__':
-    base = tuple(read_repositories(sys.argv[1]))
-    current = tuple(read_repositories(sys.argv[2]))
-    additions = frozenset(current).difference(base)
+    parser = argparse.ArgumentParser(description='Check repositories.xml')
+    parser.add_argument('base', help='Original repositories.xml, pass "-" to perform full check')
+    parser.add_argument('current', help='Current repositories.xml')
+    parser.add_argument('--github', help='print errors in GitHub Actions format', action='store_true')
+    args = parser.parse_args()
 
-    check_maintainers(additions)
-    check_sorted(current, additions)
+    current = tuple(read_repositories(args.current))
+
+    if args.base != '-':
+        base = tuple(read_repositories(args.base))
+        additions = frozenset(current).difference(base)
+        check_maintainers(additions)
+        check_sorted(current, additions)
+    else:
+        check_sorted(current, current)
     sys.exit(int(not ok_flag))

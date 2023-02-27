@@ -23,7 +23,7 @@ jobs:
     - name: Check repositories.xml
       run: |
         BASE_REF=$(git merge-base --fork-point origin/${{ github.base_ref }})
-        python bin/repositories-checker.py <(git show ${BASE_REF}:files/overlays/repositories.xml) files/overlays/repositories.xml
+        python bin/repositories-checker.py --github <(git show ${BASE_REF}:files/overlays/repositories.xml) files/overlays/repositories.xml
 
   validate-schema:
     runs-on: ubuntu-latest

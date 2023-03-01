@@ -2793,6 +2793,17 @@
     <feed>https://github.com/SpiderX/portage-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>nez</name>
+    <description lang="en">nezbednik's overlay</description>
+    <homepage>https://codeberg.org/nezbednik/repo</homepage>
+    <owner type="person">
+      <email>nezbednik@atlas.cz</email>
+      <name>nezbednik</name>
+    </owner>
+    <source type="git">https://codeberg.org/nezbednik/repo.git</source>
+    <source type="git">git+ssh://git@codeberg.org/nezbednik/repo.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>nico</name>
     <description lang="en">various ebuilds</description>
     <homepage>https://cgit.gentoo.org/user/nico.git/</homepage>

@@ -1537,6 +1537,18 @@
     <feed>https://cgit.gentoo.org/proj/gamerlay.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/proj/gamerlay.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>gbrlsnchs</name>
+    <description lang="en">Gabriel Sanches's personal ebuild repository</description>
+    <homepage>https://sr.ht/~gbrlsnchs/ebuilds</homepage>
+    <owner type="person">
+      <email>gabriel@gsr.dev</email>
+      <name>Gabriel Sanches</name>
+    </owner>
+    <source type="git">https://git.sr.ht/~gbrlsnchs/ebuilds</source>
+    <source type="git">ssh://git@git.sr.ht:~gbrlsnchs/ebuilds</source>
+    <feed>https://git.sr.ht/~gbrlsnchs/ebuilds/log/trunk/rss.xml</feed>
+  </repo>
   <repo quality="core" status="official">
     <name>gentoo</name>
     <description>Official Gentoo ebuild repository</description>

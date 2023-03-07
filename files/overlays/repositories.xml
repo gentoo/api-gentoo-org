@@ -4499,7 +4499,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>violet-funk</name>
-    <description lang="en">Personal Gentoo overlay for FNF and FNF mod ebuilds.</description>
+    <description lang="en">Gentoo overlay for FNF-related ebuilds as well as some useful software.</description>
     <homepage>https://github.com/MagelessMayhem/violet-funk</homepage>
     <owner type="person">
       <email>MagelessMayhem@protonmail.com</email>

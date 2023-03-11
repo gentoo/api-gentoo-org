@@ -858,18 +858,6 @@
     <source type="git">git+ssh://git@github.com/cosmicoz/cosmicmod-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>crocket-overlay</name>
-    <description lang="en">crocket's personal overlay</description>
-    <homepage>https://github.com/crocket/crocket-overlay</homepage>
-    <owner type="person">
-      <email>crockabiscuit@gmail.com</email>
-      <name>crocket</name>
-    </owner>
-    <source type="git">https://github.com/crocket/crocket-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/crocket/crocket-overlay.git</source>
-    <feed>https://github.com/crocket/crocket-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>crossdev</name>
     <description lang="en">Ebuilds for embedded systems</description>
     <description lang="ru">Пакеты для встраиваемых систем</description>

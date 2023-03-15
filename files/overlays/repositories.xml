@@ -1305,6 +1305,10 @@
     <name>fem-overlay</name>
     <description lang="en">FeM Gentoo Overlay</description>
     <homepage>https://gitlab.fem-net.de/gentoo/fem-overlay</homepage>
+    <owner type="project">
+      <email>fem-overlay@technik.fem-net.de</email>
+      <name>FeM e.V. Gentoo Overlay maintainers</name>
+    </owner>
     <owner type="person">
       <email>frainz@mailbox.org</email>
       <name>Paul Michel</name>

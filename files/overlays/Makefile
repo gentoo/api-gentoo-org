@@ -6,7 +6,6 @@ check: .repositories-dtd-valid .repositories-xsd-valid .repositories-check-succe
 	xmllint --noout --dtdvalid repositories.dtd repositories.xml
 	touch $@
 
-.PHONY: repositories.dtd
 repositories.dtd:
 ifeq ($(OFFLINE), true)
 	[ ! -f repositories.dtd ] && exit 1
@@ -20,7 +19,6 @@ endif
 	xmllint --noout --schema $^
 	touch $@
 
-.PHONY: repositories.xsd
 repositories.xsd:
 ifeq ($(OFFLINE), true)
 	[ ! -f repositories.xsd ] && exit 1

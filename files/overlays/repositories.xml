@@ -380,6 +380,16 @@
     <feed>https://github.com/anyc/anyc-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ap-overlay</name>
+    <description lang="en">Personal Gentoo Overlay</description>
+    <homepage>https://gitlab.com/AbhinavPraveen/ap-overlay</homepage>
+    <owner type="person">
+      <email>praveen@abhinav.pro</email>
+      <name>Abhinav Praveen</name>
+    </owner>
+    <source type="git">https://gitlab.com/AbhinavPraveen/ap-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>apriluwu</name>
     <description lang="en">apriluwu's personal overlay</description>
     <homepage>https://github.com/apriluwu/gentoo-overlay</homepage>
@@ -390,16 +400,6 @@
     <source type="git">https://github.com/apriluwu/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/apriluwu/gentoo-overlay.git</source>
     <feed>https://github.com/apriluwu/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>ap-overlay</name>
-    <description lang="en">Personal Gentoo Overlay</description>
-    <homepage>https://gitlab.com/AbhinavPraveen/ap-overlay</homepage>
-    <owner type="person">
-      <email>praveen@abhinav.pro</email>
-      <name>Abhinav Praveen</name>
-    </owner>
-    <source type="git">https://gitlab.com/AbhinavPraveen/ap-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ArchFeh</name>
@@ -3264,16 +3264,6 @@
     </owner>
     <source type="git">https://git.zero-downtime.net/quark/quarks.git</source>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>R_Overlay</name>
-    <description>Gentoo overlay of R packages</description>
-    <homepage>https://cgit.gentoo.org/proj/R_overlay.git/</homepage>
-    <owner type="person">
-      <email>heroxbd@gentoo.org</email>
-      <name>Benda Xu</name>
-    </owner>
-    <source type="rsync">rsync://roverlay.dev.gentoo.org/roverlay</source>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>r7l</name>
     <description lang="en">r7l Gentoo overlay with custom Ebuilds</description>
@@ -3285,6 +3275,16 @@
     <source type="git">https://github.com/r7l/r7l-overlay.git</source>
     <source type="git">git+ssh://git@github.com/r7l/r7l-overlay.git</source>
     <feed>https://github.com/r7l/r7l-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="official">
+    <name>R_Overlay</name>
+    <description>Gentoo overlay of R packages</description>
+    <homepage>https://cgit.gentoo.org/proj/R_overlay.git/</homepage>
+    <owner type="person">
+      <email>heroxbd@gentoo.org</email>
+      <name>Benda Xu</name>
+    </owner>
+    <source type="rsync">rsync://roverlay.dev.gentoo.org/roverlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>racket-overlay</name>
@@ -4316,20 +4316,6 @@
     <feed>https://github.com/ddorian1/gentoo-twister-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
-    <name>ulm</name>
-    <description>Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/repo/dev/ulm.git/</homepage>
-    <owner type="person">
-      <email>ulm@gentoo.org</email>
-      <name>Ulrich Müller</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/repo/dev/ulm.git</source>
-    <source type="git">git://anongit.gentoo.org/repo/dev/ulm.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/repo/dev/ulm.git</source>
-    <feed>https://cgit.gentoo.org/repo/dev/ulm.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/repo/dev/ulm.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="official">
     <name>ukui</name>
     <description lang="en">Gentoo Overlay for UKUI Desktop Environment</description>
     <homepage>https://www.ukui.org/</homepage>
@@ -4348,6 +4334,20 @@
     <source type="git">https://github.com/ukui/ukui-overlay.git</source>
     <source type="git">git@github.com:ukui/ukui-overlay.git</source>
     <feed>https://github.com/ukui/ukui-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="official">
+    <name>ulm</name>
+    <description>Developer overlay</description>
+    <homepage>https://cgit.gentoo.org/repo/dev/ulm.git/</homepage>
+    <owner type="person">
+      <email>ulm@gentoo.org</email>
+      <name>Ulrich Müller</name>
+    </owner>
+    <source type="git">https://anongit.gentoo.org/git/repo/dev/ulm.git</source>
+    <source type="git">git://anongit.gentoo.org/repo/dev/ulm.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/dev/ulm.git</source>
+    <feed>https://cgit.gentoo.org/repo/dev/ulm.git/atom/</feed>
+    <!-- <feed>https://cgit.gentoo.org/repo/dev/ulm.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>unc3nsored</name>

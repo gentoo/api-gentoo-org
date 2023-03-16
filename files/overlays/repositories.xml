@@ -858,6 +858,18 @@
     <source type="git">git+ssh://git@github.com/cosmicoz/cosmicmod-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>cova</name>
+    <description lang="en">Fabio Coatti Personal Overlay</description>
+    <homepage>https://github.com/cova-fe/cova-overlay</homepage>
+    <owner type="person">
+      <email>fabio.coatti@gmail.com</email>
+      <name>Fabio Coatti</name>
+    </owner>
+    <source type="git">https://github.com/cova-fe/cova-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/cova-fe/cova-overlay.git</source>
+    <feed>https://github.com/cova-fe/cova-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>crossdev</name>
     <description lang="en">Ebuilds for embedded systems</description>
     <description lang="ru">Пакеты для встраиваемых систем</description>

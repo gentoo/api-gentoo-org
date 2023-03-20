@@ -4723,18 +4723,6 @@
     <!-- <feed>https://cgit.gentoo.org/user/yoreek.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>youbroketheinternet</name>
-    <description lang="en">This overlay is a collaborative maintained Gentoo developer overlay. Some of us are involved with SecuShare, but we try out all sorts of XKEYSCORE-resistant technology. Some of our unique ebuilds are the full GNUnet suite, and software around the psyced chatserver. Some ebuilds are experimental/testing - refer to the included README for more info and details. If you would like to get involved read https://wiki.gentoo.org/wiki/Overlay:Youbroketheinternet</description>
-    <homepage>http://youbroketheinternet.org/#overlay</homepage>
-    <owner type="person">
-      <email>lynX@youbroketheinternet.pages.de</email>
-      <name>lynX</name>
-    </owner>
-    <source type="git">https://git.gnunet.org/youbroketheinternet-overlay.git</source>
-    <source type="git">git://psyciumunsqarzsehz5xlgsi2mg4dkvntwf5bwj5kwbcbazwiuhna2ad.onion/youbroketheinternet-overlay</source>
-    <source type="git">git://git.gnunet.org/youbroketheinternet-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>yurij-overlay</name>
     <description lang="en">Yurij's overlay</description>
     <homepage>https://github.com/yurijmikhalevich/yurij-overlay</homepage>

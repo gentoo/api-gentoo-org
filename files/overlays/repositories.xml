@@ -4727,7 +4727,7 @@
     <description>Jakob L. Kreuze's personal overlay.</description>
     <homepage>https://git.sr.ht/~jakob/zerodaysfordays</homepage>
     <owner type="person">
-      <email>zerodaysfordays@sdf.lonestar.org</email>
+      <email>zerodaysfordays@sdf.org</email>
       <name>Jakob L. Kreuze</name>
     </owner>
     <source type="git">https://git.sr.ht/~jakob/zerodaysfordays</source>

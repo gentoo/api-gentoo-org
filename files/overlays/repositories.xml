@@ -4221,17 +4221,6 @@
     <feed>https://github.com/tgbugs/tgbugs-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>thamognya</name>
-    <description lang="en">Thamognya's Personal overlay.</description>
-    <homepage>https://git.thamognya.com/Thamognya/thamognya-overlay</homepage>
-    <owner type="person">
-      <email>contact@thamognya.com</email>
-      <name>Thamognya Kodi</name>
-    </owner>
-    <source type="git">https://git.thamognya.com/Thamognya/thamognya-overlay.git</source>
-    <feed>https://github.com/Thamognya/thamognya-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>thegreatmcpain</name>
     <description lang="en">TheGreatMcPain's personal ebuild overlay</description>
     <homepage>https://gitlab.com/TheGreatMcPain/thegreatmcpain-overlay</homepage>

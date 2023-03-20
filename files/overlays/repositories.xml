@@ -3596,18 +3596,6 @@
     <feed>https://gitlab.com/SarahMia/sarahmiaoverlay/commits/master?format=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>sarnex-overlay</name>
-    <description lang="en">Sarnex's personal overlay</description>
-    <homepage>https://github.com/sarnex/sarnex-overlay.git</homepage>
-    <owner type="person">
-      <email>commendsarnex@gmail.com</email>
-      <name>Nick Sarnie</name>
-    </owner>
-    <source type="git">https://github.com/sarnex/sarnex-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/sarnex/sarnex-overlay.git</source>
-    <feed>https://github.com/sarnex/sarnex-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>sattvik</name>
     <description lang="en">sattvik's overlay with personalized bug fixes and tweaks</description>
     <homepage>https://cgit.gentoo.org/user/sattvik.git/</homepage>

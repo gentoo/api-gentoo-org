@@ -3507,10 +3507,6 @@
     <description>This is roslin, my small overlay. Enjoy! (:</description>
     <homepage>https://gitlab.com/roslin-uberlay/roslin</homepage>
     <owner type="person">
-      <email>szarpaj@grubelek.pl</email>
-      <name>Piotr Szymaniak</name>
-    </owner>
-    <owner type="person">
       <email>mziab@o2.pl</email>
       <name>Michał Ziąbkowski</name>
     </owner>

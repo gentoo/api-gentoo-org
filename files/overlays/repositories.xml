@@ -1023,18 +1023,6 @@
     <source type="git">https://notabug.org/dm9pZCAq/dm9pZCAq-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>dmchurch</name>
-    <description lang="en">Danielle Church's Portage overlay</description>
-    <homepage>https://github.com/dmchurch/portage-overlay</homepage>
-    <owner type="person">
-      <email>dani.church@gmail.com</email>
-      <name>Danielle Church</name>
-    </owner>
-    <source type="git">https://github.com/dmchurch/portage-overlay.git</source>
-    <source type="git">git@github.com:dmchurch/portage-overlay.git</source>
-    <feed>https://github.com/dmchurch/portage-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>Drauthius</name>
     <description>Ebuilds related to game dev</description>
     <homepage>https://cgit.gentoo.org/repo/user/Drauthius.git/</homepage>

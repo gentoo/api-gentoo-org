@@ -1915,18 +1915,6 @@
     <feed>https://github.com/internethering/hering-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>hikari</name>
-    <description lang="en">hikari's overlay</description>
-    <homepage>https://github.com/wiredhikari/hikari-overlay</homepage>
-    <owner type="person">
-      <email>atharvaamritkar@protonmail.com</email>
-      <name>Atharva Amritkar</name>
-    </owner>
-    <source type="git">https://github.com/wiredhikari/hikari-overlay.git</source>
-    <source type="git">git@github.com:wiredhikari/hikari-overlay.git</source>
-    <feed>https://github.com/wiredhikari/hikari-overlay/commits/main.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>holgersson-overlay</name>
     <description lang="en">Nils "holgersson" Freydank's personal overlay</description>
     <homepage>https://git.holgersson.xyz</homepage>

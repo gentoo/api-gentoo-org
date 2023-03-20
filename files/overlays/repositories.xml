@@ -4276,18 +4276,6 @@
     </owner>
     <source type="mercurial">https://foss.heptapod.net/tryton/gentoo-overlay</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>twister</name>
-    <description lang="en">Unoffical gentoo overlay for twister</description>
-    <homepage>https://github.com/ddorian1/gentoo-twister-overlay</homepage>
-    <owner type="person">
-      <email>mail@jschwab.org</email>
-      <name>Johannes Schwab</name>
-    </owner>
-    <source type="git">https://github.com/ddorian1/gentoo-twister-overlay.git</source>
-    <source type="git">git@github.com:ddorian1/gentoo-twister-overlay.git</source>
-    <feed>https://github.com/ddorian1/gentoo-twister-overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>ukui</name>
     <description lang="en">Gentoo Overlay for UKUI Desktop Environment</description>

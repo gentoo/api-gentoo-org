@@ -194,20 +194,6 @@
     <source type="git">git@github.com:AlexandreFournier/gentoo-overlay.git</source>
     <feed>https://github.com/AlexandreFournier/gentoo-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>alexcepoi</name>
-    <description lang="en">Personal User Overlay</description>
-    <homepage>https://cgit.gentoo.org/user/alexcepoi.git/</homepage>
-    <owner type="person">
-      <email>alex.cepoi@gmail.com</email>
-      <name>Alexandru Cepoi</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/alexcepoi.git</source>
-    <source type="git">git://anongit.gentoo.org/user/alexcepoi.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/alexcepoi.git</source>
-    <feed>https://cgit.gentoo.org/user/alexcepoi.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/alexcepoi.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="official">
     <name>alexxy</name>
     <description lang="en">Developer overlay</description>

@@ -2244,7 +2244,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>kostas-overlay</name>
-	<description lang="en">Personal ebuild repository</description>
+    <description lang="en">Personal ebuild repository</description>
     <homepage>https://github.com/KostasEreksonas/kostas-overlay</homepage>
     <owner type="person">
       <email>k.ereksonas@gmail.com</email>

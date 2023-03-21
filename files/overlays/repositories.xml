@@ -4742,7 +4742,7 @@
     </owner>
     <source type="git">https://lab.retarded.farm/zappel/zGentoo.git</source>
     <source type="git">git@lab.retarded.farm:zappel/zGentoo.git</source>
-    <feed>https://lab.retarded.farm/zappel/zGentoo/-/commits/master.atom</feed>
+    <feed>https://lab.retarded.farm/zappel/zGentoo/-/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>zozx-overlay</name>

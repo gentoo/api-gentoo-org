@@ -1785,18 +1785,6 @@
     <source type="git">git+ssh://git@github.com/windfail/griffon_overlay.git</source>
     <feed>https://github.com/windfail/griffon_overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>grub2-themes</name>
-    <description lang="en">Overlay dedicated to Grub2 themes (of any distribution)</description>
-    <homepage>https://gitweb.gentoo.org/repo/proj/grub2-themes.git/</homepage>
-    <owner type="person">
-      <email>sping@gentoo.org</email>
-      <name>Sebastian Pipping</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/repo/proj/grub2-themes.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/repo/proj/grub2-themes.git</source>
-    <feed>https://gitweb.gentoo.org/repo/proj/grub2-themes.git/atom/?h=master</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>gsview-overlay</name>
     <description lang="en">Overlay for the gsview and some other plotting/scientific soft</description>

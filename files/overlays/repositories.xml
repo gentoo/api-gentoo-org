@@ -4625,20 +4625,6 @@
     <feed>https://github.com/yandex-gentoo/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>yoreek</name>
-    <description lang="en">Ebuilds related to nginx webserver modules</description>
-    <homepage>https://cgit.gentoo.org/user/yoreek.git/</homepage>
-    <owner type="person">
-      <email>yoreek@yahoo.com</email>
-      <name>Yuri U.</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/yoreek.git</source>
-    <source type="git">git://anongit.gentoo.org/user/yoreek.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/yoreek.git</source>
-    <feed>https://cgit.gentoo.org/user/yoreek.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/yoreek.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>yurij-overlay</name>
     <description lang="en">Yurij's overlay</description>
     <homepage>https://github.com/yurijmikhalevich/yurij-overlay</homepage>

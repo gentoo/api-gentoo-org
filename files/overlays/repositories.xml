@@ -4114,7 +4114,7 @@
     <description lang="en">Overlay from Tatsh - emulators/fonts/game/misc</description>
     <homepage>https://github.com/Tatsh/tatsh-overlay</homepage>
     <owner type="person">
-      <email>audvare+overlay@gmail.com</email>
+      <email>audvare@gmail.com</email>
       <name>Andrew Udvare</name>
     </owner>
     <source type="git">https://github.com/Tatsh/tatsh-overlay.git</source>

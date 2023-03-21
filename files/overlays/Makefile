@@ -32,6 +32,10 @@ endif
 	../../bin/repositories-checker.py - $^
 	touch $@
 
+.PHONY: format
+format: .repositories-expected-format.xml
+	cmp -s repositories.xml $^ || cp $^ repositories.xml
+
 .repositories-expected-format.xml: repositories.xml
 	xmlstarlet fo $^ > $@
 

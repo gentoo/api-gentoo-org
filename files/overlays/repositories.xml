@@ -1559,17 +1559,6 @@
     <feed>https://github.com/qwe795138426/fyn-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>gamarouns</name>
-    <description>Bits and pieces missing in gentoo or layman repos I need</description>
-    <homepage>https://github.com/Amaroun/gamarouns</homepage>
-    <owner type="person">
-      <email>vit.kasal@gmail.com</email>
-      <name>amaroun</name>
-    </owner>
-    <source type="git">https://github.com/Amaroun/gamarouns.git</source>
-    <source type="git">git+ssh://git@github.com/Amaroun/gamarouns.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>gamerlay</name>
     <description>
       Gamers overlay for all various games. Not related with games team.

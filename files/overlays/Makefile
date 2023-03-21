@@ -1,5 +1,5 @@
 .PHONY: check
-check: .repositories-dtd-valid .repositories-xsd-valid .repositories-check-successful
+check: .repositories-dtd-valid .repositories-xsd-valid .repositories-check-successful .repositories-style-ok
 
 # Check repositories.xml against the Document Type Definition (DTD).
 .repositories-dtd-valid: repositories.xml repositories.dtd
@@ -30,4 +30,16 @@ endif
 # Run a full check of repositories.xml via repositories-checker.py
 .repositories-check-successful: repositories.xml
 	../../bin/repositories-checker.py - $^
+	touch $@
+
+.repositories-expected-format.xml: repositories.xml
+	xmlstarlet fo $^ > $@
+
+.ONESHELL:
+.repositories-style-ok: SHELL = /bin/bash
+.repositories-style-ok: .repositories-expected-format.xml
+	if ! cmp -s repositories.xml $^; then
+		diff -u repositories.xml $^
+		exit 1
+	fi
 	touch $@

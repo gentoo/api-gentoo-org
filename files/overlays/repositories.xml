@@ -582,18 +582,6 @@
     <source type="git">git@github.com:blackburn29/blackburn29-overlay.git</source>
     <feed>https://github.com/blackburn29/blackburn29-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>blender-gentoo-logo</name>
-    <description lang="en">Software needed to render the Blender-based gentoo Logo of 2003</description>
-    <homepage>https://gitweb.gentoo.org/repo/proj/blender-gentoo-logo.git/</homepage>
-    <owner type="person">
-      <email>sping@gentoo.org</email>
-      <name>Sebastian Pipping</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/repo/proj/blender-gentoo-logo.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/repo/proj/blender-gentoo-logo.git</source>
-    <feed>https://gitweb.gentoo.org/repo/proj/blender-gentoo-logo.git/atom/?h=master</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>bobwya</name>
     <description lang="en">Miscellaneous Gentoo ebuilds</description>

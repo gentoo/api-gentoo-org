@@ -4643,19 +4643,6 @@
     </owner>
     <source type="rsync">rsync://gentoo.zugaina.org/zugaina-portage</source>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>zx2c4</name>
-    <description lang="en">zx2c4's repository of additional ebuilds</description>
-    <homepage>http://git.zx2c4.com/portage/</homepage>
-    <owner type="person">
-      <email>zx2c4@gentoo.org</email>
-      <name>Jason A. Donenfeld</name>
-    </owner>
-    <source type="git">git://git.zx2c4.com/portage</source>
-    <source type="git">http://git.zx2c4.com/portage</source>
-    <source type="git">ssh://git@git.zx2c4.com/portage</source>
-    <feed>http://git.zx2c4.com/portage/atom/?h=master</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>zyrenth</name>
     <description lang="en">Personal overlay</description>

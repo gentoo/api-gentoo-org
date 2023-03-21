@@ -1947,17 +1947,6 @@
     <source type="git">git+ssh://git@github.com/jabuxas/overlay.git</source>
     <feed>https://github.com/jabuxas/overlay/commits/main.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>jacendi-overlay</name>
-    <description lang="en">id Software games overlay</description>
-    <homepage>https://bitbucket.org/jacendi/jacendi-overlay</homepage>
-    <owner type="person">
-      <email>jacendi@protonmail.com</email>
-      <name>Vladimir Gavrilov</name>
-    </owner>
-    <source type="git">https://bitbucket.org/jacendi/jacendi-overlay</source>
-    <feed>https://bitbucket.org/jacendi/jacendi-overlay/atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>java</name>
     <description lang="en">Java overlay</description>

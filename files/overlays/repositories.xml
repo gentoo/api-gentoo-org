@@ -208,20 +208,6 @@
     <feed>https://cgit.gentoo.org/dev/alexxy.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>aluco</name>
-    <description lang="en">From drm-next to phoronix-test-suite ebuilds</description>
-    <homepage>https://cgit.gentoo.org/user/aluco.git/</homepage>
-    <owner type="person">
-      <email>anthoine.bourgeois@gmail.com</email>
-      <name>Anthoine Bourgeois</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/aluco.git</source>
-    <source type="git">git://anongit.gentoo.org/user/aluco.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/aluco.git</source>
-    <feed>https://cgit.gentoo.org/user/aluco.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/aluco.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>alxu</name>
     <description lang="en">Alex Xu (Hello71) personal overlay</description>
     <homepage>https://cgit.alxu.ca/gentoo-overlay.git/</homepage>

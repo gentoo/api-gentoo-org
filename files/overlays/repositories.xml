@@ -2535,17 +2535,6 @@
     <source type="git">git+ssh://git@github.com/miramir/miramir-layman.git</source>
     <feed>https://github.com/miramir/miramir-layman/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>moaxcp</name>
-    <description lang="en">gentoo overlay for packages</description>
-    <homepage>https://github.com/moaxcp/moaxcp-gentoo-overlay</homepage>
-    <owner type="person">
-      <email>moaxcp@gmail.com</email>
-      <name>John Mercier</name>
-    </owner>
-    <source type="git">https://github.com/moaxcp/moaxcp-gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/moaxcp/moaxcp-gentoo-overlay.git</source>
-  </repo>
   <repo quality="testing" status="unofficial">
     <name>moexiami</name>
     <description lang="en">Contains updated ebuilds (w/ more feature/control)

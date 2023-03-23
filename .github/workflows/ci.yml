@@ -9,7 +9,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt update
-          sudo apt install libxml2-utils xmlstarlet
+          sudo apt install libxml2-utils
       - uses: actions/setup-python@v4
         with:
           python-version: '3.x'

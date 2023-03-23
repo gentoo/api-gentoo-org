@@ -1,5 +1,5 @@
 .%.expected-format.xml: %.xml
-	xmlstarlet fo --encode utf-8 $^ > $@
+	xmllint --format $^ > $@
 
 .ONESHELL:
 .%.expected-format.xml.ok: SHELL = /bin/bash

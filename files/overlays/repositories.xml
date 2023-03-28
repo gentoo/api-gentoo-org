@@ -2357,18 +2357,6 @@
     </owner>
     <source type="git">https://scm.dashjr.org/scmroot/git/portage-overlays/luke-jr</source>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>luxifer</name>
-    <description lang="en">Personal Overlay, contains stoken ebuilds</description>
-    <homepage>https://github.com/luxifr/olgentoo</homepage>
-    <owner type="person">
-      <email>dhertel@gmail.com</email>
-      <name>Dominik Keil</name>
-    </owner>
-    <source type="git">https://github.com/luxifr/olgentoo.git</source>
-    <source type="git">git+ssh://git@github.com/luxifr/olgentoo.git</source>
-    <feed>https://github.com/luxifr/olgentoo/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>maekke</name>
     <description>Markus Meier developer overlay</description>

@@ -2435,7 +2435,7 @@
     <description lang="en">Various ebuilds from different sources</description>
     <homepage>https://gitlab.com/menelkir/gentoo-overlay</homepage>
     <owner type="person">
-      <email>menelkir@itroll.org</email>
+      <email>dmenelkir@gmail.com</email>
       <name>Daniel Menelkir</name>
     </owner>
     <source type="git">https://gitlab.com/menelkir/gentoo-overlay.git</source>

@@ -4547,6 +4547,18 @@
     </owner>
     <source type="git">https://github.com/KenjiBrown/without-systemd.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>x0rzavi</name>
+    <description lang="en">x0rzavi's personal overlay</description>
+    <homepage>https://github.com/x0rzavi/x0rzavi-overlay</homepage>
+    <owner type="person">
+      <email>x0rzavi@gmail.com</email>
+      <name>Avishek Sen</name>
+    </owner>
+    <source type="git">https://github.com/x0rzavi/x0rzavi-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/x0rzavi/x0rzavi-overlay.git</source>
+    <feed>https://github.com/x0rzavi/x0rzavi-overlay/commits/main.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>x11</name>
     <description>Gentoo X11 team ebuild repository</description>

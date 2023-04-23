@@ -618,8 +618,8 @@ gns3				522		522		acct
 goaccess			523		523		acct
 owntracks			524		524		acct		Used by sci-geosciences/owntracks-recorder
 knot-resolver			525		525		acct		Used by net-dns/knot-resolver
-soju					-			526		acct
-nginx-unit		527		527		acct
+soju				-		526		acct
+nginx-unit			527		527		acct
 yubihsm-connector		528		528		acct		Used by app-crypt/yubihsm-connector
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!

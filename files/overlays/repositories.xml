@@ -2738,18 +2738,6 @@
     <feed>https://github.com/VTimofeenko/nitratesky/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>nix-guix</name>
-    <description lang="en">Overlay for nix anf guix functional package managers</description>
-    <homepage>https://github.com/trofi/nix-guix-gentoo</homepage>
-    <owner type="person">
-      <email>slyich@gmail.com</email>
-      <name>Sergei Trofimovich</name>
-    </owner>
-    <source type="git">https://github.com/trofi/nix-guix-gentoo.git</source>
-    <source type="git">git+ssh://git@github.com/trofi/nix-guix-gentoo.git</source>
-    <feed>https://github.com/trofi/nix-guix-gentoo/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>nongnu-elpa</name>
     <description lang="en">Mirror of NonGNU ELPA emacs package repository</description>
     <homepage>https://github.com/houseofsuns/nongnu-elpa</homepage>

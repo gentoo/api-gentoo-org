@@ -2984,6 +2984,18 @@
     <feed>https://github.com/pholthau/pholthaus-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>php-overlay</name>
+    <description lang="en">Unofficial PHP Overlay for Gentoo Linux</description>
+    <homepage>https://github.com/gentoo-php-overlay/php-overlay</homepage>
+    <owner type="person">
+      <email>php-overlay@r1l.eu</email>
+      <name>php-overlay</name>
+    </owner>
+    <source type="git">https://github.com/gentoo-php-overlay/php-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/gentoo-php-overlay/php-overlay.git</source>
+    <feed>https://github.com/gentoo-php-overlay/php-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>pica-pica</name>
     <description lang="en">Pica Pica ebuilds</description>
     <homepage>https://github.com/antonsviridenko/pica-pica-gentoo-overlay</homepage>

@@ -2833,17 +2833,6 @@
     <feed>https://github.com/jcaesar/openclonk-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>openwrt</name>
-    <description>Overlay for network configuration packages found in OpenWRT</description>
-    <homepage>https://github.com/pavlix/gentoo-openwrt</homepage>
-    <owner type="person">
-      <email>pavlix@pavlix.net</email>
-      <name>Pavel Šimerda</name>
-    </owner>
-    <source type="git">https://github.com/pavlix/gentoo-openwrt.git</source>
-    <source type="git">git+ssh://git@github.com/pavlix/gentoo-openwrt.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>oubliette</name>
     <description lang="en">personal overlay of forgotten ebuilds</description>
     <homepage>https://github.com/nabbi/oubliette-overlay</homepage>

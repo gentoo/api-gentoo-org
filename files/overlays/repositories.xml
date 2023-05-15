@@ -4349,18 +4349,6 @@
     <feed>https://github.com/MagelessMayhem/violet-funk/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>viperML-overlay</name>
-    <description lang="en">viperML's personal overlay</description>
-    <homepage>https://github.com/viperML/viperML-overlay</homepage>
-    <owner type="person">
-      <email>ayatsfer@gmail.com</email>
-      <name>Fernando Ayats</name>
-    </owner>
-    <source type="git">https://github.com/viperML/viperML-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/viperML/viperML-overlay.git</source>
-    <feed>https://github.com/viperML/viperML-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>vklimovs</name>
     <description lang="en">vklimovs' personal portage overlay</description>
     <homepage>https://github.com/vklimovs/portage-overlay</homepage>

@@ -3622,18 +3622,6 @@
     <feed>https://github.com/ArsenShnurkov/shnurise/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>sihnon</name>
-    <description lang="en">optiz0r's sihnon overlay</description>
-    <homepage>https://github.com/optiz0r/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>optiz0r@gmail.com</email>
-      <name>optiz0r</name>
-    </owner>
-    <source type="git">https://github.com/optiz0r/gentoo-overlay.git</source>
-    <source type="git">git@github.com:optiz0r/gentoo-overlay.git</source>
-    <feed>https://github.com/optiz0r/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>simonvanderveldt</name>
     <description lang="en">Personal Gentoo overlay focused on music production and engineering applications</description>
     <homepage>https://github.com/simonvanderveldt/simonvanderveldt-overlay</homepage>

@@ -2479,19 +2479,6 @@
     <feed>https://github.com/milos-rs/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>noxfall</name>
-    <description lang="en">Personal Repository by noxfall [milosgrgv@gmail.com]</description>
-    <homepage>https://github.com/noxfall/gentoo-repository</homepage>
-    <owner type="person">
-      <email>milosgrgv@gmail.com</email>
-      <name>Milos Georgiev</name>
-    </owner>
-    <source type="git">https://github.com/noxfall/gentoo-repository.git</source>
-    <source type="git">git+ssh://git@github.com/noxfall/gentoo-repository.git</source>
-    <feed>https://github.com/noxfall/gentoo-repository/commits/main.atom</feed>
-  </repo>
-
-  <repo quality="experimental" status="unofficial">
     <name>miramir</name>
     <description lang="en">Miramir repository</description>
     <homepage>https://github.com/miramir/miramir-layman</homepage>
@@ -2773,6 +2760,18 @@
     <source type="git">https://gitlab.com/lahouari.dc/nordvpn.git</source>
     <source type="git">git@gitlab.com:lahouari.dc/nordvpn.git</source>
     <feed>https://gitlab.com/lahouari.dc/nordvpn/-/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>noxfall</name>
+    <description lang="en">Personal Repository by noxfall [milosgrgv@gmail.com]</description>
+    <homepage>https://github.com/noxfall/gentoo-repository</homepage>
+    <owner type="person">
+      <email>milosgrgv@gmail.com</email>
+      <name>Milos Georgiev</name>
+    </owner>
+    <source type="git">https://github.com/noxfall/gentoo-repository.git</source>
+    <source type="git">git+ssh://git@github.com/noxfall/gentoo-repository.git</source>
+    <feed>https://github.com/noxfall/gentoo-repository/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>nymphos</name>

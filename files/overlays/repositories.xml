@@ -4068,7 +4068,7 @@
     <description lang="en">TheGreatMcPain's personal ebuild overlay</description>
     <homepage>https://gitlab.com/TheGreatMcPain/thegreatmcpain-overlay</homepage>
     <owner type="person">
-      <email>sixsupersonic@gmail.com</email>
+      <email>james@thegreatmcpain.xyz</email>
       <name>James McClain</name>
     </owner>
     <source type="git">https://gitlab.com/TheGreatMcPain/thegreatmcpain-overlay.git</source>

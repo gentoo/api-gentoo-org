@@ -3945,6 +3945,18 @@
     <feed>https://cgit.gentoo.org/repo/user/superposition.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/repo/user/superposition.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>supertux88</name>
+    <description lang="en">SuperTux88's personal overlay</description>
+    <homepage>https://github.com/SuperTux88/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>gentoo@benjaminneff.ch</email>
+      <name>Benjamin Neff</name>
+    </owner>
+    <source type="git">https://github.com/SuperTux88/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/SuperTux88/gentoo-overlay.git</source>
+    <feed>https://github.com/SuperTux88/gentoo-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>swegener</name>
     <description>This overlay contains some experimental stuff, but mostly

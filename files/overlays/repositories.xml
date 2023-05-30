@@ -708,6 +708,18 @@
     <feed>https://github.com/buzden/buzden-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>CachyOS-kernels</name>
+    <description lang="en">Overlay containing ebuilds of CachyOS kernels and some other things</description>
+    <homepage>https://github.com/Szowisz/CachyOS-kernels</homepage>
+    <owner type="person">
+      <email>szowisz.gentoo@gmail.com</email>
+      <name>Jakub Wroński</name>
+    </owner>
+    <source type="git">https://github.com/Szowisz/CachyOS-kernels.git</source>
+    <source type="git">git+ssh://git@github.com/Szowisz/CachyOS-kernels.git</source>
+    <feed>https://github.com/Szowisz/CachyOS-kernels/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>calculate</name>
     <description>Calculate Overlay</description>
     <homepage>http://www.calculate-linux.org</homepage>

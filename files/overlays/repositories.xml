@@ -4194,6 +4194,15 @@
     </owner>
     <source type="mercurial">https://foss.heptapod.net/tryton/gentoo-overlay</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>turret-overlay</name>
+    <description lang="en">turret.'s portage overlay</description>
+    <homepage>https://git.turret.cyou/portage-overlay.git/about/</homepage>
+    <owner type="person">
+      <email>turret@turret.cyou</email>
+    </owner>
+    <source type="git">git://git.turret.cyou/portage-overlay.git</source>
+  </repo>
   <repo quality="experimental" status="official">
     <name>ukui</name>
     <description lang="en">Gentoo Overlay for UKUI Desktop Environment</description>

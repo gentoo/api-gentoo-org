@@ -340,7 +340,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
     <mirror>
       <name>University of Coimbra</name>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.dei.uc.pt/pub/linux/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://ftp.dei.uc.pt/pub/linux/gentoo/</uri>
     </mirror>
   </mirrorgroup>

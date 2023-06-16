@@ -552,7 +552,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>Neo Lab's</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirror.ps.kz/gentoo/pub</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.ps.kz/gentoo/pub</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirror.ps.kz/gentoo/pub</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.ps.kz/gentoo</uri>
     </mirror>
   </mirrorgroup>

@@ -574,13 +574,8 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   <mirrorgroup region="Africa" country="NA" countryname="Namibia">
   </mirrorgroup>
   -->
+  <!--
   <mirrorgroup region="Africa" country="ZA" countryname="South Africa">
-    <mirror>
-      <name>University of Cape Town</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://ftp.leg.uct.ac.za/pub/linux/gentoo/</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://ftp.leg.uct.ac.za/pub/linux/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.leg.uct.ac.za/pub/linux/gentoo/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://ftp.leg.uct.ac.za/pub/linux/gentoo/</uri>
-    </mirror>
   </mirrorgroup>
+  -->
 </mirrors>

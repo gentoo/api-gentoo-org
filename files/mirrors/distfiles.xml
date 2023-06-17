@@ -381,7 +381,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   <mirrorgroup region="Europe" country="UK" countryname="UK">
     <mirror>
       <name>Bytemark Hosting</name>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirror.bytemark.co.uk/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirror.bytemark.co.uk/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.bytemark.co.uk/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.bytemark.co.uk/gentoo/</uri>

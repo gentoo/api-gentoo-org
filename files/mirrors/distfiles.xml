@@ -333,10 +333,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   </mirrorgroup>
   <mirrorgroup region="Europe" country="RO" countryname="Romania">
     <mirror>
-      <name>xservers.ro Gazduire Web</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.xservers.ro/gentoo/</uri>
-    </mirror>
-    <mirror>
       <name>Romanian Organization Network</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.romnet.org/gentoo/</uri>
     </mirror>

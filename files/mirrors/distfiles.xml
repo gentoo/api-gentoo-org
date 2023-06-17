@@ -240,7 +240,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>Ostbayerische Technische Hochschule Regensburg</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://packages.hs-regensburg.de/gentoo-distfiles/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://packages.hs-regensburg.de/gentoo-distfiles/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://packages.hs-regensburg.de/gentoo-distfiles/</uri>
     </mirror>
     <mirror>
       <name>Universität Stuttgart</name>

@@ -287,7 +287,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>root S.A.</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://gentoo.mirror.root.lu/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirror.root.lu/gentoo/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="MD" countryname="Moldova">

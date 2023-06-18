@@ -156,10 +156,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.soeasyto.com/distfiles.gentoo.org/</uri>
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirrors.soeasyto.com/distfiles.gentoo.org/</uri>
     </mirror>
-    <mirror>
-      <name>Orchid Linux</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://mirror.orchid-linux.org/</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="DE" countryname="Germany">
     <mirror>

@@ -490,7 +490,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
     <mirror>
       <name>lanet.kr</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.lanet.kr/pub/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://ftp.lanet.kr/pub/gentoo/</uri>
     </mirror>
   </mirrorgroup>
@@ -524,7 +523,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" partial="y" ipv4="y" ipv6="n">ftp://ftp.twaren.net/Linux/Gentoo/</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Middle East" country="IL" countryname="Israel">
+  <mirrorgroup region="iMddle East" country="IL" countryname="Israel">
     <mirror>
       <name>Hamakor FOSS Society</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://mirror.isoc.org.il/pub/gentoo/</uri>

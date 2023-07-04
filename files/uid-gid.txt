@@ -621,6 +621,7 @@ knot-resolver			525		525		acct		Used by net-dns/knot-resolver
 soju				-		526		acct
 nginx-unit			527		527		acct
 yubihsm-connector		528		528		acct		Used by app-crypt/yubihsm-connector
+inadyn				529		529		acct		Used by net-dns/inadyn
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000	1000..60000	reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs

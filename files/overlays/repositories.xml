@@ -2105,6 +2105,17 @@
     <source type="git">git+ssh://git@github.com/KenjiBrown/gentoo-overlay.git</source>
     <feed>https://git.softwarelibre.mx/KBrown/gentoo-overlay/-/commits/KBrown-pub?format=atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>kcning</name>
+    <description lang="en">kcning's personal gentoo overlay</description>
+    <homepage>https://github.com/kcning/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>kaichun.ning@gmail.com</email>
+      <name>Kai-Chun Ning</name>
+    </owner>
+    <source type="git">https://github.com/kcning/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/kcning/gentoo-overlay.git</source>
+  </repo>
   <repo quality="experimental" status="official">
     <name>kde</name>
     <description>Official KDE team's testing overlay.</description>

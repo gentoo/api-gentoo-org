@@ -3525,6 +3525,18 @@
     <feed>https://cgit.gentoo.org/user/sattvik.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/user/sattvik.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>schplaf</name>
+    <description lang="en">slash's personal overlay</description>
+    <homepage>https://gitea.com/slash/schplaf-gentoo-overlay</homepage>
+    <owner type="person">
+      <email>slash@schplaf.org</email>
+      <name>slash</name>
+    </owner>
+    <source type="git">git@gitea.com:slash/schplaf-gentoo-overlay</source>
+    <source type="git">https://gitea.com/slash/schplaf-gentoo-overlay</source>
+    <feed>https://gitea.com/slash/schplaf-gentoo-overlay.rss</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>science</name>
     <description>The Gentoo Science Overlay is intended as a place to work

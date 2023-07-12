@@ -2243,6 +2243,19 @@
     <feed>https://github.com/0xd34df00d/leechcraft-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>lemon-lime</name>
+    <description lang="en">Personal ebuild repository containing ebuilds that I could not find anywhere else.</description>
+    <description lang="es">Repositorio personal con ebuilds que no logre encontrar en ningun otro lugar.</description>
+    <homepage>https://github.com/lima-limon-inc/lemon-lime-overlay</homepage>
+    <owner type="person">
+      <email>torsi@fi.uba.ar</email>
+      <name>Tomas Fabrizio Orsi</name>
+    </owner>
+    <source type="git">https://github.com/lima-limon-inc/lemon-lime-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/lima-limon-inc/lemon-lime-overlay.git</source>
+    <feed>https://github.com/lima-limon-inc/lemon-lime-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>librepilot</name>
     <description lang="en">Librepilot flight control software overlay</description>
     <homepage>https://github.com/paul-jewell/librepilot-overlay</homepage>

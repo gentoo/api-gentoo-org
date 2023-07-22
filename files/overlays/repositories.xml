@@ -1610,6 +1610,18 @@
     <feed>https://github.com/CanuteTheGreat/gentoo-linux-surface-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gentoo-unity7</name>
+    <description lang="en">A Gentoo overlay to build the Unity7 user interface</description>
+    <homepage>https://github.com/c4pp4/gentoo-unity7</homepage>
+    <owner type="person">
+      <email>c4pp4@seznam.cz</email>
+      <name>c4pp4</name>
+    </owner>
+    <source type="git">https://github.com/c4pp4/gentoo-unity7.git</source>
+    <source type="git">git+ssh://git@github.com/c4pp4/gentoo-unity7.git</source>
+    <feed>https://github.com/c4pp4/gentoo-unity7/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gentoo-zh</name>
     <description>To provide programs useful to Chinese speaking users (merged
       from gentoo-china and gentoo-taiwan).</description>

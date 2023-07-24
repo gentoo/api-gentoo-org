@@ -4708,14 +4708,14 @@
   <repo quality="experimental" status="unofficial">
     <name>zGentoo</name>
     <description lang="en">ZappeL's Gentoo-Overlay</description>
-    <homepage>https://lab.retarded.farm/zappel/zGentoo</homepage>
+    <homepage>https://lab.simple-co.de/zappel/zGentoo</homepage>
     <owner type="person">
       <email>zappel@simple-co.de</email>
       <name>Armas Spann</name>
     </owner>
-    <source type="git">https://lab.retarded.farm/zappel/zGentoo.git</source>
-    <source type="git">git@lab.retarded.farm:zappel/zGentoo.git</source>
-    <feed>https://lab.retarded.farm/zappel/zGentoo/-/commits/main.atom</feed>
+    <source type="git">https://lab.simple-co.de/zappel/zGentoo.git</source>
+    <source type="git">git@lab.simple-co.de:zappel/zGentoo.git</source>
+    <feed>https://lab.simple-co.de/zappel/zGentoo/-/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>zozx-overlay</name>

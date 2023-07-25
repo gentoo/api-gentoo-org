@@ -331,8 +331,8 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>Linköping University - Lysator</name>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">https://ftp.lysator.liu.se/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ftp.lysator.liu.se/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">http://ftp.lysator.liu.se/gentoo/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">http://ftp.lysator.liu.se/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ftp.lysator.liu.se/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://ftp.lysator.liu.se/gentoo/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="SK" countryname="Slovakia">

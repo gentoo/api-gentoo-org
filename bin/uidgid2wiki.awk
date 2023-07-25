@@ -1,5 +1,5 @@
-#!/usr/bin/awk -f
-# Copyright 2019-2021 Gentoo Authors
+#!/usr/bin/gawk -f
+# Copyright 2019-2023 Gentoo Authors
 # Distributed under the terms of the MIT license
 
 BEGIN {

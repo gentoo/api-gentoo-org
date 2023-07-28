@@ -1962,6 +1962,18 @@
     <feed>https://github.com/inode64/inode64-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>iritmaximus</name>
+    <description lang="en">iritmaximus' overlay</description>
+    <homepage>https://github.com/iritmaximus/overlay</homepage>
+    <owner type="person">
+      <email>aaro.koivukangas@gmail.com</email>
+      <name>Aaro Koivukangas</name>
+    </owner>
+    <source type="git">https://github.com/iritmaximus/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/iritmaximus/overlay.git</source>
+    <feed>https://github.com/iritmaximus/overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ixit</name>
     <description lang="en">iXit overlay</description>
     <homepage>https://github.com/okias/ixit</homepage>

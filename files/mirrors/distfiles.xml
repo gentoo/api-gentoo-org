@@ -69,11 +69,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.clarkson.edu/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.clarkson.edu/gentoo/</uri>
     </mirror>
-    <mirror>
-      <name>Dakota State University</name>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">https://repo.ialab.dsu.edu/gentoo/</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://repo.ialab.dsu.edu/gentoo/</uri>
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="South America" country="BR" countryname="Brazil">
     <mirror>

@@ -2358,6 +2358,17 @@
     <source type="git">git://anongit.gentoo.org/user/lmiphay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>lmkra</name>
+    <description lang="en">Personal overlay of lmkra</description>
+    <homepage>https://codeberg.org/lmkra/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>lmkrawiec@gmail.com</email>
+      <name>Łukasz Krawiec</name>
+    </owner>
+    <source type="git">https://codeberg.org/lmkra/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org:lmkra/gentoo-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>loatchi</name>
     <description lang="en">Personal overlay of Loatchi</description>
     <homepage>https://github.com/Loatchi/loatchi-overlay</homepage>

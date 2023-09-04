@@ -4538,17 +4538,6 @@
     <feed>https://github.com/Weuxel/portage-weuxel/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>what4-java</name>
-    <description>Incubator for dev-java updates that the Gentoo Java team has no time for</description>
-    <homepage>https://github.com/kwhat/gentoo-what4-java-overlay</homepage>
-    <owner type="person">
-      <email>alex@1stleg.com</email>
-      <name>Alex Barker</name>
-    </owner>
-    <source type="git">https://github.com/kwhat/gentoo-what4-java-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/kwhat/gentoo-what4-java-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>wichtounet</name>
     <description lang="en">Personal overlay of Baptiste Wicht</description>
     <homepage>https://github.com/wichtounet/wichtounet-overlay</homepage>

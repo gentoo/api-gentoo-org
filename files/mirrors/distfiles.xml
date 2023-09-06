@@ -602,6 +602,14 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://ftp.lanet.kr/pub/gentoo/</uri>
     </mirror>
   </mirrorgroup>
+  <mirrorgroup region="Asia" country="BY" countryname="Belarus">
+    <mirror>
+      <name>ftp.byfly.by</name>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://ftp.byfly.by/pub/gentoo-distfiles/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.byfly.by/pub/gentoo-distfiles/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://ftp.byfly.by/gentoo/</uri>
+    </mirror>
+  </mirrorgroup>
   <mirrorgroup region="Asia" country="RU" countryname="Russia">
     <mirror>
       <name>Yandex.ru</name>

@@ -476,6 +476,11 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.zju.edu.cn/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirrors.zju.edu.cn/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>University of Science and Technology of China</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirrors.ustc.edu.cn/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.mirrors.ustc.edu.cn/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia" country="HK" countryname="Hong Kong">
     <mirror>

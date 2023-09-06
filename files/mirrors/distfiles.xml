@@ -71,8 +71,8 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
     <mirror>
       <name>ServaxNet, LLC</name>
-      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirror.servaxnet.com</uri>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.servaxnet.com</uri>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirror.servaxnet.com/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.servaxnet.com/gentoo/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="South America" country="AR" countryname="Argentina">

@@ -625,7 +625,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   </mirrorgroup>
   <mirrorgroup region="Middle East" country="KZ" countryname="Kazakhstan">
     <mirror>
-      <name>Neo Lab's</name>
+      <name>PS Internet Company LLC</name>
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirror.ps.kz/gentoo/pub</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.ps.kz/gentoo/pub</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.ps.kz/gentoo</uri>

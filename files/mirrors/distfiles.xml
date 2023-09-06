@@ -147,6 +147,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirror.dkm.cz/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.dkm.cz/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>IT4Innovations / Technical University of Ostrava</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirror.it4i.cz/gentoo</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.it4i.cz/gentoo</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.it4i.cz/gentoo</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="DK" countryname="Denmark">
     <mirror>

@@ -451,8 +451,8 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
     <mirror>
       <name>Get Hosted online</name>
-      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://mirrors.gethosted.online/gentoo</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.gethosted.online/gentoo</uri>
+      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://mirrors.gethosted.online/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.gethosted.online/gentoo/</uri>
     </mirror>
     <mirror>
       <name>The UK Mirror Service</name>

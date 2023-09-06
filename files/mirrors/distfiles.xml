@@ -388,6 +388,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="ES" countryname="Spain">
+    <mirror>
+      <name>Institute of Physics of Cantabria (CSIC-UC)</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://repo.ifca.es/gentoo-distfiles</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://repo.ifca.es/gentoo-distfiles</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://repo.ifca.es/gentoo-distfiles</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="TR" countryname="Turkey">
     <mirror>

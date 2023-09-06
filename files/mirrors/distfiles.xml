@@ -290,6 +290,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" ipv4="y" ipv6="n" partial="n">ftp://ftp.fsn.hu/mirrors/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://ftp.fsn.hu/linux/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>Quantum Mirror</name>
+      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://quantum-mirror.hu/mirrors/pub/gentoo</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://quantum-mirror.hu/mirrors/pub/gentoo</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://quantum-mirror.hu/gentoo</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="IT" countryname="Italy">
     <mirror>

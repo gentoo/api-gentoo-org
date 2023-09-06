@@ -70,6 +70,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.clarkson.edu/gentoo/</uri>
     </mirror>
   </mirrorgroup>
+  <mirrorgroup region="South America" country="AR" countryname="Argentina">
+    <mirror>
+      <name>www.zero.com.ar</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://gentoo.zero.com.ar/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://gentoo.zero.com.ar/gentoo</uri>
+    </mirror>
+  </mirrorgroup>
   <mirrorgroup region="South America" country="BR" countryname="Brazil">
     <mirror>
       <name>C3SL, Federal University of Paraná</name>

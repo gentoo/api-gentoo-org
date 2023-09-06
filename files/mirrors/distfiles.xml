@@ -351,6 +351,11 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>University of Coimbra</name>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://ftp.dei.uc.pt/pub/linux/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>PTISP</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirrors.ptisp.pt/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.ptisp.pt/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="RO" countryname="Romania">
     <mirror>

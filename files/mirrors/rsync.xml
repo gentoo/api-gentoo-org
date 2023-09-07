@@ -293,5 +293,9 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>Interexcel World Connection (Pty) Ltd / Ultimate Linux Solutions (Pty) Ltd</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync1.za.gentoo.org</uri>
     </mirror>
+    <mirror>
+      <name>Dimension Data</name>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync2.za.gentoo.org</uri>
+    </mirror>
   </mirrorgroup>
 </mirrors>

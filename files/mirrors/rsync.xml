@@ -284,4 +284,14 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync6.tw.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
+  <mirrorgroup region="Africa" country="ZA" countryname="South Africa">
+    <mirror>
+      <name>Any available mirror - rsync.za.gentoo.org</name>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.za.gentoo.org</uri>
+    </mirror>
+    <mirror>
+      <name>Interexcel World Connection (Pty) Ltd / Ultimate Linux Solutions (Pty) Ltd</name>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync1.za.gentoo.org</uri>
+    </mirror>
+  </mirrorgroup>
 </mirrors>

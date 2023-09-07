@@ -319,7 +319,9 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
     <mirror>
       <name>JSS &amp; Hayer</name>
+      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://gentoo.jss.hu</uri>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.jss.hu</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://gentoo.jss.hu/mirror</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="IE" countryname="Ireland">

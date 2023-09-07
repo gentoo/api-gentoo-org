@@ -658,8 +658,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   <mirrorgroup region="Africa" country="NA" countryname="Namibia">
   </mirrorgroup>
   -->
-  <!--
   <mirrorgroup region="Africa" country="ZA" countryname="South Africa">
+    <mirror>
+      <name>Dimension Data</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://gentoo.dimensiondata.com/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://gentoo.dimensiondata.com/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://gentoo.dimensiondata.com/mirror/ftp.gentoo.org/</uri>
+    </mirror>
   </mirrorgroup>
-  -->
 </mirrors>

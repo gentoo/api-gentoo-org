@@ -327,9 +327,9 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   <mirrorgroup region="Europe" country="IE" countryname="Ireland">
     <mirror>
       <name>HEAnet - Ireland's National Education and Research Network</name>
-      <uri protocol="https" ipv6="y" ipv4="y" partial="n">https://ftp.heanet.ie/gentoo.org/</uri>
-      <uri protocol="http" ipv6="y" ipv4="y" partial="n">http://ftp.heanet.ie/gentoo.org/</uri>
-      <uri protocol="rsync" ipv6="y" ipv4="y" partial="n">rsync://ftp.heanet.ie/gentoo.org/</uri>
+      <uri protocol="https" ipv6="y" ipv4="y" partial="n">https://ftp.heanet.ie/mirrors/gentoo.org/</uri>
+      <uri protocol="http" ipv6="y" ipv4="y" partial="n">http://ftp.heanet.ie/mirrors/gentoo.org/</uri>
+      <uri protocol="rsync" ipv6="y" ipv4="y" partial="n">rsync://ftp.heanet.ie/mirrors/gentoo.org/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="IT" countryname="Italy">

@@ -663,5 +663,9 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://gentoo.dimensiondata.com/</uri>
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://gentoo.dimensiondata.com/mirror/ftp.gentoo.org/</uri>
     </mirror>
+    <mirror>
+      <name>Ultimate Linux Solutions</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://gentoo.uls.co.za/</uri>
+    </mirror>
   </mirrorgroup>
 </mirrors>

@@ -3921,18 +3921,6 @@
     <feed>https://github.com/stephdewit/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>stha09</name>
-    <description lang="en">stha09's personal overlay</description>
-    <homepage>https://github.com/stha09/gpo-stha09</homepage>
-    <owner type="person">
-      <email>sultan@gentoo.org</email>
-      <name>Stephan Hartmann</name>
-    </owner>
-    <source type="git">https://github.com/stha09/gpo-stha09.git</source>
-    <source type="git">git@github.com:stha09/gpo-stha09.git</source>
-    <feed>https://github.com/stha09/gpo-stha09/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>stowe-verlay</name>
     <description>A handful of things that are otherwise unmaintained or not-as-frequently maintained</description>
     <homepage>https://github.com/mwstowe/stowe-verlay</homepage>

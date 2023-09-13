@@ -3558,7 +3558,6 @@
       <email>slash@schplaf.org</email>
       <name>slash</name>
     </owner>
-    <source type="git">git@gitea.com:slash/schplaf-gentoo-overlay</source>
     <source type="git">https://gitea.com/slash/schplaf-gentoo-overlay</source>
     <feed>https://gitea.com/slash/schplaf-gentoo-overlay.rss</feed>
   </repo>

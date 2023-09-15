@@ -556,6 +556,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>NxtGen</name>
       <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://mirrors.nxtgen.com/gentoo-mirror/gentoo-source/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.nxtgen.com/gentoo-mirror/gentoo-source/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia" country="JP" countryname="Japan">

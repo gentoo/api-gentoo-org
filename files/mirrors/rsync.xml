@@ -176,6 +176,16 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync3.ro.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
+  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="SE" countryname="Sweden">
+    <mirror>
+      <name>Any available mirror - rsync.se.gentoo.org</name>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.se.gentoo.org</uri>
+    </mirror>
+    <mirror>
+      <name>tnonline.net - rsync1.se.gentoo.org</name>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync1.se.gentoo.org</uri>
+    </mirror>
+  </mirrorgroup>
   <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="SK" countryname="Slovakia">
     <mirror>
       <name>Any available mirror - rsync.sk.gentoo.org</name>

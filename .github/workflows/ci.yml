@@ -1,0 +1,19 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Install dependencies
+        run: |
+          sudo apt update
+          sudo apt install libxml2-utils
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install pip dependencies
+        run: pip install lxml
+      - name: Check
+        run: make check

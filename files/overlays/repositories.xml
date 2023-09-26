@@ -3502,7 +3502,7 @@
     <source type="git">git@github.com:bekcpear/ryans-repos.git</source>
     <feed>https://github.com/bekcpear/ryans-repos/commits/main.atom</feed>
   </repo>
-  <!-- <repo quality="experimental" status="unofficial">
+  <repo quality="experimental" status="unofficial">
     <name>sage-on-gentoo</name>
     <description>Split ebuilds for the Sage computer algebra system</description>
     <homepage>https://github.com/cschwan/sage-on-gentoo</homepage>
@@ -3513,7 +3513,7 @@
     <source type="git">https://github.com/cschwan/sage-on-gentoo.git</source>
     <source type="git">git+ssh://git@github.com/cschwan/sage-on-gentoo.git</source>
     <feed>https://github.com/cschwan/sage-on-gentoo/commits/master.atom</feed>
-  </repo> -->
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>salfter</name>
     <description lang="en">Scott Alfter's ebuilds</description>

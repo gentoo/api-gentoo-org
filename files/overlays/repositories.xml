@@ -4250,6 +4250,18 @@
     </owner>
     <source type="git">git://git.turret.cyou/portage-overlay.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>ubuilds</name>
+    <description lang="en">Ebuilds to live long and prosper</description>
+    <homepage>https://github.com/uu/ubuilds</homepage>
+    <owner type="person">
+      <email>vbnet.ru@gmail.com</email>
+      <name>Michael Pirogov</name>
+    </owner>
+    <source type="git">https://github.com/uu/ubuilds.git</source>
+    <source type="git">git@github.com:uu/ubuilds.git</source>
+    <feed>https://github.com/uu/ubuilds/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>ukui</name>
     <description lang="en">Gentoo Overlay for UKUI Desktop Environment</description>

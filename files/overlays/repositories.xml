@@ -4637,6 +4637,18 @@
     <source type="git">git://overlay.xelnor.net/overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>xira</name>
+    <description lang="en">An LLVM-centric personal overlay, with clang fixes to existing builds, and newly found software, patched or not.</description>
+    <homepage>https://github.com/kir68k/xira</homepage>
+    <owner type="person">
+      <email>revelation@krxt.dev</email>
+      <name>Kirin "Xira" Etheridge</name>
+    </owner>
+    <source type="git">https://github.com/kir68k/xira.git</source>
+    <source type="git">git+ssh://git@github.com/kir68k/xira.git</source>
+    <feed>https://github.com/kir68k/xira/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>xoreos</name>
     <description lang="en">Gentoo overlay for the xoreos project, providing a WIP reimplementation of the BioWare Aurora engine and related modding tools.</description>
     <homepage>https://github.com/xoreos/gentoo-overlay</homepage>

@@ -3157,6 +3157,18 @@
     <feed>https://github.com/ppfeufer/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>proaudio-gentoo</name>
+    <description lang="en">New generation ProAudio overlay</description>
+    <homepage>https://github.com/domichel/proaudio-gentoo</homepage>
+    <owner type="person">
+      <email>dominique.c.michel@gmail.com</email>
+      <name>Dominique Michel</name>
+    </owner>
+    <source type="git">https://github.com/domichel/proaudio-gentoo.git</source>
+    <source type="git">git+ssh://git@github.com/domichel/proaudio-gentoo.git</source>
+    <feed>https://github.com/domichel/proaudio-gentoo/commits.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>pross</name>
     <description lang="en">Up to date ck-sources</description>
     <homepage>https://github.com/Pross/pross-overlay</homepage>

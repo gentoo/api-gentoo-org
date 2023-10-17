@@ -797,6 +797,17 @@
     <source type="git">git+ssh://git@github.com/brothermechanic/cg.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>chiyuki-overlay</name>
+    <description lang="en">Chiyuki's Personal Gentoo Linux Overlay</description>
+    <homepage>https://github.com/IllyaTheHath/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>illyathehath@outlook.com</email>
+      <name>Chiyuki Kagura</name>
+    </owner>
+    <source type="git">https://github.com/IllyaTheHath/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com:IllyaTheHath/gentoo-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>chymeric</name>
     <description lang="en">Overlay for scientific software and desktop minimalism</description>
     <homepage>https://github.com/TheChymera/overlay</homepage>

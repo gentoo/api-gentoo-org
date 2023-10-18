@@ -1005,7 +1005,7 @@
     <description lang="en">personal overlay with different packages, mainly with packages with KISS mindset</description>
     <homepage>https://notabug.org/dm9pZCAq/dm9pZCAq-overlay</homepage>
     <owner type="person">
-      <email>v@0x0c.xyz</email>
+      <email>v@0x0c.link</email>
       <name>dm9pZCAq</name>
     </owner>
     <source type="git">https://notabug.org/dm9pZCAq/dm9pZCAq-overlay.git</source>

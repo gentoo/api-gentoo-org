@@ -626,6 +626,7 @@ lidarr				530		530		acct
 jackett				531		531		acct
 incus				-		532		acct		Used by app-containers/incus
 incus-admin			-		533		acct		Used by app-containers/incus
+iipsrv				536		536		acct		Used by net-misc/iipsrv
 
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!

@@ -4732,6 +4732,18 @@
     <source type="git">https://github.com/xarblu/xarblu-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>xbt573</name>
+    <description lang="en">xbt573's Personal Gentoo Overlay</description>
+    <homepage>https://github.com/xbt573/xbt573-overlay</homepage>
+    <owner type="person">
+      <email>cheembox573@gmail.com</email>
+      <name>Alexey Lunev</name>
+    </owner>
+    <source type="git">https://github.com/xbt573/xbt573-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/xbt573/xbt573-overlay.git</source>
+    <feed>https://github.com/xbt573/xbt573-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>xdch47</name>
     <description lang="en">Gentoo portage overlay of xdch47</description>
     <homepage>https://github.com/xdch47/gpo-xdch47</homepage>

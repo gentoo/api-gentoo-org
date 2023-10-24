@@ -2844,6 +2844,18 @@
     <feed>https://gitlab.com/lahouari.dc/nordvpn/-/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>nryotaro</name>
+    <description lang="en">nryotaro overlay</description>
+    <homepage>https://github.com/nryotaro/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>nakamura.ryotaro.kzs@gmail.com</email>
+      <name>Ryotaro Nakamura</name>
+    </owner>
+    <source type="git">https://github.com/nryotaro/gentoo-overlay.git</source>
+    <source type="git">git@github.com:nryotaro/gentoo-overlay.git</source>
+    <feed>https://github.com/nryotaro/gentoo-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>nymphos</name>
     <description lang="en">Overlay for ebuilds used in NymphOS</description>
     <homepage>https://github.com/neeshy/nymphos</homepage>

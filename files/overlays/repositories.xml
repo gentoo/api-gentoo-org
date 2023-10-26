@@ -2409,18 +2409,6 @@
     <feed>https://github.com/xen0n/loongson-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>lto-overlay</name>
-    <description lang="en">A Portage configuration for O3, Graphite, and LTO system-wide</description>
-    <homepage>https://github.com/InBetweenNames/gentooLTO</homepage>
-    <owner type="person">
-      <email>lookatyouhacker@gmail.com</email>
-      <name>Shane Peelar</name>
-    </owner>
-    <source type="git">https://github.com/InBetweenNames/gentooLTO.git</source>
-    <source type="git">git+ssh://git@github.com/InBetweenNames/gentooLTO.git</source>
-    <feed>https://github.com/InBetweenNames/gentooLTO/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>luke-jr</name>
     <description>Misc ebuilds by Luke-Jr</description>
     <homepage>http://luke.dashjr.org</homepage>

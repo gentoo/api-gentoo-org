@@ -2929,6 +2929,18 @@
     <feed>https://github.com/deu/palemoon-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>parona-overlay</name>
+    <description lang="en">Personal overlay for ebuilds I don't see in other overlay or want to modify</description>
+    <homepage>https://gitlab.com/Parona/parona-overlay</homepage>
+    <owner type="person">
+      <email>parona@protonmail.com</email>
+      <name>Alfred Wingate</name>
+    </owner>
+    <source type="git">https://gitlab.com/Parona/parona-overlay</source>
+    <source type="git">git@gitlab.com:Parona/parona-overlay.git</source>
+    <feed>https://gitlab.com/Parona/parona-overlay/-/commits/master?format=atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>pdilung</name>
     <description lang="en">Personal Gentoo overlay of Pavol Dilung</description>
     <homepage>https://github.com/pdilung/gentoo-overlay/</homepage>

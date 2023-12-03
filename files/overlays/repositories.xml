@@ -1700,17 +1700,6 @@
     <source type="git">git+ssh://git@github.com/houseofsuns/gnu-elpa.git</source>
     <feed>https://github.com/houseofsuns/gnu-elpa/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gnuradio</name>
-    <description>A repository for GNURadio packages/addons</description>
-    <homepage>https://github.com/hololeap/gentoo-gnuradio</homepage>
-    <owner type="person">
-      <email>hololeap@gmail.com</email>
-    </owner>
-    <source type="git">https://github.com/hololeap/gentoo-gnuradio.git</source>
-    <source type="git">git+ssh://git@github.com/hololeap/gentoo-gnuradio.git</source>
-    <feed>https://github.com/hololeap/gentoo-gnuradio/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="official">
     <name>gnustep</name>
     <description>Experimental ebuilds for GNUstep packages in Gentoo. Comments and bugreports are welcome!</description>

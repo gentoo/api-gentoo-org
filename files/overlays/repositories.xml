@@ -3194,6 +3194,18 @@
     <feed>https://github.com/ZeroPointEnergy/gentoo-pyfa-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>pypi</name>
+    <description lang="en">Mirror of PyPI python package repository</description>
+    <homepage>https://github.com/houseofsuns/pypi</homepage>
+    <owner type="person">
+      <email>gentoo@houseofsuns.org</email>
+      <name>houseofsuns</name>
+    </owner>
+    <source type="git">https://github.com/houseofsuns/pypi.git</source>
+    <source type="git">git+ssh://git@github.com/houseofsuns/pypi.git</source>
+    <feed>https://github.com/houseofsuns/pypi/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>pypi-sci</name>
     <description lang="en">Scientific packages from PyPI by the gentoo-pypi-generator</description>
     <homepage>https://github.com/jiegec/gentoo-pypi-sci</homepage>

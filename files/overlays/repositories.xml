@@ -2892,6 +2892,18 @@
     <source type="git">git+ssh://git@github.com/jcaesar/openclonk-overlay.git</source>
     <feed>https://github.com/jcaesar/openclonk-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="stable" status="official">
+    <name>opentransactions</name>
+    <description lang="en">Open-Transactions Gentoo Overlay</description>
+    <homepage>https://github.com/Open-Transactions/gentoo-overlay</homepage>
+    <owner type="project">
+      <email>justusranvier@gmail.com</email>
+      <name>Open-Transactions</name>
+    </owner>
+    <source type="git">https://github.com/Open-Transactions/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Open-Transactions/gentoo-overlay.git</source>
+    <feed>https://github.com/Open-Transactions/gentoo-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>oubliette</name>
     <description lang="en">personal overlay of forgotten ebuilds</description>

@@ -4073,6 +4073,17 @@
     <feed>https://github.com/istitov/stuff/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>suckless_wl_zh</name>
+    <description lang="en">contains dwl integrated with Chinese input method. rfm file manager, which works well with dwl and dwm</description>
+    <homepage>https://github.com/guyuming76/suckless_wl_zh</homepage>
+    <owner type="person">
+      <email>gu_yu_ming@139.com</email>
+      <name>guyuming</name>
+    </owner>
+    <source type="git">https://github.com/guyuming76/suckless_wl_zh.git</source>
+    <feed>https://github.com/guyuming76/suckless_wl_zh/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sunset-repo</name>
     <description lang="en">Personal overlay. Small programs and utils, X11
     themes, and version bumps of ebuilds from main repo.</description>

@@ -1379,6 +1379,18 @@
     <source type="git">https://git.sdf.org/flewkey/flewkey-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>flexibeast</name>
+    <description lang="en">General-purpose overlay</description>
+    <homepage>https://git.sr.ht/~flexibeast/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>flexibeast@gmail.com</email>
+      <name>Alexis</name>
+    </owner>
+    <source type="git">https://git.sr.ht/~flexibeast/gentoo-overlay</source>
+    <source type="git">ssh://git@git.sr.ht:~flexibeast/gentoo-overlay</source>
+    <feed>https://git.sr.ht/~flexibeast/gentoo-overlay/log/main/rss.xml</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>flexibeast-s6</name>
     <description lang="en">Current versions of the s6 supervision suite and related software</description>
     <homepage>https://github.com/flexibeast/gentoo-s6-overlay</homepage>

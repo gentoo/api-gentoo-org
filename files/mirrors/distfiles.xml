@@ -22,6 +22,11 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.gossamerhost.com</uri>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://gentoo.gossamerhost.com/gentoo-distfiles/</uri>
     </mirror>
+    <mirror>
+      <name>Reenigne</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirror.reenigne.net/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.reenigne.net/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="North America" country="US" countryname="USA">
     <mirror>

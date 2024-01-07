@@ -2976,6 +2976,18 @@
     <source type="git">git@github.com:pdilung/gentoo-overlay.git</source>
     <feed>https://github.com/pdilung/gentoo-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>peec</name>
+    <description lang="en">Personal Gentoo overlay of Petre Rodan</description>
+    <homepage>https://github.com/rodan/overlay</homepage>
+    <owner type="person">
+      <email>petre.rodan@subdimension.ro</email>
+      <name>Petre Rodan</name>
+    </owner>
+    <source type="git">https://github.com/rodan/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/rodan/overlay.git</source>
+    <feed>https://github.com/rodan/overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>pentoo</name>
     <description>The overlay contains new or updated security tools.</description>

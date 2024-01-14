@@ -629,7 +629,6 @@ incus-admin			-		533		acct		Used by app-containers/incus
 qbittorrent                     534             534             acct            Used by net-p2p/qbittorrent
 sandmann			535		535		acct		Used by sys-power/sandmann-bin
 atuin				536		536		acct		Used by app-shells/atuin
-ebusd				537		537		acct		Used by app-misc/ebusd
 
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!

@@ -4833,5 +4833,17 @@
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>gentooplusplus</name>
+    <description lang="en">Personal overlay especially for lightweight software</description>
+    <homepage>https://github.com/Eugeniusz-Gienek/gentooplusplus</homepage>
+    <owner type="person">
+      <email>2sks05fxw@mozmail.com</email>
+      <name>Eugeniusz Gienek</name>
+    </owner>
+    <source type="git">https://github.com/Eugeniusz-Gienek/gentooplusplus.git</source>
+    <source type="git">git@github.com:Eugeniusz-Gienek/gentooplusplus.git</source>
+    <feed>https://github.com/Eugeniusz-Gienek/gentooplusplus/commits/master/atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

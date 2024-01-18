@@ -2315,6 +2315,17 @@
     <feed>https://cgit.gentoo.org/repo/proj/libressl.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>librewolf</name>
+    <description lang="en">Overlay for LibreWolf</description>
+    <homepage>https://librewolf.net/</homepage>
+    <owner type="person">
+      <email>james@thegreatmcpain.xyz</email>
+      <name>James McClain</name>
+    </owner>
+    <source type="git">https://codeberg.org/librewolf/gentoo.git</source>
+    <source type="git">git+ssh://git@codeberg.org:librewolf/gentoo.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>liftm</name>
     <description lang="en">Personal Overlay</description>
     <owner type="person">

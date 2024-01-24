@@ -1275,6 +1275,17 @@
     <feed>https://github.com/farmboy0/portage-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>fd-gentoo</name>
+    <description lang="en">fd-gentoo overlay</description>
+    <homepage>https://git.denkena-consulting.com/f-denkena/fd-gentoo</homepage>
+    <owner type="person">
+      <email>federico.denkena@posteo.de</email>
+      <name>Federico Justus Denkena</name>
+    </owner>
+    <source type="git">https://git.denkena-consulting.com/f-denkena/fd-gentoo.git</source>
+    <feed>https://git.denkena-consulting.com/f-denkena/fd-gentoo.rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>fem-overlay</name>
     <description lang="en">FeM Gentoo Overlay</description>
     <homepage>https://gitlab.fem-net.de/gentoo/fem-overlay</homepage>

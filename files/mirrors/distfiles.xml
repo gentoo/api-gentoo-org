@@ -27,6 +27,11 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirror.reenigne.net/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.reenigne.net/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>OVHcloud (Anycast: Beauharnois)</name>
+      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://gentoo.mirrors.ovh.net/gentoo-distfiles/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirrors.ovh.net/gentoo-distfiles/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="North America" country="US" countryname="USA">
     <mirror>
@@ -176,8 +181,9 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   </mirrorgroup>
   <mirrorgroup region="Europe" country="FR" countryname="France">
     <mirror>
-      <name>OVH</name>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://gentoo.mirrors.ovh.net/gentoo-distfiles/</uri>
+      <name>OVHcloud (Anycast: Gravelines; Roubaix; Strasbourg)</name>
+      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://gentoo.mirrors.ovh.net/gentoo-distfiles/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://gentoo.mirrors.ovh.net/gentoo-distfiles/</uri>
     </mirror>
     <mirror>
       <name>Free</name>

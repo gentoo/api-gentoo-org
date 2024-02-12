@@ -1,15 +1,17 @@
 certificate version 0.1
-pusher Sam James <sam@gentoo.org> 1707740903 +0000
-pushee git+ssh://git.gentoo.org/data/api.git
-nonce 1707740903-a39752b5c4de3e1c11e1115493d3be79d8057bfe
+pusher DF84256885283521 1707749235 +0100
+pushee git.gentoo.org:data/api
+nonce 1707749235-830ad184901e6dfc6ae884ec3444c41af7a961ee
 
-34a5657c1a0a76621e2535fbc6d10770d60d2395 a27aaaf678e0cccdd2902e1e2e5f3b957f4f0d8b refs/heads/master
+a27aaaf678e0cccdd2902e1e2e5f3b957f4f0d8b ff39df2cbca87ededd378d1ed16767547c69b1e1 refs/heads/master
 -----BEGIN PGP SIGNATURE-----
 
-iOUEABYKAI0WIQQlpruI3Zt2TGtVQcJzhAn1IN+RkAUCZcoO518UgAAAAAAuAChp
-c3N1ZXItZnByQG5vdGF0aW9ucy5vcGVucGdwLmZpZnRoaG9yc2VtYW4ubmV0MjVB
-NkJCODhERDlCNzY0QzZCNTU0MUMyNzM4NDA5RjUyMERGOTE5MA8cc2FtQGdlbnRv
-by5vcmcACgkQc4QJ9SDfkZAwMwEAtz50dTjDxwPG+UCZYgMa6mjohpU7ehr1KSys
-3Dtfv4cA+wRUETUFfdQIjxn6DBnOTkBxjikgddang/KlQEG9poYG
-=iffP
+iQEzBAABCAAdFiEEx2qEUJQJjSjMiybFY5ra4jKeJA4FAmXKL3MACgkQY5ra4jKe
+JA7xdwf9H2m6NYo43PNfgnDMk46r3xHQwxgwEVWIcTJoNU95zE8lJSwd1aGLKzCq
+CapljL7PPbRGOJxF0UeHlisKdACHi1sGsW+grCqr7kyduD8nd0+q4c8yXxBC/fBH
+JoALgZNGPdFqSov5EGQlW/fpgNH/vDObidRK8/mflhwQQbBLEXLajlfgsWGvG5I1
+n28BBG7Xzpnj93QnT5Mv6gb4kLTiW/XEBvMjL2iN9egqIlH1qqRuXM08/2W+O76z
+VjU14R617l8T0cyMd98SbBavmjHD4h+WkYEGRe5fs++xw3R9NDPkNpgB+hQ1qmUn
+xSylBkGbwKaQKmfGyNXWedwSn8KvEA==
+=F5YM
 -----END PGP SIGNATURE-----

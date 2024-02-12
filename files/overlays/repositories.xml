@@ -1888,7 +1888,7 @@
       <email>holgersson@posteo.de</email>
       <name>Nils Freydank</name>
     </owner>
-    <source type="git">https://git.holgersson.xyz/foss/holgersson-overlay</source>
+    <source type="git">https://git.holgersson.xyz/gentoo-related/holgersson-overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>HomeAssistantRepository</name>

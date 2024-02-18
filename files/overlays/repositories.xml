@@ -362,6 +362,18 @@
     <source type="git">https://gitlab.com/AbhinavPraveen/ap-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>apn</name>
+    <description lang="en">APN-Pucky's personal overlay</description>
+    <homepage>https://gitlab.com/APN-Pucky/gentoo-apn</homepage>
+    <owner type="person">
+      <email>alexander@neuwirth-informatik.de</email>
+      <name>Alexander Puck Neuwirth</name>
+    </owner>
+    <source type="git">https://gitlab.com/APN-Pucky/gentoo-apn.git</source>
+    <source type="git">git+ssh://git@gitlab.com/APN-Pucky/gentoo-apn.git</source>
+    <feed>https://gitlab.com/APN-Pucky/gentoo-apn/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>apriluwu</name>
     <description lang="en">apriluwu's personal overlay</description>
     <homepage>https://github.com/apriluwu/gentoo-overlay</homepage>

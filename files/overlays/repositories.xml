@@ -1402,17 +1402,6 @@
     <feed>https://git.sr.ht/~flexibeast/gentoo-overlay/log/main/rss.xml</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>flexibeast-s6</name>
-    <description lang="en">Current versions of the s6 supervision suite and related software</description>
-    <homepage>https://github.com/flexibeast/gentoo-s6-overlay</homepage>
-    <owner type="person">
-      <email>flexibeast@gmail.com</email>
-      <name>Alexis</name>
-    </owner>
-    <source type="git">https://github.com/flexibeast/gentoo-s6-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/flexibeast/gentoo-s6-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>flightsim</name>
     <description lang="en">Overlay with packages for flight simulation, mainly related to X-Plane</description>
     <homepage>https://github.com/rafaelmartins/flightsim-overlay</homepage>

@@ -3363,6 +3363,18 @@
     <source type="git">https://git.zero-downtime.net/quark/quarks.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>qv2ray-overlay</name>
+    <description lang="en">Overlay for Qv2ray.</description>
+    <homepage>https://github.com/blackteahamburger/qv2ray-overlay</homepage>
+    <owner type="person">
+      <email>blackteahamburger@outlook.com</email>
+      <name>blackteahamburger</name>
+    </owner>
+    <source type="git">https://github.com/blackteahamburger/qv2ray-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/blackteahamburger/qv2ray-overlay.git</source>
+    <feed>https://github.com/blackteahamburger/qv2ray-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>r7l</name>
     <description lang="en">r7l Gentoo overlay with custom Ebuilds</description>
     <homepage>https://github.com/r7l/r7l-overlay</homepage>

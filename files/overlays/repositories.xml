@@ -4016,7 +4016,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>suckless_wl_zh</name>
-    <description lang="zh">contains dwl integrated with Chinese input method. rfm file manager, which works well with dwl and dwm</description>
+    <description lang="en">contains dwl integrated with Chinese input method. rfm file manager, which works well with dwl and dwm</description>
     <homepage>https://github.com/guyuming76/suckless_wl_zh</homepage>
     <owner type="person">
       <email>gu_yu_ming@139.com</email>

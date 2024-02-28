@@ -2490,6 +2490,17 @@
     <source type="git">git+ssh://git@github.com/oz123/mate-de-gentoo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>mate-overlay</name>
+    <description lang="en">Testbed for new mate-desktop environment ebuilds</description>
+    <homepage>https://github.com/immolo/mate-overlay</homepage>
+    <owner type="person">
+      <email>immoloism@gmail.com</email>
+      <name>Ian Jordan</name>
+    </owner>
+    <source type="git">https://github.com/immolo/mate-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/immolo/mate-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>megacoffee</name>
     <description lang="en">Mixed ebuilds from various sources: self-written missing ebuilds, more current ebuilds, ebuilds that just needed a slight update from official portage, ebuilds others posted on Gentoo Bugzilla, ebuilds with added patches, old ebuilds that were removed from official portage etc.</description>
     <description lang="de">Verschiedene ebuilds aus verschiedenen Quellen: selbsterstellte ebuilds, ebuilds mit geringfügigen Änderungen, gegenüber dem aktuellen Baum, ebuilds aus Gentoos Bugzilla, ebuilds mit erweiterten patches, alte ebuilds die nicht mehr im offiziellen Baum existieren, etc.</description>

@@ -131,12 +131,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirror.telepoint.bg/gentoo</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.telepoint.bg/gentoo</uri>
     </mirror>
-    <mirror>
-      <name>Daticum</name>
-      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://mirrors.daticum.com/gentoo/</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.daticum.com/gentoo/</uri>
-      <!-- <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://mirrors.daticum.com/gentoo/</uri> -->
-    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="CH" countryname="Switzerland">
     <mirror>

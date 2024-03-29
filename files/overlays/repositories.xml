@@ -1081,18 +1081,6 @@
     <source type="git">git+ssh://git@github.com/Chemrat/overlay.git</source>
     <feed>https://github.com/Chemrat/overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>eclipse</name>
-    <description lang="en">Community effort at packaging Eclipse Java SDK</description>
-    <homepage>https://github.com/gentoo/eclipse-overlay</homepage>
-    <owner type="project">
-      <email>eclipse@gentoo.org</email>
-      <name>Eclipse team</name>
-    </owner>
-    <source type="git">https://github.com/gentoo/eclipse-overlay.git</source>
-    <source type="git">git@github.com:gentoo/eclipse-overlay.git</source>
-    <feed>https://github.com/gentoo/eclipse-overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>edgets</name>
     <description lang="en">Gentoo overlay that brings you the newest versions of modern software.</description>

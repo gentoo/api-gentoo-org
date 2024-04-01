@@ -420,6 +420,18 @@
     <source type="git">git+ssh://git@github.com/arx/ArxGentoo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>asahi</name>
+    <description lang="en">Asahi Linux Overlay - support for Apple Silicon Macs</description>
+    <homepage>https://github.com/chadmed/asahi-overlay</homepage>
+    <owner type="person">
+      <email>jcalligeros99@gmail.com</email>
+      <name>James Calligeros</name>
+    </owner>
+    <source type="git">https://github.com/chadmed/asahi-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/chadmed/asahi-overlay.git</source>
+    <feed>https://github.com/chadmed/asahi-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>AstroFloyd</name>
     <description lang="en">AstroFloyd's Gentoo overlay</description>
     <homepage>https://cgit.gentoo.org/user/AstroFloyd.git/</homepage>

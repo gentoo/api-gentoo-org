@@ -1531,7 +1531,7 @@
     </owner>
     <source type="git">https://github.com/fritteli/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/fritteli/gentoo-overlay.git</source>
-    <feed>https://github.com/fritteli/gentoo-overlay/commits/master.atom</feed>
+    <feed>https://github.com/fritteli/gentoo-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="stable" status="official">
     <name>frr-gentoo</name>

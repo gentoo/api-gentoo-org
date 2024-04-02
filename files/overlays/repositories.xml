@@ -2254,17 +2254,13 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>lanodanOverlay</name>
-    <description lang="en">Additionnal goals; experiments, necromancy, portability, diversity, …</description>
-    <description lang="fr">Buts additionnels; Expérimentations, nécromancie, portabilitée, diversitée, …</description>
+    <description lang="en">Personal repository of lanodan, mostly experiments and personal changes</description>
     <homepage>https://hacktivis.me/git/overlay</homepage>
     <owner type="person">
       <email>contact@hacktivis.me</email>
       <name>Haelwenn (lanodan) Monnier</name>
     </owner>
     <source type="git">https://hacktivis.me/git/overlay.git</source>
-    <source type="git">https://gitlab.com/lanodan/overlay.git</source>
-    <source type="git">git://hacktivis.me/git/overlay.git</source>
-    <source type="git">git://gitlab.com/lanodan/overlay.git</source>
     <feed>https://hacktivis.me/git/overlay/atom.xml</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

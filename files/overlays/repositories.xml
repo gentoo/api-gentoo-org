@@ -4045,6 +4045,17 @@
     <feed>https://github.com/stephdewit/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>stintel</name>
+    <description>stintel's gentoo overlay</description>
+    <homepage>https://github.com/stintel/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>stijn+gentoo@linux-ipv6.be</email>
+      <name>Stijn Tintel</name>
+    </owner>
+    <source type="git">https://github.com/stintel/gentoo-overlay.git</source>
+    <feed>https://github.com/stintel/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>stowe-verlay</name>
     <description>A handful of things that are otherwise unmaintained or not-as-frequently maintained</description>
     <homepage>https://github.com/mwstowe/stowe-verlay</homepage>

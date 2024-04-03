@@ -1663,6 +1663,18 @@
     <feed>https://github.com/gentoobr/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gentoofreak</name>
+    <description lang="en">Overlay containing newer upstream versions of different packages</description>
+    <homepage>https://github.com/GeNTooFReaK/gentoo-repo</homepage>
+    <owner type="person">
+      <email>martin@b-root-force.de</email>
+      <name>Martin Wohlert</name>
+    </owner>
+    <source type="git">https://github.com/GeNTooFReaK/gentoo-repo.git</source>
+    <source type="git">git+ssh://git@github.com:GeNTooFReaK/gentoo-repo.git</source>
+    <feed>https://github.com/GeNTooFReaK/gentoo-repo/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gentooplusplus</name>
     <description lang="en">Personal overlay especially for lightweight software</description>
     <homepage>https://github.com/Eugeniusz-Gienek/gentooplusplus</homepage>

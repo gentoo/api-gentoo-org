@@ -2601,6 +2601,17 @@
     <source type="git">git+ssh://git@github.com/miramir/miramir-layman.git</source>
     <feed>https://github.com/miramir/miramir-layman/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>mnt-reform</name>
+    <description lang="en">Overlay containing ebuilds for the MNT Reform line of open hardware computers</description>
+    <homepage>https://source.mnt.re/vimja/mnt-reform-overlay</homepage>
+    <owner type="person">
+      <email>gentoo-bugzilla@vimja.email</email>
+      <name>Niklaus 'vimja' Hofer</name>
+    </owner>
+    <source type="git">https://source.mnt.re/vimja/mnt-reform-overlay.git</source>
+    <feed>https://source.mnt.re/vimja/mnt-reform-overlay.atom</feed>
+  </repo>
   <repo quality="testing" status="unofficial">
     <name>moexiami</name>
     <description lang="en">Contains updated ebuilds (w/ more feature/control)

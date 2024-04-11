@@ -2376,24 +2376,6 @@
     <source type="git">https://github.com/linuxunderground/gentoo.overlay.git</source>
     <source type="git">git+ssh://git@github.com/linuxunderground/gentoo.overlay.git</source>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>lisp</name>
-    <description>Common Lisp/Scheme development, recruitment and live overlay.
-    Support and feedback in `#gentoo-lisp' and via
-    `gentoo-lisp@lists.gentoo.org'.</description>
-    <homepage>https://cgit.gentoo.org/proj/lisp.git</homepage>
-    <owner type="project">
-      <email>common-lisp@gentoo.org</email>
-    </owner>
-    <owner type="project">
-      <email>scheme@gentoo.org</email>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/lisp.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/lisp.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/lisp.git</source>
-    <feed>https://cgit.gentoo.org/proj/lisp.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/lisp.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>lmiphay</name>
     <description lang="en">Personal overlay of Paul Healy</description>

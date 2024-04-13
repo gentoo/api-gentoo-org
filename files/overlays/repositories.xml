@@ -635,8 +635,8 @@
     <description lang="en">Personal overlay + Zig stuff</description>
     <homepage>https://git.sr.ht/~bratishkaerik/bratishkaerik-overlay</homepage>
     <owner type="person">
-      <email>bratishkaerik@getgoogleoff.me</email>
-      <name>BratishkaErik</name>
+      <email>bratishkaerik@landless-city.net</email>
+      <name>Eric Joldasov</name>
     </owner>
     <source type="git">https://git.sr.ht/~bratishkaerik/bratishkaerik-overlay</source>
     <source type="git">ssh://git@git.sr.ht:~bratishkaerik/bratishkaerik-overlay</source>

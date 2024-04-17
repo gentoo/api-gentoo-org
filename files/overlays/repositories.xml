@@ -4777,9 +4777,7 @@
       <email>jeroenmathonmac@gmail.com</email>
       <name>XaetaCore</name>
     </owner>
-    <source type="git">https://github.com/kabili207/zyrenth-overlay.git</source>
-    <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
-    <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
+    <source type="git">https://git.xaetacore.net/jeroenmathon/xaetacore</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>xarblu-overlay</name>

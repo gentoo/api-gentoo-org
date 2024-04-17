@@ -420,6 +420,18 @@
     <source type="git">git+ssh://git@github.com/arx/ArxGentoo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>asahi</name>
+    <description lang="en">Asahi Linux Overlay - support for Apple Silicon Macs</description>
+    <homepage>https://github.com/chadmed/asahi-overlay</homepage>
+    <owner type="person">
+      <email>jcalligeros99@gmail.com</email>
+      <name>James Calligeros</name>
+    </owner>
+    <source type="git">https://github.com/chadmed/asahi-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/chadmed/asahi-overlay.git</source>
+    <feed>https://github.com/chadmed/asahi-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>AstroFloyd</name>
     <description lang="en">AstroFloyd's Gentoo overlay</description>
     <homepage>https://cgit.gentoo.org/user/AstroFloyd.git/</homepage>
@@ -635,8 +647,8 @@
     <description lang="en">Personal overlay + Zig stuff</description>
     <homepage>https://git.sr.ht/~bratishkaerik/bratishkaerik-overlay</homepage>
     <owner type="person">
-      <email>bratishkaerik@getgoogleoff.me</email>
-      <name>BratishkaErik</name>
+      <email>bratishkaerik@landless-city.net</email>
+      <name>Eric Joldasov</name>
     </owner>
     <source type="git">https://git.sr.ht/~bratishkaerik/bratishkaerik-overlay</source>
     <source type="git">ssh://git@git.sr.ht:~bratishkaerik/bratishkaerik-overlay</source>
@@ -1080,18 +1092,6 @@
     <source type="git">https://github.com/Chemrat/overlay.git</source>
     <source type="git">git+ssh://git@github.com/Chemrat/overlay.git</source>
     <feed>https://github.com/Chemrat/overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>eclipse</name>
-    <description lang="en">Community effort at packaging Eclipse Java SDK</description>
-    <homepage>https://github.com/gentoo/eclipse-overlay</homepage>
-    <owner type="project">
-      <email>eclipse@gentoo.org</email>
-      <name>Eclipse team</name>
-    </owner>
-    <source type="git">https://github.com/gentoo/eclipse-overlay.git</source>
-    <source type="git">git@github.com:gentoo/eclipse-overlay.git</source>
-    <feed>https://github.com/gentoo/eclipse-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>edgets</name>
@@ -1543,7 +1543,7 @@
     </owner>
     <source type="git">https://github.com/fritteli/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/fritteli/gentoo-overlay.git</source>
-    <feed>https://github.com/fritteli/gentoo-overlay/commits/master.atom</feed>
+    <feed>https://github.com/fritteli/gentoo-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="stable" status="official">
     <name>frr-gentoo</name>
@@ -1673,6 +1673,18 @@
     <source type="git">https://github.com/gentoobr/overlay.git</source>
     <source type="git">git+ssh://git@github.com/gentoobr/overlay.git</source>
     <feed>https://github.com/gentoobr/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>gentoofreak</name>
+    <description lang="en">Overlay containing newer upstream versions of different packages</description>
+    <homepage>https://github.com/GeNTooFReaK/gentoo-repo</homepage>
+    <owner type="person">
+      <email>martin@b-root-force.de</email>
+      <name>Martin Wohlert</name>
+    </owner>
+    <source type="git">https://github.com/GeNTooFReaK/gentoo-repo.git</source>
+    <source type="git">git+ssh://git@github.com:GeNTooFReaK/gentoo-repo.git</source>
+    <feed>https://github.com/GeNTooFReaK/gentoo-repo/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentooplusplus</name>
@@ -2266,17 +2278,13 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>lanodanOverlay</name>
-    <description lang="en">Additionnal goals; experiments, necromancy, portability, diversity, …</description>
-    <description lang="fr">Buts additionnels; Expérimentations, nécromancie, portabilitée, diversitée, …</description>
+    <description lang="en">Personal repository of lanodan, mostly experiments and personal changes</description>
     <homepage>https://hacktivis.me/git/overlay</homepage>
     <owner type="person">
       <email>contact@hacktivis.me</email>
       <name>Haelwenn (lanodan) Monnier</name>
     </owner>
     <source type="git">https://hacktivis.me/git/overlay.git</source>
-    <source type="git">https://gitlab.com/lanodan/overlay.git</source>
-    <source type="git">git://hacktivis.me/git/overlay.git</source>
-    <source type="git">git://gitlab.com/lanodan/overlay.git</source>
     <feed>https://hacktivis.me/git/overlay/atom.xml</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
@@ -2387,24 +2395,6 @@
     </owner>
     <source type="git">https://github.com/linuxunderground/gentoo.overlay.git</source>
     <source type="git">git+ssh://git@github.com/linuxunderground/gentoo.overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>lisp</name>
-    <description>Common Lisp/Scheme development, recruitment and live overlay.
-    Support and feedback in `#gentoo-lisp' and via
-    `gentoo-lisp@lists.gentoo.org'.</description>
-    <homepage>https://cgit.gentoo.org/proj/lisp.git</homepage>
-    <owner type="project">
-      <email>common-lisp@gentoo.org</email>
-    </owner>
-    <owner type="project">
-      <email>scheme@gentoo.org</email>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/proj/lisp.git</source>
-    <source type="git">git://anongit.gentoo.org/proj/lisp.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/proj/lisp.git</source>
-    <feed>https://cgit.gentoo.org/proj/lisp.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/proj/lisp.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>lmiphay</name>
@@ -2606,6 +2596,17 @@
     <source type="git">https://github.com/miramir/miramir-layman.git</source>
     <source type="git">git+ssh://git@github.com/miramir/miramir-layman.git</source>
     <feed>https://github.com/miramir/miramir-layman/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>mnt-reform</name>
+    <description lang="en">Overlay containing ebuilds for the MNT Reform line of open hardware computers</description>
+    <homepage>https://source.mnt.re/vimja/mnt-reform-overlay</homepage>
+    <owner type="person">
+      <email>gentoo-bugzilla@vimja.email</email>
+      <name>Niklaus 'vimja' Hofer</name>
+    </owner>
+    <source type="git">https://source.mnt.re/vimja/mnt-reform-overlay.git</source>
+    <feed>https://source.mnt.re/vimja/mnt-reform-overlay.atom</feed>
   </repo>
   <repo quality="testing" status="unofficial">
     <name>moexiami</name>
@@ -4061,6 +4062,17 @@
     <source type="git">https://github.com/stephdewit/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/stephdewit/gentoo-overlay.git</source>
     <feed>https://github.com/stephdewit/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>stintel</name>
+    <description>stintel's gentoo overlay</description>
+    <homepage>https://github.com/stintel/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>stijn+gentoo@linux-ipv6.be</email>
+      <name>Stijn Tintel</name>
+    </owner>
+    <source type="git">https://github.com/stintel/gentoo-overlay.git</source>
+    <feed>https://github.com/stintel/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>stowe-verlay</name>

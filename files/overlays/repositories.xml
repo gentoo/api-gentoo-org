@@ -2386,6 +2386,18 @@
     <feed>https://gitlab.com/linux-be/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>linux-surface</name>
+    <description lang="en">Special driver software for Microsoft Surface devices from the linux-surface project.</description>
+    <homepage>https://github.com/jasisonee/linux-surface-overlay</homepage>
+    <owner type="person">
+      <email>jasmin@jasisonee.ch</email>
+      <name>Jasmin Huber</name>
+    </owner>
+    <source type="git">https://github.com/jasisonee/linux-surface-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/jasisonee/linux-surface-overlay.git</source>
+    <feed>https://github.com/jasisonee/linux-surface-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>linuxunderground-overlay</name>
     <description>experimental ebuilds from linuxunderground.be</description>
     <homepage>https://github.com/linuxunderground/gentoo.overlay</homepage>

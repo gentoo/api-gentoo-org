@@ -631,6 +631,7 @@ sandmann			535		535		acct		Used by sys-power/sandmann-bin
 atuin				536		536		acct		Used by app-shells/atuin
 openhab				537		537		acct		Used by app-misc/openhab-bin
 redict				538		538		acct		Used by dev-db/redict
+microsoft-identity-broker	539		539		acct		Used by sys-auth/microsoft-identity-broker
 
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!

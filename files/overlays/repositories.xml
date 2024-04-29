@@ -2207,15 +2207,15 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>khoverlay</name>
-    <description>Khumba's overlay, mainly Haskell packages</description>
-    <homepage>https://gitlab.com/khumba/khoverlay</homepage>
+    <description>Khumba's overlay, with games, tools, themes, System76 drivers</description>
+    <homepage>https://khumba.net/gentoo/</homepage>
     <owner type="person">
       <email>bog@khumba.net</email>
       <name>Bryan Gardiner</name>
     </owner>
-    <source type="git">https://gitlab.com/khumba/khoverlay.git</source>
-    <source type="git">git+ssh://git@gitlab.com/khumba/khoverlay.git</source>
-    <feed>https://gitlab.com/khumba/khoverlay/commits/master.atom</feed>
+    <source type="git">https://git.sr.ht/~khumba/khoverlay</source>
+    <source type="git">ssh://git@git.sr.ht/~khumba/khoverlay</source>
+    <feed>https://git.sr.ht/~khumba/khoverlay/log/master/rss.xml</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>konsolebox</name>

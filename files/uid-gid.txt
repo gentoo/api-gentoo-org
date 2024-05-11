@@ -632,6 +632,7 @@ atuin				536		536		acct		Used by app-shells/atuin
 openhab				537		537		acct		Used by app-misc/openhab-bin
 redict				538		538		acct		Used by dev-db/redict
 microsoft-identity-broker	539		539		acct		Used by sys-auth/microsoft-identity-broker
+uuidd				540		540		acct		Used by sys-apps/util-linux
 
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!

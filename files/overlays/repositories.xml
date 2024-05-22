@@ -409,6 +409,18 @@
     <feed>https://gitlab.com/argent/argent-main/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>arrans-overlay</name>
+    <description>Arran's Overlay</description>
+    <homepage>https://github.com/arran4/arrans_overlay</homepage>
+    <owner type="person">
+      <email>gentoo@arran4.com</email>
+      <name>Arran Ubels</name>
+    </owner>
+    <source type="git">https://github.com/arran4/arrans_overlay.git</source>
+    <source type="git">git+ssh://git@github.com/arran4/arrans_overlay.git</source>
+    <feed>https://github.com/arran4/arrans_overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>arx-libertatis</name>
     <description lang="en">Arx Libertatis Overlay</description>
     <homepage>https://github.com/arx/ArxGentoo</homepage>

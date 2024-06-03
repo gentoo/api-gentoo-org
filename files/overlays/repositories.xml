@@ -4896,6 +4896,21 @@
     <feed>https://github.com/xoreos/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>xoores</name>
+    <description lang="en">Personal Gentoo overlay. I intend to maintain ebuild for packages that I personaly use.</description>
+    <homepage>https://github.com/xoores/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>gentoo-bugs@xoores.cz</email>
+      <name>Xoores</name>
+    </owner>
+    <source type="git">https://gitlab.com/Xoores/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com:Xoores/gentoo-overlay.git</source>
+    <source type="git">https://github.com/xoores/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com:xoores/gentoo-overlay.git</source>
+    <feed>https://gitlab.com/Xoores/gentoo-overlay/-/commits/main?format=atom</feed>
+    <feed>https://github.com/xoores/gentoo-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>xwing</name>
     <description>Guillaume Castagnino’s personal overlay.</description>
     <homepage>https://gentoo.xwing.info</homepage>

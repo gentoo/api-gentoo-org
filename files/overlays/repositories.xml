@@ -1582,6 +1582,17 @@
     <feed>https://github.com/qwe795138426/fyn-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>g</name>
+    <description lang="en">My personal overlay</description>
+    <homepage>http://splet.sijanec.eu/dir/g.shtml</homepage>
+    <owner type="person">
+      <email>anton@sijanec.eu</email>
+      <name>Anton Luka Šijanec</name>
+    </owner>
+    <source type="git">https://ni.sijanec.eu/sijanec/g</source>
+    <feed>https://ni.sijanec.eu/sijanec/g/atom/?h=master</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gamerlay</name>
     <description>
       Gamers overlay for all various games. Not related with games team.

@@ -1050,12 +1050,15 @@
   <repo quality="experimental" status="unofficial">
     <name>dm9pZCAq</name>
     <description lang="en">personal overlay with different packages, mainly with packages with KISS mindset</description>
-    <homepage>https://notabug.org/dm9pZCAq/dm9pZCAq-overlay</homepage>
+    <homepage>https://codeberg.org/dm9pZCAq/dm9pZCAq-overlay</homepage>
     <owner type="person">
       <email>v@0x0c.link</email>
       <name>dm9pZCAq</name>
     </owner>
-    <source type="git">https://notabug.org/dm9pZCAq/dm9pZCAq-overlay.git</source>
+    <source type="git">https://codeberg.org/dm9pZCAq/dm9pZCAq-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org:dm9pZCAq/dm9pZCAq-overlay.git</source>
+    <feed>https://codeberg.org/dm9pZCAq/dm9pZCAq-overlay/atom/branch/master</feed>
+    <feed>https://codeberg.org/dm9pZCAq/dm9pZCAq-overlay/rss/branch/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>Drauthius</name>

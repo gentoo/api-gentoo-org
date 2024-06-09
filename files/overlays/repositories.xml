@@ -4642,6 +4642,18 @@
     <feed>https://github.com/vifino/vifino-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>vimproved</name>
+    <description lang="en">Bringing you Pro Audio Software, Wayland ricing, and Yuri Visual Novels since 2023!</description>
+    <homepage>https://codeberg.org/vimproved/overlay</homepage>
+    <owner type="person">
+      <email>vimproved@inventati.org</email>
+      <name>Violet Purcell</name>
+    </owner>
+    <source type="git">https://codeberg.org/vimproved/overlay.git</source>
+    <source type="git">git@codeberg.org:vimproved/overlay.git</source>
+    <feed>https://codeberg.org/vimproved/overlay.rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>violet-funk</name>
     <description lang="en">Gentoo overlay for FNF-related ebuilds as well as some useful software.</description>
     <homepage>https://github.com/MagelessMayhem/violet-funk</homepage>

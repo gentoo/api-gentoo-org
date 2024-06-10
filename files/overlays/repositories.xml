@@ -71,6 +71,18 @@
     <feed>https://github.com/4nykey/4nykey/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>9999</name>
+    <description lang="en">Overlay for cutting edge 9999s</description>
+    <homepage>https://github.com/257/9999</homepage>
+    <owner type="person">
+      <email>darwinskernel@gmail.com</email>
+      <name>Paymon MARANDI</name>
+    </owner>
+    <source type="git">https://github.com/257/9999.git</source>
+    <source type="git">git+ssh://git@github.com/257/9999.git</source>
+    <feed>https://github.com/257/9999/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ace</name>
     <description lang="en">Personal overlay with ebuilds that were missing at one point or another</description>
     <homepage>https://github.com/ananace/overlay</homepage>

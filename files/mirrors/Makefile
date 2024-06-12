@@ -1,5 +1,5 @@
 .%.expected-format.xml: %.xml
-	xmllint --format $^ > $@
+	XMLLINT_INDENT="  " xmllint --format $^ > $@
 
 .ONESHELL:
 .%.expected-format.xml.ok: SHELL = /bin/bash

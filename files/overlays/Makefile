@@ -37,7 +37,7 @@ format: .repositories-expected-format.xml
 	cmp -s repositories.xml $^ || cp $^ repositories.xml
 
 .repositories-expected-format.xml: repositories.xml
-	xmllint --format $^ > $@
+	XMLLINT_INDENT="  " xmllint --format $^ > $@
 
 .ONESHELL:
 .repositories-style-ok: SHELL = /bin/bash

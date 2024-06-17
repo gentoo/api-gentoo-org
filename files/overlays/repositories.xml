@@ -3326,6 +3326,18 @@
     <feed>https://github.com/Pross/pross-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>pxrb</name>
+    <description lang="en">Ebuilds of software i use (and maybe you do too)</description>
+    <homepage>https://codeberg.org/pxrb/overlay</homepage>
+    <owner type="person">
+      <email>pxrb@4d2.org</email>
+      <name>Roland</name>
+    </owner>
+    <source type="git">https://codeberg.org/pxrb/overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org/pxrb/overlay.git</source>
+    <feed>https://codeberg.org/pxrb/overlay.rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>pyfa</name>
     <description lang="en">Newest versions of Pyfa (Python fitting assistant for EVE Online)</description>
     <homepage>https://github.com/ZeroPointEnergy/gentoo-pyfa-overlay</homepage>

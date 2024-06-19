@@ -2012,6 +2012,31 @@
     <source type="git">git+ssh://git@github.com/TomHotston/hotstoast-overlay.git</source>
     <feed>https://github.com/TomHotston/hotstoast-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="testing" status="unofficial">
+    <name>hyprland-overlay</name>
+    <description lang="en">An unofficial Gentoo overlay related to all Hyprland utilities</description>
+    <description lang="fr">Un overlay Gentoo non officiel lié à tous les utilitaires Hyprland</description>
+    <longdescription lang="en">
+      This Gentoo overlay aims to provide packages related to Hyprland.
+
+      Please notice this overlay is not official and is not maintained by
+      official maintainers of Hyprland.
+    </longdescription>
+    <longdescription lang="fr">
+      Cet overlay Gentoo vise à fournir des paquets liés à Hyprland.
+
+      Il est important de noter que cet overlay n'est pas officiel et n'est pas
+      maintenu par des mainteneurs de Hyprland.
+    </longdescription>
+    <homepage>https://github.com/beatussum/hyprland-overlay/</homepage>
+    <owner type="person">
+      <email>beatussum@protonmail.com</email>
+      <name>Mattéo Rossillol‑‑Laruelle</name>
+    </owner>
+    <source type="git">https://github.com/beatussum/hyprland-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/beatussum/hyprland-overlay.git</source>
+    <feed>https://github.com/beatussum/hyprland-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>icinga</name>
     <description lang="en">Gentoo Overlay Repository for Icinga2 related stuff</description>

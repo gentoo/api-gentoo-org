@@ -2637,6 +2637,18 @@
     <feed>https://github.com/milos-rs/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>mim</name>
+    <description lang="en">Aliaksei Urbanski's personal overlay</description>
+    <homepage>https://github.com/Jamim/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>aliaksei.urbanski@gmail.com</email>
+      <name>Aliaksei Urbanski</name>
+    </owner>
+    <source type="git">https://github.com/Jamim/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Jamim/gentoo-overlay.git</source>
+    <feed>https://github.com/Jamim/gentoo-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>miramir</name>
     <description lang="en">Miramir repository</description>
     <homepage>https://github.com/miramir/miramir-layman</homepage>

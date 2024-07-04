@@ -13,10 +13,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.ca.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>Gossamer Threads</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync2.ca.gentoo.org</uri>
-    </mirror>
-    <mirror>
       <name>Memorial University - rsync3.ca.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync3.ca.gentoo.org</uri>
     </mirror>

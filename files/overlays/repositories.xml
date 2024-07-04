@@ -880,17 +880,6 @@
     <feed>https://github.com/junghans/cj-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>cosmicmod-overlay</name>
-    <description>CosmicMod Overlay</description>
-    <homepage>https://github.com/cosmicoz/cosmicmod-overlay</homepage>
-    <owner type="person">
-      <email>oz@cosmicmod.net</email>
-      <name>Oz</name>
-    </owner>
-    <source type="git">https://github.com/cosmicoz/cosmicmod-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/cosmicoz/cosmicmod-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>cova</name>
     <description lang="en">Fabio Coatti Personal Overlay</description>
     <homepage>https://github.com/cova-fe/cova-overlay</homepage>

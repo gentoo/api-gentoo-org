@@ -634,6 +634,7 @@ redict				538		538		acct		Used by dev-db/redict
 microsoft-identity-broker	539		539		acct		Used by sys-auth/microsoft-identity-broker
 uuidd				540		540		acct		Used by sys-apps/util-linux
 chrony_exporter			541		541		acct		Used by app-metrics/chrony_exporter
+owntone				542		-		acct
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000	1000..60000	reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs

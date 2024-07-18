@@ -3111,6 +3111,17 @@
     <source type="git">git+ssh://git@github.com/rodan/overlay.git</source>
     <feed>https://github.com/rodan/overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>peeweep</name>
+    <description lang="en">Personal Gentoo overlay of peeweep</description>
+    <homepage>https://code.0x0.ee/peeweep/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>peeweep@0x0.ee</email>
+      <name>jinqiang zhang</name>
+    </owner>
+    <source type="git">https://code.0x0.ee/peeweep/gentoo-overlay.git</source>
+    <feed>https://code.0x0.ee/peeweep/gentoo-overlay/rss/branch/master</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>pentoo</name>
     <description>The overlay contains new or updated security tools.</description>

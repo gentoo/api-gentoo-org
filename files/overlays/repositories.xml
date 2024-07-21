@@ -4127,18 +4127,6 @@
     <feed>https://github.com/anyc/steam-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>stefantalpalaru</name>
-    <description lang="en">Gentoo overlay with ebuilds by Stefan Talpalaru that are not in the tree</description>
-    <homepage>https://github.com/stefantalpalaru/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>stefantalpalaru@yahoo.com</email>
-      <name>Stefan Talpalaru</name>
-    </owner>
-    <source type="git">https://github.com/stefantalpalaru/gentoo-overlay.git</source>
-    <source type="git">git@github.com:stefantalpalaru/gentoo-overlay.git</source>
-    <feed>https://github.com/stefantalpalaru/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>stephdewit</name>
     <description lang="en">Stéphane de Wit's personal overlay</description>
     <homepage>https://github.com/stephdewit/gentoo-overlay</homepage>

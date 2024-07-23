@@ -3421,6 +3421,18 @@
     <feed>https://github.com/Pross/pross-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ps3</name>
+    <description lang="en">Ebuilds for Gentoo on the PlayStation 3.</description>
+    <homepage>https://github.com/damiandudycz/ps3</homepage>
+    <owner type="person">
+      <email>damiandudycz@yahoo.com</email>
+      <name>Damian Dudycz</name>
+    </owner>
+    <source type="git">https://github.com/damiandudycz/ps3-gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/damiandudycz/ps3-gentoo-overlay.git</source>
+    <feed>https://github.com/damiandudycz/ps3-gentoo-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>pyfa</name>
     <description lang="en">Newest versions of Pyfa (Python fitting assistant for EVE Online)</description>
     <homepage>https://github.com/ZeroPointEnergy/gentoo-pyfa-overlay</homepage>

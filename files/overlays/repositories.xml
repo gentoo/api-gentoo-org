@@ -4196,6 +4196,17 @@
     <feed>https://github.com/istitov/stuff/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>suckless-extra</name>
+    <description lang="en">A collection of suckless programs that are not in the main repo as well as their dependencies and setup scripts</description>
+    <homepage>https://git.stellar-nexus.ru/suckless-extra/log.html</homepage>
+    <owner type="person">
+      <email>gentoo@stellar-nexus.ru</email>
+      <name>Plat</name>
+    </owner>
+    <source type="git">git://git.stellar-nexus.ru/suckless-extra</source>
+    <feed>https://git.stellar-nexus.ru/suckless-extra/atom.xml</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>suckless_wl_zh</name>
     <description lang="en">contains dwl integrated with Chinese input method. rfm file manager, which works well with dwl and dwm</description>
     <homepage>https://github.com/guyuming76/suckless_wl_zh</homepage>

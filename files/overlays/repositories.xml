@@ -1488,11 +1488,11 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>flussence</name>
-    <description lang="en">Ant P.'s personal overlay</description>
+    <description lang="en">flussenceʼs personal overlay</description>
     <homepage>https://repo.or.cz/flussence-overlay.git</homepage>
     <owner type="person">
-      <email>ant+gentoo.bugs@flussence.eu</email>
-      <name>Anthony Parsons</name>
+      <email>gentoo+bugs@flussence.eu</email>
+      <name>Enne Eziarc</name>
     </owner>
     <source type="git">https://repo.or.cz/flussence-overlay.git</source>
     <source type="git">git://repo.or.cz/flussence-overlay.git</source>

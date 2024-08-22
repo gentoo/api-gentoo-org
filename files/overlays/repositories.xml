@@ -2884,6 +2884,18 @@
     <source type="git">git+ssh://git@codeberg.org/nezbednik/repo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ngg</name>
+    <description lang="en">ngg's personal overlay</description>
+    <homepage>https://github.com/ngg/ngg-gentoo-overlay</homepage>
+    <owner type="person">
+      <email>ngg@ngg.hu</email>
+      <name>Gergely Nagy</name>
+    </owner>
+    <source type="git">https://github.com/ngg/ngg-gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/ngg/ngg-gentoo-overlay.git</source>
+    <feed>https://github.com/ngg/ngg-gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>nico</name>
     <description lang="en">various ebuilds</description>
     <homepage>https://cgit.gentoo.org/user/nico.git/</homepage>

@@ -1385,6 +1385,18 @@
     <feed>https://github.com/flammie/flammie-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>flash-games</name>
+    <description lang="en">Old flash games, with Ruffle as dependency</description>
+    <homepage>https://gitlab.com/gentoo-overlays-by-vitaly-zdanevich/flash-games</homepage>
+    <owner type="person">
+      <email>zdanevich.vitaly@ya.ru</email>
+      <name>Vitaly Zdanevich</name>
+    </owner>
+    <source type="git">https://gitlab.com/gentoo-overlays-by-vitaly-zdanevich/flash-games.git</source>
+    <source type="git">git+ssh://git@gitlab.com:gentoo-overlays-by-vitaly-zdanevich/flash-games.git</source>
+    <feed>https://gitlab.com/gentoo-overlays-by-vitaly-zdanevich/flash-games/-/commits/main?format=atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>flavour</name>
     <description lang="en">Personal overlay of Wim Muskee</description>
     <homepage>https://github.com/wimmuskee/flavour</homepage>

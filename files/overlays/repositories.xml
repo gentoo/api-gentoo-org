@@ -2038,6 +2038,18 @@
     <source type="git">git+ssh://git@github.com/antonfischl1980/icinga.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>imperium</name>
+    <description lang="en">Personal ebuild repository for personal projects</description>
+    <homepage>https://gitlab.com/HansvonHohenstaufen/imperium.git</homepage>
+    <owner type="person">
+      <email>Hans.von.Hohenstaufen@protonmail.com</email>
+      <name>Hans von Hohenstaufen</name>
+    </owner>
+    <source type="git">https://gitlab.com/HansvonHohenstaufen/imperium.git</source>
+    <source type="git">git+ssh://git@gitlab.com/HansvonHohenstaufen/imperium.git</source>
+    <feed>https://gitlab.com/HansvonHohenstaufen/imperium/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>inode64-overlay</name>
     <description lang="en">Server overlay, virtualization, developer tools and misc apps</description>
     <description lang="es">Overlay de servidores, virtualización, herramientas para desarrolladores y aplicaciones varias</description>

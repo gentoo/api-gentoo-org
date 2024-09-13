@@ -5050,6 +5050,18 @@
     <source type="rsync">rsync://gentoo.zugaina.org/zugaina-portage</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>anonch</name>
+    <description lang="en">Personal overlay with Deep Learning and Data Science tools.</description>
+    <homepage>https://github.com/Anoncheg1/anonch-overlay</homepage>
+    <owner type="person">
+      <email>vitalij@gmx.com</email>
+      <name>Anoncheg1</name>
+    </owner>
+    <source type="git">https://github.com/Anoncheg1/anonch-overlay.git</source>
+    <source type="git">git@github.com:Anoncheg1/anonch-overlay.git</source>
+    <feed>https://github.com/Anoncheg1/anonch-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>zyrenth</name>
     <description lang="en">Personal overlay</description>
     <homepage>https://github.com/kabili207/zyrenth-overlay</homepage>

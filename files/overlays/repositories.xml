@@ -2317,6 +2317,18 @@
     <feed>https://github.com/positivelab/lab-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>lamdness</name>
+    <description lang="en">Personal overlay of grouzen, mostly containing LLM-related and Rust packages</description>
+    <homepage>https://github.com/grouzen/lamdness-overlay</homepage>
+    <owner type="person">
+      <email>michael.nedokushev@gmail.com</email>
+      <name>Mykhailo Nedokushev</name>
+    </owner>
+    <source type="git">https://github.com/grouzen/lamdness-overlay.git</source>
+    <source type="git">git+ssh://git@github.com:grouzen/lamdness-overlay.git</source>
+    <feed>https://github.com/grouzen/lamdness-overlay/commits.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>lanodanOverlay</name>
     <description lang="en">Personal repository of lanodan, mostly experiments and personal changes</description>
     <homepage>https://hacktivis.me/git/overlay</homepage>

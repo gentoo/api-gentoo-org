@@ -4306,12 +4306,12 @@
   <repo quality="experimental" status="unofficial">
     <name>tastytea</name>
     <description lang="en">Overlay of tastytea</description>
-    <homepage>https://schlomp.space/tastytea/overlay</homepage>
+    <homepage>https://codeberg.org/tastytea/gentoo-overlay</homepage>
     <owner type="person">
       <email>gentoo@tastytea.de</email>
       <name>tastytea</name>
     </owner>
-    <source type="git">https://schlomp.space/tastytea/overlay.git</source>
+    <source type="git">https://codeberg.org/tastytea/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>tatsh-overlay</name>

@@ -2030,7 +2030,7 @@
     <description lang="en">Personal ebuild repository for personal projects</description>
     <homepage>https://gitlab.com/HansvonHohenstaufen/imperium.git</homepage>
     <owner type="person">
-      <email>HansvonHohenstaufen@protonmail.com</email>
+      <email>Hans.von.Hohenstaufen@protonmail.com</email>
       <name>Hans von Hohenstaufen</name>
     </owner>
     <source type="git">https://gitlab.com/HansvonHohenstaufen/imperium.git</source>

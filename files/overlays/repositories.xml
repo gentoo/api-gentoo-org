@@ -1196,6 +1196,18 @@
     <feed>https://github.com/EmilienMottet/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>emlove</name>
+    <description lang="en">Emily Love Watson's personal overlay</description>
+    <homepage>https://github.com/emlove/overlay</homepage>
+    <owner type="person">
+      <email>emily@emlove.me</email>
+      <name>Emily Love Watson</name>
+    </owner>
+    <source type="git">https://github.com/emlove/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/emlove/overlay.git</source>
+    <feed>https://github.com/emlove/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>enlightenment-live</name>
     <description lang="en">Enlightenment WM latest stable version and live ebuilds</description>
     <homepage>https://github.com/rafspiny/enlightenment-live</homepage>

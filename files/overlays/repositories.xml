@@ -2086,6 +2086,17 @@
     <source type="git">git+ssh://git@github.com/jabuxas/overlay.git</source>
     <feed>https://github.com/jabuxas/overlay/commits/main.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>jacksonchen666</name>
+    <description lang="en">jacksonchen666's personal overlay</description>
+    <homepage>https://sr.ht/~jacksonchen666/gentoo-overlay/</homepage>
+    <owner type="person">
+      <email>gentoo@jacksonchen666.com</email>
+      <name>Jackson</name>
+    </owner>
+    <source type="git">https://git.sr.ht/~jacksonchen666/gentoo-overlay</source>
+    <feed>https://git.sr.ht/~jacksonchen666/gentoo-overlay/log/rss.xml</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>java</name>
     <description lang="en">Java overlay</description>

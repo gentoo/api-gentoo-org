@@ -2556,6 +2556,18 @@
     <feed>https://cgit.gentoo.org/dev/maekke.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/maekke.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="official">
+    <name>masterlay</name>
+    <description>Misc ebuilds by Yury Oboz</description>
+    <homepage>https://github.com/thankjura/masterlay</homepage>
+    <owner type="person">
+      <email>me@slie.ru</email>
+      <name>Yury Oboz</name>
+    </owner>
+    <source type="git">https://github.com/thankjura/masterlay.git</source>
+    <source type="git">git+ssh://git@github.com/thankjura/masterlay.git</source>
+    <feed>https://github.com/thankjura/masterlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>mate-de-gentoo</name>
     <description lang="en">Updated ebuilds for mate-desktop environment</description>

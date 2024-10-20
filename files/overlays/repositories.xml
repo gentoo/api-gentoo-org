@@ -5017,6 +5017,18 @@
     <feed>https://github.com/yandex-gentoo/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>yellow</name>
+    <description lang="en">Personal overlay. Mainly wayland stuff and their dev-* dependencies. Some altered ebuilds (alacritty+sixel,virt-manager,...)</description>
+    <homepage>https://github.com/jasongantner/Yellow</homepage>
+    <owner type="person">
+      <email>jason@gantner.pw</email>
+      <name>Jason André Charles Gantner</name>
+    </owner>
+    <source type="git">https://github.com/jasongantner/Yellow.git</source>
+    <source type="git">git+ssh://git@github.com/jasongantner/Yellow.git</source>
+    <feed>https://github.com/jasongantner/Yellow/commits/stable.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>yurij-overlay</name>
     <description lang="en">Yurij's overlay</description>
     <homepage>https://github.com/yurijmikhalevich/yurij-overlay</homepage>

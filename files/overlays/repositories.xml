@@ -1355,10 +1355,10 @@
     <name>fidonet</name>
     <description lang="en">Overlay of Benny Pedersen</description>
     <owner type="person">
-      <email>me@junc.org</email>
+      <email>me@junc.eu</email>
       <name>Benny Pedersen</name>
     </owner>
-    <source type="rsync">rsync://fidonet.overlay.junc.org/fidonet/</source>
+    <source type="rsync">rsync://fido.junc.eu/fidonet/</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>FireBurn</name>

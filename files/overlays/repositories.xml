@@ -2897,14 +2897,14 @@
   <repo quality="experimental" status="unofficial">
     <name>natinst</name>
     <description lang="en">VISA and National Instruments drivers</description>
-    <homepage>https://github.com/AndrewAmmerlaan/natinst</homepage>
+    <homepage>https://github.com/Nowa-Ammerlaan/natinst</homepage>
     <owner type="person">
-      <email>andrewammerlaan@gentoo.org</email>
-      <name>Andrew Ammerlaan</name>
+      <email>nowa@gentoo.org</email>
+      <name>Nowa Ammerlaan</name>
     </owner>
-    <source type="git">https://github.com/AndrewAmmerlaan/natinst.git</source>
-    <source type="git">git+ssh://git@github.com/AndrewAmmerlaan/natinst.git</source>
-    <feed>https://github.com/AndrewAmmerlaan/natinst/commits/master.atom</feed>
+    <source type="git">https://github.com/Nowa-Ammerlaan/natinst.git</source>
+    <source type="git">git+ssh://git@github.com/Nowa-Ammerlaan/natinst.git</source>
+    <feed>https://github.com/Nowa-Ammerlaan/natinst/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>nelson-graca</name>

@@ -2434,6 +2434,18 @@
     <source type="git">git+ssh://git@github.com/lima-limon-inc/lemon-lime-overlay.git</source>
     <feed>https://github.com/lima-limon-inc/lemon-lime-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>lemonxah-overlay</name>
+    <description lang="en">Personal overlay</description>
+    <homepage>https://github.com/lemonxah/lemonxah-overlay</homepage>
+    <owner type="person">
+      <email>lemonxah@gmail.com</email>
+      <name>Ryno Kotze</name>
+    </owner>
+    <source type="git">https://github.com/lemonxah/lemonxah-overlay</source>
+    <source type="git">git@github.com:lemonxah/lemonxah-overlay.git</source>
+    <feed>https://github.com/lemonxah/lemonxah-overlay/commits/main.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>libressl</name>
     <description lang="en">LibreSSL ebuilds testing repository</description>

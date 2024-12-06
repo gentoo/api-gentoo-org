@@ -1587,18 +1587,6 @@
     <source type="git">git+ssh://git@github.com/fritteli/gentoo-overlay.git</source>
     <feed>https://github.com/fritteli/gentoo-overlay/commits/main.atom</feed>
   </repo>
-  <repo quality="stable" status="official">
-    <name>frr-gentoo</name>
-    <description lang="en">Free Range Routing Gentoo Overlay</description>
-    <homepage>https://frrouting.org/</homepage>
-    <owner type="person">
-      <email>f0o@devilcode.org</email>
-      <name>Daniel 'f0o' Preussker</name>
-    </owner>
-    <source type="git">https://github.com/FRRouting/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/FRRouting/gentoo-overlay.git</source>
-    <feed>https://github.com/FRRouting/gentoo-overlay/commits/master.atom</feed>
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>fyn-overlay</name>
     <description lang="en">fyn 's personal overlay</description>

@@ -1037,6 +1037,18 @@
     <source type="git">git://git.calculate-linux.org/calculate/distros-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>dj</name>
+    <description lang="en">Personal overlay, mostly for apps I use and havent found them elsewhere.</description>
+    <homepage>https://github.com/DJManas/dj</homepage>
+    <owner type="person">
+      <email>sourek.petr@gmail.com</email>
+      <name>Petr Šourek</name>
+    </owner>
+    <source type="git">https://github.com/DJManas/dj.git</source>
+    <source type="git">git@github.com:DJManas/dj.git</source>
+    <feed>https://github.com/DJManas/dj/commits/develop.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>djc</name>
     <description lang="en">Personal overlay; testing and early development</description>
     <homepage>https://github.com/djc/djc-overlay</homepage>

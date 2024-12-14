@@ -4602,6 +4602,16 @@
     <feed>https://github.com/dallenwilson/trolltoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>trufhole</name>
+    <homepage>https://github.com/truffle0/trufhole</homepage>
+    <owner type="person">
+      <email>truffle074@gmail.com</email>
+      <name>truffle</name>
+    </owner>
+    <source type="git">https://github.com/truffle0/trufhole</source>
+    <source type="git">git+ssh://git@github.com/truffle0/trufhole.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>tryton</name>
     <description>Tryton</description>
     <homepage>http://www.tryton.org/</homepage>

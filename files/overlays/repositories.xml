@@ -813,16 +813,6 @@
     <source type="git">git+ssh://git@codeberg.org/Case_Of/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>cdlp</name>
-    <description>Random/Custom ebuilds, no-(dbus,systemd,pam,polkit,elogind ...) stuff</description>
-    <homepage>https://codeberg.org/phranz/cdlp</homepage>
-    <owner type="person">
-      <email>phranz@subfc.net</email>
-      <name>Francesco Palumbo</name>
-    </owner>
-    <source type="git">https://codeberg.org/phranz/cdlp.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ceamac</name>
     <description lang="en">This is a small Gentoo overlay with ebuilds that I could not find elsewhere or that I had to modify for some reason.</description>
     <homepage>https://github.com/ceamac/overlay</homepage>

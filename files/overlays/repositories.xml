@@ -1037,7 +1037,7 @@
     <source type="git">git://git.calculate-linux.org/calculate/distros-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>dj</name>
+    <name>djs_overlay</name>
     <description lang="en">Personal overlay, mostly for apps I use and havent found them elsewhere.</description>
     <homepage>https://github.com/DJManas/dj</homepage>
     <owner type="person">

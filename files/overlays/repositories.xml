@@ -558,7 +558,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>bentoo</name>
-    <description lang="en">An overlay of user-friendly "Stage5" of Gentoo Linux.</description>
+    <description lang="en">An overlay of user-friendly &quot;Stage5&quot; of Gentoo Linux.</description>
     <homepage>https://github.com/lucascouts/bentoo.git</homepage>
     <owner type="person">
       <email>lucascs@protonmail.com</email>

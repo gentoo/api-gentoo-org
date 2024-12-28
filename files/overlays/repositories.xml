@@ -801,18 +801,6 @@
     <feed>https://github.com/calendulish/Overlays/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>canutethegreat-overlay</name>
-    <description lang="en">Overlay for personal projects, forks, and customizations</description>
-    <homepage>http://gentoo.canutethegreat.com/</homepage>
-    <owner type="person">
-      <email>canutethegreat@gmail.com</email>
-      <name>Ronald Farrer</name>
-    </owner>
-    <source type="git">https://github.com/CanuteTheGreat/canutethegreat-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/CanuteTheGreat/canutethegreat-overlay.git</source>
-    <feed>https://github.com/CanuteTheGreat/canutethegreat-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>Case_Of</name>
     <description lang="en">Personal overlay</description>
     <homepage>https://codeberg.org/Case_Of/gentoo-overlay</homepage>

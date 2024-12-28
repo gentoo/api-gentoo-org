@@ -1674,18 +1674,6 @@
     <source type="git">git+ssh://git@gitlab.com:stikonas/gentoo-bootstrap.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>gentoo-linux-surface-overlay</name>
-    <description lang="en">Overlay for running Gentoo Linux on Microsoft Surface devices.</description>
-    <homepage>http://gentoo.canutethegreat.com/</homepage>
-    <owner type="person">
-      <email>canutethegreat@gmail.com</email>
-      <name>Ronald Farrer</name>
-    </owner>
-    <source type="git">https://github.com/CanuteTheGreat/gentoo-linux-surface-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/CanuteTheGreat/gentoo-linux-surface-overlay.git</source>
-    <feed>https://github.com/CanuteTheGreat/gentoo-linux-surface-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>gentoo-unity7</name>
     <description lang="en">A Gentoo overlay to build the Unity7 user interface</description>
     <homepage>https://github.com/c4pp4/gentoo-unity7</homepage>

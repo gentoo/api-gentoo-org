@@ -617,20 +617,6 @@
     <source type="git">git+ssh://git@github.com/tkemmer/binaryden.git</source>
     <feed>https://github.com/tkemmer/binaryden/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
-    <name>bircoph</name>
-    <description lang="en">Developer overlay</description>
-    <homepage>https://cgit.gentoo.org/dev/bircoph.git/</homepage>
-    <owner type="person">
-      <email>bircoph@gentoo.org</email>
-      <name>Andrew Savchenko</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/dev/bircoph.git</source>
-    <source type="git">git://anongit.gentoo.org/dev/bircoph.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/dev/bircoph.git</source>
-    <feed>https://cgit.gentoo.org/dev/bircoph.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/dev/bircoph.git/rss/</feed> -->
-  </repo>
   <repo quality="experimental" status="unofficial">
     <name>bitcoin</name>
     <description>Bitcoin and CPU/GPU mining related ebuilds</description>

@@ -4554,6 +4554,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>trufhole</name>
+    <description>truffle's overlay, has a few odd packages and experimental patches</description>
     <homepage>https://github.com/truffle0/trufhole</homepage>
     <owner type="person">
       <email>truffle074@gmail.com</email>

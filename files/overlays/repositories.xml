@@ -2716,6 +2716,18 @@
     <feed>https://github.com/miramir/miramir-layman/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>mndz</name>
+    <description lang="en">mndz's Gentoo overlay</description>
+    <homepage>https://github.com/0x6d6e647a/mndz-overlay</homepage>
+    <owner type="person">
+      <email>0x6d6e647a@gmail.com</email>
+      <name>Anthony Mendez</name>
+    </owner>
+    <source type="git">https://github.com/0x6d6e647a/mndz-overlay.git</source>
+    <source type="git">git+ssh://git@github.com:0x6d6e647a/mndz-overlay.git</source>
+    <feed>https://github.com/0x6d6e647a/mndz-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>mnt-reform</name>
     <description lang="en">Overlay containing ebuilds for the MNT Reform line of open hardware computers</description>
     <homepage>https://source.mnt.re/vimja/mnt-reform-overlay</homepage>

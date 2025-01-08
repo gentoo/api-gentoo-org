@@ -867,6 +867,15 @@
     <feed>https://github.com/junghans/cj-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>combinatorica-classica-overlay</name>
+    <description>Combinatorica classica overlay</description>
+    <homepage>https://gitflic.ru/project/dcc0/combinatorica-classica-overlay</homepage>
+    <owner type="person">
+      <email>dcc0@yandex.ru</email>
+    </owner>
+    <source type="git">https://gitflic.ru/project/dcc0/combinatorica-classica-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>cova</name>
     <description lang="en">Fabio Coatti Personal Overlay</description>
     <homepage>https://github.com/cova-fe/cova-overlay</homepage>

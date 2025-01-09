@@ -2370,6 +2370,17 @@
     <feed>https://hacktivis.me/git/overlay/atom.xml</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>lastrodamo</name>
+    <description lang="en">Personal overlay</description>
+    <homepage>https://codeberg.org/lastrodamo/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>lastrodamo@etik.com</email>
+      <name>Damien Monteillard</name>
+    </owner>
+    <source type="git">https://codeberg.org/lastrodamo/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org/lastrodamo/gentoo-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ledgersmb</name>
     <description lang="en">LedgerSMB and dependencies not yet in Gentoo</description>
     <homepage>https://github.com/ledgersmb/lsmb-overlay</homepage>

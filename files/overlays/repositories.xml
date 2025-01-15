@@ -4170,18 +4170,6 @@
     <feed>https://github.com/spring/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>src_prepare-overlay</name>
-    <description lang="en">src_prepare group's Gentoo overlay</description>
-    <homepage>https://gitlab.com/src_prepare/src_prepare-overlay.git</homepage>
-    <owner type="person">
-      <email>xgqt@gentoo.org</email>
-      <name>Maciej Barć</name>
-    </owner>
-    <source type="git">https://gitlab.com/src_prepare/src_prepare-overlay.git</source>
-    <source type="git">git+ssh://git@gitlab.com/src_prepare/src_prepare-overlay.git</source>
-    <feed>https://gitlab.com/src_prepare/src_prepare-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ssnb</name>
     <description>Gentoo repository made by ssnb</description>
     <homepage>https://cgit.gentoo.org/repo/user/ssnb.git/</homepage>

@@ -1730,7 +1730,7 @@
         <name>Ryan Le VERRE</name>
       </owner>
       <source type="git">https://github.com/OuraN2O/gentouranos.git</source>
-      <source type="git">git@github.com/OuraN2O/gentouranos.git</source>
+      <source type="git">git@github.com:OuraN2O/gentouranos.git</source>
       <feed>https://github.com/OuraN2O/gentouranos/commits/main.atom</feed>
     </repo>
   <repo quality="experimental" status="unofficial">

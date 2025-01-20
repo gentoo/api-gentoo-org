@@ -1287,6 +1287,18 @@
     <feed>https://github.com/eugene-bright/eugene-bright-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ex_repo</name>
+    <description lang="en">Arniiiii's overlay. Mostly C++ related.</description>
+    <homepage>https://github.com/Arniiiii/ex_repo</homepage>
+    <owner type="person">
+      <email>lg3dx6fd@gmail.com</email>
+      <name>Arniiiii</name>
+    </owner>
+    <source type="git">https://github.com/Arniiiii/ex_repo.git</source>
+    <source type="git">git+ssh://git@github.com/Arniiiii/ex_repo.git</source>
+    <feed>https://github.com/Arniiiii/ex_repo/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ext-devlibs</name>
     <description lang="en">Mostly c/c++ and python libraries</description>
     <homepage>https://gitlab.com/extsidvind/ext-devlibs</homepage>

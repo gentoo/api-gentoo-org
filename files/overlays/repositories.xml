@@ -528,6 +528,18 @@
     <feed>https://github.com/wthrowe/barnowl-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>battlepenguin</name>
+    <description lang="en">BattlePenguin Project Overlays</description>
+    <homepage>https://battlepenguin.com</homepage>
+    <owner type="person">
+      <email>notify@battlepenguin.com</email>
+      <name>Sumit Khanna</name>
+    </owner>
+    <source type="git">https://gitlab.com/djsumdog/battlepenguin-gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com:djsumdog/battlepenguin-gentoo-overlay.git</source>
+    <feed>https://gitlab.com/djsumdog/battlepenguin-gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>beatussum-overlay</name>
     <description lang="en">Beatussum's overlay</description>
     <description lang="fr">Overlay de Beatussum</description>

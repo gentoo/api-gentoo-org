@@ -4700,17 +4700,6 @@
     <feed>https://github.com/xartin/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>vaacus</name>
-    <description lang="en">A personal overlay for the void.</description>
-    <homepage>https://gitlab.com/plexvola/vaacus</homepage>
-    <owner type="person">
-      <email>thinkplex@riseup.net</email>
-      <name>Quentin Lombardo</name>
-    </owner>
-    <source type="git">https://gitlab.com/plexvola/vaacus.git</source>
-    <feed>https://gitlab.com/plexvola/vaacus/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>vapoursynth</name>
     <description lang="en">Unofficial repository with all vapoursynth related ebuilds</description>
     <homepage>https://github.com/4re/vapoursynth-portage</homepage>

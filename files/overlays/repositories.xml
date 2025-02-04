@@ -528,6 +528,18 @@
     <feed>https://github.com/wthrowe/barnowl-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>battlepenguin</name>
+    <description lang="en">BattlePenguin Project Overlays</description>
+    <homepage>https://battlepenguin.com</homepage>
+    <owner type="person">
+      <email>notify@battlepenguin.com</email>
+      <name>Sumit Khanna</name>
+    </owner>
+    <source type="git">https://gitlab.com/djsumdog/battlepenguin-gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com:djsumdog/battlepenguin-gentoo-overlay.git</source>
+    <feed>https://gitlab.com/djsumdog/battlepenguin-gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>beatussum-overlay</name>
     <description lang="en">Beatussum's overlay</description>
     <description lang="fr">Overlay de Beatussum</description>
@@ -1285,6 +1297,18 @@
     <source type="git">https://github.com/eugene-bright/eugene-bright-overlay.git</source>
     <source type="git">git@github.com:eugene-bright/eugene-bright-overlay.git</source>
     <feed>https://github.com/eugene-bright/eugene-bright-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>ex_repo</name>
+    <description lang="en">Arniiiii's overlay. Mostly C++ related.</description>
+    <homepage>https://github.com/Arniiiii/ex_repo</homepage>
+    <owner type="person">
+      <email>lg3dx6fd@gmail.com</email>
+      <name>Arniiiii</name>
+    </owner>
+    <source type="git">https://github.com/Arniiiii/ex_repo.git</source>
+    <source type="git">git+ssh://git@github.com/Arniiiii/ex_repo.git</source>
+    <feed>https://github.com/Arniiiii/ex_repo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ext-devlibs</name>

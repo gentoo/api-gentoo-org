@@ -1745,18 +1745,18 @@
     <source type="git">git@github.com:Eugeniusz-Gienek/gentooplusplus.git</source>
     <feed>https://github.com/Eugeniusz-Gienek/gentooplusplus/commits/master/atom</feed>
   </repo>
-    <repo quality="experimental" status="unofficial">
-      <name>gentouranos</name>
-      <description lang="en">Personal overlay mainly to keep anki up to date</description>
-      <homepage>https://github.com/OuraN2O/gentouranos</homepage>
-      <owner type="person">
-        <email>ryan.leverre@gmail.com</email>
-        <name>Ryan Le VERRE</name>
-      </owner>
-      <source type="git">https://github.com/OuraN2O/gentouranos.git</source>
-      <source type="git">git@github.com:OuraN2O/gentouranos.git</source>
-      <feed>https://github.com/OuraN2O/gentouranos/commits/main.atom</feed>
-    </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>gentouranos</name>
+    <description lang="en">Personal overlay mainly to keep anki up to date</description>
+    <homepage>https://github.com/OuraN2O/gentouranos</homepage>
+    <owner type="person">
+      <email>ryan.leverre@gmail.com</email>
+      <name>Ryan Le VERRE</name>
+    </owner>
+    <source type="git">https://github.com/OuraN2O/gentouranos.git</source>
+    <source type="git">git@github.com:OuraN2O/gentouranos.git</source>
+    <feed>https://github.com/OuraN2O/gentouranos/commits/main.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>gerislay</name>
     <description lang="en">A personal overlay with no specific focus (mainly to

@@ -1454,12 +1454,12 @@
   <repo quality="experimental" status="unofficial">
     <name>flewkey-overlay</name>
     <description lang="en">Personal Gentoo overlay for flewkey</description>
-    <homepage>https://git.sdf.org/flewkey/flewkey-overlay</homepage>
+    <homepage>https://codeberg.org/flewkey/flewkey-overlay</homepage>
     <owner type="person">
       <email>flewkey@2a03.party</email>
       <name>Ryan Fox</name>
     </owner>
-    <source type="git">https://git.sdf.org/flewkey/flewkey-overlay.git</source>
+    <source type="git">https://codeberg.org/flewkey/flewkey-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>flexibeast</name>

@@ -638,6 +638,7 @@ owntone				542		-		acct
 sssd				543		543		acct
 stalwart-mail			544		544		acct		Used by net-mail/stalwart
 gnome-remote-desktop		545		545		acct		Used by net-misc/gnome-remote-desktop
+tlsrpt-reporter			546		546		acct		Used by net-mail/tlsrpt-reporter
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000	1000..60000	reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs

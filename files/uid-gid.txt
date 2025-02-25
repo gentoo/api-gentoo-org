@@ -635,6 +635,7 @@ microsoft-identity-broker	539		539		acct		Used by sys-auth/microsoft-identity-br
 uuidd				540		540		acct		Used by sys-apps/util-linux
 chrony_exporter			541		541		acct		Used by app-metrics/chrony_exporter
 owntone				542		-		acct
+sandmann-ctrl			-		542		acct		Used by sys-power/sandmann-bin
 sssd				543		543		acct
 stalwart-mail			544		544		acct		Used by net-mail/stalwart
 gnome-remote-desktop		545		545		acct		Used by net-misc/gnome-remote-desktop

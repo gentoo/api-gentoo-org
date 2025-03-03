@@ -1153,6 +1153,18 @@
     <feed>https://github.com/rion-overlay/ejabberd-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>elanmoc2-overlay</name>
+    <description lang="en">contains sys-auth/fprintd and sys-auth/libfprint (with driver elanmoc2) package, support for Elan 04f3:0c00 fingerprint sensor</description>
+    <homepage>https://github.com/tht2005/elanmoc2-overlay</homepage>
+    <owner type="person">
+      <email>dangduong31205@gmail.com</email>
+      <name>Nguyen Dinh Dang Duong</name>
+    </owner>
+    <source type="git">https://github.com/tht2005/elanmoc2-overlay.git</source>
+    <source type="git">git@github.com:tht2005/elanmoc2-overlay.git</source>
+    <feed>https://github.com/tht2005/elanmoc2-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>electron</name>
     <description lang="en">Electron Overlay</description>
     <homepage>https://github.com/elprans/electron-overlay</homepage>

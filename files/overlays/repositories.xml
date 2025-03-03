@@ -352,6 +352,16 @@
     <feed>https://github.com/anomen-s/anomen-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>anonch</name>
+    <description lang="en">Personal overlay with wifi drivers and machine learning tools.</description>
+    <homepage>https://github.com/Anoncheg1</homepage>
+    <owner type="person">
+      <email>vitalij@gmx.com</email>
+    </owner>
+    <source type="git">https://github.com/Anoncheg1/anonch-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Anoncheg1/anonch-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>antons-matrix-overlay</name>
     <description lang="en">Packages related to matrix.org messaging system</description>
     <homepage>https://gitlab.com/anton.molyboha.group/gentoo/overlays/matrix</homepage>

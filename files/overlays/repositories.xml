@@ -3227,14 +3227,13 @@
   <repo quality="experimental" status="unofficial">
     <name>peec</name>
     <description lang="en">Personal Gentoo overlay of Petre Rodan</description>
-    <homepage>https://github.com/rodan/overlay</homepage>
+    <homepage>https://codeberg.org/subDIMENSION/gentoo-overlay</homepage>
     <owner type="person">
       <email>petre.rodan@subdimension.ro</email>
       <name>Petre Rodan</name>
     </owner>
-    <source type="git">https://github.com/rodan/overlay.git</source>
-    <source type="git">git+ssh://git@github.com/rodan/overlay.git</source>
-    <feed>https://github.com/rodan/overlay/commits/master.atom</feed>
+    <source type="git">https://codeberg.org/subDIMENSION/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org:subDIMENSION/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>peeweep</name>

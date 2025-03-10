@@ -3140,6 +3140,18 @@
     <feed>https://github.com/olifre/olifre-portage/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>omrifiji</name>
+    <description lang="en">Overlay for games and anime related packages.</description>
+    <homepage>https://github.com/OMRIFIJI/omrifiji-overlay</homepage>
+    <owner type="person">
+      <email>amirkarimov46@gmail.com</email>
+      <name>Amir Karimov</name>
+    </owner>
+    <source type="git">https://github.com/OMRIFIJI/omrifiji-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/OMRIFIJI/omrifiji-overlay.git</source>
+    <feed>https://github.com/OMRIFIJI/omrifiji-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>openclonk</name>
     <description lang="en">Overlay for the game OpenClonk</description>
     <homepage>http://www.openclonk.org/</homepage>

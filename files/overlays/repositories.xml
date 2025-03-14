@@ -879,6 +879,17 @@
     <feed>https://github.com/junghans/cj-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>coffeeknife-overlay</name>
+    <description lang="en">personal overlay for packages i need</description>
+    <homepage>https://github.com/coffeeknife/coffeeknife-overlay</homepage>
+    <owner type="person">
+      <email>coffeeknife@proton.me</email>
+      <name>coffeeknife</name>
+    </owner>
+    <source type="git">git://github.com/coffeeknife/coffeeknife-overlay.git</source>
+    <feed>https://github.com/coffeeknife/coffeeknife-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>combinatorica-classica-overlay</name>
     <description>Combinatorica classica overlay</description>
     <homepage>https://gitflic.ru/project/dcc0/combinatorica-classica-overlay</homepage>

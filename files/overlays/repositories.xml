@@ -731,17 +731,6 @@
     <feed>https://github.com/BROverlay/overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>bubba</name>
-    <description lang="en">"Bubba" platform support for Excito B2|3</description>
-    <homepage>https://github.com/gordonb3/bubba-overlay</homepage>
-    <owner type="person">
-      <email>gordon@bosvangennip.nl</email>
-      <name>Gordon Bos</name>
-    </owner>
-    <source type="git">https://github.com/gordonb3/bubba-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/gordonb3/bubba-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>bumblebee</name>
     <description lang="en">Packages related to the bumblebee project</description>
     <homepage>https://github.com/Bumblebee-Project/bumblebee-gentoo/</homepage>

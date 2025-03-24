@@ -4570,13 +4570,14 @@
   <repo quality="experimental" status="unofficial">
     <name>thuis</name>
     <description lang="en">An overlay that feels like home</description>
-    <homepage>https://codeberg.org/emneo/thuis</homepage>
+    <homepage>https://github.com/emneo-dev/thuis</homepage>
     <owner type="person">
       <email>emneo@kreog.com</email>
       <name>Emily Flion</name>
     </owner>
-    <source type="git">git+https://codeberg.org/emneo/thuis.git</source>
-    <feed>https://codeberg.org/emneo/thuis.rss</feed>
+    <source type="git">https://github.com/emneo-dev/thuis.git</source>
+    <source type="git">git+ssh://git@github.com:emneo-dev/thuis.git</source>
+    <feed>https://github.com/emneo-dev/thuis/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>tmacedo</name>

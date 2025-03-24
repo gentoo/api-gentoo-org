@@ -4575,7 +4575,8 @@
       <email>emneo@kreog.com</email>
       <name>Emily Flion</name>
     </owner>
-    <source type="git">git+https://codeberg.org/emneo/thuis.git</source>
+    <source type="git">https://codeberg.org/emneo/thuis.git</source>
+    <source type="git">git@codeberg.org:emneo/thuis.git</source>
     <feed>https://codeberg.org/emneo/thuis.rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

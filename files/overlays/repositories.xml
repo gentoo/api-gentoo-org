@@ -1686,6 +1686,13 @@
       <email>bug-wranglers@gentoo.org</email>
     </owner>
     <source type="rsync">rsync://rsync.gentoo.org/gentoo-portage</source>
+    <!-- repositories with extra metadata and md5-cache -->
+    <source type="git">https://github.com/gentoo-mirror/gentoo.git</source>
+    <source type="git">git+ssh://github.com/gentoo-mirror/gentoo.git</source>
+    <source type="git">https://anongit.gentoo.org/git/repo/sync/gentoo.git</source>
+    <source type="git">git://anongit.gentoo.org/repo/sync/gentoo.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/sync/gentoo.git</source>
+    <!-- bare repositories -->
     <source type="git">https://anongit.gentoo.org/git/repo/gentoo.git</source>
     <source type="git">git://anongit.gentoo.org/repo/gentoo.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/repo/gentoo.git</source>
@@ -1924,6 +1931,12 @@
       <email>guru@gentoo.org</email>
       <name>GURU</name>
     </owner>
+    <!-- repositories with extra metadata and md5-cache -->
+    <source type="git">https://github.com/gentoo-mirror/guru.git</source>
+    <source type="git">git+ssh://github.com/gentoo-mirror/guru.git</source>
+    <source type="git">https://anongit.gentoo.org/git/repo/sync/guru.git</source>
+    <source type="git">git+ssh://git@git.gentoo.org/repo/sync/guru.git</source>
+    <!-- bare repositories -->
     <source type="git">https://anongit.gentoo.org/git/repo/proj/guru.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/repo/proj/guru.git</source>
     <feed>https://cgit.gentoo.org/repo/proj/guru.git/atom/</feed>

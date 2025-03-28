@@ -327,7 +327,7 @@
     <source type="git">https://github.com/anders-larsson/gentoo-overlay.git</source>
     <source type="git">git+ssh://git@github.com/anders-larsson/gentoo-overlay.git</source>
   </repo>
-  <repo quality="experimental" status="official">
+  <repo quality="experimental" status="unofficial">
     <name>andrey_utkin</name>
     <description lang="en">Developer overlay</description>
     <homepage>https://github.com/andrey-utkin/gentoo-overlay.git</homepage>
@@ -866,7 +866,7 @@
     <source type="git">git+ssh://git@github.com/TheChymera/overlay.git</source>
     <feed>https://github.com/TheChymera/overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
+  <repo quality="experimental" status="unofficial">
     <name>cj-overlay</name>
     <description>Christoph's Overlay</description>
     <homepage>https://github.com/junghans/cj-overlay</homepage>
@@ -1225,7 +1225,7 @@
     <feed>https://cgit.gentoo.org/repo/proj/emacs.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/repo/proj/emacs.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="official">
+  <repo quality="experimental" status="unofficial">
     <name>EmilienMottet</name>
     <description lang="en">Gentoo Overlay for Emilien Mottet personal/work needs.</description>
     <homepage>https://github.com/EmilienMottet/overlay</homepage>
@@ -2235,7 +2235,7 @@
     <source type="git">https://github.com/Jannis234/jm-overlay.git</source>
     <source type="git">git+ssh://git@github.com/Jannis234/jm-overlay.git</source>
   </repo>
-  <repo quality="experimental" status="official">
+  <repo quality="experimental" status="unofficial">
     <name>jmbsvicetto</name>
     <description>Jorge Manuel B. S. Vicetto developer overlay</description>
     <homepage>https://cgit.gentoo.org/repo/dev/jmbsvicetto.git</homepage>
@@ -2500,7 +2500,7 @@
     <source type="git">git@github.com:lemonxah/lemonxah-overlay.git</source>
     <feed>https://github.com/lemonxah/lemonxah-overlay/commits/main.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
+  <repo quality="experimental" status="unofficial">
     <name>libressl</name>
     <description lang="en">LibreSSL ebuilds testing repository</description>
     <homepage>https://wiki.gentoo.org/wiki/Project:LibreSSL</homepage>
@@ -2644,7 +2644,7 @@
     <feed>https://cgit.gentoo.org/dev/maekke.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/maekke.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="official">
+  <repo quality="experimental" status="unofficial">
     <name>masterlay</name>
     <description>Misc ebuilds by Yury Oboz</description>
     <homepage>https://github.com/thankjura/masterlay</homepage>
@@ -2882,7 +2882,7 @@
     <feed>https://cgit.gentoo.org/dev/mschiff.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/mschiff.git/rss/</feed> -->
   </repo>
-  <repo quality="experimental" status="official">
+  <repo quality="experimental" status="unofficial">
     <name>multilib-portage</name>
     <description>multilib-overlay: emul-linux-x86 must die ;)</description>
     <homepage>https://cgit.gentoo.org/proj/multilib-portage.git/</homepage>
@@ -3187,7 +3187,7 @@
     <source type="git">git+ssh://git@github.com/jcaesar/openclonk-overlay.git</source>
     <feed>https://github.com/jcaesar/openclonk-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="stable" status="official">
+  <repo quality="stable" status="unofficial">
     <name>opentransactions</name>
     <description lang="en">Open-Transactions Gentoo Overlay</description>
     <homepage>https://github.com/Open-Transactions/gentoo-overlay</homepage>
@@ -3294,7 +3294,7 @@
     <source type="git">git@github.com:peeweep/gentoo-overlay.git</source>
     <feed>https://github.com/peeweep/gentoo-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
+  <repo quality="experimental" status="unofficial">
     <name>pentoo</name>
     <description>The overlay contains new or updated security tools.</description>
     <homepage>http://www.pentoo.ch</homepage>
@@ -3570,7 +3570,7 @@
     <source type="git">git+ssh://git@github.com:jiegec/gentoo-pypi-sci.git</source>
     <feed>https://github.com/jiegec/gentoo-pypi-sci/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
+  <repo quality="experimental" status="unofficial">
     <name>qemu-init</name>
     <description lang="en">qemu init script and tools</description>
     <homepage>https://cgit.gentoo.org/dev/qiaomuf.git/</homepage>
@@ -3776,7 +3776,7 @@
     <source type="git">git@github.com:gentoo/riscv.git</source>
     <feed>https://github.com/gentoo/riscv/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
+  <repo quality="experimental" status="unofficial">
     <name>rnp</name>
     <description lang="en">High performance C++ OpenPGP library, fully compliant to RFC 4880</description>
     <homepage>https://www.rnpgp.org/</homepage>
@@ -4706,7 +4706,7 @@
     <source type="git">git@github.com:uu/ubuilds.git</source>
     <feed>https://github.com/uu/ubuilds/commits/master.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
+  <repo quality="experimental" status="unofficial">
     <name>ukui</name>
     <description lang="en">Gentoo Overlay for UKUI Desktop Environment</description>
     <homepage>https://www.ukui.org/</homepage>
@@ -4837,7 +4837,7 @@
     <source type="git">git+ssh://git@github.com:thiagovespa/vespa-overlay.git</source>
     <feed>https://github.com/thiagovespa/vespa-overlay/commits/main.atom</feed>
   </repo>
-  <repo quality="experimental" status="official">
+  <repo quality="experimental" status="unofficial">
     <name>vGist</name>
     <description>vGist overlay, for personal use.</description>
     <homepage>https://github.com/vgist/vgist-overlay</homepage>

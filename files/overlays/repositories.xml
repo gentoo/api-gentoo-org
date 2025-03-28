@@ -2068,7 +2068,7 @@
     <source type="git">git+ssh://git@github.com/TomHotston/hotstoast-overlay.git</source>
     <feed>https://github.com/TomHotston/hotstoast-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="testing" status="unofficial">
+  <repo quality="experimental" status="unofficial">
     <name>hyprland-overlay</name>
     <description lang="en">An unofficial Gentoo overlay related to all Hyprland utilities</description>
     <description lang="fr">Un overlay Gentoo non officiel lié à tous les utilitaires Hyprland</description>
@@ -2820,7 +2820,7 @@
     <source type="git">https://source.mnt.re/vimja/mnt-reform-overlay.git</source>
     <feed>https://source.mnt.re/vimja/mnt-reform-overlay.atom</feed>
   </repo>
-  <repo quality="testing" status="unofficial">
+  <repo quality="experimental" status="unofficial">
     <name>moexiami</name>
     <description lang="en">Contains updated ebuilds (w/ more feature/control)
       for packages in the Gentoo tree, latest version ebuilds and newpackages
@@ -3187,7 +3187,7 @@
     <source type="git">git+ssh://git@github.com/jcaesar/openclonk-overlay.git</source>
     <feed>https://github.com/jcaesar/openclonk-overlay/commits/master.atom</feed>
   </repo>
-  <repo quality="stable" status="unofficial">
+  <repo quality="experimental" status="unofficial">
     <name>opentransactions</name>
     <description lang="en">Open-Transactions Gentoo Overlay</description>
     <homepage>https://github.com/Open-Transactions/gentoo-overlay</homepage>

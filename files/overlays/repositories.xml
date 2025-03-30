@@ -2117,6 +2117,18 @@
     <feed>https://github.com/inode64/inode64-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>insects</name>
+    <description lang="en">insects' overlay</description>
+    <homepage>https://git.insects.institute/insects/portage-overlay</homepage>
+    <owner type="person">
+      <email>gentoo@liv.nrw</email>
+      <name>insects</name>
+    </owner>
+    <source type="git">https://git.insects.institute/insects/portage-overlay.git</source>
+    <source type="git">git@git.insects.institute:insects/portage-overlay.git</source>
+    <feed>https://git.insects.institute/insects/portage-overlay.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>iritmaximus</name>
     <description lang="en">iritmaximus' overlay</description>
     <homepage>https://github.com/iritmaximus/overlay</homepage>

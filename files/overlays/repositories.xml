@@ -3153,7 +3153,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>omrifiji</name>
-    <description lang="en">Overlay for games and anime related packages.</description>
+    <description lang="en">My personal overlay.</description>
     <homepage>https://github.com/OMRIFIJI/omrifiji-overlay</homepage>
     <owner type="person">
       <email>amirkarimov46@gmail.com</email>

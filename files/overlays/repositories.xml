@@ -1118,14 +1118,13 @@
   <repo quality="experimental" status="unofficial">
     <name>dwosky</name>
     <description lang="en">Dwosky's personal overlay</description>
-    <homepage>https://github.com/Dwosky/Dwosky-overlay</homepage>
+    <homepage>https://codeberg.org/Dwosky/Dwosky-overlay</homepage>
     <owner type="person">
       <email>dwosky@pm.me</email>
       <name>Pedro Arizmendi</name>
     </owner>
-    <source type="git">https://github.com/Dwosky/Dwosky-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/Dwosky/Dwosky-overlay.git</source>
-    <feed>https://github.com/Dwosky/Dwosky-overlay/commits/master.atom</feed>
+    <source type="git">https://codeberg.org/Dwosky/Dwosky-overlay.git</source>
+    <source type="git">git@codeberg.org:Dwosky/Dwosky-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>edgets</name>

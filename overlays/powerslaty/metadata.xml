@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<overlay>
+  <name>Gentoo-extra</name>
+  <description lang="en">An extra Gentoo overlay for custom and experimental packages</description>
+  <homepage>https://github.com/powerslaty/Gentoo-extra</homepage>
+  <source type="git">https://github.com/powerslaty/Gentoo-extra.git</source>
+  <owner>
+    <email>youremail@example.com</email>
+    <name>powerslaty</name>
+  </owner>
+</overlay>

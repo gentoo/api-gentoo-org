@@ -538,6 +538,17 @@
     <feed>https://github.com/wthrowe/barnowl-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>barrensea-overlay</name>
+    <description lang="en">Barrensea overlay</description>
+    <homepage>https://github.com/BarrenSea/barrensea-overlay</homepage>
+    <owner type="person">
+      <email>donjuan@donplat.top</email>
+      <name>Donjuan Platinum</name>
+    </owner>
+    <source type="git">https://github.com/BarrenSea/barrensea-overlay.git</source>
+    <feed>https://github.com/BarrenSea/barrensea-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>battlepenguin</name>
     <description lang="en">BattlePenguin Project Overlays</description>
     <homepage>https://battlepenguin.com</homepage>

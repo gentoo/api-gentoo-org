@@ -3822,6 +3822,18 @@
     <feed>https://github.com/sandikata/ROKO__/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>RomikB</name>
+    <description lang="en">Personal builds of RomikB including AmneziaWG</description>
+    <homepage>https://github.com/RomikB/gentoo-repository</homepage>
+    <owner type="person">
+      <email>romikb@mail.ru</email>
+      <name>RomikB</name>
+    </owner>
+    <source type="git">https://github.com/RomikB/gentoo-repository.git</source>
+    <source type="git">git+ssh://git@github.com/RomikB/gentoo-repository.git</source>
+    <feed>https://github.com/RomikB/gentoo-repository/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ros-overlay</name>
     <description>Ebuilds for the Robot Operating System (ROS).</description>
     <homepage>https://github.com/ros/ros-overlay</homepage>

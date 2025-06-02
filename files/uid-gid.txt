@@ -205,7 +205,7 @@ bitflu				148		148		acct
 monkeyd				149		149		acct
 owfs				150		150		user.eclass	Ebuild allows overriding username.
 opendnssec			151		151		acct
-taskd				152		152		acct
+taskd				152		152		historical
 rbldns				153		153		acct
 redsocks			154		154		acct
 thttpd				155		155		acct

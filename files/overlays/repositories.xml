@@ -873,7 +873,6 @@
       <name>Horea Christian</name>
     </owner>
     <source type="git">https://github.com/TheChymera/overlay.git</source>
-    <source type="git">git://github.com/TheChymera/overlay.git</source>
     <source type="git">git+ssh://git@github.com/TheChymera/overlay.git</source>
     <feed>https://github.com/TheChymera/overlay/commits/master.atom</feed>
   </repo>
@@ -896,7 +895,8 @@
       <email>coffeeknife@proton.me</email>
       <name>coffeeknife</name>
     </owner>
-    <source type="git">git://github.com/coffeeknife/coffeeknife-overlay.git</source>
+    <source type="git">https://github.com/coffeeknife/coffeeknife-overlay.git</source>
+    <source type="git">git+ssh://github.com/coffeeknife/coffeeknife-overlay.git</source>
     <feed>https://github.com/coffeeknife/coffeeknife-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

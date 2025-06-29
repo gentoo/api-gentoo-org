@@ -5266,6 +5266,16 @@
     <source type="rsync">rsync://gentoo.zugaina.org/zugaina-portage</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>zuki</name>
+    <description lang="en">zuki's overlay</description>
+    <homepage>https://sr.ht/~zuki/gentoo_repo/</homepage>
+    <owner type="person">
+      <email>zukirust@gmail.com</email>
+      <name>Zuki Kate Air</name>
+    </owner>
+    <source type="git">https://git.sr.ht/~zuki/gentoo_repo</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>zyrenth</name>
     <description lang="en">Personal overlay</description>
     <homepage>https://github.com/kabili207/zyrenth-overlay</homepage>

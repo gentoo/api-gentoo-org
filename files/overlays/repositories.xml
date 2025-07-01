@@ -3409,6 +3409,18 @@
     <feed>https://github.com/pinicarus/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="official">
+    <name>pingwho-overlay</name>
+    <description lang="en">Gentoo Linux overlay @pingwho.org</description>
+    <homepage>https://github.com/jaypeche/pingwho-overlay</homepage>
+    <owner type="person">
+      <email>jaypeche@gmail.com</email>
+      <name>jaypeche</name>
+    </owner>
+    <source type="git">https://github.com/jaypeche/pingwho-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/jaypeche/pingwho-overlay.git</source>
+    <feed>https://github.com/jaypeche/pingwho-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="official">
     <name>pinkbyte</name>
     <description lang="en">Pinkbyte's developer overlay</description>
     <homepage>https://github.com/Pinkbyte/pinkbyte-overlay</homepage>
@@ -3419,18 +3431,6 @@
     <source type="git">https://github.com/Pinkbyte/pinkbyte-overlay.git</source>
     <source type="git">git+ssh://git@github.com/Pinkbyte/pinkbyte-overlay.git</source>
     <feed>https://github.com/Pinkbyte/pinkbyte-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="official">
-    <name>pingwho-overlay</name>
-    <description lang="en">Gentoo Linux overlay @pingwho.org</description>
-    <homepage>https://github.com/jaypeche/pingwho-overlay</homepage>
-    <owner type="person">
-      <email>contact@pingwho.org</email>
-      <name>jaypeche</name>
-    </owner>
-    <source type="git">https://github.com/jaypeche/pingwho-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/jaypeche/pingwho-overlay.git</source>
-    <feed>https://github.com/jaypeche/pingwho-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>pixlra</name>

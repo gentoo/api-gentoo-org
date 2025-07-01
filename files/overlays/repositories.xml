@@ -3420,6 +3420,18 @@
     <source type="git">git+ssh://git@github.com/Pinkbyte/pinkbyte-overlay.git</source>
     <feed>https://github.com/Pinkbyte/pinkbyte-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>pingwho-overlay</name>
+    <description lang="en">Gentoo Linux overlay @pingwho.org</description>
+    <homepage>https://github.com/jaypeche/pingwho-overlay</homepage>
+    <owner type="person">
+      <email>contact@pingwho.org</email>
+      <name>jaypeche</name>
+    </owner>
+    <source type="git">https://github.com/jaypeche/pingwho-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/jaypeche/pingwho-overlay.git</source>
+    <feed>https://github.com/jaypeche/pingwho-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>pixlra</name>
     <description lang="en">Pixlra collaborative overlay</description>

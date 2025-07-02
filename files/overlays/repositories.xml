@@ -1083,7 +1083,8 @@
     language.</description>
     <homepage>https://github.com/gentoo/dlang</homepage>
     <owner type="person">
-      <email>Marco.Leise@gmx.de</email>
+      <email>a.horodniceanu@proton.me</email>
+      <name>Andrei Horodniceanu</name>
     </owner>
     <source type="git">https://github.com/gentoo/dlang.git</source>
     <source type="git">git@github.com:gentoo/dlang.git</source>

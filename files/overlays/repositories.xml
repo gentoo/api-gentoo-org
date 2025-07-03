@@ -3913,10 +3913,10 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sam_c</name>
-    <description lang="en">sam_c's personal overlay</description>
+    <description lang="en">sam's personal overlay</description>
     <homepage>https://github.com/thesamesam/overlay</homepage>
     <owner type="person">
-      <email>sam@cmpct.info</email>
+      <email>sam@gentoo.org</email>
       <name>Sam James</name>
     </owner>
     <source type="git">https://github.com/thesamesam/overlay.git</source>

@@ -4779,6 +4779,18 @@
     <feed>https://github.com/shiznix/unity-gentoo/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>unmojang-overlay</name>
+    <description lang="en">Gentoo overlay for unmojang projects</description>
+    <homepage>https://github.com/unmojang/unmojang-overlay</homepage>
+    <owner type="person">
+      <email>cat@plan9.rocks</email>
+      <name>cat</name>
+    </owner>
+    <source type="git">https://github.com/unmojang/unmojang-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/unmojang/unmojang-overlay.git</source>
+    <feed>https://github.com/unmojang/unmojang-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>usenet-overlay</name>
     <description lang="en">Personal Overlay for Lidarr, Radarr and Sonarr </description>
     <homepage>https://github.com/xartin/gentoo-overlay</homepage>

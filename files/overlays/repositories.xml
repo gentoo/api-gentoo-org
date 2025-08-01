@@ -4471,6 +4471,16 @@
     <source type="git">git@github.com:SystoleOS/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>tailwhip</name>
+    <description lang="en">J's overlay for radio software and other</description>
+    <homepage>https://git.drgnz.club/jakub/tailwhip.git</homepage>
+    <owner type="person">
+      <email>jakub@bidzan.net</email>
+      <name>jacob</name>
+    </owner>
+    <source type="git">https://git.drgnz.club/jakub/tailwhip.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>tamiko</name>
     <description>Developer overlay</description>
     <homepage>https://cgit.gentoo.org/repo/dev/tamiko.git/</homepage>

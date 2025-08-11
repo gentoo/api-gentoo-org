@@ -362,6 +362,17 @@
     <source type="git">git+ssh://git@github.com/Anoncheg1/anonch-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>another-brave-overlay</name>
+    <description lang="en">Overlay for automatically generated Brave web browser ebuilds</description>
+    <homepage>https://github.com/falbrechtskirchinger/another-brave-overlay</homepage>
+    <owner type="person">
+      <email>falbrechtskirchinger@gmail.com</email>
+      <name>Florian Albrechtskirchinger</name>
+    </owner>
+    <source type="git">https://github.com/falbrechtskirchinger/another-brave-overlay.git</source>
+    <feed>https://github.com/falbrechtskirchinger/another-brave-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>antons-matrix-overlay</name>
     <description lang="en">Packages related to matrix.org messaging system</description>
     <homepage>https://gitlab.com/anton.molyboha.group/gentoo/overlays/matrix</homepage>

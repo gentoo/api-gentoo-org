@@ -4688,14 +4688,15 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>trufhole</name>
-    <description>truffle's overlay, has a few odd packages and experimental patches</description>
-    <homepage>https://github.com/truffle0/trufhole</homepage>
+    <description lang="en">truffle's overlay, has a few odd packages and experimental patches</description>
+    <homepage>https://codeberg.org/truffle/trufhole</homepage>
     <owner type="person">
-      <email>truffle074@gmail.com</email>
+      <email>truffle@b0tt0m.xyz</email>
       <name>truffle</name>
     </owner>
-    <source type="git">https://github.com/truffle0/trufhole</source>
-    <source type="git">git+ssh://git@github.com/truffle0/trufhole.git</source>
+    <source type="git">https://codeberg.org/truffle/trufhole</source>
+    <source type="git">git+ssh://git@codeberg.org/truffle/trufhole.git</source>
+    <feed>https://codeberg.org/truffle/trufhole/rss/branch/main</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>tryton</name>

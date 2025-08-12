@@ -3356,20 +3356,6 @@
     <source type="git">git+ssh://git@github.com/antonsviridenko/pica-pica-gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>pigfoot</name>
-    <description lang="en">Ebuilds for experimental packages and chinese patches</description>
-    <homepage>https://cgit.gentoo.org/user/pigfoot.git/</homepage>
-    <owner type="person">
-      <email>pigfoot@gmail.com</email>
-      <name>pigfoot</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/pigfoot.git</source>
-    <source type="git">git://anongit.gentoo.org/user/pigfoot.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/pigfoot.git</source>
-    <feed>https://cgit.gentoo.org/user/pigfoot.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/pigfoot.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>pingwho-overlay</name>
     <description lang="en">Gentoo Linux overlay @pingwho.org</description>
     <homepage>https://github.com/jaypeche/pingwho-overlay</homepage>

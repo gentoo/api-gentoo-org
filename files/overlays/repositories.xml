@@ -2102,18 +2102,6 @@
     <feed>https://github.com/iritmaximus/overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>ixit</name>
-    <description lang="en">iXit overlay</description>
-    <homepage>https://github.com/okias/ixit</homepage>
-    <owner type="person">
-      <email>david@ixit.cz</email>
-      <name>David Heidelberger</name>
-    </owner>
-    <source type="git">https://github.com/okias/ixit.git</source>
-    <source type="git">git@github.com:okias/ixit.git</source>
-    <feed>https://github.com/okias/ixit/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>jabuxas</name>
     <description lang="en">jabuxas personal overlay</description>
     <homepage>https://github.com/jabuxas/overlay</homepage>

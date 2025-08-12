@@ -3230,18 +3230,6 @@
     <feed>https://gitlab.com/Parona/parona-overlay/-/commits/master?format=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>pdilung</name>
-    <description lang="en">Personal Gentoo overlay of Pavol Dilung</description>
-    <homepage>https://github.com/pdilung/gentoo-overlay/</homepage>
-    <owner type="person">
-      <email>pavol.dilung@gmail.com</email>
-      <name>Pavol Dilung</name>
-    </owner>
-    <source type="git">https://github.com/pdilung/gentoo-overlay.git</source>
-    <source type="git">git@github.com:pdilung/gentoo-overlay.git</source>
-    <feed>https://github.com/pdilung/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>peec</name>
     <description lang="en">Personal Gentoo overlay of Petre Rodan</description>
     <homepage>https://codeberg.org/subDIMENSION/gentoo-overlay</homepage>

@@ -1031,20 +1031,6 @@
     <feed>https://git.ari.lt/ari/dinolay/rss/branch/main</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>displacer</name>
-    <description lang="en">Fixes and new unstable packages</description>
-    <homepage>https://cgit.gentoo.org/user/displacer.git/</homepage>
-    <owner type="person">
-      <email>disinbox@gmail.com</email>
-      <name>Igor Ulyanov</name>
-    </owner>
-    <source type="git">https://anongit.gentoo.org/git/user/displacer.git</source>
-    <source type="git">git://anongit.gentoo.org/user/displacer.git</source>
-    <source type="git">git+ssh://git@git.gentoo.org/user/displacer.git</source>
-    <feed>https://cgit.gentoo.org/user/displacer.git/atom/</feed>
-    <!-- <feed>https://cgit.gentoo.org/user/displacer.git/rss/</feed> -->
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>distros</name>
     <description>Calculate Linux Profiles</description>
     <homepage>http://www.calculate-linux.org</homepage>

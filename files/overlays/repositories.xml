@@ -2471,17 +2471,6 @@
     <source type="git">git+ssh://git@codeberg.org:librewolf/gentoo.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>liftm</name>
-    <description lang="en">Personal Overlay</description>
-    <owner type="person">
-      <email>gentoobug@liftm.de</email>
-      <name>Julius Michaelis</name>
-    </owner>
-    <source type="git">https://github.com/jcaesar/liftm-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/jcaesar/liftm-overlay.git</source>
-    <feed>https://github.com/jcaesar/liftm-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>lilium</name>
     <description lang="en">owl4ce's personal portage overlay for ebuild repairs or feature-upgrades</description>
     <homepage>https://github.com/owl4ce/lilium</homepage>

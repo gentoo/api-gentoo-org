@@ -3580,17 +3580,6 @@
     <feed>https://gitlab.com/gentoo-racket/gentoo-racket-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>raiagent</name>
-    <description lang="en">Well-documented ebuilds en-route to a bandersnatch near you</description>
-    <homepage>https://github.com/leycec/raiagent</homepage>
-    <owner type="person">
-      <email>leycec@gmail.com</email>
-      <name>Cecil Curry</name>
-    </owner>
-    <source type="git">https://github.com/leycec/raiagent.git</source>
-    <source type="git">git+ssh://git@github.com/leycec/raiagent.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>rasdark</name>
     <description>rasdark personal overlay</description>
     <homepage>https://github.com/rasdark/overlay</homepage>

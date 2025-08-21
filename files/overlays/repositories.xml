@@ -2609,18 +2609,6 @@
     <feed>https://github.com/Miezhiko/Overlay/commits/mawa.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>milos-rs</name>
-    <description>A pocket repository for few unavailable packages</description>
-    <homepage>https://github.com/milos-rs/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>milos.om.dj@gmail.com</email>
-      <name>Miloš E. Đurđević</name>
-    </owner>
-    <source type="git">https://github.com/milos-rs/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/milos-rs/gentoo-overlay.git</source>
-    <feed>https://github.com/milos-rs/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>mim</name>
     <description lang="en">Aliaksei Urbanski's personal overlay</description>
     <homepage>https://github.com/Jamim/gentoo-overlay</homepage>

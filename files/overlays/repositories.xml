@@ -3317,18 +3317,6 @@
     <feed>https://github.com/domichel/proaudio-gentoo/commits.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>pross</name>
-    <description lang="en">Up to date ck-sources</description>
-    <homepage>https://github.com/Pross/pross-overlay</homepage>
-    <owner type="person">
-      <email>pross@pross.org.uk</email>
-      <name>Simon Prosser</name>
-    </owner>
-    <source type="git">https://github.com/Pross/pross-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/Pross/pross-overlay.git</source>
-    <feed>https://github.com/Pross/pross-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ps3</name>
     <description lang="en">Ebuilds for Gentoo on the PlayStation 3.</description>
     <homepage>https://github.com/damiandudycz/ps3</homepage>

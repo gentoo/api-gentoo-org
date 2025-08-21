@@ -3401,18 +3401,6 @@
     <feed>https://github.com/damiandudycz/ps3-gentoo-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>pyfa</name>
-    <description lang="en">Newest versions of Pyfa (Python fitting assistant for EVE Online)</description>
-    <homepage>https://github.com/ZeroPointEnergy/gentoo-pyfa-overlay</homepage>
-    <owner type="person">
-      <email>a.zuber@gmx.ch</email>
-      <name>Andreas Zuber</name>
-    </owner>
-    <source type="git">https://github.com/ZeroPointEnergy/gentoo-pyfa-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/ZeroPointEnergy/gentoo-pyfa-overlay.git</source>
-    <feed>https://github.com/ZeroPointEnergy/gentoo-pyfa-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>pypi</name>
     <description lang="en">Mirror of PyPI python package repository</description>
     <homepage>https://github.com/houseofsuns/pypi</homepage>

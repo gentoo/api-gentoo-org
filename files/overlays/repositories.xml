@@ -4271,17 +4271,6 @@
     <source type="git">gitea@git.swurl.xyz:swirl/ebuilds.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>SwordArMor</name>
-    <description lang="en">Personnal overlay of alarig/SwordArMor</description>
-    <homepage>https://git.grifon.fr/alarig/SwordArMor-gentoo-overlay</homepage>
-    <owner type="person">
-      <email>alarig@swordarmor.fr</email>
-      <name>Alarig Le Lay</name>
-    </owner>
-    <source type="git">https://git.grifon.fr/alarig/SwordArMor-gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@git.grifon.fr:alarig/SwordArMor-gentoo-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>Systole</name>
     <description lang="en">Overlay for the Systole OS</description>
     <homepage>https://github.com/SystoleOS</homepage>

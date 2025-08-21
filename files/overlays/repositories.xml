@@ -1357,15 +1357,6 @@
     <feed>https://github.com/ferki/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>fidonet</name>
-    <description lang="en">Overlay of Benny Pedersen</description>
-    <owner type="person">
-      <email>me@junc.eu</email>
-      <name>Benny Pedersen</name>
-    </owner>
-    <source type="rsync">rsync://fido.junc.eu/fidonet/</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>FireBurn</name>
     <description lang="en">32bit ebuilds (libdrm, mesa, libx11, mesa-progs, ..)</description>
     <homepage>https://github.com/FireBurn/Overlay</homepage>

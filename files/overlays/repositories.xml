@@ -373,18 +373,6 @@
     <feed>https://gitlab.com/APN-Pucky/gentoo-apn/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>apriluwu</name>
-    <description lang="en">apriluwu's personal overlay</description>
-    <homepage>https://github.com/apriluwu/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>aaprilthemonth@gmail.com</email>
-      <name>April C.</name>
-    </owner>
-    <source type="git">https://github.com/apriluwu/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/apriluwu/gentoo-overlay.git</source>
-    <feed>https://github.com/apriluwu/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>ArchFeh</name>
     <description lang="en">ArchFeh's personal overlay</description>
     <homepage>https://github.com/ArchFeh/ArchFeh-overlay</homepage>

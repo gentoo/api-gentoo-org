@@ -2118,16 +2118,6 @@
     <feed>https://github.com/jjakob/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>jkolo</name>
-    <description lang="en">Jerzy Kolosowski's Gentoo overlay</description>
-    <homepage>https://git.kolosowscy.pl/jurek/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>jerzy@kolosowscy.pl</email>
-      <name>Jerzy Kolosowski</name>
-    </owner>
-    <source type="git">https://git.kolosowscy.pl/jurek/gentoo-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>jl1990</name>
     <description lang="en">jl1990's Custom Gentoo Overlay.</description>
     <homepage>https://github.com/jl1990/gentoo-overlay</homepage>

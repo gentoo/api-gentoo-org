@@ -2808,18 +2808,6 @@
     <feed>https://github.com/Nowa-Ammerlaan/natinst/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>nelson-graca</name>
-    <description lang="en">Nelson Graça personal Overlay</description>
-    <homepage>https://github.com/nelsongraca/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>graca.nelson@gmail.com</email>
-      <name>Nelson Graça</name>
-    </owner>
-    <source type="git">https://github.com/nelsongraca/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/nelsongraca/gentoo-overlay.git</source>
-    <feed>https://github.com/nelsongraca/gentoo-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>nest</name>
     <description lang="en">Personal Gentoo overlay</description>
     <homepage>https://github.com/SpiderX/portage-overlay</homepage>

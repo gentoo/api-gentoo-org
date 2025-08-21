@@ -2633,18 +2633,6 @@
     <feed>https://gitlab.com/menelkir/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>metahax</name>
-    <description lang="en">Some ebuilds that didn't seem to exist yet.</description>
-    <homepage>https://github.com/metafarion/metahax</homepage>
-    <owner type="person">
-      <email>miles@ctrl-shift.net</email>
-      <name>Miles V.</name>
-    </owner>
-    <source type="git">https://github.com/metafarion/metahax.git</source>
-    <source type="git">git+ssh://git@github.com/metafarion/metahax.git</source>
-    <feed>https://github.com/metafarion/metahax/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>Miezhiko</name>
     <description>Miezhiko personal overlay</description>
     <homepage>https://github.com/Miezhiko/Overlay</homepage>

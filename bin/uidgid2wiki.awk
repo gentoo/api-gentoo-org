@@ -60,4 +60,6 @@ function md2wiki(str) {
 
 END {
 	print "|}"
+	print ""
+	print "[[Category:Gentoo development]]"
 }

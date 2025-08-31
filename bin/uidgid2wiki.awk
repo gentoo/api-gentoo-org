@@ -1,5 +1,5 @@
 #!/usr/bin/gawk -f
-# Copyright 2019-2023 Gentoo Authors
+# Copyright 2019-2025 Gentoo Authors
 # Distributed under the terms of the MIT license
 
 BEGIN {
@@ -61,5 +61,6 @@ function md2wiki(str) {
 END {
 	print "|}"
 	print ""
+	print "<!-- DO NOT EDIT, generated automatically by uidgid2wiki.awk -->"
 	print "[[Category:Gentoo development]]"
 }

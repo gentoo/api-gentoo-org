@@ -269,6 +269,7 @@ xwax				-		205		acct
 qmails				206		-		acct		Removed from baselayout in [r1397](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f05420b21fe048c6c320f2b5753c0b85f322e8c3)
 realtime			-		206		acct
 postfix				207		207		acct		Removed from baselayout in [r1863](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=7ae5ebbcb07f3a2190f17af7e7b09fe1caab35cc)
+postsrsd			208		-		acct		Used by mail-filter/postsrsd
 postdrop			-		208		acct		Removed from baselayout in [r1863](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=7ae5ebbcb07f3a2190f17af7e7b09fe1caab35cc)
 smmsp				209		209		acct		Removed from baselayout: user in [r2446](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=a18589ef69d782aa5d88e5a6eac7f342aa2f6385), group in [r2445](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=b0ce002d1a3d4e67d8c1f5ffe19970e2f943ec15)
 aerospike-amc			210		210		acct

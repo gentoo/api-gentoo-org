@@ -1,4 +1,4 @@
-# Copyright 2019-2022 Gentoo Authors
+# Copyright 2019-2025 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 # This file provides a registry of active, requested and historical UID
@@ -23,7 +23,6 @@
 # Valid values for PROVIDER are:
 # - acct: acct-user/${NAME} and/or acct-group/${NAME} packages
 # - baselayout: user/group defined in passwd/group files from baselayout
-# - baselayout-fbsd: same as baselayout but on FreeBSD system
 # - historical: historical UID/GID assignment, no longer used nowadays
 # - requested: assignment requested on the ml, not yet pushed
 # - reserved: special reserved range
@@ -43,39 +42,25 @@
 #!NAME				UID		GID		PROVIDER	NOTES
 root				0		0		acct
 root				0		0		baselayout
-root				0		-		baselayout-fbsd
-toor				0		-		baselayout-fbsd
-wheel				-		0		baselayout-fbsd
 bin				1		1		baselayout
-daemon				1		1		baselayout-fbsd
 daemon				2		2		baselayout
-operator			2		5		baselayout-fbsd
 adm				3		4		baselayout
-bin				3		7		baselayout-fbsd
 sys				-		3		baselayout
-sys				-		3		baselayout-fbsd
 lp				4		7		baselayout
-tty				4		4		baselayout-fbsd
 adm				-		4		acct
 sync				5		-		baselayout
-kmem				5		2		baselayout-fbsd
 tty				-		5		acct
 tty				-		5		baselayout
 shutdown			6		-		baselayout
-mail				6		6		baselayout-fbsd
 disk				-		6		acct
 disk				-		6		baselayout
 halt				7		-		baselayout
-games				7		-		baselayout-fbsd
 lp				-		7		acct
-news				8		8		baselayout-fbsd
 mail				8		12		acct		Removed from baselayout on Linux in [r3093](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=e0b6e08880e5dc71faf263f10b42d15e3946d298)
 mem				-		8		baselayout
-man				9		-		baselayout-fbsd
 news				9		13		baselayout
 kmem				-		9		acct
 kmem				-		9		baselayout
-man				-		9		historical	Removed from baselayout on BSD in [r2528](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=408c068b3981a099817bc1bd90e737e61900fe7c), now GID 15
 uucp				10		14		baselayout
 wheel				-		10		acct
 wheel				-		10		baselayout
@@ -89,7 +74,6 @@ cron				16		16		acct		Removed from baselayout in [r1476](https://gitweb.gentoo.o
 console				-		17		baselayout
 audio				-		18		acct		Duplicated in media-sound/{pulseaudio,timidity}.
 audio				-		18		baselayout
-audio				-		18		baselayout-fbsd
 cdrom				-		19		acct
 cdrom				-		19		baselayout
 dialout				-		20		acct
@@ -97,8 +81,6 @@ dialout				-		20		baselayout	Historically removed from baselayout in [r2444](htt
 ftp				21		21		acct		Removed from baselayout in [r1475](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=bc0a5982c7a02685dca1a051383f52b5ec179d8e)
 sshd				22		22		acct		Removed from baselayout in [r1476](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=d2b09311342e4b70bb0685b22c8096ebda2be91e)
 smtpd				25		25		acct
-smmsp				25		-		baselayout-fbsd
-smmsp				-		25		historical	Removed from baselayout on BSD in [r2528](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=408c068b3981a099817bc1bd90e737e61900fe7c)
 at				25		25		historical	Removed from baselayout in [r1479](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=006be71641032bdd0a05f260da397497aa7a35de), now UID/GID 246
 tape				-		26		acct
 tape				-		26		baselayout
@@ -107,7 +89,6 @@ video				-		27		baselayout
 render				-		28		acct
 www				30		-		historical	Removed from baselayout in [r176](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=ce4049e95325bef4dc5efeb85ca07e0ad7c40809)
 squid				31		31		historical	Removed from baselayout in [r1477](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=0582832d7216a897cffff5b2249fad5e9e51807e), now UID/GID 301
-guest				-		31		baselayout-fbsd
 gdm				32		32		acct		Removed from baselayout in [r1571](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f73924f7d987d10bbadaa142c737879ad323f257)
 xfs				33		33		historical	X Font Server, removed from baselayout in [r1572](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=4227b160b93f9525d015a14cb7ce9fa43e1e1eb5)
 games				35		35		historical	Removed from baselayout in [r1478](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=ee4ea5fee968f6e88f15812011bffcbf44328604); group: deprecated by Council decision
@@ -127,10 +108,7 @@ avahi				61		61		acct
 avahi-autoipd			62		62		acct
 authpf				-		63		historical
 netdev				-		64		acct
-uucp				66		66		baselayout-fbsd
 duende				66		-		acct
-dialer				-		68		baselayout-fbsd
-network				-		69		baselayout-fbsd
 postgres			70		70		acct		Removed from baselayout in [r1861](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=15d1503a3db032d99a5be095b87ccc8289e97918)
 dovenull			74		74		acct
 redis				75		75		acct
@@ -321,7 +299,6 @@ fdm				248		248		acct
 logsurfer			249		249		acct
 portage				250		250		acct
 portage				250		250		baselayout
-portage				250		250		baselayout-fbsd
 wwwoffle			251		251		acct
 smtpq				252		252		acct
 zetcd				253		253		historical
@@ -653,12 +630,37 @@ ventrilo			3784		3784		historical	Used by media-sound/ventrilo-server-bin, remov
 -				60001..65533	60001..65532	reserved
 -				61184..65519	61184..65519	reserved	Used by systemd DynamicUser feature
 nogroup				-		65533		baselayout
-nogroup				-		65533		baselayout-fbsd
 nobody				65534		65534		acct
 nobody				65534		65534		baselayout
-nobody				65534		65534		baselayout-fbsd
 -				65535		65535		reserved	-1 on systems with 16 bit uid_t
 -				524288..1878982656	524288..1878982656	reserved	Used by systemd for containers
+
+# The entries below were previously defined by baselayout on FreeBSD.
+# For clarity, they have been removed from the table.
+#root				0		-		baselayout-fbsd
+#toor				0		-		baselayout-fbsd
+#wheel				-		0		baselayout-fbsd
+#daemon				1		1		baselayout-fbsd
+#operator			2		5		baselayout-fbsd
+#bin				3		7		baselayout-fbsd
+#sys				-		3		baselayout-fbsd
+#tty				4		4		baselayout-fbsd
+#kmem				5		2		baselayout-fbsd
+#mail				6		6		baselayout-fbsd
+#games				7		-		baselayout-fbsd
+#news				8		8		baselayout-fbsd
+#man				9		-		baselayout-fbsd
+#man				-		9		historical	Removed from baselayout on BSD in [r2528](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=408c068b3981a099817bc1bd90e737e61900fe7c), now GID 15
+#audio				-		18		baselayout-fbsd
+#smmsp				25		-		baselayout-fbsd
+#smmsp				-		25		historical	Removed from baselayout on BSD in [r2528](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=408c068b3981a099817bc1bd90e737e61900fe7c)
+#guest				-		31		baselayout-fbsd
+#uucp				66		66		baselayout-fbsd
+#dialer				-		68		baselayout-fbsd
+#network			-		69		baselayout-fbsd
+#portage			250		250		baselayout-fbsd
+#nogroup			-		65533		baselayout-fbsd
+#nobody				65534		65534		baselayout-fbsd
 
 # Local Variables:
 # mode: conf-space

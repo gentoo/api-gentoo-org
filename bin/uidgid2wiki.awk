@@ -27,11 +27,11 @@ function md2wiki(str) {
 	# provider
 	switch ($4) {
 		case "baselayout":
-			print "| style=\"background: #cff;\" | baselayout (linux)"
+			print "| style=\"background: #cff;\" | baselayout"
 			break
-		case "baselayout-fbsd":
-			print "| style=\"background: #ccf;\" | baselayout (fbsd)"
-			break
+		#case "baselayout-fbsd":
+		#	print "| style=\"background: #ccf;\" | baselayout (fbsd)"
+		#	break
 		case "acct":
 			printf "%s", "| style=\"background: #9fc;\" |"
 			if ($2 != "-") printf " %s", "[https://gitweb.gentoo.org/repo/gentoo.git/tree/acct-user/" $1 " u:" $1 "]"

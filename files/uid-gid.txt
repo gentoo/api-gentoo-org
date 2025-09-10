@@ -125,7 +125,7 @@ tss				59		59		acct
 mysql				60		60		acct		Removed from baselayout in [r1335](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=f0c9a4a50fb7f16d849225e421d75555dc30783c)
 avahi				61		61		acct
 avahi-autoipd			62		62		acct
-authpf				-		63		user.eclass
+authpf				-		63		historical
 netdev				-		64		acct
 uucp				66		66		baselayout-fbsd
 duende				66		-		acct
@@ -205,7 +205,7 @@ dbskkd				146		146		acct
 axtls				147		147		acct
 bitflu				148		148		acct
 monkeyd				149		149		historical
-owfs				150		150		user.eclass	Ebuild allows overriding username.
+owfs				150		150		historical
 opendnssec			151		151		acct
 taskd				152		152		historical
 rbldns				153		153		acct

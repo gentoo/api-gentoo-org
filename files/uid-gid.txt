@@ -164,14 +164,14 @@ pgpool				106		-		acct
 lpadmin				-		106		acct
 rabbitmq_exporter		107		107		acct
 snmp_exporter			108		108		acct
-rundeck				109		109		acct
+rundeck				109		109		historical
 cockroach			110		110		acct
 rpc				111		111		historical	Used by net-nds/portmap, removed in [36e60cce11d7](https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=36e60cce11d780582196c42d6b692897455d7a27)
 drone				112		112		acct
 unifi				113		113		acct
 ejabberd			114		114		acct
 prosody				115		115		acct
-badvpn				116		116		acct
+badvpn				116		116		historical
 mythtv				117		117		acct
 karma				118		118		acct
 trickster			119		119		acct
@@ -185,7 +185,7 @@ rt				126		126		acct
 opm				127		127		acct
 foldingathome			128		128		acct
 rbot				129		129		acct
-ros				130		130		acct
+ros				130		130		historical
 icecast				131		131		acct
 gopherd				132		132		acct
 rtkit				133		133		acct
@@ -194,8 +194,8 @@ pgagent				135		135		acct
 subsonic			136		136		acct
 beanstalk			137		137		acct
 gauth				138		138		acct
-shellinaboxd			139		139		acct
-resin				140		140		acct
+shellinaboxd			139		139		historical
+resin				140		140		historical
 h2o				141		141		acct
 nm-openconnect			142		142		acct
 nm-openvpn			143		143		acct
@@ -204,23 +204,23 @@ icecream			145		145		acct
 dbskkd				146		146		acct
 axtls				147		147		acct
 bitflu				148		148		acct
-monkeyd				149		149		acct
+monkeyd				149		149		historical
 owfs				150		150		user.eclass	Ebuild allows overriding username.
 opendnssec			151		151		acct
 taskd				152		152		historical
 rbldns				153		153		acct
 redsocks			154		154		acct
-thttpd				155		155		acct
+thttpd				155		155		historical
 stapusr				-		156		acct
 stapsys				-		157		acct
 stapdev				-		158		acct
-spread				159		159		acct
+spread				159		159		historical
 gnump3d				160		160		acct
-rplayd				161		161		acct
+rplayd				161		161		historical
 ices				162		162		acct
 ipsentinel			163		163		acct
-smokeping			164		164		acct
-sguil				165		165		acct
+smokeping			164		164		historical
+sguil				165		165		historical
 scanlogd			166		166		acct
 inspircd			167		167		acct
 netperf				168		168		acct
@@ -231,7 +231,7 @@ pulse-access			-		172		acct
 sispmctl			-		173		acct
 android				-		174		acct
 rslsync				175		175		acct
-stg				176		176		acct
+stg				176		176		historical
 munin				177		177		acct
 munin-async			178		-		acct
 vlock				-		178		acct
@@ -276,11 +276,11 @@ postdrop			-		208		acct		Removed from baselayout in [r1863](https://gitweb.gento
 smmsp				209		209		acct		Removed from baselayout: user in [r2446](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=a18589ef69d782aa5d88e5a6eac7f342aa2f6385), group in [r2445](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=b0ce002d1a3d4e67d8c1f5ffe19970e2f943ec15)
 aerospike-amc			210		210		acct
 zookeeper			211		211		acct
-cmd5checkpw			212		212		acct
+cmd5checkpw			212		212		historical
 cancd				213		213		acct
 sockd				214		214		acct
 radvd				215		215		acct
-aspnet				216		216		acct
+aspnet				216		216		historical
 hsqldb				217		217		acct
 energi3				218		218		acct		Used by net-p2p/energi3
 sddm				219		219		acct
@@ -292,9 +292,9 @@ zeppelin			224		224		acct		Used by www-apps/zeppelin-bin
 dnscache			225		-		acct
 dnslog				226		-		acct
 tinydns				227		-		acct
-gpio				-		225		acct
+gpio				-		225		historical
 i2c				-		226		acct
-spi				-		227		acct
+spi				-		227		historical
 fritzbox_smarthome_exporter	228		228		acct
 vnstat				229		229		acct
 carbon				230		230		acct
@@ -324,18 +324,18 @@ portage				250		250		baselayout
 portage				250		250		baselayout-fbsd
 wwwoffle			251		251		acct
 smtpq				252		252		acct
-zetcd				253		253		acct
+zetcd				253		253		historical
 havp				254		254		acct
 cntlm				255		255		acct
-litecoin			256		256		acct
+litecoin			256		256		historical
 sstpc				257		257		acct
 rwhoisd				258		258		acct
 psybnc				259		259		acct
-minbif				260		260		acct
+minbif				260		260		historical
 ez-ipupd			261		261		acct
 dnrd				262		262		acct
 polw				263		263		acct
-artifactory			264		264		acct
+artifactory			264		264		historical
 tomcat				265		265		acct
 groonga				266		266		acct
 ceph				267		267		acct
@@ -383,7 +383,7 @@ timidity			306		-		acct
 vboxsf				-		306		acct
 clair				307		307		acct
 mysqld_exporter			308		308		acct
-minio				309		309		acct
+minio				309		309		historical
 croc				310		310		acct
 ulogd				311		311		acct
 coredns				312		312		acct
@@ -396,7 +396,7 @@ fp-multiuser			318		318		acct
 apt-cacher-ng			319		319		acct
 fax				320		320		acct
 openntpd			321		321		acct
-sobby				322		322		acct
+sobby				322		322		historical
 vault_exporter			323		323		acct
 oragono				324		324		acct
 err				325		325		acct
@@ -423,8 +423,8 @@ kapacitor			343		343		acct
 chronograf			344		344		acct
 docker_auth			345		345		acct
 dirsrv				346		346		acct
-tpm				347		347		acct
-unifi-video			348		348		acct
+tpm				347		347		historical
+unifi-video			348		348		historical
 ushare				349		349		acct
 colord				350		350		acct
 geoclue				351		351		acct
@@ -440,13 +440,13 @@ sms				-		359		acct
 postgrey			360		360		acct
 dehydrated			361		361		acct
 amanda				362		362		acct
-sigh				363		363		acct
+sigh				363		363		historical
 gatling				364		364		acct
 dbmail				365		365		acct
 sniproxy			366		366		acct
 ziproxy				367		367		acct
 octoprint			368		368		historical
-ultimaker			369		369		acct
+ultimaker			369		369		historical
 sks				370		370		acct
 frr				371		371		acct
 upmpdcli			372		372		acct
@@ -457,7 +457,7 @@ popa3d				375		375		acct		Used by net-mail/popa3d
 mgraph				376		376		acct		Used by net-mail/mailgraph
 pcap				377		377		acct		Used by net-analyzer/tcpdump and net-analyzer/wireshark
 p2p				378		378		acct		Used by net-im/mldonkey
-jabber				379		379		acct		Used by net-im/jabber-base
+jabber				379		379		historical	Used by net-im/jabber-base
 darkstat			380		-		acct
 bumblebee			-		380		acct
 dictd				381		381		acct
@@ -487,7 +487,7 @@ fnord				402		-		acct
 lxd				-		402		acct
 bareos				403		403		acct
 miniflux			404		-		acct		Used by www-apps/miniflux
-simplevirt			-		404		acct
+simplevirt			-		404		historical
 guest				405		-		historical	Removed from baselayout in [r889](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=eca435dcc10bcbcccf8be4ad100c252769fd1f8d)
 sgx				-		405		acct
 sendpage			406		-		acct
@@ -511,16 +511,16 @@ epam				-		418		acct		Used by dev-erlang/epam
 wesnoth				419		419		acct
 davfs2				420		420		acct		Used by net-fs/davfs2
 znc				421		421		acct
-abrt				422		422		acct
+abrt				422		422		historical
 pdns				423		423		acct		Used by net-dns/pdns
-quagga				424		424		acct
+quagga				424		424		historical
 kafka				425		425		acct
 etcd				426		426		acct
 cadvisor			427		427		acct
 telegraf			428		428		acct
 gerbera				429		429		acct
 prometheus			430		430		acct
-netbox				431		431		acct
+netbox				431		431		historical
 kube-apiserver			432		432		acct
 kube-controller-manager		433		433		acct
 kube-scheduler			434		434		acct
@@ -531,14 +531,14 @@ milter-regex			438		438		acct
 ldap				439		439		acct
 collectd			440		440		acct
 memcached			441		441		acct
-cinder				442		442		acct
-glance				443		443		acct
-heat				444		444		acct
-keystone			445		445		acct
-neutron				446		446		acct
-nova				447		447		acct
-placement			448		448		acct
-swift				449		449		acct
+cinder				442		442		historical
+glance				443		443		historical
+heat				444		444		historical
+keystone			445		445		historical
+neutron				446		446		historical
+nova				447		447		historical
+placement			448		448		historical
+swift				449		449		historical
 firebird			450		450		acct
 redmine				451		451		acct
 vdr				452		452		acct
@@ -561,7 +561,7 @@ supervisor			-		463		acct
 airdcppd			464		464		acct
 ippl				465		-		acct		Used by net-analyzer/ippl
 tsm				-		465		acct		Used by app-backup/tsm
-rstudio-server			466		466		acct		Used by sci-mathematics/rstudio
+rstudio-server			466		466		historical	Used by sci-mathematics/rstudio
 geneweb				467		467		acct
 amule				468		468		acct
 xrootd				469		469		acct
@@ -597,10 +597,10 @@ burp				498		498		acct
 syncthing			499		499		acct
 slurm				500		500		historical	Now UID/GID 400
 elasticsearch_exporter		501		501		acct
-burrow_exporter			502		502		acct
+burrow_exporter			502		502		historical
 reg				503		503		acct
 fluentd				504		504		acct
-systemd-hostname		-		505		acct
+systemd-hostname		-		505		historical
 brltty				506		506		acct
 brlapi				-		507		acct
 biboumi				508		508		acct		Used by net-im/biboumi

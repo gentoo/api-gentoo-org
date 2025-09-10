@@ -80,6 +80,7 @@ uucp				10		14		baselayout
 wheel				-		10		acct
 wheel				-		10		baselayout
 operator			11		-		baselayout
+floppy				-		11		acct
 floppy				-		11		baselayout
 man				13		15		acct		Removed from baselayout in [r2528](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=408c068b3981a099817bc1bd90e737e61900fe7c) and before in [r1474](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=e35c46ec25596e885aea61203cc9a386926a5034)
 postmaster			14		-		acct		Removed from baselayout in [r3093](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=e0b6e08880e5dc71faf263f10b42d15e3946d298)
@@ -159,6 +160,7 @@ polkitd				102		102		acct
 plex				103		103		acct
 grok_exporter			104		104		acct
 freenet				105		105		acct
+pgpool				106		-		acct
 lpadmin				-		106		acct
 rabbitmq_exporter		107		107		acct
 snmp_exporter			108		108		acct
@@ -619,7 +621,7 @@ gns3				522		522		acct
 goaccess			523		523		acct
 owntracks			524		524		acct		Used by sci-geosciences/owntracks-recorder
 knot-resolver			525		525		acct		Used by net-dns/knot-resolver
-soju				-		526		acct
+soju				526		526		acct
 nginx-unit			527		527		acct
 yubihsm-connector		528		528		acct		Used by app-crypt/yubihsm-connector
 inadyn				529		529		acct		Used by net-dns/inadyn

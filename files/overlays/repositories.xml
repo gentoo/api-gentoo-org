@@ -969,7 +969,7 @@
       <name>Arija A.</name>
     </owner>
     <source type="git">https://git.ari.lt/ari/dinolay.git</source>
-    <source type="git">git@git.ari.lt/ari/dinolay.git</source>
+    <source type="git">git+ssh://git@git.ari.lt/ari/dinolay.git</source>
     <feed>https://git.ari.lt/ari/dinolay/rss/branch/main</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

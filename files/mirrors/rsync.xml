@@ -13,10 +13,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.ca.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>Memorial University - rsync3.ca.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync3.ca.gentoo.org</uri>
-    </mirror>
-    <mirror>
       <name>University of Waterloo - rsync4.ca.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync4.ca.gentoo.org</uri>
     </mirror>
@@ -31,16 +27,8 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.us.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>Georgia Tech - rsync3.us.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync3.us.gentoo.org</uri>
-    </mirror>
-    <mirror>
       <name>Steadfast Networks - rsync11.us.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync11.us.gentoo.org</uri>
-    </mirror>
-    <mirror>
-      <name>TDS Internet Services - rsync26.us.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync26.us.gentoo.org</uri>
     </mirror>
     <mirror>
       <name>Rackspace Technology - rsync31.us.gentoo.org</name>
@@ -97,10 +85,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>Ruhr-Universität Bochum - rsync10.de.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync10.de.gentoo.org</uri>
-    </mirror>
-    <mirror>
-      <name>mirror.amiconsult.de - rsync12.de.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync12.de.gentoo.org</uri>
     </mirror>
     <mirror>
       <name>RWTH Aachen University</name>
@@ -223,10 +207,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.au.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>Viktor Villafuerte</name>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync2.au.gentoo.org</uri>
-    </mirror>
-    <mirror>
       <name>Rackspace Technology - rsync3.au.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync3.au.gentoo.org</uri>
     </mirror>
@@ -235,10 +215,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>Any available mirror - rsync.cn.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.cn.gentoo.org</uri>
-    </mirror>
-    <mirror>
-      <name>Tsinghua University - rsync1.cn.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync1.cn.gentoo.org</uri>
     </mirror>
     <mirror>
       <name>Rackspace Technology - rsync3.cn.gentoo.org</name>
@@ -269,10 +245,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>Any available mirror - rsync.ru.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.ru.gentoo.org</uri>
-    </mirror>
-    <mirror>
-      <name>bloodhost.ru - rsync1.ru.gentoo.org</name>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.ru.gentoo.org</uri>
     </mirror>
     <mirror>
       <name>Yandex.ru - rsync2.ru.gentoo.org</name>

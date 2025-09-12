@@ -367,6 +367,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://mirrors.evoluso.com/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirrors.evoluso.com/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>IT Services Company s.r.o.</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirrors.hostiserver.com/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirrors.hostiserver.com/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://mirrors.hostiserver.com/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirrors.hostiserver.com/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <!--
   <mirrorgroup region="Europe" country="PL" countryname="Poland">

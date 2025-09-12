@@ -450,6 +450,11 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://repo.ifca.es/gentoo-distfiles</uri>
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://repo.ifca.es/gentoo-distfiles</uri>
     </mirror>
+    <mirror>
+      <name>Javier García</name>
+      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://mirror.javier.eu.org/gentoo-distfiles/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.javier.eu.org/gentoo-distfiles/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="TR" countryname="Turkey">
     <mirror>

@@ -608,6 +608,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>lanet.kr</name>
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://ftp.lanet.kr/pub/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>Keiverse</name>
+      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://mirror.keiminem.com/gentoo/</uri>
+      <uri protocol="https" ipv4="y" ipv6="n" partial="n">http://mirror.keiminem.com/gentoo/</uri>
+      <uri protocol="https" ipv4="y" ipv6="n" partial="n">rsync://mirror.keiminem.com/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia" country="BY" countryname="Belarus">
     <mirror>

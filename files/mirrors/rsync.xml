@@ -59,6 +59,16 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync2.bg.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
+  <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="CH" countryname="Switzerland">
+    <mirror>
+      <name>Any available mirror - rsync.ch.gentoo.org</name>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.ch.gentoo.org</uri>
+    </mirror>
+    <mirror>
+      <name>MDAPI - rsync1.ch.gentoo.org.</name>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync1.ch.gentoo.org</uri>
+    </mirror>
+  </mirrorgroup>
   <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="CZ" countryname="Czech Republic">
     <mirror>
       <name>Any available mirror - rsync.cz.gentoo.org</name>

@@ -243,6 +243,10 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://gluttony.sin.cvut.cz/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://gluttony.sin.cvut.cz/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>vpsFree.cz</name>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://ftp.ussg.iu.edu/gentoo-distfiles/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="DK" countryname="Denmark">
     <mirror>

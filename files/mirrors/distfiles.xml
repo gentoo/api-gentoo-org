@@ -258,6 +258,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://fr.mirrors.cicku.me/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://fr.mirrors.cicku.me/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>PlanetUnix Networks</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://nereid.fr.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://nereid.fr.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://nereid.fr.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://nereid.fr.ext.planetunix.net/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="DE" countryname="Germany">
     <mirror>
@@ -358,6 +365,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://de.mirrors.cicku.me/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://de.mirrors.cicku.me/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>PlanetUnix Networks</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://oberon.de.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://oberon.de.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://oberon.de.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://oberon.de.ext.planetunix.net/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="GR" countryname="Greece">
     <mirror>
@@ -417,6 +431,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>Hosthink Dedicated Servers</name>
       <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://mirror.hosthink.net/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.hosthink.net/gentoo/</uri>
+    </mirror>
+    <mirror>
+      <name>PlanetUnix Networks</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://belinda.it.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://belinda.it.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://belinda.it.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://belinda.it.ext.planetunix.net/gentoo/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="NL" countryname="Netherlands">
@@ -691,6 +712,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://in.mirrors.cicku.me/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://in.mirrors.cicku.me/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>PlanetUnix Networks</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://ariel.in.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ariel.in.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://ariel.in.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://ariel.in.ext.planetunix.net/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia" country="JP" countryname="Japan">
     <mirror>
@@ -724,6 +752,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://jp.mirrors.cicku.me/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://jp.mirrors.cicku.me/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>PlanetUnix Networks</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://kale.jp.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://kale.jp.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://kale.jp.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://kale.jp.ext.planetunix.net/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia" country="KZ" countryname="Kazakhstan">
     <mirror>
@@ -731,6 +766,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirror.ps.kz/gentoo/pub</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.ps.kz/gentoo/pub</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.ps.kz/gentoo</uri>
+    </mirror>
+    <mirror>
+      <name>PlanetUnix Networks</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://rhea.kz.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://rhea.kz.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://rhea.kz.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rhea.kz.ext.planetunix.net/gentoo/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia" country="PH" countryname="Philippines">
@@ -808,6 +850,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://sg.mirrors.cicku.me/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://sg.mirrors.cicku.me/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>PlanetUnix Networks</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://enceladus.sg.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://enceladus.sg.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://enceladus.sg.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://enceladus.sg.ext.planetunix.net/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia" country="TW" countryname="Taiwan">
     <mirror>
@@ -825,6 +874,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     <mirror>
       <name>Hamakor FOSS Society</name>
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirror.isoc.org.il/pub/gentoo/</uri>
+    </mirror>
+    <mirror>
+      <name>PlanetUnix Networks</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://tethys.il.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://tethys.il.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://tethys.il.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://tethys.il.ext.planetunix.net/gentoo/</uri>
     </mirror>
   </mirrorgroup>
   <!--
@@ -844,6 +900,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>CICKU</name>
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://za.mirrors.cicku.me/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://za.mirrors.cicku.me/gentoo/</uri>
+    </mirror>
+    <mirror>
+      <name>PlanetUnix Networks</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://setebos.za.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://setebos.za.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://setebos.za.ext.planetunix.net/pub/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://setebos.za.ext.planetunix.net/gentoo/</uri>
     </mirror>
   </mirrorgroup>
 </mirrors>

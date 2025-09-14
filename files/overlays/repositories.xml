@@ -1449,15 +1449,14 @@
   <repo quality="experimental" status="unofficial">
     <name>flussence</name>
     <description lang="en">flussenceʼs personal overlay</description>
-    <homepage>https://repo.or.cz/flussence-overlay.git</homepage>
+    <homepage>https://codeberg.org/flussence/flussence-overlay.git</homepage>
     <owner type="person">
       <email>gentoo+bugs@flussence.eu</email>
       <name>Enne Eziarc</name>
     </owner>
-    <source type="git">https://repo.or.cz/flussence-overlay.git</source>
-    <source type="git">git://repo.or.cz/flussence-overlay.git</source>
-    <source type="git">ssh://git@repo.or.cz/flussence-overlay.git</source>
-    <feed>https://repo.or.cz/flussence-overlay.git/atom</feed>
+    <source type="git">https://codeberg.org/flussence/flussence-overlay.git</source>
+    <source type="git">ssh://git@codeberg.org/flussence/flussence-overlay.git</source>
+    <feed>https://codeberg.org/flussence/flussence-overlay.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>fol4</name>

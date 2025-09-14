@@ -29,8 +29,8 @@ vim: ft=xml et ts=2 sts=2 sw=2:
     </mirror>
     <mirror>
       <name>FailZero / Genesis Hosting Technologies</name>
-      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://stygian.failzero.net/mirror/gentoo</uri>
-      <uri protocol="http" ipv4="y" ipv6="n" partial="n">rsync://stygian.failzero.net/gentoo</uri>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://stygian.failzero.net/mirror/gentoo</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">rsync://stygian.failzero.net/gentoo</uri>
     </mirror>
     <mirror>
       <name>CICKU</name>

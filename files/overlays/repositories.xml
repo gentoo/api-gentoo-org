@@ -1446,7 +1446,6 @@
     </owner>
     <source type="git">https://gitlab.com/Flow/flow-s-ebuilds.git</source>
   </repo>
-  <!--
   <repo quality="experimental" status="unofficial">
     <name>flussence</name>
     <description lang="en">flussenceʼs personal overlay</description>
@@ -1459,7 +1458,6 @@
     <source type="git">ssh://git@codeberg.org/flussence/flussence-overlay.git</source>
     <feed>https://codeberg.org/flussence/flussence-overlay.atom</feed>
   </repo>
-  -->
   <repo quality="experimental" status="unofficial">
     <name>fol4</name>
     <description lang="en">fol4 overlay</description>

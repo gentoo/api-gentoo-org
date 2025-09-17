@@ -1470,6 +1470,18 @@
     <source type="git">git+ssh://git@gitlab.com/madsl/fol4.git</source>
     <feed>https://gitlab.com/madsl/fol4/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>foo-overlay</name>
+    <description>Piotr's fixes and new packages</description>
+    <homepage>https://github.com/slashbeast/foo-overlay</homepage>
+    <owner type="person">
+      <email>slashbeast@gentoo.org</email>
+      <name>Piotr Karbowski</name>
+    </owner>
+    <source type="git">https://github.com/slashbeast/foo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/slashbeast/foo-overlay.git</source>
+    <feed>https://github.com/slashbeast/foo-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>fordfrog</name>
     <description lang="en">Developer overlay</description>

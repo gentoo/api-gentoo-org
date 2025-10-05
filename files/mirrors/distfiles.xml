@@ -990,5 +990,11 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://setebos.za.ext.planetunix.net/pub/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://setebos.za.ext.planetunix.net/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>University of the Free State</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirror.ufs.ac.za/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.ufs.ac.za/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.ufs.ac.za/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
 </mirrors>

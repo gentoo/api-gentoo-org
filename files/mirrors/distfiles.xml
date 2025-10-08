@@ -165,8 +165,14 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mimas.co.ext.planetunix.net/gentoo/</uri>
     </mirror>
   </mirrorgroup>
-  <!--<mirrorgroup region="South America" country="CL" countryname="Chile">
-  </mirrorgroup>-->
+  <mirrorgroup region="South America" country="CL" countryname="Chile">
+    <mirror>
+      <name>ElMirror.cl Team</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://elmirror.cl/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://elmirror.cl/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://elmirror.cl/gentoo/</uri>
+    </mirror>
+  </mirrorgroup>
   <mirrorgroup region="Europe" country="AT" countryname="Austria">
     <mirror>
       <name>Kumi Systems e.U.</name>

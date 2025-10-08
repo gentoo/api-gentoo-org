@@ -205,7 +205,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync.ro.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>Romanian Organization Network</name>
+      <name>Romanian Organization Network - rsync3.ro.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync3.ro.gentoo.org</uri>
     </mirror>
   </mirrorgroup>

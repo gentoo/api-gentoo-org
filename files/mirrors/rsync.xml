@@ -51,12 +51,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync33.us.gentoo.org</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="South America (rsync.samerica.gentoo.org)" country="BR" countryname="Brazil">
+  <!--<mirrorgroup region="South America (rsync.samerica.gentoo.org)" country="BR" countryname="Brazil">
     <mirror>
       <name>Any available mirror - rsync.br.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.br.gentoo.org</uri>
     </mirror>
-  </mirrorgroup>
+  </mirrorgroup>-->
   <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="BG" countryname="Bulgaria">
     <mirror>
       <name>Any available mirror - rsync.bg.gentoo.org</name>

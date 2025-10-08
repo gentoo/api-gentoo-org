@@ -243,7 +243,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync4.uk.gentoo.org</uri>
     </mirror>
     <mirror>
-      <name>The UK Mirror Service</name>
+      <name>The UK Mirror Service - rsync5.uk.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync5.uk.gentoo.org</uri>
     </mirror>
   </mirrorgroup>

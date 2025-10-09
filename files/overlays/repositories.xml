@@ -2985,12 +2985,12 @@
   <repo quality="experimental" status="unofficial">
     <name>overlay-from-plan9</name>
     <description lang="en">My gentoo overlay</description>
-    <homepage>https://codeberg.org/catfromplan9/overlay-from-plan9</homepage>
+    <homepage>https://gitea.com/catfromplan9/overlay-from-plan9</homepage>
     <owner type="person">
       <email>cat@plan9.rocks</email>
       <name>cat</name>
     </owner>
-    <source type="git">https://codeberg.org/catfromplan9/overlay-from-plan9.git</source>
+    <source type="git">https://gitea.com/catfromplan9/overlay-from-plan9.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>overseerr-overlay</name>

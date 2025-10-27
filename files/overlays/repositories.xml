@@ -3567,6 +3567,15 @@
     <feed>https://github.com/ros/ros-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>rosa-ebuilds</name>
+    <description lang="en">ebuilds for software made or contributed to by tux0r</description>
+    <owner type="person">
+      <email>tux0r@rosaelefanten.org</email>
+      <name>tux0r</name>
+    </owner>
+    <source type="cvs">anoncvs@cvs.rosaelefanten.org:/var/CVSROOT/rosaebuilds</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>roslin</name>
     <description>This is roslin, my small overlay. Enjoy! (:</description>
     <homepage>https://gitlab.com/roslin-uberlay/roslin</homepage>

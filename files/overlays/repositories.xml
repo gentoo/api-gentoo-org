@@ -513,6 +513,18 @@
     <feed>https://github.com/BarrenSea/barrensea-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>batsim</name>
+    <description lang="en">Ebuilds for batsim, related projects and missing dependencies</description>
+    <homepage>https://codeberg.org/aschwarz/batsim</homepage>
+    <owner type="person">
+      <email>aschwarz@usp.br</email>
+      <name>André Schwarz</name>
+    </owner>
+    <source type="git">https://codeberg.org/aschwarz/batsim.git</source>
+    <source type="git">git+ssh://git@codeberg.org/aschwarz/batsim.git</source>
+    <feed>https://codeberg.org/aschwarz/batsim.rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>battlepenguin</name>
     <description lang="en">BattlePenguin Project Overlays</description>
     <homepage>https://battlepenguin.com</homepage>

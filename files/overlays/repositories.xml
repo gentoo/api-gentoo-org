@@ -396,17 +396,6 @@
     <feed>https://github.com/ArchFeh/ArchFeh-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>argent-main</name>
-    <description>Argent Linux</description>
-    <homepage>https://gitlab.com/argent/argent-main</homepage>
-    <owner type="person">
-      <email>stefan.cristian+gentoo@rogentos.ro</email>
-      <name>Stefan Cristian Brindusa</name>
-    </owner>
-    <source type="git">https://gitlab.com/argent/argent-main.git</source>
-    <feed>https://gitlab.com/argent/argent-main/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
     <name>arrans-overlay</name>
     <description>Arran's Overlay</description>
     <homepage>https://github.com/arran4/arrans_overlay</homepage>

@@ -3610,6 +3610,18 @@
     </owner>
     <source type="git">https://gitlab.com/roslin-uberlay/roslin.git</source>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>rsa9000-osmocom</name>
+    <description lang="en">Unofficial OSMOCOM tools/services overlay</description>
+    <homepage>https://github.com/rsa9000/osmocom-overlay</homepage>
+    <owner type="person">
+      <email>ryazanov.s.a@gmail.com</email>
+      <name>Sergey Ryazanov</name>
+    </owner>
+    <source type="git">https://github.com/rsa9000/osmocom-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/rsa9000/osmocom-overlay.git</source>
+    <feed>https://github.com/rsa9000/osmocom-overlay/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>ruby</name>
     <description>Experimental ebuilds from the Ruby edge.</description>

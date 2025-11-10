@@ -638,6 +638,18 @@
     <feed>https://github.com/blackburn29/blackburn29-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>blshkv-overlay</name>
+    <description lang="en">My personal overlay with random ebuilds</description>
+    <homepage>https://github.com/blshkv/blshkv-overlay</homepage>
+    <owner type="person">
+      <email>anton.bugs@gmail.com</email>
+      <name>Anton Bolshakov</name>
+    </owner>
+    <source type="git">https://github.com/blshkv/blshkv-overlay.git</source>
+    <source type="git">git@github.com:blshkv/blshkv-overlay.git</source>
+    <feed>https://github.com/blshkv/blshkv-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>bobwya</name>
     <description lang="en">Miscellaneous Gentoo ebuilds</description>
     <homepage>https://github.com/bobwya/miscellaneous_ebuilds</homepage>

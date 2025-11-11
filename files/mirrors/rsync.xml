@@ -112,6 +112,10 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>NIC.CZ - rsync3.cz.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync3.cz.gentoo.org</uri>
     </mirror>
+    <mirror>
+      <name>vpsfree.cz - rsync4.cz.gentoo.org</name>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync4.cz.gentoo.org</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe (rsync.europe.gentoo.org)" country="DE" countryname="Germany">
     <mirror>

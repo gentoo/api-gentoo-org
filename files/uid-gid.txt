@@ -626,6 +626,7 @@ derper				547		547		acct		Used by net-vpn/derper
 vaultwarden			549		549		acct
 onak				551		551		acct		Used by app-crypt/onak
 clock				-		550		acct
+dkimpy-milter			552		552		acct		Used by dev-python/dkimpy-milter
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000	1000..60000	reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs

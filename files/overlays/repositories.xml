@@ -4007,6 +4007,17 @@
     <feed>https://github.com/anyc/steam-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>stefan_overlay</name>
+    <description lang="en">Various ebuilds someone may find useful</description>
+    <homepage>https://github.com/stefan11111/stefan_overlay</homepage>
+    <owner type="person">
+      <email>stefan11111@shitposting.expert</email>
+      <name>stefan11111</name>
+    </owner>
+    <source type="git">https://github.com/stefan11111/stefan_overlay.git</source>
+    <feed>https://github.com/stefan11111/stefan_overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>stephdewit</name>
     <description lang="en">Stéphane de Wit's personal overlay</description>
     <homepage>https://github.com/stephdewit/gentoo-overlay</homepage>

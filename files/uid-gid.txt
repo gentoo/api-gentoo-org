@@ -624,8 +624,9 @@ tlsrpt-reporter			546		546		acct		Used by net-mail/tlsrpt-reporter
 derper				547		547		acct		Used by net-vpn/derper
 3proxy				548		548		acct		Used by net-proxy/3proxy
 vaultwarden			549		549		acct
-onak				551		551		acct		Used by app-crypt/onak
 clock				-		550		acct
+onak				551		551		acct		Used by app-crypt/onak
+dkimpy-milter			552		552		acct		Used by dev-python/dkimpy-milter
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000	1000..60000	reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs

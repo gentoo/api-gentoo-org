@@ -172,6 +172,18 @@
     <feed>https://gitlab.com/akater/ebuilds/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>alamahant-overlay</name>
+    <description lang="en">Alamahant's personal overlay</description>
+    <homepage>https://github.com/alamahant/alamahant-overlay</homepage>
+    <owner type="person">
+      <email>alamahant@gmail.com</email>
+      <name>Alamahant</name>
+    </owner>
+    <source type="git">https://github.com/alamahant/alamahant-overlay.git</source>
+    <source type="git">git@github.com:alamahant/alamahant-overlay.git</source>
+    <feed>https://github.com/alamahant/alamahant-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>alatar-lay</name>
     <description lang="en">Alatar`s personal ebuilds</description>
     <homepage>https://github.com/alatarum/alatar-lay</homepage>

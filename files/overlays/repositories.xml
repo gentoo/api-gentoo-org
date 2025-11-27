@@ -3717,6 +3717,18 @@
     <feed>https://github.com/thesamesam/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>Saniter</name>
+    <description lang="en">saniter's overlay</description>
+    <homepage>https://github.com/nuclear06/GentooOverlay</homepage>
+    <owner type="person">
+      <email>saniter.dev@outlook.com</email>
+      <name>saniter</name>
+    </owner>
+    <source type="git">https://github.com/nuclear06/GentooOverlay.git</source>
+    <source type="git">git+ssh://git@github.com/nuclear06/GentooOverlay.git</source>
+    <feed>https://github.com/nuclear06/GentooOverlay.git/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>SarahMiaOverlay</name>
     <description lang="en">Everything for Budgie-Desktop and a little bit SarahMia's personal overlay</description>
     <homepage>https://gitlab.com/SarahMia/sarahmiaoverlay</homepage>

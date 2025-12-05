@@ -1664,6 +1664,17 @@
     <feed>https://github.com/CanuteTheGreat/gentoo-linux-surface-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gentoo-lomiri</name>
+    <description lang="en">A Gentoo overlay to build the Lomiri user interface.</description>
+    <homepage>https://gitlab.com/renegart/gentoo-lomiri</homepage>
+    <owner type="person">
+      <email>renegart@gmx.de</email>
+      <name>renegart</name>
+    </owner>
+    <source type="git">https://gitlab.com/renegart/gentoo-lomiri.git</source>
+    <source type="git">git@gitlab.com:renegart/gentoo-lomiri.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gentoo-unity7</name>
     <description lang="en">A Gentoo overlay to build the Unity7 user interface</description>
     <homepage>https://github.com/c4pp4/gentoo-unity7</homepage>

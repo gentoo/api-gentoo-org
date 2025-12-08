@@ -4570,6 +4570,21 @@
     <source type="git">git+ssh://git@github.com/xartin/gentoo-overlay.git</source>
     <feed>https://github.com/xartin/gentoo-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>userver-framework</name>
+    <description lang="en">Official gentoo overlay for Userver: Production-ready C++ Asynchronous Framework with rich functionality</description>
+    <homepage>https://github.com/userver-framework/userver</homepage>
+    <owner type="project">
+      <email>antoshkka@userver.tech</email>
+      <name>Userver team</name>
+    </owner>
+    <owner type="person">
+      <email>imamail@bk.ru</email>
+      <name>halfdarkangel</name>
+    </owner>
+    <source type="git">https://github.com/halfdarkangel/userver-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/halfdarkangel/userver-overlay.git</source>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>vaacus</name>
     <description lang="en">A personal overlay for the void.</description>

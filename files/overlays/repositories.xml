@@ -4574,10 +4574,6 @@
     <name>userver-framework</name>
     <description lang="en">Official gentoo overlay for Userver: Production-ready C++ Asynchronous Framework with rich functionality</description>
     <homepage>https://github.com/userver-framework/userver</homepage>
-    <owner type="project">
-      <email>antoshkka@userver.tech</email>
-      <name>Userver team</name>
-    </owner>
     <owner type="person">
       <email>imamail@bk.ru</email>
       <name>halfdarkangel</name>

@@ -457,6 +457,18 @@
     <!-- <feed>https://cgit.gentoo.org/user/AstroFloyd.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>asus-vivobook-16-snapdragon-x</name>
+    <description lang="en">Overlay for Asus Vivobook 16 laptops with Qualcomm Snapdragon SoCs.</description>
+    <homepage>https://github.com/kellermanrivero/asus-vivobook-16-overlay</homepage>
+    <owner type="person">
+      <email>krsloco@gmail.com</email>
+      <name>Kellerman Rivero</name>
+    </owner>
+    <source type="git">https://github.com/kellermanrivero/asus-vivobook-16-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/kellermanrivero/asus-vivobook-16-overlay.git</source>
+    <feed>https://github.com/kellermanrivero/asus-vivobook-16-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>audio-overlay</name>
     <description lang="en">Pro audio overlay. Please file bugs or package suggestions at https://github.com/gentoo-audio/audio-overlay/issues/new</description>
     <homepage>https://github.com/gentoo-audio/audio-overlay</homepage>

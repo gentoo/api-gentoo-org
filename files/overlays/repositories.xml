@@ -1432,13 +1432,13 @@
   <repo quality="experimental" status="unofficial">
     <name>flavour</name>
     <description lang="en">Personal overlay of Wim Muskee</description>
-    <homepage>https://github.com/wimmuskee/flavour</homepage>
+    <homepage>https://codeberg.org/wimmuskee/flavour</homepage>
     <owner type="person">
       <email>wimmuskee@gmail.com</email>
       <name>Wim Muskee</name>
     </owner>
-    <source type="git">https://github.com/wimmuskee/flavour.git</source>
-    <source type="git">git+ssh://git@github.com/wimmuskee/flavour.git</source>
+    <source type="git">https://codeberg.org/wimmuskee/flavour.git</source>
+    <source type="git">ssh://git@codeberg.org/wimmuskee/flavour.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>flewkey-overlay</name>

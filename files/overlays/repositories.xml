@@ -2057,6 +2057,16 @@
     <source type="git">git+ssh://git@github.com/antonfischl1980/icinga.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>illogician-overlay</name>
+    <description lang="en">Gentoo overlay; includes a few obscure things I use regularly</description>
+    <homepage>https://codeberg.org/illogician/illogician-overlay</homepage>
+    <owner type="person">
+      <email>illogician@tutamail.com</email>
+      <name>illogician</name>
+    </owner>
+    <source type="git">https://codeberg.org/illogician/illogician-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>imperium</name>
     <description lang="en">Personal ebuild repository for personal projects</description>
     <homepage>https://gitlab.com/HansvonHohenstaufen/imperium.git</homepage>

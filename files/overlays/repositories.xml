@@ -4864,12 +4864,12 @@
   <repo quality="experimental" status="unofficial">
     <name>XaetaCore</name>
     <description lang="en">Collection of various missing or modified packages</description>
-    <homepage>https://git.xaetacore.net/jeroenmathon/xaetacore</homepage>
+    <homepage>https://git.xaetacore.net/xaetacore/xaetacore</homepage>
     <owner type="person">
-      <email>jeroenmathonmac@gmail.com</email>
+      <email>xaetacore@pm.me</email>
       <name>XaetaCore</name>
     </owner>
-    <source type="git">https://git.xaetacore.net/jeroenmathon/xaetacore</source>
+    <source type="git">https://git.xaetacore.net/xaetacore/xaetacore</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>xarblu-overlay</name>

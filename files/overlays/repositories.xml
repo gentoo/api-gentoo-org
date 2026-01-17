@@ -2046,6 +2046,17 @@
     <feed>https://github.com/TomHotston/hotstoast-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>hyproverlay</name>
+    <description lang="en">Hypr*-stuff related overlay</description>
+    <homepage>https://codeberg.org/hyproverlay/hyproverlay</homepage>
+    <owner type="person">
+      <email>filip@kszczot.pl</email>
+      <name>Filip Kszczot</name>
+    </owner>
+    <source type="git">https://codeberg.org/hyproverlay/hyproverlay.git</source>
+    <feed>https://codeberg.org/hyproverlay/hyproverlay.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>icinga</name>
     <description lang="en">Gentoo Overlay Repository for Icinga2 related stuff</description>
     <homepage>https://github.com/antonfischl1980/icinga</homepage>

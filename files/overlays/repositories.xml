@@ -3921,14 +3921,15 @@
   <repo quality="experimental" status="unofficial">
     <name>sinustrom</name>
     <description lang="en">Sinustrom Gentoo Overlay</description>
-    <homepage>https://github.com/zpuskas/sinustrom-gentoo-overlay</homepage>
+    <homepage>https://codeberg.org/zpuskas/sinustrom-gentoo-overlay/</homepage>
     <owner type="person">
       <email>zoltan@sinustrom.info</email>
       <name>Zoltan Puskas</name>
     </owner>
-    <source type="git">https://github.com/zpuskas/sinustrom-gentoo-overlay.git</source>
-    <source type="git">git@github.com:zpuskas/sinustrom-gentoo-overlay.git</source>
-    <feed>https://github.com/zpuskas/sinustrom-gentoo-overlay/commits/master.atom</feed>
+    <source type="git">https://codeberg.org/zpuskas/sinustrom-gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org/zpuskas/sinustrom-gentoo-overlay.git</source>
+    <feed>https://codeberg.org/zpuskas/sinustrom-gentoo-overlay/atom/branch/master</feed>
+    <feed>https://codeberg.org/zpuskas/sinustrom-gentoo-overlay/rss/branch/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>sk-overlay</name>

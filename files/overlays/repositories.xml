@@ -2797,6 +2797,18 @@
     <!-- <feed>https://cgit.gentoo.org/dev/mschiff.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>mselimyavuz-overlay</name>
+    <description lang="en">A personal Gentoo overlay, featuring modern, pro-audio applications and libraries</description>
+    <homepage>https://gitlab.com/mselimyavuz/mselimyavuz-overlay</homepage>
+    <owner type="person">
+      <email>mselim.yavuz.phd@gmail.com</email>
+      <name>M. Selim Yavuz</name>
+    </owner>
+    <source type="git">https://gitlab.com/mselimyavuz/mselimyavuz-overlay.git</source>
+    <source type="git">git+ssh://git@gitlab.com:mselimyavuz/mselimyavuz-overlay.git</source>
+    <feed>https://gitlab.com/mselimyavuz/mselimyavuz-overlay/-/commits/main?format=atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>multilib-portage</name>
     <description>multilib-overlay: emul-linux-x86 must die ;)</description>
     <homepage>https://cgit.gentoo.org/proj/multilib-portage.git/</homepage>

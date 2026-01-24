@@ -2957,6 +2957,17 @@
     <feed>https://github.com/houseofsuns/nongnu-elpa/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>norayr-overlay</name>
+    <description lang="en">Personal overlay by Norayr Chilingarian (misc ebuilds: VOC/Oberon tooling, WindowMaker apps, Pidgin plugins, etc.)</description>
+    <homepage>https://github.com/norayr/norayr-overlay</homepage>
+    <owner type="person">
+      <email>norayr@arnet.am</email>
+      <name>Norayr Chilingarian</name>
+    </owner>
+    <source type="git">https://github.com/norayr/norayr-overlay.git</source>
+    <feed>https://github.com/norayr/norayr-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>nordvpn</name>
     <description lang="en">NordVPN client overlay</description>
     <homepage>https://gitlab.com/lahouari.dc/nordvpn/</homepage>

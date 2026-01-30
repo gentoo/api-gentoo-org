@@ -1975,6 +1975,17 @@
     <source type="git">git+ssh://git@github.com/gentoo-haskell/gentoo-haskell.git</source>
     <feed>https://github.com/gentoo-haskell/gentoo-haskell/commits/master.atom</feed>
   </repo>
+  <name>ha-bleending-edge</name>
+    <description lang="en">Home Assistant bleeding edge repository</description>
+    <homepage>https://github.com/tabascoz/ha-bleeding-edge</homepage>
+    <owner type="person">
+      <email>tabascoz@gmail.com</email>
+      <name>Fernando Cunha</name>
+    </owner>
+    <source type="git">https://github.com/tabascoz/ha-bleeding-edge.git</source>
+    <source type="git">git+ssh://git@github.com/tabascoz/ha-bleeding-edge.git</source>
+    <feed>https://github.com/tabascoz/ha-bleeding-edge/commits/main.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>hep-forge</name>
     <description lang="en">Inofficial HEPForge ebuilds</description>

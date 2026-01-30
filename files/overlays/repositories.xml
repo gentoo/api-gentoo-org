@@ -1975,7 +1975,8 @@
     <source type="git">git+ssh://git@github.com/gentoo-haskell/gentoo-haskell.git</source>
     <feed>https://github.com/gentoo-haskell/gentoo-haskell/commits/master.atom</feed>
   </repo>
-  <name>ha-bleending-edge</name>
+  <repo quality="experimental" status="unofficial">
+    <name>ha-bleending-edge</name>
     <description lang="en">Home Assistant bleeding edge repository</description>
     <homepage>https://github.com/tabascoz/ha-bleeding-edge</homepage>
     <owner type="person">

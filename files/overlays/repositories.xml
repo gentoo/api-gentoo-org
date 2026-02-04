@@ -3981,13 +3981,14 @@
   <repo quality="experimental" status="unofficial">
     <name>slonko</name>
     <description lang="en">Personal portage overlay</description>
-    <homepage>https://slonko.net/portage</homepage>
+    <homepage>https://github.com/gringus/slonko</homepage>
     <owner type="person">
       <email>marcin.deranek@slonko.net</email>
       <name>Marcin Deranek</name>
     </owner>
-    <source type="git">https://slonko.net/git/portage</source>
-    <feed>https://slonko.net/git/portage/atom/</feed>
+    <source type="git">https://github.com/gringus/slonko.git</source>
+    <source type="git">git+ssh://git@github.com/gringus/slonko.git</source>
+    <feed>https://github.com/gringus/slonko/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>smaeul</name>

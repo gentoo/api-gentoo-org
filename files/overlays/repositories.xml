@@ -753,6 +753,19 @@
     <feed>https://github.com/BROverlay/overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>buhserepo</name>
+    <description lang="en">Personal overlay of Ben Buhse. Some personal projects plus some I wanted but didn't want to maintain in GURU.</description>
+    <homepage>https://codeberg.org/bwbuhse/buhserepo</homepage>
+    <owner type="person">
+      <email>me@benbuhse.email</email>
+      <name>Ben Buhse</name>
+    </owner>
+    <source type="git">https://codeberg.org/bwbuhse/buhserepo.git</source>
+    <source type="git">git+ssh://git@codeberg.org/bwbuhse/buhserepo.git</source>
+    <feed>https://codeberg.org/bwbuhse/buhserepo/atom/branch/main</feed>
+    <feed>https://codeberg.org/bwbuhse/buhserepo/rss/branch/main</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>bumblebee</name>
     <description lang="en">Packages related to the bumblebee project</description>
     <homepage>https://github.com/Bumblebee-Project/bumblebee-gentoo/</homepage>

@@ -3134,6 +3134,17 @@
     <source type="git">https://gitea.com/catfromplan9/overlay-from-plan9.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>overlay-of-FreshCrz</name>
+    <description lang="en">Personal overlay</description>
+    <homepage>https://github.com/Papagemabodi/overlay-of-FreshCrz</homepage>
+    <owner type="person">
+      <email>yarikplaystryapishko@gmail.com</email>
+      <name>Yaroslav Tryapishko</name>
+    </owner>
+    <source type="git">https://github.com/Papagemabodi/overlay-of-FreshCrz.git</source>
+    <feed>https://github.com/Papagemabodi/overlay-of-FreshCrz/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>overseerr-overlay</name>
     <description lang="en">third party overlay to install overseerr</description>
     <homepage>https://github.com/chriscpritchard/overseerr-overlay</homepage>

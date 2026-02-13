@@ -28,6 +28,11 @@ projects_xml = Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
   xml.doc.create_internal_subset('projects', nil, 'http://www.gentoo.org/dtd/projects.dtd')
   xml.projects do
     projects.each_pair do |id, project|
+      if not project['href'].start_with?('https://wiki.gentoo.org/wiki/Project:',
+                                         'https://wiki.gentoo.org/wiki/Foundation:')
+        puts 'Skipping ' + project['href']
+        next
+      end
       xml.project do
         xml.email project['email']
         xml.name project['name']

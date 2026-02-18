@@ -4451,6 +4451,17 @@
     <feed>https://git.sr.ht/~emneo/thuis/log/rss.xml</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>tinge</name>
+    <description lang="en">Overlay for missing packages.</description>
+    <homepage>https://git.samanthony.xyz/tinge</homepage>
+    <owner type="person">
+      <email>sam@samanthony.xyz</email>
+      <name>Sam Anthony</name>
+    </owner>
+    <source type="git">https://git.samanthony.xyz/tinge</source>
+    <feed>https://git.samanthony.xyz/tinge/atom/</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>tmacedo</name>
     <description>User Overlay</description>
     <homepage>https://github.com/tmacedo/portage</homepage>

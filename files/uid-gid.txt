@@ -631,6 +631,7 @@ beep				-		553		acct		Used by acct-misc/beep
 cuse				-		554		acct		Used by sys-fs/fuse-common (udev rules)
 steve				555		555		acct		Used by dev-build/steve
 jobserver			-		556		acct		Used by dev-build/steve
+plasmalogin			557		557		acct		Used by kde-plasma/plasma-login-manager
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000	1000..60000	reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs

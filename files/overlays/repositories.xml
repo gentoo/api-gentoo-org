@@ -2910,6 +2910,17 @@
     <feed>https://github.com/Nowa-Ammerlaan/natinst/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>nbdy_overlay</name>
+    <description lang="en">Gentoo overlay with Wine CachyOS, Wine GE, and other packages</description>
+    <homepage>https://codeberg.org/NoBodyZ/nbdy_overlay</homepage>
+    <owner type="person">
+      <email>neotrax70@gmail.com</email>
+      <name>N3oTraX</name>
+    </owner>
+    <source type="git">https://codeberg.org/NoBodyZ/nbdy_overlay.git</source>
+    <feed>https://codeberg.org/NoBodyZ/nbdy_overlay.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>nest</name>
     <description lang="en">Personal Gentoo overlay</description>
     <homepage>https://github.com/SpiderX/portage-overlay</homepage>

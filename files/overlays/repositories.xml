@@ -4986,6 +4986,16 @@
     <source type="git">git://overlay.xelnor.net/overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>xerxes-overlay</name>
+    <description lang="en">Xerxes Lins personal overlay</description>
+    <homepage>https://github.com/xerxeslins/xerxes-overlay</homepage>
+    <owner type="person">
+      <email>xerxeslins@gmail.com</email>
+      <name>Xerxes Lins</name>
+    </owner>
+    <source type="git">https://github.com/xerxeslins/xerxes-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>xira</name>
     <description lang="en">An LLVM-centric personal overlay, with clang fixes to existing builds, and newly found software, patched or not.</description>
     <homepage>https://github.com/kir68k/xira</homepage>

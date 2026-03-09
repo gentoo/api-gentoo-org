@@ -3966,14 +3966,14 @@
   <repo quality="experimental" status="unofficial">
     <name>sgs</name>
     <description lang="en">Simeon Simeonov's personal Gentoo overlay</description>
-    <homepage>https://github.com/blackm0re/sgs-overlay</homepage>
+    <homepage>https://codeberg.org/sgs/sgs-overlay</homepage>
     <owner type="person">
       <email>sgs@pichove.org</email>
       <name>Simeon Simeonov</name>
     </owner>
-    <source type="git">https://github.com/blackm0re/sgs-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/blackm0re/sgs-overlay.git</source>
-    <feed>https://github.com/blackm0re/sgs-overlay/commits/master.atom</feed>
+    <source type="git">https://codeberg.org/sgs/sgs-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org/sgs/sgs-overlay.git</source>
+    <feed>https://codeberg.org/sgs/sgs-overlay.rss</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>shnurise</name>

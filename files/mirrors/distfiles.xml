@@ -320,6 +320,11 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://nereid.fr.ext.planetunix.net/pub/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://nereid.fr.ext.planetunix.net/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>Page Asgardius</name>
+      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://elda.asgardius.company/gentoo</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://elda.asgardius.company/gentoo</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="DE" countryname="Germany">
     <mirror>

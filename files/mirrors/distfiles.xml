@@ -439,6 +439,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.diyarciftci.xyz/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://mirror.diyarciftci.xyz/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>Rabisu</name>
+      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://mirror.rabisu.com/mirrors/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.rabisu.com/mirrors/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://mirror.rabisu.com/mirrors/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="GR" countryname="Greece">
     <mirror>

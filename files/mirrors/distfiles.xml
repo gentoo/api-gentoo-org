@@ -44,6 +44,10 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://elara.ca.ext.planetunix.net/pub/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://elara.ca.ext.planetunix.net/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>Diro</name>
+      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://gentoo.iro.umontreal.ca/gentoo/</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="North America" country="US" countryname="United States (USA)">
     <mirror>

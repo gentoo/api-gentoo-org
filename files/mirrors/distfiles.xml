@@ -649,6 +649,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://es.mirrors.cicku.me/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://es.mirrors.cicku.me/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>Raiola Networks (raiolanetworks.com)</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirror.raiolanetworks.com/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.raiolanetworks.com/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://mirror.raiolanetworks.com/gentoo</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="TR" countryname="Turkey">
     <mirror>

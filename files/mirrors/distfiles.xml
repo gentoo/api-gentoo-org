@@ -569,6 +569,12 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://nl.mirrors.cicku.me/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://nl.mirrors.cicku.me/gentoo/</uri>
     </mirror>
+    <mirror>
+      <name>Vuln Seeker</name>
+      <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://mirror.vulnseeker.org/pub/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.vulnseeker.org/pub/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://mirror.vulnseeker.org/gentoo</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Europe" country="PL" countryname="Poland">
     <mirror>

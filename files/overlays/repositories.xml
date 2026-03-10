@@ -2174,6 +2174,17 @@
     <source type="git">https://git.sr.ht/~jacksonchen666/gentoo-overlay</source>
     <feed>https://git.sr.ht/~jacksonchen666/gentoo-overlay/log/rss.xml</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>jaredallard</name>
+    <description lang="en">jaredallard's personal overlay</description>
+    <homepage>https://git.rgst.io/jaredallard/overlay</homepage>
+    <owner type="person">
+      <email>jared@rgst.io</email>
+      <name>Jared Allard</name>
+    </owner>
+    <source type="git">https://git.rgst.io/jaredallard/overlay.git</source>
+    <feed>https://git.rgst.io/jaredallard/overlay.rss</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>java</name>
     <description lang="en">Java overlay</description>

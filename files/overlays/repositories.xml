@@ -1932,7 +1932,7 @@
     <feed>https://cgit.gentoo.org/repo/proj/guru.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>ha-bleending-edge</name>
+    <name>ha-bleeding-edge</name>
     <description lang="en">Home Assistant bleeding edge repository</description>
     <homepage>https://github.com/tabascoz/ha-bleeding-edge</homepage>
     <owner type="person">

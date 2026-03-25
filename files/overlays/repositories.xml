@@ -2035,6 +2035,18 @@
     <source type="git">https://git.holgersson.xyz/gentoo-related/holgersson-overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>home-assistant</name>
+    <description lang="en">Overlay for running Home Assistant on bare metal Gentoo without docker or VMs</description>
+    <homepage>https://codeberg.org/emlove/home-assistant-overlay</homepage>
+    <owner type="person">
+      <email>emily@emlove.me</email>
+      <name>Emily Love Watson</name>
+    </owner>
+    <source type="git">https://codeberg.org/emlove/home-assistant-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org/emlove/home-assistant-overlay.git</source>
+    <feed>https://codeberg.org/emlove/home-assistant-overlay.rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>HomeAssistantRepository</name>
     <description lang="en">Home Assistant on Gentoo Linux without virtualenv or docker.</description>
     <homepage>https://git.edevau.net/onkelbeh/HomeAssistantRepository</homepage>

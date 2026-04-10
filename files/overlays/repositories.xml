@@ -579,6 +579,18 @@
     <source type="git">git+ssh://git@github.com/bell07/gentoo-bell07_overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>bennypowers</name>
+    <description lang="en">Benny Powers' personal overlay</description>
+    <homepage>https://github.com/bennypowers/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>web@bennypowers.com</email>
+      <name>Benny powers</name>
+    </owner>
+    <source type="git">https://github.com/bennypowers/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/bennypowers/gentoo-overlay.git</source>
+    <feed>https://github.com/bennypowers/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>bentoo</name>
     <description lang="en">An overlay of user-friendly "Stage5" of Gentoo Linux.</description>
     <homepage>https://github.com/lucascouts/bentoo.git</homepage>

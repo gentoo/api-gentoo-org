@@ -3609,6 +3609,25 @@
     <source type="git">git+ssh://git@github.com/rasdark/overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ratigorsk-auto</name>
+    <description lang="en">Automatic ebuilds for binary apps</description>
+    <description lang="ru">Автоматические ebuild'ы для бинарных пакетов</description>
+    <homepage>https://git.ratigorsk-12.ru/gentoo/ratigorsk-auto</homepage>
+    <owner type="person">
+      <email>petr.polezhaev@ratigorsk-12.ru</email>
+      <name>Petr Polezhaev</name>
+    </owner>
+    <source type="git">https://codeberg.org/petr-polezhaev/ratigorsk-auto.git</source>
+    <source type="git">https://git.ratigorsk-12.ru/gentoo/ratigorsk-auto.git</source>
+    <!-- Codeberg has no anonymous ssh access -->
+    <source type="git">git+ssh://git@codeberg.org/petr-polezhaev/ratigorsk-auto.git</source>
+    <source type="git">git+ssh://git@git.ratigorsk-12.ru/gentoo/ratigorsk-auto.git</source>
+    <feed>https://codeberg.org/petr-polezhaev/ratigorsk-auto/atom/branch/master</feed>
+    <feed>https://codeberg.org/petr-polezhaev/ratigorsk-auto/rss/branch/master</feed>
+    <feed>https://git.ratigorsk-12.ru/gentoo/ratigorsk-auto/atom/branch/master</feed>
+    <feed>https://git.ratigorsk-12.ru/gentoo/ratigorsk-auto/rss/branch/master</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>raw</name>
     <description>some raw stuff</description>
     <homepage>https://github.com/mahatma-kaganovich/raw</homepage>

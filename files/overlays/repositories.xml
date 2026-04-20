@@ -2027,7 +2027,7 @@
   <repo quality="experimental" status="unofficial">
     <name>holgersson-overlay</name>
     <description lang="en">Nils "holgersson" Freydank's personal overlay</description>
-    <homepage>https://git.holgersson.xyz</homepage>
+    <homepage>https://git.holgersson.xyz/gentoo-related/holgersson-overlay</homepage>
     <owner type="person">
       <email>holgersson@posteo.de</email>
       <name>Nils Freydank</name>

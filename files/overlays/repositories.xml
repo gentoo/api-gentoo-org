@@ -2943,6 +2943,19 @@
     <source type="git">https://github.com/moaxcp/moaxcp-gentoo-overlay.git</source>
   </repo>
   <repo quality="testing" status="unofficial">
+    <name>mocaccino-overlay</name>
+    <description lang="en">Contains updated ebuilds (w/ more feature/control)
+      for packages in the Gentoo tree, latest version ebuilds and newpackages
+      not yet in the tree. Targeting high-quality for production use.</description>
+    <homepage>https://mocaccino.org</homepage>
+    <owner type="person">
+      <email>joost.ruis@mocaccino.org</email>
+      <name>Joost Ruis</name>
+    </owner>
+    <source type="git">https://codeberg.org/MocaccinoOS/mocaccino-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org/MocaccinoOS/mocaccino-overlay.git</source>
+  </repo>
+  <repo quality="testing" status="unofficial">
     <name>moexiami</name>
     <description lang="en">Contains updated ebuilds (w/ more feature/control)
       for packages in the Gentoo tree, latest version ebuilds and newpackages

@@ -4282,13 +4282,16 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>stuff</name>
-    <description>stuff</description>
+    <description lang="en">Maintained by a small group of contributors,
+       covering a mix of niche needs: electron microscopy (HyperSpy /
+       4D-STEM), SANS/SAXS/XAFS scientific Python, micromagnetism, a
+       DeaDBeeF plugin ecosystem, and Python-2-pinned legacy packages.</description>
     <homepage>https://github.com/istitov/stuff</homepage>
     <owner type="person">
       <email>iohann.s.titov@gmail.com</email>
+      <name>Ivan S. Titov</name>
     </owner>
     <source type="git">https://github.com/istitov/stuff.git</source>
-    <source type="git">git+ssh://git@github.com/istitov/stuff.git</source>
     <feed>https://github.com/istitov/stuff/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

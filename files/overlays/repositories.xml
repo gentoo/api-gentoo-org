@@ -2794,6 +2794,17 @@
     <source type="git">https://source.mnt.re/vimja/mnt-reform-overlay.git</source>
     <feed>https://source.mnt.re/vimja/mnt-reform-overlay.atom</feed>
   </repo>
+  <repo quality="testing" status="unofficial">
+    <name>mocaccino-overlay</name>
+    <description lang="en">MocaccinoOS overlay with additions and patches for stable tree</description>
+    <homepage>https://mocaccino.org</homepage>
+    <owner type="person">
+      <email>joost.ruis@mocaccino.org</email>
+      <name>Joost Ruis</name>
+    </owner>
+    <source type="git">https://codeberg.org/MocaccinoOS/mocaccino-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org/MocaccinoOS/mocaccino-overlay.git</source>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>moexiami</name>
     <description lang="en">Contains updated ebuilds (w/ more feature/control)

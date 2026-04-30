@@ -998,6 +998,18 @@
     <feed>https://github.com/d3fy/defiance-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>deftera</name>
+    <description lang="en">Personal Gentoo overlay maintained by Deftera.</description>
+    <homepage>https://github.com/Deftera186/deftera-overlay</homepage>
+    <owner type="person">
+      <email>liavmordouch@gmail.com</email>
+      <name>Liav Mordouch</name>
+    </owner>
+    <source type="git">https://github.com/Deftera186/deftera-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Deftera186/deftera-overlay.git</source>
+    <feed>https://github.com/Deftera186/deftera-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>dev1990-overlay</name>
     <description lang="en">Personal overlay focused on Qt application development and 3d-printing.</description>
     <homepage>https://github.com/dev-0x7C6/dev1990-overlay.git</homepage>

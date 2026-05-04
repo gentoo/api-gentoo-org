@@ -3858,7 +3858,6 @@
       <name>Ruizhi Zhong</name>
     </owner>
     <source type="git">https://github.com/ruizhi-lab/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/ruizhi-lab/gentoo-overlay.git</source>
     <feed>https://github.com/ruizhi-lab/gentoo-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

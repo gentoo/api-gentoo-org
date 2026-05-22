@@ -2595,6 +2595,18 @@
     <source type="git">git+ssh://git@github.com/linuxunderground/gentoo.overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>living180-overlay</name>
+    <description lang="en">Personal overlay with various system and development tools</description>
+    <homepage>https://codeberg.org/living180/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>dharding@living180.net</email>
+      <name>Daniel Harding</name>
+    </owner>
+    <source type="git">https://codeberg.org/living180/living180-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org/living180/living180-overlay.git</source>
+    <feed>https://codeberg.org/living180/living180-overlay.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>lmiphay</name>
     <description lang="en">Personal overlay of Paul Healy</description>
     <homepage>https://cgit.gentoo.org/user/lmiphay.git/</homepage>

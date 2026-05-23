@@ -3663,6 +3663,18 @@
     <feed>https://git.ratigorsk-12.ru/gentoo/ratigorsk-auto/rss/branch/master</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>rato-verlay</name>
+    <description lang="en">Gentoo overlay shipping Kiro IDE and CLI, Amazon SSM Agent, CloudWatch Agent, EFS mount helper, Amazon DCV server and viewer, and VictoriaMetrics. Validated daily on a real Gentoo instance.</description>
+    <homepage>https://github.com/RaminTorabi/rato-verlay</homepage>
+    <owner type="person">
+      <email>gentoo@torabi.de</email>
+      <name>Ramin Torabi</name>
+    </owner>
+    <source type="git">https://github.com/RaminTorabi/rato-verlay.git</source>
+    <source type="git">git+ssh://git@github.com/RaminTorabi/rato-verlay.git</source>
+    <feed>https://github.com/RaminTorabi/rato-verlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>raw</name>
     <description>some raw stuff</description>
     <homepage>https://github.com/mahatma-kaganovich/raw</homepage>

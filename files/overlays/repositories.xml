@@ -1937,6 +1937,18 @@
     <source type="git">git@github.com:uleysky/gsview-overlay.git</source>
     <feed>https://github.com/uleysky/gsview-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>gurov-overlay</name>
+    <description lang="en">Gurov's personal ebuild overlay</description>
+    <homepage>https://github.com/Gur0v/gurov-overlay</homepage>
+    <owner type="person">
+      <email>gurov@disroot.org</email>
+      <name>Gurov</name>
+    </owner>
+    <source type="git">https://github.com/Gur0v/gurov-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Gur0v/gurov-overlay.git</source>
+    <feed>https://github.com/Gur0v/gurov-overlay/commits/main.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>guru</name>
     <description lang="en">GURU: Ebuild repository entirely maintained by Gentoo users</description>
@@ -1954,18 +1966,6 @@
     <source type="git">https://anongit.gentoo.org/git/repo/proj/guru.git</source>
     <source type="git">git+ssh://git@git.gentoo.org/repo/proj/guru.git</source>
     <feed>https://cgit.gentoo.org/repo/proj/guru.git/atom/</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>gurov-overlay</name>
-    <description lang="en">Gurov's personal ebuild overlay</description>
-    <homepage>https://github.com/Gur0v/gurov-overlay</homepage>
-    <owner type="person">
-      <email>gurov@disroot.org</email>
-      <name>Gurov</name>
-    </owner>
-    <source type="git">https://github.com/Gur0v/gurov-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/Gur0v/gurov-overlay.git</source>
-    <feed>https://github.com/Gur0v/gurov-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>ha-bleeding-edge</name>

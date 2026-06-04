@@ -636,6 +636,7 @@ plasmalogin			557		557		acct		Used by kde-plasma/plasma-login-manager
 vinyl				558		558		acct		Used by www-servers/vinyl-cache
 valkey				559		559		acct		Used by dev-db/valkey
 powa				560		560		acct		Used by dev-db/powa-web
+systemd-imds			561		561		acct
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000	1000..60000	reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs

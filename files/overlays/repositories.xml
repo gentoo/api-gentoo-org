@@ -4802,10 +4802,10 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>vimproved</name>
-    <description lang="en">Bringing you Pro Audio Software, Wayland ricing, and Yuri Visual Novels since 2023!</description>
+    <description lang="en">Bringing you system customization and yuri visual novels since 2023!</description>
     <homepage>https://codeberg.org/vimproved/overlay</homepage>
     <owner type="person">
-      <email>vimproved@inventati.org</email>
+      <email>vi@vimproved.dev</email>
       <name>Violet Purcell</name>
     </owner>
     <source type="git">https://codeberg.org/vimproved/overlay.git</source>

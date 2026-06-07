@@ -5251,7 +5251,7 @@
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
-  <repo quality="experimental" status="official">
+   <repo quality="experimental" status="official">
     <name>startwine-overlays</name>
     <description>StartWine Launcher - Windows applications/games launcher for Linux</description>
     <homepage>https://github.com/Lis21712/startwine-overlays</homepage>

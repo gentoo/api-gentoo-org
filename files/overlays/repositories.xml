@@ -2667,6 +2667,18 @@
     <feed>https://github.com/thankjura/masterlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>masterwolf</name>
+    <description lang="en">Masterwolf overlay</description>
+    <homepage>https://gitlab.com/masterwolf/masterwolf-repo</homepage>
+    <owner type="person">
+      <email>shimontzidkiahuyossef@gmail.com</email>
+      <name>Shimon Trolles</name>
+    </owner>
+    <source type="git">https://gitlab.com/masterwolf/masterwolf-repo.git</source>
+    <source type="git">git+ssh://git@gitlab.com:masterwolf/masterwolf-repo.git</source>
+    <feed>https://gitlab.com/masterwolf/masterwolf-repo/-/commits/main?format=atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>mate-de-gentoo</name>
     <description lang="en">Updated ebuilds for mate-desktop environment</description>
     <homepage>https://github.com/oz123/mate-de-gentoo</homepage>

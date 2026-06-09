@@ -3951,7 +3951,7 @@
       <name>ivasan</name>
     </owner>
     <source type="git">https://github.com/sanander0/sanander-overlay.git</source>
-    <feed>github.com/sanander0/sanander-overlay/commits/main.atom</feed>
+    <feed>https://github.com/sanander0/sanander-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>Saniter</name>

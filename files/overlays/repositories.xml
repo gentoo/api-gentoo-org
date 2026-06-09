@@ -4269,6 +4269,17 @@
     <source type="git">git+ssh://git@git.gentoo.org/repo/user/ssnb.git</source>
     <feed>https://cgit.gentoo.org/repo/user/ssnb.git/atom/</feed>
   </repo>
+  <repo quality="experimental" status="official">
+    <name>startwine-overlays</name>
+    <description>StartWine Launcher - Windows applications/games launcher for Linux</description>
+    <homepage>https://github.com/Lis21712/startwine-overlays</homepage>
+    <owner>
+      <email>pri3rak217@yandex.ru</email>
+      <name>Lis21712</name>
+    </owner>
+    <source type="git">https://github.com/Lis21712/startwine-overlays.git</source>
+    <feed>https://github.com/Lis21712/startwine-overlays/commits/main.atom</feed>
+  </repo>
   <repo quality="experimental" status="unofficial">
     <name>steam-overlay</name>
     <description lang="en">Gentoo overlay for Valve's Steam client and Steam-based games</description>
@@ -5297,15 +5308,4 @@
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
-   <repo quality="experimental" status="official">
-    <name>startwine-overlays</name>
-    <description>StartWine Launcher - Windows applications/games launcher for Linux</description>
-    <homepage>https://github.com/Lis21712/startwine-overlays</homepage>
-    <owner>
-      <email>pri3rak217@yandex.ru</email>
-      <name>Lis21712</name>
-    </owner>
-    <source type="git">https://github.com/Lis21712/startwine-overlays.git</source>
-    <feed>https://github.com/Lis21712/startwine-overlays/commits/main.atom</feed>
-  </repo>
 </repositories>

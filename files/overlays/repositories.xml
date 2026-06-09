@@ -4273,7 +4273,7 @@
     <name>startwine-overlays</name>
     <description>StartWine Launcher - Windows applications/games launcher for Linux</description>
     <homepage>https://github.com/Lis21712/startwine-overlays</homepage>
-    <owner>
+    <owner type="person">
       <email>pri3rak217@yandex.ru</email>
       <name>Lis21712</name>
     </owner>

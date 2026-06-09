@@ -3688,7 +3688,11 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>rato-verlay</name>
-    <description lang="en">Gentoo overlay shipping Kiro IDE and CLI, Amazon SSM Agent, CloudWatch Agent, EFS mount helper, Amazon DCV server and viewer, and VictoriaMetrics. Validated daily on a real Gentoo instance.</description>
+    <description lang="en">
+    Gentoo overlay shipping Kiro IDE and CLI, Amazon SSM Agent, CloudWatch Agent,
+    EFS mount helper, Amazon DCV server and viewer, and VictoriaMetrics.
+    Validated daily on a real Gentoo instance.
+    </description>
     <homepage>https://github.com/RaminTorabi/rato-verlay</homepage>
     <owner type="person">
       <email>gentoo@torabi.de</email>

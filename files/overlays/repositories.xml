@@ -1346,6 +1346,17 @@
     <feed>https://github.com/eugene-bright/eugene-bright-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>eventb-rossi</name>
+    <description lang="en">Event-B and B-method formal modelling tools</description>
+    <homepage>https://github.com/eventb-rossi/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>efremov@linux.com</email>
+      <name>Denis Efremov</name>
+    </owner>
+    <source type="git">https://github.com/eventb-rossi/gentoo-overlay.git</source>
+    <feed>https://github.com/eventb-rossi/gentoo-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ex_repo</name>
     <description lang="en">Arniiiii's overlay. Mostly C++ related.</description>
     <homepage>https://github.com/Arniiiii/ex_repo</homepage>

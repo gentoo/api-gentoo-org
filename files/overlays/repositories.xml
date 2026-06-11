@@ -1658,6 +1658,18 @@
     <!-- <feed>https://cgit.gentoo.org/proj/gamerlay.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>gardenhouse</name>
+    <description lang="en">An overlay for all gardenhouse tools</description>
+    <homepage>https://gardenhouse.pinkro.se/</homepage>
+    <owner type="person">
+      <email>rose@pinkro.se</email>
+      <name>Rose Hellsing</name>
+    </owner>
+    <source type="git">https://git.pinkro.se/Rose/gardenhouse/ebuilds.git</source>
+    <source type="git">git://git.pinkro.se/Rose/gardenhouse/ebuilds.git</source>
+    <feed>https://git.pinkro.se/Rose/gardenhouse/ebuilds.git/atom/</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>gbrlsnchs</name>
     <description lang="en">Gabriel Sanches's personal ebuild repository</description>
     <homepage>https://sr.ht/~gbrlsnchs/ebuilds</homepage>

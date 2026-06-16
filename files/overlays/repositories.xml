@@ -3737,6 +3737,18 @@
     <source type="git">git+ssh://git@github.com/mahatma-kaganovich/raw.git</source>
     <feed>https://github.com/mahatma-kaganovich/raw/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>redjard</name>
+    <description lang="en">redjard's personal repo, with various packages, profiles, surprises, ...</description>
+    <homepage>https://codeberg.org/redjard/repo</homepage>
+    <owner type="person">
+      <email>bugs.gentoo@redjard.org</email>
+      <name>redjard</name>
+    </owner>
+    <source type="git">https://codeberg.org/redjard/repo.git</source>
+    <source type="git">git+ssh://git@codeberg.org/redjard/repo.git</source>
+    <feed>https://codeberg.org/redjard/repo.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>rich0</name>
     <description lang="en">Rich0's developer overlay</description>

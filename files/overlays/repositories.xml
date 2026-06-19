@@ -2668,7 +2668,7 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>lordbaraa-overlay</name>
-    <description lang="en">a collection of ebuilds by lordbaraa</description>
+    <description lang="en">A collection of ebuilds by lordbaraa</description>
     <homepage>https://codeberg.org/lordbaraa/gentoo-overlay</homepage>
     <owner type="person">
       <email>pub@lordbaraa.net</email>

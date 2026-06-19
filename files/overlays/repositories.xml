@@ -2667,6 +2667,18 @@
     <feed>https://github.com/xen0n/loongson-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>lordbaraa-overlay</name>
+    <description lang="en">a collection of ebuilds by lordbaraa</description>
+    <homepage>https://codeberg.org/lordbaraa/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>pub@lordbaraa.net</email>
+      <name>Lord Baraa</name>
+    </owner>
+    <source type="git">https://codeberg.org/lordbaraa/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org/lordbaraa/gentoo-overlay.git</source>
+    <feed>https://codeberg.org/lordbaraa/gentoo-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>luke-jr</name>
     <description>Misc ebuilds by Luke-Jr</description>
     <homepage>http://luke.dashjr.org</homepage>
@@ -2734,18 +2746,6 @@
     </owner>
     <source type="git">https://github.com/immolo/mate-overlay.git</source>
     <source type="git">git+ssh://git@github.com/immolo/mate-overlay.git</source>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>mbaraa-overlay</name>
-    <description lang="en">a collection of ebuilds by mbaraa</description>
-    <homepage>https://github.com/mbaraa/gentoo-overlay</homepage>
-    <owner type="person">
-      <email>pub@mbaraa.com</email>
-      <name>Baraa Al-Masri</name>
-    </owner>
-    <source type="git">https://github.com/mbaraa/gentoo-overlay.git</source>
-    <source type="git">git+ssh://git@github.com/mbaraa/gentoo-overlay.git</source>
-    <feed>https://github.com/mbaraa/gentoo-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>megacoffee</name>

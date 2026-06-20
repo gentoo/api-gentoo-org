@@ -24,11 +24,11 @@ debug=${debug:+1} # set non-zero to enable debug output.
 # There is nothing beautiful about this script, it's downright nasty and I
 # (Jaco Kroon <jaco@uls.co.za>) will be the first to admit that.
 #
-# For each of the uid and gid ranges, we primarily keep two variables.
+# For each of the UID and GID ranges, we primarily keep two variables.
 # ranges and reason.  reason is simply one of USED or RESERVED.  Free ranges
 # are not mapped into these arrays.
 # ranges_ maps a start index onto an end index.  So for example, let's say
-# uid range 0..10 is USED (allocated, for whatever purposes):
+# UID range 0..10 is USED (allocated, for whatever purposes):
 #
 # ranges_uid[0]=10
 # reasons_uid[0]=USED

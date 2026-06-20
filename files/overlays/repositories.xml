@@ -3240,6 +3240,18 @@
     <feed>https://github.com/Open-Transactions/gentoo-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>orbintsoft</name>
+    <description lang="en">Personal overlay by OrbintSoft: ebuilds for software not in the Gentoo tree, or variants of it.</description>
+    <homepage>https://github.com/OrbintSoft/orbintsoft-ebuild</homepage>
+    <owner type="person">
+      <email>stefano.balzarotti@orbintsoft.net</email>
+      <name>Stefano Balzarotti</name>
+    </owner>
+    <source type="git">https://github.com/OrbintSoft/orbintsoft-ebuild.git</source>
+    <source type="git">git+ssh://git@github.com/OrbintSoft/orbintsoft-ebuild.git</source>
+    <feed>https://github.com/OrbintSoft/orbintsoft-ebuild/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>oubliette</name>
     <description lang="en">personal overlay of forgotten ebuilds</description>
     <homepage>https://github.com/nabbi/oubliette-overlay</homepage>

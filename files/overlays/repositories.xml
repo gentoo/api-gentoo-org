@@ -2118,6 +2118,18 @@
     <source type="git">git+ssh://git@github.com/onkelbeh/HomeAssistantRepository.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>horseley</name>
+    <description lang="en">C, Flash, vector graphics and the Web</description>
+    <homepage>https://github.com/bottle2/horseley</homepage>
+    <owner type="person">
+      <email>bento.schirmer@gmail.com</email>
+      <name>Bento Borges Schirmer</name>
+    </owner>
+    <source type="git">https://github.com/bottle2/horseley.git</source>
+    <source type="git">git+ssh://git@github.com/bottle2/horseley.git</source>
+    <feed>https://github.com/bottle2/horseley/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>hossie</name>
     <description lang="en">gentoo-overlay from hossie</description>
     <homepage>https://wiki.hossie.de/projekte:gentoo-overlay</homepage>

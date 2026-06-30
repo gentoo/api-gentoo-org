@@ -951,7 +951,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>Keiverse</name>
       <uri protocol="https" ipv4="y" ipv6="n" partial="n">https://mirror.keiminem.com/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="n" partial="n">http://mirror.keiminem.com/gentoo/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://mirror.keiminem.com/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync.keiminem.com/gentoo/</uri>
     </mirror>
     <mirror>
       <name>CICKU</name>
@@ -967,6 +967,7 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>Keiverse 2</name>
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirror2.keiminem.com/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror2.keiminem.com/gentoo/</uri>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync2.keiminem.com/gentoo/</uri>
     </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia" country="TH" countryname="Thailand">

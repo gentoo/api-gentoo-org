@@ -1047,6 +1047,18 @@
     <!-- <feed>https://cgit.gentoo.org/dev/dilfridge.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>dimunyx-overlay</name>
+    <description lang="en">dimunyx's gentoo overlay</description>
+    <homepage>https://github.com/dimunyx/dimunyx-overlay</homepage>
+    <owner type="person">
+      <email>botnarudumitru10@gmail.com</email>
+      <name>dimunyx</name>
+    </owner>
+    <source type="git">https://github.com/dimunyx/dimunyx-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/dimunyx/dimunyx-overlay.git</source>
+    <feed>https://github.com/dimunyx/dimunyx-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>dinolay</name>
     <description lang="en">ar1ja's overlay</description>
     <homepage>https://git.ari.lt/ari/dinolay</homepage>

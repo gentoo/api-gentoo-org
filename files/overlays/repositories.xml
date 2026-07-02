@@ -2072,6 +2072,16 @@
     <feed>https://gitlab.com/APN-Pucky/gentoo-hep-forge/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>headspace</name>
+    <description lang="en">Repository for random stuff I don't see elsewhere.</description>
+    <homepage>https://codeberg.org/kelseythedreamer/headspace-repo</homepage>
+    <owner type="person">
+      <email>kelseythedreamer@proton.me</email>
+      <name>Kelsey</name>
+    </owner>
+    <source type="git">https://codeberg.org/kelseythedreamer/headspace-repo.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>hering-overlay</name>
     <description lang="en">Richard Hering's gentoo overlay</description>
     <homepage>https://github.com/internethering/hering-overlay</homepage>

@@ -2059,8 +2059,7 @@
     <source type="git">git+ssh://git@github.com/gentoo-haskell/gentoo-haskell.git</source>
     <feed>https://github.com/gentoo-haskell/gentoo-haskell/commits/master.atom</feed>
   </repo>
-
-  <repo quality="experimental" status="unofficial">
+    <repo quality="experimental" status="unofficial">
     <name>headspace</name>
     <description lang="en">Repository for random stuff I don't see elsewhere.</description>
     <homepage>https://codeberg.org/kelseythedreamer/headspace-repo</homepage>
@@ -2081,6 +2080,8 @@
     <source type="git">https://gitlab.com/APN-Pucky/gentoo-hep-forge.git</source>
     <source type="git">git+ssh://git@gitlab.com/APN-Pucky/gentoo-hep-forge.git</source>
     <feed>https://gitlab.com/APN-Pucky/gentoo-hep-forge/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>hering-overlay</name>
     <description lang="en">Richard Hering's gentoo overlay</description>
     <homepage>https://github.com/internethering/hering-overlay</homepage>

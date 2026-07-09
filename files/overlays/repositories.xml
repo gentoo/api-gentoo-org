@@ -3315,8 +3315,8 @@
       <email>yarikplaystryapishko@gmail.com</email>
       <name>Yaroslav Tryapishko</name>
     </owner>
-    <source type="git">https://github.com/Papagemabodi/overlay-of-FreshCrz.git</source>
-    <feed>https://github.com/Papagemabodi/overlay-of-FreshCrz/commits/master.atom</feed>
+    <source type="git">https://gitlab.com/Papagemabodi/overlay-of-FreshCrz.git</source>
+    <feed>https://gitlab.com/Papagemabodi/overlay-of-FreshCrz/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>overseerr-overlay</name>

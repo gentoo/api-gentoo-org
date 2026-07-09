@@ -3310,7 +3310,7 @@
   <repo quality="experimental" status="unofficial">
     <name>overlay-of-FreshCrz</name>
     <description lang="en">Personal overlay</description>
-    <homepage>https://github.com/Papagemabodi/overlay-of-FreshCrz</homepage>
+    <homepage>https://gitlab.com/Papagemabodi/overlay-of-FreshCrz</homepage>
     <owner type="person">
       <email>yarikplaystryapishko@gmail.com</email>
       <name>Yaroslav Tryapishko</name>

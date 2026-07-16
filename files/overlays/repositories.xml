@@ -3049,6 +3049,20 @@
     <!-- <feed>https://cgit.gentoo.org/proj/mysql.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>nadevko</name>
+    <description lang="en">Potentially (un)graceful ebuilds</description>
+    <description lang="by">Патэнцыйна (не)ладныя ебілды</description>
+    <homepage>https://codeberg.org/nadevko/ebuild-repo</homepage>
+    <owner type="person">
+      <email>me+oss@nadevko.cc</email>
+      <name>Nadeŭka</name>
+    </owner>
+    <source type="git">ssh://git@codeberg.org/nadevko/ebuild-repo.git</source>
+    <source type="git">https://codeberg.org/nadevko/ebuild-repo.git</source>
+    <feed>https://codeberg.org/nadevko/ebuild-repo.atom</feed>
+    <feed>https://codeberg.org/nadevko/ebuild-repo.rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>natinst</name>
     <description lang="en">VISA and National Instruments drivers</description>
     <homepage>https://github.com/Nowa-Ammerlaan/natinst</homepage>

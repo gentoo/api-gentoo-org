@@ -4307,6 +4307,18 @@
     <feed>https://github.com/scriptkitties/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>Slingshot</name>
+    <description lang="en">Slingshot's personal Gentoo overlay with packages for games, IM clients, and other misc software</description>
+    <homepage>https://gitea.com/slingshot/Slingshot</homepage>
+    <owner type="person">
+      <email>phighting@keemail.me</email>
+      <name>slingshot</name>
+    </owner>
+    <source type="git">https://gitea.com/slingshot/Slingshot.git</source>
+    <source type="git">git+ssh://git@gitea.com/slingshot/Slingshot.git</source>
+    <feed>https://gitea.com/slingshot/Slingshot.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>slonko</name>
     <description lang="en">Personal portage overlay</description>
     <homepage>https://github.com/gringus/slonko</homepage>

@@ -905,6 +905,18 @@
     <source type="git">git+ssh://git@github.com:IllyaTheHath/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>chloverlay</name>
+    <description lang="en">Chloe Fontenot's (CCF_100)'s Personal Gentoo Linux Overlay'</description>
+    <homepage>https://gitea.chloefontenot.org/chloes-official-mirrors/chloverlay</homepage>
+    <owner type="person">
+      <email>foley2431@gmail.com</email>
+      <name>Chloe Christine Fontenot</name>
+    </owner>
+    <source type="git">https://gitea.chloefontenot.org/chloes-official-mirrors/chloverlay</source>
+    <source type="git">ssh://gitea@gitea.chloefontenot.org:2122/chloes-official-mirrors/chloverlay.git</source>
+    <source type="git">ssh://git@github.com:CCF100/chloverlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>chymeric</name>
     <description lang="en">Overlay for scientific software and desktop minimalism</description>
     <homepage>https://github.com/TheChymera/overlay</homepage>

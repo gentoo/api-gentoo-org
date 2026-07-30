@@ -2449,6 +2449,21 @@
     <!-- <feed>https://cgit.gentoo.org/proj/kde.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ket</name>
+    <description lang="en">Personal overlay with useful packages</description>
+    <homepage>https://www.ethgen.ch/cgi-bin/gitweb.cgi?p=gentoo/ket-overlay.git</homepage>
+    <owner type="person">
+      <email>Klaus+gentoo@Ethgen.de</email>
+      <name>Klaus Ethgen</name>
+    </owner>
+    <source type="git">git://www.ethgen.ch/gentoo/ket-overlay.git</source>
+    <source type="git">http://www.ethgen.ch/git/gentoo/ket-overlay.git</source>
+    <source type="git">https://www.ethgen.ch/git/gentoo/ket-overlay.git</source>
+    <feed>http://www.ethgen.ch/cgi-bin/gitweb.cgi?p=gentoo/ket-overlay.git;a=atom</feed>
+    <!-- <feed>https://www.ethgen.ch/cgi-bin/gitweb.cgi?p=gentoo/ket-overlay.git;a=atom</feed> -->
+    <!-- <feed>https://www.ethgen.ch/cgi-bin/gitweb.cgi?p=gentoo/ket-overlay.git;a=rss</feed> -->
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>khoverlay</name>
     <description>Khumba's overlay, with games, tools, themes, System76 drivers</description>
     <homepage>https://khumba.net/gentoo/</homepage>
@@ -5476,21 +5491,6 @@
     <source type="git">https://github.com/kabili207/zyrenth-overlay.git</source>
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>ket</name>
-    <description lang="en">Personal overlay with useful packages</description>
-    <homepage>https://www.ethgen.ch/cgi-bin/gitweb.cgi?p=gentoo/ket-overlay.git</homepage>
-    <owner type="person">
-      <email>Klaus+gentoo@Ethgen.de</email>
-      <name>Klaus Ethgen</name>
-    </owner>
-    <source type="git">git://www.ethgen.ch/gentoo/ket-overlay.git</source>
-    <source type="git">http://www.ethgen.ch/git/gentoo/ket-overlay.git</source>
-    <source type="git">https://www.ethgen.ch/git/gentoo/ket-overlay.git</source>
-    <feed>http://www.ethgen.ch/cgi-bin/gitweb.cgi?p=gentoo/ket-overlay.git;a=atom</feed>
-    <!-- <feed>https://www.ethgen.ch/cgi-bin/gitweb.cgi?p=gentoo/ket-overlay.git;a=atom</feed> -->
-    <!-- <feed>https://www.ethgen.ch/cgi-bin/gitweb.cgi?p=gentoo/ket-overlay.git;a=rss</feed> -->
   </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

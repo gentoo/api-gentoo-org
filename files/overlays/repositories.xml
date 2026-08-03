@@ -3012,6 +3012,18 @@
     <feed>https://gitlab.com/mselimyavuz/mselimyavuz-overlay/-/commits/main?format=atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>mu-cow-overlay</name>
+    <description lang="en">Overlay hosting mu, a minimal privilege escalation runner</description>
+    <homepage>https://github.com/MulpinKR/mu-cow-overlay</homepage>
+    <owner type="person">
+      <email>derkaca751@gmail.com</email>
+      <name>MulpinKR</name>
+    </owner>
+    <source type="git">https://github.com/MulpinKR/mu-cow-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/MulpinKR/mu-cow-overlay.git</source>
+    <feed>https://github.com/MulpinKR/mu-cow-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>multilib-portage</name>
     <description>multilib-overlay: emul-linux-x86 must die ;)</description>
     <homepage>https://cgit.gentoo.org/proj/multilib-portage.git/</homepage>

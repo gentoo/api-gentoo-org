@@ -2974,6 +2974,18 @@
     <source type="git">git+ssh://git@github.com/vincentdephily/moltonel-ebuilds.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>mrchicken</name>
+    <description lang="en">NexusSfan Personal Overlay</description>
+    <homepage>https://code.nolog.cz/NexusSfan/personaloverlay</homepage>
+    <owner type="person">
+      <email>nexussfan@duck.com</email>
+      <name>NexusSfan</name>
+    </owner>
+    <source type="git">https://code.nolog.cz/NexusSfan/personaloverlay.git</source>
+    <feed>https://code.nolog.cz/NexusSfan/personaloverlay.rss</feed>
+    <feed>https://code.nolog.cz/NexusSfan/personaloverlay.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>mrpenguin</name>
     <description lang="en">An igloo worth of (mostly) live 9999 ebuilds</description>
     <homepage>https://github.com/MrPenguin07/ebuilds</homepage>

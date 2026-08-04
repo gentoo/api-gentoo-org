@@ -2269,6 +2269,18 @@
     <feed>https://github.com/iritmaximus/overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ISKOverlay</name>
+    <description lang="en">ISK Overlay</description>
+    <homepage>https://github.com/ShirayukiHimeji/ISKOverlay</homepage>
+    <owner type="person">
+      <email>iwan99263@gmail.com</email>
+      <name>ISK</name>
+    </owner>
+    <source type="git">https://github.com/ShirayukiHimeji/ISKOverlay.git</source>
+    <source type="git">git+ssh://git@github.com/ShirayukiHimeji/ISKOverlay.git</source>
+    <feed>https://github.com/ShirayukiHimeji/ISKOverlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>jabuxas</name>
     <description lang="en">jabuxas personal overlay</description>
     <homepage>https://github.com/jabuxas/overlay</homepage>

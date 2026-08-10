@@ -43,3 +43,4 @@ format: .repositories-expected-format.xml
 		diff -u repositories.xml $^; \
 		exit 1; \
 	fi
+	touch $@

@@ -38,11 +38,8 @@ format: .repositories-expected-format.xml
 .repositories-expected-format.xml: repositories.xml
 	XMLLINT_INDENT="  " xmllint --format $^ > $@
 
-.ONESHELL:
-.repositories-style-ok: SHELL = /bin/bash
 .repositories-style-ok: .repositories-expected-format.xml
-	if ! cmp -s repositories.xml $^; then
-		diff -u repositories.xml $^
-		exit 1
+	if ! cmp -s repositories.xml $^; then \
+		diff -u repositories.xml $^; \
+		exit 1; \
 	fi
-	touch $@

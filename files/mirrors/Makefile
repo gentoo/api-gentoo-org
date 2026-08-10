@@ -10,10 +10,9 @@
 	fi
 	touch $@
 
-.PHONY: check
+.PHONY: check format
 check: .distfiles.expected-format.xml.ok .rsync.expected-format.xml.ok
 
-.PHONY: format
 .ONESHELL:
 format: SHELL = /bin/bash
 format:.distfiles.expected-format.xml .rsync.expected-format.xml

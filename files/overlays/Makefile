@@ -1,4 +1,4 @@
-.PHONY: check
+.PHONY: check format
 check: .repositories-dtd-valid .repositories-xsd-valid .repositories-check-successful .repositories-style-ok
 
 # Check repositories.xml against the Document Type Definition (DTD).
@@ -32,7 +32,6 @@ endif
 	../../bin/repositories-checker.py - $^
 	touch $@
 
-.PHONY: format
 format: .repositories-expected-format.xml
 	cmp -s repositories.xml $^ || cp $^ repositories.xml
 

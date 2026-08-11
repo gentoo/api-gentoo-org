@@ -996,13 +996,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://ru.mirrors.cicku.me/gentoo/</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Middle East" country="SA" countryname="Saudi Arabia">
-    <mirror>
-      <name>CICKU</name>
-      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://sa.mirrors.cicku.me/gentoo/</uri>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://sa.mirrors.cicku.me/gentoo/</uri>
-    </mirror>
-  </mirrorgroup>
   <mirrorgroup region="Asia" country="SG" countryname="Singapore">
     <mirror>
       <name>Freedif</name>
@@ -1062,6 +1055,13 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://prospero.qa.ext.planetunix.net/pub/gentoo/</uri>
       <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://prospero.qa.ext.planetunix.net/pub/gentoo/</uri>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://prospero.qa.ext.planetunix.net/gentoo/</uri>
+    </mirror>
+  </mirrorgroup>
+  <mirrorgroup region="Middle East" country="SA" countryname="Saudi Arabia">
+    <mirror>
+      <name>CICKU</name>
+      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://sa.mirrors.cicku.me/gentoo/</uri>
+      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://sa.mirrors.cicku.me/gentoo/</uri>
     </mirror>
   </mirrorgroup>
   <!--

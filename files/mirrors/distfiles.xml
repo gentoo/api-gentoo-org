@@ -955,15 +955,8 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync2.keiminem.com/gentoo/</uri>
     </mirror>
   </mirrorgroup>
-  <mirrorgroup region="Asia" country="TH" countryname="Thailand">
-    <mirror>
-      <name>PlanetUnix Networks</name>
-      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://dione.th.ext.planetunix.net/pub/gentoo/</uri>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://dione.th.ext.planetunix.net/pub/gentoo/</uri>
-      <uri protocol="ftp" ipv4="y" ipv6="y" partial="n">ftp://dione.th.ext.planetunix.net/pub/gentoo/</uri>
-      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://dione.th.ext.planetunix.net/gentoo/</uri>
-    </mirror>
-  </mirrorgroup>
+  <!--<mirrorgroup region="Asia" country="TH" countryname="Thailand">
+  </mirrorgroup>-->
   <mirrorgroup region="Asia" country="BY" countryname="Belarus">
     <mirror>
       <name>ftp.byfly.by</name>

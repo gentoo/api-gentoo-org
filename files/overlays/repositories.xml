@@ -134,7 +134,7 @@
     <feed>https://github.com/AdamGiergun/adasss/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
-    <name>AeroShell Gentoo Overlay</name>
+    <name>AeroShell-Gentoo-Overlay</name>
     <description lang="en">Gentoo Overlay for the AeroShell Theme for KDE Plasma.</description>
     <homepage>https://gitgud.io/CCF100/aeroshell-gentoo-overlay</homepage>
     <owner type="person">

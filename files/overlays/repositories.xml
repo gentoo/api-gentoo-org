@@ -2126,7 +2126,7 @@
       <name>Stefan Menicanin</name>
     </owner>
     <source type="git">https://github.com/Sbinator-hub/haxefetch-overlay.git</source>
-    <feed>https://github.com/Sbinator-hub/haxefetch-overlay/commits/master.atom</feed>
+    <feed>https://github.com/Sbinator-hub/haxefetch-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>headspace</name>

@@ -5574,5 +5574,16 @@
     <source type="git">git@github.com:kabili207/zyrenth-overlay.git</source>
     <feed>https://github.com/kabili207/zyrenth-overlay/commits/master.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>haxefetch-overlay</name>
+    <description lang="en">A Gentoo Linux overlay for Haxefetch</description>
+    <homepage>https://github.com/Sbinator-hub/haxefetch-overlay</homepage>
+    <owner type="person">
+      <email>stefanbeta2008@gmail.com</email>
+      <name>ACoolioDude</name>
+    </owner>
+    <source type="git">https://github.com/Sbinator-hub/haxefetch-overlay.git</source>
+    <feed>https://github.com/Sbinator-hub/haxefetch-overlay/commits/master.atom</feed>
+  </repo>
   <!-- vim:se et sw=2 ts=2 sts=2 :-->
 </repositories>

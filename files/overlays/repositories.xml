@@ -5579,8 +5579,8 @@
     <description lang="en">A Gentoo Linux overlay for Haxefetch</description>
     <homepage>https://github.com/Sbinator-hub/haxefetch-overlay</homepage>
     <owner type="person">
-      <email>stefanbeta2008@gmail.com</email>
-      <name>ACoolioDude</name>
+      <email>stefanmenicanin351@gmail.com</email>
+      <name>Stefan Menicanin</name>
     </owner>
     <source type="git">https://github.com/Sbinator-hub/haxefetch-overlay.git</source>
     <feed>https://github.com/Sbinator-hub/haxefetch-overlay/commits/master.atom</feed>

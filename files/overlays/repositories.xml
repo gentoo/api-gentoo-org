@@ -2770,6 +2770,16 @@
     <source type="git">git+ssh://git@codeberg.org:lmkra/gentoo-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>local-ai</name>
+    <description lang="en">LocalAI server and inference backends built from source against system libraries</description>
+    <homepage>https://git.ipnmod.org/packages/local-ai-overlay</homepage>
+    <owner type="person">
+      <email>plamen@ipnmod.org</email>
+      <name>Plamen K. Kosseff</name>
+    </owner>
+    <source type="git">https://git.ipnmod.org/packages/local-ai-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>loongson</name>
     <description lang="en">
       Overlay for Loongson systems.

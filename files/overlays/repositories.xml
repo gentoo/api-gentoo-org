@@ -5079,6 +5079,17 @@
     <feed>https://gitlab.com/plexvola/vaacus/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>val-vgms</name>
+    <description lang="en">Random package collection, mostly related to games and customization.</description>
+    <description lang="es">Colección aleatoria de paquetes, mayormente relacionados con juegos y personalización.</description>
+    <homepage>https://github.com/val-vgms/gentoo-overlay</homepage>
+    <owner type="person">
+      <name>Val</name>
+      <email>valeriagracielamendezsanchez@gmail.com</email>
+    </owner>
+    <source type="git">val-vgms/gentoo-overlay/source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>vapoursynth</name>
     <description lang="en">Unofficial repository with all vapoursynth related ebuilds</description>
     <homepage>https://github.com/4re/vapoursynth-portage</homepage>

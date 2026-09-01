@@ -5087,7 +5087,7 @@
       <name>Val</name>
       <email>valeriagracielamendezsanchez@gmail.com</email>
     </owner>
-    <source type="git">val-vgms/gentoo-overlay/source>
+    <source type="git">val-vgms/gentoo-overlay</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>vapoursynth</name>

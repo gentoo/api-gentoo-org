@@ -2049,6 +2049,18 @@
     <feed>https://cgit.gentoo.org/repo/proj/guru.git/atom/</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>h4rl3y</name>
+    <description lang="en">Personal overlay: Portage env-layer manager (bosun) and misc ebuilds</description>
+    <homepage>https://github.com/H4RL33/overlay</homepage>
+    <owner type="person">
+      <email>git@harleywelsh.com</email>
+      <name>Harley Welsh</name>
+    </owner>
+    <source type="git">https://github.com/H4RL33/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/H4RL33/overlay.git</source>
+    <feed>https://github.com/H4RL33/overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>ha-bleeding-edge</name>
     <description lang="en">Home Assistant bleeding edge repository</description>
     <homepage>https://github.com/tabascoz/ha-bleeding-edge</homepage>

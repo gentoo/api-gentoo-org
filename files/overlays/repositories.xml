@@ -5084,8 +5084,8 @@
     <description lang="es">Colección aleatoria de paquetes, mayormente relacionados con juegos y personalización.</description>
     <homepage>https://github.com/val-vgms/gentoo-overlay</homepage>
     <owner type="person">
-      <name>Val</name>
       <email>valeriagracielamendezsanchez@gmail.com</email>
+      <name>Val</name>
     </owner>
     <source type="git">val-vgms/gentoo-overlay</source>
   </repo>

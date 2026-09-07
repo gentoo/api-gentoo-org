@@ -5544,12 +5544,12 @@
   <repo quality="experimental" status="unofficial">
     <name>zerodaysfordays</name>
     <description>Jakob L. Kreuze's personal overlay.</description>
-    <homepage>https://git.sr.ht/~jakob/zerodaysfordays</homepage>
+    <homepage>https://git.jakob.space/zerodaysfordays.git/</homepage>
     <owner type="person">
       <email>zerodaysfordays@sdf.org</email>
       <name>Jakob L. Kreuze</name>
     </owner>
-    <source type="git">https://git.sr.ht/~jakob/zerodaysfordays</source>
+    <source type="git">https://git.jakob.space/zerodaysfordays.git/</source>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>zGentoo</name>

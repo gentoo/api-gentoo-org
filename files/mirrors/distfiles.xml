@@ -669,11 +669,6 @@ vim: ft=xml et ts=2 sts=2 sw=2:
   </mirrorgroup>
   <mirrorgroup region="Europe" country="UA" countryname="Ukraine">
     <mirror>
-      <name>Hostiko</name>
-      <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://mirror.hostiko.network/gentoo</uri>
-      <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://mirror.hostiko.network/gentoo</uri>
-    </mirror>
-    <mirror>
       <name>PlanetUnix Networks</name>
       <uri protocol="https" ipv4="y" ipv6="y" partial="n">https://himalia.ua.ext.planetunix.net/pub/gentoo/</uri>
       <uri protocol="http" ipv4="y" ipv6="y" partial="n">http://himalia.ua.ext.planetunix.net/pub/gentoo/</uri>

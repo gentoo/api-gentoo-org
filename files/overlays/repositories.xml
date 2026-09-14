@@ -1020,6 +1020,18 @@
     <feed>https://github.com/dargor/dargor_gentoo_overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>darllowin_overlay</name>
+    <description lang="en">Personal Gentoo overlay maintained by Darllowin.</description>
+    <homepage>https://github.com/Darllowin/darllowin-overlay</homepage>
+    <owner type="person">
+      <email>mr.shurpatov@gmail.com</email>
+      <name>Evgeniy Shurpatov</name>
+    </owner>
+    <source type="git">https://github.com/Darllowin/darllowin-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Darllowin/darllowin-overlay.git</source>
+    <feed>https://github.com/Darllowin/darllowin-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>darthgandalf-overlay</name>
     <description lang="en">Personal overlay</description>
     <homepage>https://github.com/DarthGandalf/gentoo-overlay</homepage>

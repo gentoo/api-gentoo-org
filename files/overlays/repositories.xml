@@ -2245,6 +2245,17 @@
     <feed>https://github.com/TomHotston/hotstoast-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>huang</name>
+    <description lang="en">Personal Gentoo overlay providing additional applications, utilities, fonts, and desktop packages</description>
+    <homepage>https://github.com/jwihardi/huang</homepage>
+    <owner type="person">
+      <email>allarkvarkk@gmail.com</email>
+      <name>jwihardi</name>
+    </owner>
+    <source type="git">https://github.com/jwihardi/huang.git</source>
+    <feed>https://github.com/jwihardi/huang/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>hyproverlay</name>
     <description lang="en">Hypr*-stuff related overlay</description>
     <homepage>https://codeberg.org/hyproverlay/hyproverlay</homepage>

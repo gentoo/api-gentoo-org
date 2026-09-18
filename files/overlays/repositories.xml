@@ -3198,8 +3198,8 @@
       <email>me+oss@nadevko.cc</email>
       <name>Nadeŭka</name>
     </owner>
-    <source type="git">ssh://git@codeberg.org/nadevko/ebuild-repo.git</source>
     <source type="git">https://codeberg.org/nadevko/ebuild-repo.git</source>
+    <source type="git">ssh://git@codeberg.org/nadevko/ebuild-repo.git</source>
     <feed>https://codeberg.org/nadevko/ebuild-repo.atom</feed>
     <feed>https://codeberg.org/nadevko/ebuild-repo.rss</feed>
   </repo>

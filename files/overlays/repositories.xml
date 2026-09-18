@@ -4906,7 +4906,7 @@
       <email>emneo@kreog.com</email>
       <name>Emily Flion</name>
     </owner>
-    <source type="git">git+https://git.sr.ht/~emneo/thuis</source>
+    <source type="git">https://git.sr.ht/~emneo/thuis</source>
     <feed>https://git.sr.ht/~emneo/thuis/log/rss.xml</feed>
   </repo>
   <repo quality="experimental" status="unofficial">

@@ -1536,6 +1536,18 @@
     <feed>https://github.com/flammie/flammie-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>vitaly-zdanevich-overlay</name>
+    <description lang="en">Personal overlay with different packages</description>
+    <homepage>https://github.com/vitaly-zdanevich/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>zdanevich.vitaly@ya.ru</email>
+      <name>Vitaly Zdanevich</name>
+    </owner>
+    <source type="git">https://github.com/vitaly-zdanevich/gentoo-overlay.git</source>
+    <source type="git">git@github.com:vitaly-zdanevich/gentoo-overlay.git</source>
+    <feed>https://github.com/vitaly-zdanevich/gentoo-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>flash-games</name>
     <description lang="en">Old flash games, with Ruffle as dependency</description>
     <homepage>https://gitlab.com/gentoo-overlays-by-vitaly-zdanevich/flash-games</homepage>

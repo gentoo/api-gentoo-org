@@ -394,5 +394,9 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>Dimension Data - rsync2.za.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync2.za.gentoo.org</uri>
     </mirror>
+    <mirror>
+      <name>ZANOG, administered by Ultimate Linux Solutions - rsync3.za.gentoo.org</name>
+      <uri protocol="rsync" ipv4="y" ipv6="y" partial="n">rsync://rsync3.za.gentoo.org</uri>
+    </mirror>
   </mirrorgroup>
 </mirrors>

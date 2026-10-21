@@ -251,7 +251,7 @@ qmails				206		-		acct		Removed from baselayout in [r1397](https://gitweb.gentoo
 realtime			-		206		acct
 postfix				207		207		acct		Removed from baselayout in [r1863](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=7ae5ebbcb07f3a2190f17af7e7b09fe1caab35cc)
 postsrsd			208		-		acct		Used by mail-filter/postsrsd
-postdrop			-		208		acct		Removed from baselayout in [r1863](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=7ae5ebbcb07f3a2190f17af7e7b09fe1caab35cc)
+# postdrop has gid 208. Entry moved to end of list when it acquired uid 564
 smmsp				209		209		acct		Removed from baselayout: user in [r2446](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=a18589ef69d782aa5d88e5a6eac7f342aa2f6385), group in [r2445](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=b0ce002d1a3d4e67d8c1f5ffe19970e2f943ec15)
 aerospike-amc			210		210		acct
 zookeeper			211		211		acct
@@ -639,6 +639,7 @@ powa				560		560		acct		Used by dev-db/powa-web
 systemd-imds			561		561		acct
 ollama				562		562		acct		Used by sci-ml/ollama
 unreal				563		563		acct		Used by games-fps/unreal, games-fps/unreal-tournament, games-fps/ut2004
+postdrop			564		208		acct		Used by mail-mta/postfix for postlift. Group removed from baselayout in [r1863](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=7ae5ebbcb07f3a2190f17af7e7b09fe1caab35cc)
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000	1000..60000	reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs

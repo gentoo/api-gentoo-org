@@ -107,6 +107,17 @@
     <feed>https://github.com/ananace/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>acooliodude-overlay</name>
+    <description lang="en">ACoolioDude's personal overlay</description>
+    <homepage>https://codeberg.org/ACoolioDude/acooliodude-overlay</homepage>
+    <owner type="person">
+      <email>stefanmenicanin351@gmail.com</email>
+      <name>Stefan Menicanin</name>
+    </owner>
+    <source type="git">https://codeberg.org/ACoolioDude/acooliodude-overlay.git</source>
+    <feed>https://codeberg.org/ACoolioDude/acooliodude-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>activehome</name>
     <description lang="en">Gentoo overlay for ebuilds related to 'hand-made' Active Home construction</description>
     <description lang="ru">Оверлей для ebuild'ов связанных созданием самодельного умного дома</description>
@@ -2128,17 +2139,6 @@
     <source type="git">https://github.com/gentoo-haskell/gentoo-haskell.git</source>
     <source type="git">git+ssh://git@github.com/gentoo-haskell/gentoo-haskell.git</source>
     <feed>https://github.com/gentoo-haskell/gentoo-haskell/commits/master.atom</feed>
-  </repo>
-  <repo quality="experimental" status="unofficial">
-    <name>haxefetch-overlay</name>
-    <description lang="en">A Gentoo Linux overlay for Haxefetch</description>
-    <homepage>https://github.com/Sbinator-hub/haxefetch-overlay</homepage>
-    <owner type="person">
-      <email>stefanmenicanin351@gmail.com</email>
-      <name>Stefan Menicanin</name>
-    </owner>
-    <source type="git">https://github.com/Sbinator-hub/haxefetch-overlay.git</source>
-    <feed>https://github.com/Sbinator-hub/haxefetch-overlay/commits/main.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>headspace</name>

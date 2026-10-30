@@ -181,6 +181,18 @@
     <!-- <feed>https://cgit.gentoo.org/dev/ago.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ahhh_overlay</name>
+    <description lang="en">Things that either arn't on the offical repo or I'm debating proxy-maintaining</description>
+    <homepage>https://github.com/AhhhSaturn/ahhh_overlay</homepage>
+    <owner type="person">
+      <email>saturnmaoudis@protonmail.com</email>
+      <name>Saturn Maoudis</name>
+    </owner>
+    <source type="git">https://github.com/AhhhSaturn/ahhh_overlay.git</source>
+    <source type="git">git+ssh://git@github.com/AhhhSaturn/ahhh_overlay.git</source>
+    <feed>https://github.com/AhhhSaturn/ahhh_overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>akater</name>
     <description lang="en">Personal ebuild repository.  Emacs, Lisp, minimalism.</description>
     <homepage>https://gitlab.com/akater/ebuilds</homepage>

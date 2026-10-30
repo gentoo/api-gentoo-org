@@ -613,6 +613,18 @@
     <source type="git">git+ssh://git@github.com/bell07/gentoo-bell07_overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>ben-claw</name>
+    <description lang="en">Ben Claw's personal repository</description>
+    <homepage>https://github.com/ben-claw/gentoo-repository</homepage>
+    <owner type="person">
+      <email>ben-claw@mail.ru</email>
+      <name>Ben Claw</name>
+    </owner>
+    <source type="git">https://github.com/ben-claw/gentoo-repository.git</source>
+    <source type="git">git+ssh://git@github.com/ben-claw/gentoo-repository.git</source>
+    <feed>https://github.com/ben-claw/gentoo-repository/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>bennypowers</name>
     <description lang="en">Benny Powers' personal overlay</description>
     <homepage>https://github.com/bennypowers/gentoo-overlay</homepage>

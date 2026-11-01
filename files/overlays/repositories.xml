@@ -1008,6 +1008,18 @@
     <feed>https://github.com/alphallc/crossdev/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>d-e-s-o</name>
+    <description lang="en">Personal Gentoo overlay.</description>
+    <homepage>https://github.com/d-e-s-o/portage-overlay</homepage>
+    <owner type="person">
+      <email>deso@posteo.net</email>
+      <name>Daniel Müller</name>
+    </owner>
+    <source type="git">https://github.com/d-e-s-o/portage-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/d-e-s-o/portage-overlay.git</source>
+    <feed>https://github.com/d-e-s-o/portage-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>dargor</name>
     <description lang="en">Personal overlay for packages I care of</description>
     <homepage>https://github.com/dargor/dargor_gentoo_overlay</homepage>

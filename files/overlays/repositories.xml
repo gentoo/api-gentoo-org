@@ -2075,12 +2075,14 @@
   <repo quality="experimental" status="unofficial">
     <name>haarp</name>
     <description lang="en">misc ebuilds that aren't in the main tree</description>
-    <homepage>https://cgit.gentoo.org/user/haarp.git/</homepage>
+    <homepage>https://github.com/haarp/portage</homepage>
     <owner type="person">
       <email>main.haarp@gmail.com</email>
       <name>haarp</name>
     </owner>
-    <source type="git">git://anongit.gentoo.org/user/haarp.git</source>
+    <source type="git">https://github.com/haarp/portage.git</source>
+    <source type="git">git+ssh://git@github.com/haarp/portage.git</source>
+    <feed>https://github.com/haarp/portage/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>hamari</name>

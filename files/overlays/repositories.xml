@@ -1043,6 +1043,18 @@
     <feed>https://github.com/alphallc/crossdev/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>cy1der</name>
+    <description lang="en">Personal Gentoo overlay</description>
+    <homepage>https://github.com/cy1der/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>cy1der@cy1der.dev</email>
+      <name>cy1der</name>
+    </owner>
+    <source type="git">https://github.com/cy1der/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/cy1der/gentoo-overlay.git</source>
+    <feed>https://github.com/cy1der/gentoo-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>d-e-s-o</name>
     <description lang="en">Personal Gentoo overlay.</description>
     <homepage>https://github.com/d-e-s-o/portage-overlay</homepage>

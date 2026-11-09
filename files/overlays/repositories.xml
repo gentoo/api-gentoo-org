@@ -4060,6 +4060,18 @@
     <source type="git">git+ssh://git@codeberg.org/rek2/rek2-overlay.git</source>
     <feed>https://codeberg.org/rek2/rek2-overlay.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>remarkable</name>
+    <description lang="en">ebuilds related to reMarkable paper tablets</description>
+    <homepage>https://github.com/kobboi/remarkable</homepage>
+    <owner type="person">
+      <email>gentoo@lermytte.be</email>
+      <name>Christophe Lermytte</name>
+    </owner>
+    <source type="git">https://github.com/kobboi/remarkable.git</source>
+    <source type="git">git+ssh://git@github.com/kobboi/remarkable.git</source>
+    <feed>https://github.com/kobboi/remarkable/commits/master.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>rich0</name>
     <description lang="en">Rich0's developer overlay</description>

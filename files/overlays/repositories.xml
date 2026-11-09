@@ -4736,10 +4736,11 @@
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>stuff</name>
-    <description lang="en">Maintained by a small group of contributors,
-       covering a mix of niche needs: electron microscopy (HyperSpy /
-       4D-STEM), SANS/SAXS/XAFS scientific Python, micromagnetism, a
-       DeaDBeeF plugin ecosystem, and Python-2-pinned legacy packages.</description>
+    <description lang="en">Local AI on AMD Ryzen AI NPUs, ROCm and CUDA
+       (FastFlowLM, Lemonade, vLLM, llama.cpp, PyTorch, speech-to-text),
+       a Qt5 LTS mirror, scientific software (electron microscopy,
+       SANS/SAXS/XAFS, micromagnetism), DeaDBeeF plugins and
+       Python-2-pinned legacy packages.</description>
     <homepage>https://github.com/istitov/stuff</homepage>
     <owner type="person">
       <email>iohann.s.titov@gmail.com</email>

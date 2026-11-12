@@ -1,4 +1,4 @@
-# Copyright 2019-2025 Gentoo Authors
+# Copyright 2019-2026 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 # This file provides a registry of active, requested and historical UID
@@ -612,7 +612,7 @@ sandmann			535		535		acct		Used by sys-power/sandmann-bin
 atuin				536		536		acct		Used by app-shells/atuin
 openhab				537		537		acct		Used by app-misc/openhab-bin
 redict				538		538		acct		Used by dev-db/redict
-microsoft-identity-broker	539		539		acct		Used by sys-auth/microsoft-identity-broker
+microsoft-identity-broker	539		539		historical
 uuidd				540		540		acct		Used by sys-apps/util-linux
 chrony_exporter			541		541		acct		Used by app-metrics/chrony_exporter
 owntone				542		-		acct

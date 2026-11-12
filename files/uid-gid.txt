@@ -639,6 +639,7 @@ systemd-imds			561		561		acct
 ollama				562		562		acct		Used by sci-ml/ollama
 unreal				563		563		acct		Used by games-fps/unreal, games-fps/unreal-tournament, games-fps/ut2004
 postdrop			564		208		acct		Used by mail-mta/postfix for postlift. Group removed from baselayout in [r1863](https://gitweb.gentoo.org/proj/baselayout.git/commit?id=7ae5ebbcb07f3a2190f17af7e7b09fe1caab35cc)
+mdatp				565		565		acct		Used by app-antivirus/mdatp
 
 -				750..999	750..999	reserved	Dynamic allocation by user.eclass. Do not use!
 -				1000..60000	1000..60000	reserved	`UID_MIN`..`UID_MAX` / `GID_MIN`..`GID_MAX` in login.defs

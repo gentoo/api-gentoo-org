@@ -1475,6 +1475,17 @@
     <feed>https://gitlab.com/at.gentoo.repo/epson-inkjet-printer-escpr2/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>esparto</name>
+    <description lang="en">Personal overlay for packages I use that are missing or outdated in Gentoo.</description>
+    <homepage>https://github.com/Isaac-Martinez-Forte/esparto-overlay</homepage>
+    <owner type="person">
+      <email>isaac.martinez@upct.es</email>
+      <name>Isaac Martínez</name>
+    </owner>
+    <source type="git">https://github.com/Isaac-Martinez-Forte/esparto-overlay.git</source>
+    <feed>https://github.com/Isaac-Martinez-Forte/esparto-overlay/commits/main.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>eugene-bright</name>
     <description lang="en">The personal overlay of Eugene Bright</description>
     <homepage>https://github.com/eugene-bright/eugene-bright-overlay</homepage>

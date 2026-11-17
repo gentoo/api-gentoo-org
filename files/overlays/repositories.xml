@@ -2459,6 +2459,17 @@
     <!-- <feed>https://cgit.gentoo.org/proj/java.git/rss/</feed> -->
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>jellyfin-desktop-overlay</name>
+    <description lang="en">Gentoo Overlay for Jellyfin Desktop app</description>
+    <homepage>https://github.com/Denellyne/jellyfin-desktop-overlay</homepage>
+    <owner type="person">
+      <email>gustavobarbosavs@gmail.com</email>
+      <name>Gustavo dos Santos</name>
+    </owner>
+    <source type="git">https://github.com/Denellyne/jellyfin-desktop-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/Denellyne/jellyfin-desktop-overlay.git</source>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>jjakob</name>
     <description lang="en">Jernej Jakob's unofficial ebuilds</description>
     <homepage>https://github.com/jjakob/gentoo-overlay</homepage>
@@ -2482,17 +2493,6 @@
     <source type="git">git@github.com:jl1990/gentoo-overlay.git</source>
     <feed>https://github.com/jl1990/gentoo-overlay/commits/master.atom</feed>
   </repo>
-    <repo quality="experimental" status="unofficial">
-      <name>jellyfin-desktop-overlay</name>
-      <description lang="en">Gentoo Overlay for Jellyfin Desktop app</description>
-      <homepage>https://github.com/Denellyne/jellyfin-desktop-overlay</homepage>
-      <owner type="person">
-        <email>gustavobarbosavs@gmail.com</email>
-        <name>Gustavo dos Santos</name>
-      </owner>
-      <source type="git">https://github.com/Denellyne/jellyfin-desktop-overlay.git</source>
-      <source type="git">git+ssh://git@github.com/Denellyne/jellyfin-desktop-overlay.git</source>
-    </repo>
   <repo quality="experimental" status="unofficial">
     <name>jm-overlay</name>
     <description lang="en">Personal overlay with more or less random ebuilds</description>

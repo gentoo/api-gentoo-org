@@ -2847,7 +2847,7 @@
   <repo quality="experimental" status="unofficial">
     <name>living180-overlay</name>
     <description lang="en">Personal overlay with various system and development tools</description>
-    <homepage>https://codeberg.org/living180/gentoo-overlay</homepage>
+    <homepage>https://codeberg.org/living180/living180-overlay</homepage>
     <owner type="person">
       <email>dharding@living180.net</email>
       <name>Daniel Harding</name>
